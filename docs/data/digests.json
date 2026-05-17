@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-05-17_evening-ai-monitoring-tools-digital-trends",
+      "date": "2026-05-17",
+      "file_key": "2026-05-17_evening",
+      "title": "AI監視ツールとデジタルトレンドの最前線",
+      "summary": "無料セルフホスト監視ツールchangedetection.ioを中心に、AI活用の最新動向を解説",
+      "tags": [
+        "AI",
+        "監視ツール",
+        "自動化"
+      ],
+      "slug": "ai-monitoring-tools-digital-trends"
+    },
+    {
       "id": "2026-05-17_afternoon-ai-trend-life-change",
       "date": "2026-05-17",
       "file_key": "2026-05-17_afternoon",
@@ -28,5 +41,5 @@
       "slug": "ai-news-browser-automation-social-media"
     }
   ],
-  "updated_at": "2026-05-17T06:50:03.930005+00:00"
+  "updated_at": "2026-05-17T11:54:52.686334+00:00"
 }
