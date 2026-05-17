@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "2026-05-18_morning-ai-news-overview-may-2026",
+      "date": "2026-05-18",
+      "file_key": "2026-05-18_morning",
+      "title": "AIの光と影：医療誤認識からエンタメ進化まで",
+      "summary": "医療AIの重大誤認識、Codexのゲーム開発実力、YouTubeのTV化など、今週のAIニュースを分析。",
+      "tags": [
+        "AI",
+        "医療",
+        "開発",
+        "倫理"
+      ],
+      "slug": "ai-news-overview-may-2026"
+    },
+    {
       "id": "2026-05-17_evening-ai-monitoring-tools-digital-trends",
       "date": "2026-05-17",
       "file_key": "2026-05-17_evening",
@@ -41,5 +55,5 @@
       "slug": "ai-news-browser-automation-social-media"
     }
   ],
-  "updated_at": "2026-05-17T11:54:52.686334+00:00"
+  "updated_at": "2026-05-17T22:46:45.786452+00:00"
 }
