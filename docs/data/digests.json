@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-05-17_afternoon-ai-trend-life-change",
+      "date": "2026-05-17",
+      "file_key": "2026-05-17_afternoon",
+      "title": "AIの動向と生活の変化 5つのニュースを読み解く",
+      "summary": "サムソン労組のストライキ危機や楽天モバイルのネットワーク終了など、AI関連ニュースが多様な分野で動く。ビジネスからエンタメまで、日常生活への影響を分析します。",
+      "tags": [
+        "AI技術",
+        "労働問題",
+        "モバイル通信"
+      ],
+      "slug": "ai-trend-life-change"
+    },
+    {
       "id": "2026-05-17_afternoon-ai-news-browser-automation-social-media",
       "date": "2026-05-17",
       "file_key": "2026-05-17_afternoon",
@@ -15,5 +28,5 @@
       "slug": "ai-news-browser-automation-social-media"
     }
   ],
-  "updated_at": "2026-05-17T03:29:00.171421+00:00"
+  "updated_at": "2026-05-17T06:50:03.930005+00:00"
 }
