@@ -1,0 +1,70 @@
+name: Fetch, Curate & Generate Digest (3x Daily)
+
+on:
+  schedule:
+    - cron: "0 22 * * *"   # JST 07:00
+    - cron: "0  4 * * *"   # JST 13:00
+    - cron: "0 11 * * *"   # JST 20:00
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # ── Phase 1: RSS フェッチ（Python固定ロジック・無条件実行）──────────
+      - name: Phase 1 — Fetch RSS feeds
+        run: python3 scripts/fetch_news.py
+
+      # ── ゲートキーパー: rawが5件未満ならPhase2/2.5をスキップ ───────────
+      - name: Gatekeeper — check raw count
+        id: gate
+        run: |
+          COUNT=$(python3 -c "
+          import json
+          d = json.load(open('docs/data/raw.json'))
+          print(d.get('total', 0))
+          ")
+          echo "Raw items: $COUNT"
+          [ "$COUNT" -ge 5 ] && echo "ok=true" >> $GITHUB_OUTPUT || echo "ok=false" >> $GITHUB_OUTPUT
+
+      # ── Phase 2: Anthropic Claudeキュレーション ──────────────────────────
+      - name: Phase 2 — Curate with Anthropic Claude
+        if: steps.gate.outputs.ok == 'true'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python3 scripts/curate.py
+
+      # ── Phase 2.5: Groq Digest記事生成（1日3回・無料枠内）──────────────
+      # 無料枠14,400req/日に対して3req/日 = 0.02%。制限の心配なし。
+      - name: Phase 2.5 — Generate digest article via Groq
+        if: steps.gate.outputs.ok == 'true'
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python3 scripts/generate_digest.py
+
+      # ── Commit & Push ─────────────────────────────────────────────────────
+      - name: Commit & push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/ docs/articles/
+          git diff --cached --quiet || \
+            git commit -m "chore: update [$(date '+%Y-%m-%d %H:%M JST')] $(python3 -c "
+          import json
+          try:
+              d = json.load(open('docs/data/news.json'))
+              print(str(d.get('total',0)) + 'news')
+          except: print('')
+          " 2>/dev/null)"
+          git push
