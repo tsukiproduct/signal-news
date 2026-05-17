@@ -87,7 +87,7 @@ USER_PROMPT_TEMPLATE = """{count}本のAIニュースをもとに解説記事を
 AFFILIATE_MAP = {
     "AI入門書": {
         "label": "AIを学ぶための入門書セレクション",
-        "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=YOUR_ASSOCIATE_ID",
+        "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
         "cta": "Amazon で探す →",
     },
     "機械学習コース": {
@@ -102,7 +102,7 @@ AFFILIATE_MAP = {
     },
     "プロンプト本": {
         "label": "プロンプトエンジニアリング実践ガイド",
-        "url": "https://www.amazon.co.jp/s?k=プロンプトエンジニアリング&tag=YOUR_ASSOCIATE_ID",
+        "url": "https://www.amazon.co.jp/s?k=プロンプトエンジニアリング&tag=tsukiproduct-22",
         "cta": "Amazon で探す →",
     },
 }
