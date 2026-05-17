@@ -1,1 +1,19 @@
-{"articles":[],"updated_at":""}
+{
+  "articles": [
+    {
+      "id": "2026-05-17_afternoon-ai-news-browser-automation-social-media",
+      "date": "2026-05-17",
+      "file_key": "2026-05-17_afternoon",
+      "title": "AI News Brief: Browser Automation and Social Media Trends",
+      "summary": "This week's AI news covers Browser-Use for natural language automation, Garmin's smartwatch AI features, a spicy cup noodle launch, soccer formation tools, and social media settlements.",
+      "tags": [
+        "AI Automation",
+        "Web Tools",
+        "Tech News",
+        "AI Ethics"
+      ],
+      "slug": "ai-news-browser-automation-social-media"
+    }
+  ],
+  "updated_at": "2026-05-17T03:29:00.171421+00:00"
+}

@@ -1,0 +1,86 @@
+{
+  "id": "2026-05-17_afternoon-ai-news-browser-automation-social-media",
+  "file_key": "2026-05-17_afternoon",
+  "date": "2026-05-17",
+  "generated_at": "2026-05-17T03:29:00.170904+00:00",
+  "title": "AI News Brief: Browser Automation and Social Media Trends",
+  "slug": "ai-news-browser-automation-social-media",
+  "summary": "This week's AI news covers Browser-Use for natural language automation, Garmin's smartwatch AI features, a spicy cup noodle launch, soccer formation tools, and social media settlements.",
+  "tags": [
+    "AI Automation",
+    "Web Tools",
+    "Tech News",
+    "AI Ethics"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAIニュース概観",
+      "body": "This week's AI landscape is buzzing with innovations and regulatory shifts. From a new open-source tool that automates web browsing via natural language to a smartwatch integrating advanced health AI, there's a lot to unpack. Additionally, a lawsuit against social media platforms over addiction highlights AI's role in content curation, while a unique food product and a sports tech tool round out the news."
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "Browser-Use is revolutionizing web automation by allowing developers to interact with websites using plain English or Japanese instructions instead of complex code. Unlike traditional tools like Selenium, which require detailed scripting, this AI-powered solution interprets user intent to perform tasks like clicking buttons or filling forms. This advancement could streamline testing, data collection, and user simulations for businesses, making AI more accessible to non-programmers. The tool's open-source nature also invites community contributions, potentially accelerating its adoption and feature development.",
+      "source_title": "AIモデルでブラウザを自動操作できる「Browser-Use」、オープンソースで開発され自然言語で簡単に指示可能",
+      "source_url": "https://gigazine.net/news/20260517-browser-use/"
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "For businesses, Browser-Use can automate repetitive tasks like price monitoring, form submissions, or data scraping without requiring extensive coding knowledge. Marketing teams can use it to simulate user journeys on websites, while QA engineers can generate test scenarios from natural language requirements. Pairing it with AI models like GPT-4 allows for dynamic decision-making during automation, such as adapting to website layout changes or prioritizing actions based on real-time data.",
+      "source_title": "",
+      "source_url": ""
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "Web Automation with Natural Language",
+      "prompt_body": "Use Browser-Use to automate a task: 'Go to example.com, search for 'AI trends', click the first result, and summarize the page content.'",
+      "prompt_usecase": "Test this by installing the tool, writing the prompt in your terminal, and observing how the AI navigates the web. Great for learning or prototyping!"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "The settlement between YouTube, TikTok, and Snap with schools over social media addiction signals a potential shift in AI regulation. As these platforms use AI for content recommendation, the case may push for transparency in algorithms and user safety measures. Meanwhile, tools like the soccer formation site 'Fomalabo' hint at AI's growing role in sports analytics, while Garmin's health AI in wearables shows promise for personalized wellness. Keep an eye on how these developments shape tech ethics and user trust."
+    }
+  ],
+  "sources": [
+    {
+      "title": "AIモデルでブラウザを自動操作できる「Browser-Use」、オープンソースで開発され自然言語で簡単に指示可能",
+      "url": "https://gigazine.net/news/20260517-browser-use/",
+      "source": "Gigazine"
+    },
+    {
+      "title": "GPS端末でおなじみのガーミン、でも「スマートウォッチは使いづらい」!? 最新のVenu 4を使ってみました",
+      "url": "https://ascii.jp/elem/000/004/402/4402636/?rss",
+      "source": "ASCII.jp"
+    },
+    {
+      "title": "14種スパイスで刺激MAX！「カップヌードル スパイスSHOCKカレー」登場",
+      "url": "https://ascii.jp/elem/000/004/402/4402155/?rss",
+      "source": "ASCII.jp"
+    },
+    {
+      "title": "【W杯出場48カ国対応】データ可視化付きサッカーフォーメーション作成サイト「フォメラボ」正式ローンチ！",
+      "url": "https://ascii.jp/elem/000/004/402/4402673/?rss",
+      "source": "ASCII.jp"
+    },
+    {
+      "title": "YouTube・TikTok・Snapが学校によるソーシャルメディア依存症訴訟で公判前に和解",
+      "url": "https://gigazine.net/news/20260517-snap-youtube-tiktok-settle-suit/",
+      "source": "Gigazine"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=YOUR_ASSOCIATE_ID",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter / Llama 3.1）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
