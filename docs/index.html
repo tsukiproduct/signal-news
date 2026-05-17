@@ -392,6 +392,8 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
   color: var(--text);
   margin-bottom: 12px;
   transition: color var(--transition);
+  word-break: break-word;
+  overflow-wrap: break-word;
 }
 
 .card-featured:first-child h3 {
@@ -446,12 +448,13 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
 ════════════════════════════════ */
 .news-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(min(340px, 100%), 1fr));
   gap: 1px;
   background: var(--border);
   border: 1px solid var(--border);
   border-radius: 6px;
   overflow: hidden;
+  width: 100%;
 }
 
 .card {
@@ -496,6 +499,8 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
   -webkit-box-orient: vertical;
   overflow: hidden;
   transition: color var(--transition);
+  word-break: break-word;
+  overflow-wrap: break-word;
 }
 
 .card:hover h3 { color: var(--gold-light); }
@@ -526,6 +531,8 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
   display: flex;
   flex-direction: column;
   gap: 24px;
+  min-width: 0;
+  max-width: 100%;
 }
 
 .sidebar-block {
@@ -552,6 +559,8 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
   flex-direction: column;
   gap: 10px;
   border-bottom: 1px solid var(--border);
+  overflow: hidden;
+  word-break: break-word;
 }
 .aff-card:last-child { border-bottom: none; }
 
@@ -939,50 +948,41 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
         <div class="sidebar-label">Recommended</div>
 
         <div class="aff-card">
+          <div class="aff-thumb" style="font-size:36px;">👑</div>
+          <div class="aff-title">Amazon プライム — 無料体験30日間</div>
+          <div class="aff-price">月額600円〜 / 年額5,900円</div>
+          <a class="aff-btn"
+             href="https://www.amazon.co.jp/prime?tag=tsukiproduct-22"
+             target="_blank" rel="noopener sponsored">
+            無料で試す →
+          </a>
+        </div>
+
+        <div class="aff-card">
+          <div class="aff-thumb" style="font-size:36px;">📖</div>
+          <div class="aff-title">Kindle Unlimited — AI・Tech本読み放題</div>
+          <div class="aff-price">月額980円 / 初回30日無料</div>
+          <a class="aff-btn"
+             href="https://www.amazon.co.jp/kindle-dbs/ku/signup?tag=tsukiproduct-22"
+             target="_blank" rel="noopener sponsored">
+            読み放題を試す →
+          </a>
+        </div>
+
+        <div class="aff-card">
           <div class="aff-thumb" style="font-size:36px;">📘</div>
-          <div class="aff-title">AI・機械学習の最強入門書 厳選セレクション</div>
-          <div class="aff-price">Amazon で確認 →</div>
+          <div class="aff-title">AI・ChatGPT 活用本 — 人気ランキング</div>
+          <div class="aff-price">Amazon ベストセラー</div>
           <a class="aff-btn"
-             href="https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22"
+             href="https://www.amazon.co.jp/s?k=ChatGPT+AI+活用&i=stripbooks&tag=tsukiproduct-22"
              target="_blank" rel="noopener sponsored">
-            今すぐチェック
-          </a>
-        </div>
-
-        <div class="aff-card">
-          <div class="aff-thumb" style="font-size:36px;">🎓</div>
-          <div class="aff-title">Udemy — AI・ChatGPT 活用コース人気ランキング</div>
-          <div class="aff-price">セール中 ¥1,800〜</div>
-          <a class="aff-btn"
-             href="https://www.udemy.com/courses/search/?q=AI+ChatGPT&sort=popularity&lang=ja"
-             target="_blank" rel="noopener sponsored">
-            コースを見る
-          </a>
-        </div>
-
-        <div class="aff-card">
-          <div class="aff-thumb" style="font-size:36px;">⚡</div>
-          <div class="aff-title">GPU クラウド比較 — AI 開発環境を最速で構築</div>
-          <div class="aff-price">無料トライアルあり</div>
-          <a class="aff-btn"
-             href="https://www.amazon.co.jp/dp/B09V5KBQ6N?tag=tsukiproduct-22"
-             target="_blank" rel="noopener sponsored">
-            詳しく見る
+            ランキングを見る →
           </a>
         </div>
 
       </div>
 
-      <!-- Newsletter signup (将来用) -->
-      <div class="sidebar-block" style="padding:18px 16px;">
-        <div style="font-size:12px; color:var(--text-muted); line-height:1.6;">
-          <div style="font-family:var(--font-serif);font-size:15px;font-weight:700;color:var(--text);margin-bottom:8px;">毎朝AIニュースをお届け</div>
-          メールアドレスを登録すると、厳選AIニュースを毎朝受け取れます。
-        </div>
-        <input type="email" placeholder="your@email.com"
-          style="width:100%;margin-top:12px;padding:8px 10px;background:var(--surface2);border:1px solid var(--border);border-radius:var(--r);color:var(--text);font:inherit;font-size:12px;outline:none;">
-        <button class="aff-btn" style="margin-top:8px;width:100%;padding:9px;">登録する →</button>
-      </div>
+
 
     </aside>
   </div>
