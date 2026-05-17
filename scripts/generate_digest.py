@@ -20,7 +20,7 @@ ARTICLES_DIR = Path(__file__).parent.parent / "docs" / "articles"
 DIGESTS_PATH = Path(__file__).parent.parent / "docs" / "data" / "digests.json"
 
 OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions"
-MODEL     = "meta-llama/llama-3.1-8b-instruct:free"
+MODEL     = "meta-llama/llama-4-scout:free"
 MAX_TOKENS = 3000
 TEMPERATURE = 0.7
 
