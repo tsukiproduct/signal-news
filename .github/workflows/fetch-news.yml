@@ -1,6 +1,6 @@
 name: Fetch, Curate & Generate Digest (3x Daily)
 
-on:
+"on":
   schedule:
     - cron: "0 22 * * *"
     - cron: "0  4 * * *"
@@ -22,10 +22,36 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Phase 1 — Fetch RSS feeds
+      - name: Phase 1 Fetch RSS feeds
         run: python3 scripts/fetch_news.py
 
-      - name: Gatekeeper — check raw count
+      - name: Gatekeeper check raw count
         id: gate
         run: |
           COUNT=$(python3 -c "
+          import json
+          d = json.load(open('docs/data/raw.json'))
+          print(d.get('total', 0))
+          ")
+          echo "Raw items: $COUNT"
+          [ "$COUNT" -ge 5 ] && echo "ok=true" >> $GITHUB_OUTPUT || echo "ok=false" >> $GITHUB_OUTPUT
+
+      - name: Phase 2 Curate with Anthropic Claude
+        if: steps.gate.outputs.ok == 'true'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python3 scripts/curate.py
+
+      - name: Phase 2.5 Generate digest article via Groq
+        if: steps.gate.outputs.ok == 'true'
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python3 scripts/generate_digest.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/ docs/articles/
+          git diff --cached --quiet || git commit -m "update news"
+          git push
