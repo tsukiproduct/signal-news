@@ -1,0 +1,706 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SIGNAL Digest — AI解説記事</title>
+<meta name="description" content="AIニュースの解説・応用・今日のプロンプトをお届けするSIGNAL Digest。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400&family=DM+Sans:wght@300;400;500&family=Noto+Sans+JP:wght@300;400;500&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg:         #0d0d0d;
+  --surface:    #141414;
+  --surface2:   #1c1c1c;
+  --border:     #2a2a2a;
+  --border-lt:  #383838;
+  --text:       #e8e4dc;
+  --text-muted: #888070;
+  --text-dim:   #555048;
+  --gold:       #c9a84c;
+  --gold-light: #e8c96a;
+  --gold-dim:   #7a6530;
+  --teal:       #5fbdad;
+  --red:        #d45f5f;
+  --green:      #6abf8a;
+  --font-serif: 'Playfair Display', Georgia, serif;
+  --font-sans:  'DM Sans', 'Noto Sans JP', sans-serif;
+  --font-mono:  'DM Mono', monospace;
+  --r: 4px;
+  --trans: 200ms cubic-bezier(0.25,0.46,0.45,0.94);
+}
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+  overscroll-behavior-x: none;
+}
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-sans);
+  font-size: 15px;
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+  overscroll-behavior-x: none;
+  width: 100%;
+  position: relative;
+}
+body::before {
+  content:''; position:fixed; inset:0; z-index:0;
+  background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.04'/%3E%3C/svg%3E");
+  background-size:200px; pointer-events:none; opacity:.5;
+}
+a { color:inherit; text-decoration:none; }
+
+/* ── HEADER ── */
+.site-header {
+  position:sticky; top:0; z-index:100;
+  background:rgba(13,13,13,0.92);
+  backdrop-filter:blur(20px);
+  border-bottom:1px solid var(--border);
+}
+.header-inner {
+  max-width:1200px; margin:0 auto; padding:0 24px;
+  height:64px; display:flex; align-items:center; justify-content:space-between;
+}
+.logo-mark {
+  font-family:var(--font-serif); font-size:22px; font-weight:900;
+  letter-spacing:0.08em; color:var(--gold);
+}
+.logo-sub {
+  font-family:var(--font-mono); font-size:9px; letter-spacing:0.2em;
+  color:var(--text-muted); margin-left:10px;
+}
+.header-nav { display:flex; gap:4px; }
+.nav-btn {
+  padding:5px 14px; border-radius:2px; font-size:12px;
+  letter-spacing:0.05em; color:var(--text-muted);
+  transition:color var(--trans), background var(--trans);
+}
+.nav-btn:hover { color:var(--text); background:var(--surface2); }
+.nav-btn.active { color:var(--gold); background:rgba(201,168,76,0.08); }
+
+/* ── LAYOUT ── */
+.main-wrap {
+  max-width:1200px; margin:0 auto; padding:0 24px 80px;
+  display:grid; grid-template-columns:1fr 300px; gap:48px;
+  align-items:start; position:relative; z-index:1;
+}
+@media(max-width:900px) {
+  .main-wrap { grid-template-columns:1fr; }
+  .sidebar { display:none; }
+}
+@media(max-width:600px) {
+  .main-wrap { padding:0 14px 60px; }
+  .header-inner { padding:0 14px; height:56px; }
+  .logo-sub { display:none; }
+  .digest-card { padding:18px 14px; }
+  .digest-card h2 { font-size:16px; }
+  .article-title { font-size:22px; }
+  .prompt-body { font-size:12px; padding:14px; }
+  .back-btn { margin-bottom:20px; }
+}
+@media(hover:none) {
+  .digest-card::before { display:none; }
+  .digest-card:hover { background:var(--surface); border-color:var(--border); }
+  .digest-card:hover h2 { color:var(--text); }
+  .sidebar-digest-item:hover { background:transparent; }
+}
+
+/* ── ARTICLE LIST (left when no article open) ── */
+.digest-list { padding-top:40px; }
+.digest-list-header {
+  display:flex; align-items:baseline; gap:12px;
+  border-bottom:1px solid var(--border); padding-bottom:16px; margin-bottom:28px;
+}
+.digest-list-header h1 {
+  font-family:var(--font-serif); font-size:24px; font-weight:700;
+}
+.digest-count { font-family:var(--font-mono); font-size:10px; color:var(--text-dim); }
+
+.digest-card {
+  background:var(--surface); border:1px solid var(--border); border-radius:6px;
+  padding:24px; margin-bottom:12px; cursor:pointer;
+  transition:background var(--trans), border-color var(--trans);
+  position:relative; overflow:hidden;
+}
+.digest-card::before {
+  content:''; position:absolute; left:0; top:0; bottom:0; width:3px;
+  background:var(--gold); transform:scaleY(0); transform-origin:bottom;
+  transition:transform var(--trans);
+}
+.digest-card:hover { background:var(--surface2); border-color:var(--border-lt); }
+.digest-card:hover::before { transform:scaleY(1); }
+
+.digest-card-date {
+  font-family:var(--font-mono); font-size:10px; letter-spacing:0.12em;
+  color:var(--text-dim); margin-bottom:8px;
+}
+.digest-card h2 {
+  font-family:var(--font-serif); font-size:18px; font-weight:700;
+  line-height:1.35; color:var(--text); margin-bottom:8px;
+  transition:color var(--trans);
+}
+.digest-card:hover h2 { color:var(--gold-light); }
+.digest-card p { font-size:13px; color:var(--text-muted); line-height:1.55; }
+.digest-tags { display:flex; gap:6px; flex-wrap:wrap; margin-top:12px; }
+.tag {
+  font-family:var(--font-mono); font-size:9px; letter-spacing:0.1em;
+  text-transform:uppercase; padding:3px 8px; border-radius:2px;
+  background:rgba(201,168,76,0.08); color:var(--gold-dim); border:1px solid var(--gold-dim);
+}
+
+/* ── ARTICLE READER ── */
+.article-reader { display:none; padding-top:40px; }
+.article-reader.active { display:block; }
+.digest-list.hidden { display:none; }
+
+.back-btn {
+  display:inline-flex; align-items:center; gap:8px;
+  font-size:12px; color:var(--text-muted); margin-bottom:32px;
+  transition:color var(--trans); cursor:pointer;
+}
+.back-btn:hover { color:var(--gold); }
+
+.article-date {
+  font-family:var(--font-mono); font-size:10px; letter-spacing:0.15em;
+  color:var(--gold); text-transform:uppercase; margin-bottom:12px;
+}
+.article-title {
+  font-family:var(--font-serif); font-size:clamp(24px,4vw,36px);
+  font-weight:900; line-height:1.2; margin-bottom:16px;
+}
+.article-summary {
+  font-size:16px; color:var(--text-muted); line-height:1.6;
+  border-left:2px solid var(--gold); padding-left:16px; margin-bottom:32px;
+}
+.article-tags { display:flex; gap:6px; flex-wrap:wrap; margin-bottom:40px; }
+
+/* ── SECTION BLOCKS ── */
+.section-block {
+  margin-bottom:40px; animation:fadeUp 0.35s ease both;
+}
+@keyframes fadeUp {
+  from { opacity:0; transform:translateY(12px); }
+  to   { opacity:1; transform:translateY(0); }
+}
+
+.section-heading {
+  font-family:var(--font-mono); font-size:10px; letter-spacing:0.2em;
+  text-transform:uppercase; color:var(--text-dim); margin-bottom:12px;
+  display:flex; align-items:center; gap:10px;
+}
+.section-heading::after {
+  content:''; flex:1; height:1px; background:var(--border);
+}
+.section-icon { font-size:14px; }
+
+.section-body {
+  font-size:15px; line-height:1.8; color:var(--text);
+}
+.section-body p { margin-bottom:1em; }
+
+/* ── DEEP DIVE (引用元付き) ── */
+.deep-dive-block {
+  background:var(--surface); border:1px solid var(--border);
+  border-radius:6px; padding:24px; margin-bottom:40px;
+}
+.source-cite {
+  display:inline-flex; align-items:center; gap:8px;
+  font-size:12px; color:var(--text-muted); margin-top:16px;
+  padding:8px 12px; background:var(--surface2); border-radius:var(--r);
+}
+.source-cite a {
+  color:var(--teal); text-decoration:underline; text-underline-offset:2px;
+  transition:color var(--trans);
+}
+.source-cite a:hover { color:var(--gold-light); }
+
+/* ── PROMPT OF THE DAY ── */
+.prompt-block {
+  background:linear-gradient(135deg, rgba(201,168,76,0.06) 0%, rgba(95,189,173,0.04) 100%);
+  border:1px solid var(--gold-dim); border-radius:6px; padding:28px;
+  margin-bottom:40px;
+}
+.prompt-label {
+  font-family:var(--font-mono); font-size:9px; letter-spacing:0.2em;
+  text-transform:uppercase; color:var(--gold); margin-bottom:4px;
+}
+.prompt-title {
+  font-family:var(--font-serif); font-size:18px; font-weight:700;
+  color:var(--text); margin-bottom:16px;
+}
+.prompt-body {
+  background:rgba(0,0,0,0.4); border:1px solid var(--border);
+  border-radius:var(--r); padding:18px; font-family:var(--font-mono);
+  font-size:13px; line-height:1.7; color:var(--text-muted);
+  white-space:pre-wrap; word-break:break-word; margin-bottom:16px;
+}
+.copy-btn {
+  display:inline-flex; align-items:center; gap:6px;
+  padding:7px 14px; background:var(--gold); color:#000;
+  font-size:11px; font-weight:500; border-radius:var(--r);
+  cursor:pointer; transition:background var(--trans); border:none;
+  letter-spacing:0.05em;
+}
+.copy-btn:hover { background:var(--gold-light); }
+.copy-btn.copied { background:var(--green); color:#000; }
+.prompt-usecase {
+  margin-top:14px; font-size:12px; color:var(--text-muted);
+  line-height:1.6; padding-top:14px; border-top:1px solid var(--border);
+}
+
+/* ── SOURCES (引用元一覧) ── */
+.sources-block {
+  border-top:1px solid var(--border); padding-top:24px; margin-bottom:32px;
+}
+.sources-heading {
+  font-family:var(--font-mono); font-size:9px; letter-spacing:0.18em;
+  text-transform:uppercase; color:var(--text-dim); margin-bottom:14px;
+}
+.source-item {
+  display:flex; align-items:flex-start; gap:10px;
+  padding:10px 0; border-bottom:1px solid var(--border);
+  font-size:12px;
+}
+.source-item:last-child { border-bottom:none; }
+.source-num {
+  font-family:var(--font-mono); font-size:10px; color:var(--text-dim);
+  flex-shrink:0; min-width:20px;
+}
+.source-info { flex:1; }
+.source-title { color:var(--text-muted); line-height:1.45; }
+.source-url a {
+  color:var(--teal); font-size:11px; word-break:break-all;
+  text-decoration:underline; text-underline-offset:2px;
+}
+
+/* ── AFFILIATE (PR表示付き) ── */
+.affiliate-block {
+  background:var(--surface); border:1px solid var(--border);
+  border-radius:6px; padding:20px; margin-bottom:32px;
+}
+.pr-badge {
+  font-family:var(--font-mono); font-size:9px; letter-spacing:0.15em;
+  text-transform:uppercase; color:var(--text-dim);
+  border:1px solid var(--border); padding:2px 6px; border-radius:2px;
+  margin-bottom:10px; display:inline-block;
+}
+.affiliate-label { font-size:14px; font-weight:500; margin-bottom:12px; }
+.affiliate-btn {
+  display:inline-block; padding:9px 18px; background:var(--gold);
+  color:#000; font-size:12px; font-weight:500; border-radius:var(--r);
+  transition:background var(--trans);
+}
+.affiliate-btn:hover { background:var(--gold-light); }
+.affiliate-disclosure {
+  font-size:10px; color:var(--text-dim); margin-top:8px; font-family:var(--font-mono);
+}
+
+/* ── LEGAL FOOTER ── */
+.legal-block {
+  background:var(--surface); border:1px solid var(--border);
+  border-radius:var(--r); padding:16px; margin-bottom:40px;
+}
+.legal-block p {
+  font-size:11px; color:var(--text-dim); line-height:1.7;
+  font-family:var(--font-mono);
+}
+.legal-block p + p { margin-top:4px; }
+
+/* ── SIDEBAR ── */
+.sidebar {
+  position:sticky; top:80px; padding-top:40px;
+  display:flex; flex-direction:column; gap:20px;
+}
+.sidebar-block {
+  background:var(--surface); border:1px solid var(--border);
+  border-radius:6px; overflow:hidden;
+}
+.sidebar-label {
+  font-family:var(--font-mono); font-size:9px; letter-spacing:0.2em;
+  text-transform:uppercase; color:var(--text-dim);
+  padding:12px 16px; border-bottom:1px solid var(--border);
+}
+.sidebar-digest-item {
+  padding:14px 16px; border-bottom:1px solid var(--border);
+  cursor:pointer; transition:background var(--trans);
+}
+.sidebar-digest-item:last-child { border-bottom:none; }
+.sidebar-digest-item:hover { background:var(--surface2); }
+.sidebar-digest-date {
+  font-family:var(--font-mono); font-size:9px; color:var(--text-dim); margin-bottom:4px;
+}
+.sidebar-digest-title {
+  font-size:12px; color:var(--text-muted); line-height:1.4;
+  transition:color var(--trans);
+}
+.sidebar-digest-item:hover .sidebar-digest-title { color:var(--gold-light); }
+
+/* ── LOADING ── */
+.loading-state {
+  display:flex; flex-direction:column; align-items:center;
+  padding:80px 24px; gap:16px; color:var(--text-dim);
+  font-family:var(--font-mono); font-size:11px; letter-spacing:0.12em;
+}
+.spinner {
+  width:32px; height:32px; border:1.5px solid var(--border);
+  border-top-color:var(--gold); border-radius:50%;
+  animation:spin 0.9s linear infinite;
+}
+@keyframes spin { to { transform:rotate(360deg); } }
+
+/* ── SITE FOOTER ── */
+.site-footer {
+  border-top:1px solid var(--border); padding:32px 0;
+  position:relative; z-index:1;
+}
+.footer-inner {
+  max-width:1200px; margin:0 auto; padding:0 24px;
+  display:flex; align-items:center; justify-content:space-between; gap:16px;
+}
+.footer-copy {
+  font-family:var(--font-mono); font-size:10px; color:var(--text-dim);
+}
+.footer-links { display:flex; gap:20px; }
+.footer-links a { font-size:11px; color:var(--text-dim); transition:color var(--trans); }
+.footer-links a:hover { color:var(--text-muted); }
+
+/* ── EMPTY ── */
+.empty-state {
+  padding:80px 24px; text-align:center; color:var(--text-dim); font-size:14px;
+}
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<header class="site-header">
+  <div class="header-inner">
+    <div>
+      <a href="./index.html">
+        <span class="logo-mark">Signal</span>
+        <span class="logo-sub">AI Intelligence Daily</span>
+      </a>
+    </div>
+    <nav class="header-nav">
+      <a class="nav-btn" href="./index.html">News</a>
+      <a class="nav-btn active" href="./digest.html">Digest</a>
+    </nav>
+  </div>
+</header>
+
+<!-- MAIN -->
+<div class="main-wrap">
+
+  <!-- LEFT: List / Reader -->
+  <div>
+    <!-- Loading -->
+    <div class="loading-state" id="loadingState">
+      <div class="spinner"></div>
+      <span>LOADING DIGEST…</span>
+    </div>
+
+    <!-- Article List -->
+    <div class="digest-list" id="digestList" style="display:none;">
+      <div class="digest-list-header">
+        <h1>Digest</h1>
+        <span class="digest-count" id="digestCount"></span>
+      </div>
+      <div id="digestCards"></div>
+    </div>
+
+    <!-- Article Reader -->
+    <div class="article-reader" id="articleReader">
+      <div class="back-btn" id="backBtn" onclick="showList()">← 記事一覧に戻る</div>
+      <div id="articleContent"></div>
+    </div>
+  </div>
+
+  <!-- RIGHT: Sidebar -->
+  <aside class="sidebar" id="sidebar" style="display:none;">
+    <div class="sidebar-block">
+      <div class="sidebar-label">Recent Digests</div>
+      <div id="sidebarDigests"></div>
+    </div>
+
+    <div class="sidebar-block" style="padding:18px 16px;">
+      <div style="font-family:var(--font-serif);font-size:15px;font-weight:700;color:var(--text);margin-bottom:8px;">
+        毎朝AIニュースをお届け
+      </div>
+      <div style="font-size:12px;color:var(--text-muted);line-height:1.6;margin-bottom:12px;">
+        AIの最前線を毎朝メールで受け取れます。
+      </div>
+      <input type="email" placeholder="your@email.com"
+        style="width:100%;padding:8px 10px;background:var(--surface2);border:1px solid var(--border);
+               border-radius:var(--r);color:var(--text);font:inherit;font-size:12px;outline:none;">
+      <button style="width:100%;margin-top:8px;padding:9px;background:var(--gold);color:#000;
+                     font-size:11px;font-weight:500;border:none;border-radius:var(--r);cursor:pointer;
+                     letter-spacing:0.05em;">登録する →</button>
+    </div>
+  </aside>
+
+</div>
+
+<!-- FOOTER -->
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-copy">© 2025 SIGNAL · AI Intelligence Daily · Powered by TSUKI PRODUCT</div>
+    <div class="footer-links">
+      <a href="#">About</a>
+      <a href="#">Privacy</a>
+      <a href="#">Contact</a>
+    </div>
+  </div>
+</footer>
+
+<script>
+// ── CONFIG ──────────────────────────────────────────────────────────────────
+const DIGESTS_URL  = './data/digests.json';
+const ARTICLES_URL = './articles/';
+
+// ── STATE ───────────────────────────────────────────────────────────────────
+let digestIndex = [];
+let currentArticle = null;
+
+// ── UTILS ───────────────────────────────────────────────────────────────────
+function esc(s) {
+  return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+function formatDate(str) {
+  if (!str) return '';
+  const d = new Date(str.includes('T') ? str : str + 'T00:00:00+09:00');
+  return d.toLocaleDateString('ja-JP', { year:'numeric', month:'long', day:'numeric', weekday:'short' });
+}
+
+// ── SECTION RENDERERS ────────────────────────────────────────────────────────
+const SECTION_ICONS = {
+  overview:     { icon:'◎', label:'OVERVIEW' },
+  deep_dive:    { icon:'▼', label:'DEEP DIVE' },
+  practical:    { icon:'◆', label:'PRACTICAL' },
+  prompt_of_day:{ icon:'✦', label:'PROMPT OF THE DAY' },
+  weekly_watch: { icon:'◉', label:'WEEKLY WATCH' },
+};
+
+function renderSection(sec, idx) {
+  const meta = SECTION_ICONS[sec.type] || { icon:'●', label: sec.type.toUpperCase() };
+
+  if (sec.type === 'prompt_of_day') {
+    return `
+      <div class="prompt-block section-block" style="animation-delay:${idx*80}ms">
+        <div class="section-heading">
+          <span class="section-icon">${meta.icon}</span> ${meta.label}
+        </div>
+        <div class="prompt-label">今日のプロンプト</div>
+        <div class="prompt-title">${esc(sec.prompt_title || '')}</div>
+        <div class="prompt-body" id="promptBody-${idx}">${esc(sec.prompt_body || '')}</div>
+        <button class="copy-btn" id="copyBtn-${idx}" onclick="copyPrompt(${idx})">
+          📋 プロンプトをコピー
+        </button>
+        <div class="prompt-usecase">
+          <strong>使い方：</strong>${esc(sec.prompt_usecase || '')}
+        </div>
+      </div>`;
+  }
+
+  if (sec.type === 'deep_dive') {
+    return `
+      <div class="deep-dive-block section-block" style="animation-delay:${idx*80}ms">
+        <div class="section-heading">
+          <span class="section-icon">${meta.icon}</span> ${meta.label}
+        </div>
+        <h3 style="font-family:var(--font-serif);font-size:18px;font-weight:700;margin-bottom:14px;">${esc(sec.heading)}</h3>
+        <div class="section-body">${esc(sec.body || '').replace(/\n/g,'<br>')}</div>
+        ${sec.source_url ? `
+        <div class="source-cite">
+          📰 出典：
+          <a href="${esc(sec.source_url)}" target="_blank" rel="noopener noreferrer">
+            ${esc(sec.source_title || sec.source_url)}
+          </a>
+        </div>` : ''}
+      </div>`;
+  }
+
+  return `
+    <div class="section-block" style="animation-delay:${idx*80}ms">
+      <div class="section-heading">
+        <span class="section-icon">${meta.icon}</span> ${meta.label}
+      </div>
+      <h3 style="font-family:var(--font-serif);font-size:18px;font-weight:700;margin-bottom:14px;">${esc(sec.heading)}</h3>
+      <div class="section-body">${esc(sec.body || '').replace(/\n/g,'<br>')}</div>
+    </div>`;
+}
+
+function copyPrompt(idx) {
+  const text = document.getElementById(`promptBody-${idx}`).textContent;
+  navigator.clipboard.writeText(text).then(() => {
+    const btn = document.getElementById(`copyBtn-${idx}`);
+    btn.textContent = '✓ コピーしました！';
+    btn.classList.add('copied');
+    setTimeout(() => {
+      btn.textContent = '📋 プロンプトをコピー';
+      btn.classList.remove('copied');
+    }, 2000);
+  });
+}
+
+// ── RENDER ARTICLE ───────────────────────────────────────────────────────────
+function renderArticle(article) {
+  const sections = (article.sections || []).map((s, i) => renderSection(s, i)).join('');
+
+  const sources = (article.sources || []).map((s, i) => `
+    <div class="source-item">
+      <span class="source-num">[${i+1}]</span>
+      <div class="source-info">
+        <div class="source-title">${esc(s.source)} — ${esc(s.title)}</div>
+        <div class="source-url"><a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.url)}</a></div>
+      </div>
+    </div>`).join('');
+
+  const tagsHtml = (article.tags || []).map(t => `<span class="tag">${esc(t)}</span>`).join('');
+
+  const aff = article.affiliate || {};
+  const legal = article.legal || {};
+
+  document.getElementById('articleContent').innerHTML = `
+    <div class="article-date">${formatDate(article.date)}</div>
+    <h1 class="article-title">${esc(article.title)}</h1>
+    <p class="article-summary">${esc(article.summary)}</p>
+    <div class="article-tags">${tagsHtml}</div>
+
+    ${sections}
+
+    <!-- 引用元一覧（著作権法上の引用表示） -->
+    <div class="sources-block">
+      <div class="sources-heading">参照・引用元</div>
+      ${sources || '<p style="font-size:12px;color:var(--text-dim);">参照元なし</p>'}
+    </div>
+
+    <!-- アフィリエイト（PR表示付き） -->
+    ${aff.url ? `
+    <div class="affiliate-block">
+      <div class="pr-badge">PR / 広告</div>
+      <div class="affiliate-label">${esc(aff.label || '')}</div>
+      <a class="affiliate-btn" href="${esc(aff.url)}" target="_blank" rel="noopener sponsored">
+        ${esc(aff.cta || '詳しく見る →')}
+      </a>
+      <div class="affiliate-disclosure">${esc(aff.disclosure || '')}</div>
+    </div>` : ''}
+
+    <!-- 法的表示 -->
+    <div class="legal-block">
+      <p>🤖 ${esc(legal.ai_disclosure || '')}</p>
+      <p>📝 ${esc(legal.editorial_note || '')}</p>
+      <p>©  ${esc(legal.copyright_note || '')}</p>
+    </div>
+  `;
+}
+
+// ── SHOW / HIDE ──────────────────────────────────────────────────────────────
+function showList() {
+  document.getElementById('digestList').style.display = 'block';
+  document.getElementById('articleReader').classList.remove('active');
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+async function openArticle(fileKey) {
+  document.getElementById('digestList').style.display = 'none';
+  const reader = document.getElementById('articleReader');
+  reader.classList.add('active');
+  document.getElementById('articleContent').innerHTML =
+    '<div class="loading-state"><div class="spinner"></div><span>LOADING…</span></div>';
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+
+  try {
+    const res = await fetch(`${ARTICLES_URL}${fileKey}.json?v=${Date.now()}`);
+    if (!res.ok) throw new Error(res.status);
+    const article = await res.json();
+    currentArticle = article;
+    renderArticle(article);
+  } catch(e) {
+    document.getElementById('articleContent').innerHTML =
+      `<div class="empty-state">記事の読み込みに失敗しました（${e.message}）</div>`;
+  }
+}
+
+// ── RENDER LIST ──────────────────────────────────────────────────────────────
+function renderDigestList(articles) {
+  const el = document.getElementById('digestCards');
+  if (!articles.length) {
+    el.innerHTML = '<div class="empty-state">まだ記事がありません。<br>GitHub Actionsが実行されると自動生成されます。</div>';
+    return;
+  }
+
+  el.innerHTML = articles.map(a => `
+    <div class="digest-card" onclick="openArticle('${esc(a.file_key || a.date)}')">
+      <div class="digest-card-date">${formatDate(a.date)} ${slotLabel(a.file_key)}</div>
+      <h2>${esc(a.title)}</h2>
+      <p>${esc(a.summary)}</p>
+      <div class="digest-tags">
+        ${(a.tags||[]).map(t=>`<span class="tag">${esc(t)}</span>`).join('')}
+      </div>
+    </div>`).join('');
+
+  document.getElementById('digestCount').textContent = `${articles.length} articles`;
+}
+
+function slotLabel(fileKey) {
+  if (!fileKey) return '';
+  if (fileKey.includes('morning'))   return '🌅 朝';
+  if (fileKey.includes('afternoon')) return '☀️ 昼';
+  if (fileKey.includes('evening'))   return '🌙 夜';
+  return '';
+}
+
+function renderSidebar(articles) {
+  const el = document.getElementById('sidebarDigests');
+  el.innerHTML = articles.slice(0,9).map(a => `
+    <div class="sidebar-digest-item" onclick="openArticle('${esc(a.file_key || a.date)}')">
+      <div class="sidebar-digest-date">${formatDate(a.date)} ${slotLabel(a.file_key)}</div>
+      <div class="sidebar-digest-title">${esc(a.title)}</div>
+    </div>`).join('');
+}
+
+// ── LOAD ─────────────────────────────────────────────────────────────────────
+async function init() {
+  try {
+    const res = await fetch(`${DIGESTS_URL}?v=${Date.now()}`);
+    if (!res.ok) throw new Error(res.status);
+    const data = await res.json();
+    digestIndex = data.articles || [];
+
+    document.getElementById('loadingState').style.display = 'none';
+    document.getElementById('digestList').style.display = 'block';
+    document.getElementById('sidebar').style.display = 'flex';
+
+    renderDigestList(digestIndex);
+    renderSidebar(digestIndex);
+
+    // URLハッシュで直接記事を開く ( digest.html#2025-05-20 )
+    const hash = location.hash.slice(1);
+    if (hash && digestIndex.some(a => a.date === hash)) {
+      openArticle(hash);
+    }
+
+  } catch(e) {
+    // デモ表示
+    document.getElementById('loadingState').style.display = 'none';
+    document.getElementById('digestList').style.display = 'block';
+    document.getElementById('sidebar').style.display = 'flex';
+    document.getElementById('digestCards').innerHTML = `
+      <div class="empty-state">
+        📡 まだ記事が生成されていません。<br><br>
+        GitHub Actions で <code>GROQ_API_KEY</code> を設定して<br>
+        ワークフローを実行すると自動生成されます。
+      </div>`;
+    renderSidebar([]);
+  }
+}
+
+init();
+</script>
+</body>
+</html>
