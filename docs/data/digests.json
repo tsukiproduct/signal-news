@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-05-18_evening-english-slug",
+      "date": "2026-05-18",
+      "file_key": "2026-05-18_evening",
+      "title": "AIニュースの要約と読み方",
+      "summary": "AI技術の進展とビジネスへの影響を解説。最近のニュースを分析し、読者がわかりやすく応用できるポイントをまとめました。",
+      "tags": [
+        "AI",
+        "ビジネス",
+        "技術"
+      ],
+      "slug": "english-slug"
+    },
+    {
       "id": "2026-05-18_evening-ai-democratization-malta-chatgpt",
       "date": "2026-05-18",
       "file_key": "2026-05-18_evening",
@@ -70,5 +83,5 @@
       "slug": "ai-news-browser-automation-social-media"
     }
   ],
-  "updated_at": "2026-05-18T08:13:47.179650+00:00"
+  "updated_at": "2026-05-18T14:23:07.723493+00:00"
 }
