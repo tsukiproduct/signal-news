@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-05-19_morning-english-slug",
+      "date": "2026-05-19",
+      "file_key": "2026-05-19_morning",
+      "title": "5本のAIニュースを解説: 技術とビジネスへの影響",
+      "summary": "5つの最新AIニュースを簡潔にまとめ、技術の進化とビジネスへの応用を解説。摘要は読みやすく、実践的な示唆も含みます。",
+      "tags": [
+        "AI",
+        "ビジネス",
+        "技術"
+      ],
+      "slug": "english-slug"
+    },
+    {
       "id": "2026-05-18_evening-english-slug",
       "date": "2026-05-18",
       "file_key": "2026-05-18_evening",
@@ -83,5 +96,5 @@
       "slug": "ai-news-browser-automation-social-media"
     }
   ],
-  "updated_at": "2026-05-18T14:23:07.723493+00:00"
+  "updated_at": "2026-05-18T22:54:07.854525+00:00"
 }

@@ -1,0 +1,81 @@
+{
+  "id": "2026-05-19_morning-english-slug",
+  "file_key": "2026-05-19_morning",
+  "date": "2026-05-19",
+  "generated_at": "2026-05-18T22:54:07.854118+00:00",
+  "title": "5本のAIニュースを解説: 技術とビジネスへの影響",
+  "slug": "english-slug",
+  "summary": "5つの最新AIニュースを簡潔にまとめ、技術の進化とビジネスへの応用を解説。摘要は読みやすく、実践的な示唆も含みます。",
+  "tags": [
+    "AI",
+    "ビジネス",
+    "技術"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAIニュース概観",
+      "body": "楽天やセブンのキャンペーン、作家選定、商品リリース、アプリ機能のAI導入が話題。各企業の戦略が明確に見える。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "楽天の家族向けキャンペーン、AI献立アプリの画像解析機能、SNS統合プラットフォームの出現が注目。技術の社会的影響を示す。"
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "ビジネスはAIツールを一元管理することで効率化。 Rakutenやセブンの事例から、導入ステップを参考にできる。"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "AIクエリ",
+      "prompt_body": "日本の飲食店でAIを用いてメニュー推薦を改善する。100字以内。",
+      "prompt_usecase": "レストランの顧客データをAIに分析し、個別メニュー提案を提案."
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "AI技術が日々の業務・消費に浸透。ビジネスと個人の両面で活用が広がる見通し。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "楽天モバイルはどのキャンペーンを使うべき？ お得な選び方をまとめて解説！",
+      "url": "https://ascii.jp/elem/000/004/402/4402982/?rss",
+      "source": "ASCII.jp"
+    },
+    {
+      "title": "作家や批評家が選んだ「史上最高の小説100選」が発表される",
+      "url": "https://gigazine.net/news/20260519-100-best-novels-all-time/",
+      "source": "Gigazine"
+    },
+    {
+      "title": "1.5倍チョコクリームパンも！ セブン、どーん増量「感謝盛り」第2弾本日スタート",
+      "url": "https://ascii.jp/elem/000/004/403/4403003/?rss",
+      "source": "ASCII.jp"
+    },
+    {
+      "title": "メール・SNS・動画の配信業務をひとつの管理画面に統合、配信統合ハブ「Dayliv」正式リリース",
+      "url": "https://ascii.jp/elem/000/004/402/4402998/?rss",
+      "source": "ASCII.jp"
+    },
+    {
+      "title": "AI献立・栄養管理アプリ「おいしい健康」、LLMを用いた画像解析機能を提供開始 写真1枚で食事記録を支援",
+      "url": "https://ascii.jp/elem/000/004/402/4402997/?rss",
+      "source": "ASCII.jp"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter / Llama 3.1）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
