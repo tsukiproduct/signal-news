@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-05-18_evening-ai-democratization-malta-chatgpt",
+      "date": "2026-05-18",
+      "file_key": "2026-05-18_evening",
+      "title": "AI民主化の波、マルタが国民全員に無料提供",
+      "summary": "マルタ政府が国民全員にChatGPT Plusを無料提供、AIリテラシーの重要性が浮き彫りに",
+      "tags": [
+        "AI民主化",
+        "政府政策",
+        "教育",
+        "ビジネス応用",
+        "未来社会"
+      ],
+      "slug": "ai-democratization-malta-chatgpt"
+    },
+    {
       "id": "2026-05-18_morning-ai-news-overview-may-2026",
       "date": "2026-05-18",
       "file_key": "2026-05-18_morning",
@@ -55,5 +70,5 @@
       "slug": "ai-news-browser-automation-social-media"
     }
   ],
-  "updated_at": "2026-05-17T22:46:45.786452+00:00"
+  "updated_at": "2026-05-18T08:13:47.179650+00:00"
 }
