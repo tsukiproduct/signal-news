@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "2026-05-19_evening-ai-ripple-effect-commodities-finance",
+      "date": "2026-05-19",
+      "file_key": "2026-05-19_evening",
+      "title": "AIの波及効果： commodities 市場と金融イノベーションをどう読むか",
+      "summary": "AI需要が commodities スーパーサイクルを呼ぶ一方、元FTX幹部が「ノーロス」AIトレーディングをローンチ。技術の実体経済と金融への二重の浸透を解説。",
+      "tags": [
+        "AI経済影響",
+        "commodities 市場",
+        "フィンテック",
+        "リスク管理"
+      ],
+      "slug": "ai-ripple-effect-commodities-finance"
+    },
+    {
       "id": "2026-05-19_evening-ai-workforce-restructuring-japan-digital-trends",
       "date": "2026-05-19",
       "file_key": "2026-05-19_evening",
@@ -111,5 +125,5 @@
       "slug": "ai-news-browser-automation-social-media"
     }
   ],
-  "updated_at": "2026-05-19T07:54:46.798472+00:00"
+  "updated_at": "2026-05-19T13:47:26.868403+00:00"
 }
