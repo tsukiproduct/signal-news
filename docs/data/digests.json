@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-05-19_evening-ai-workforce-restructuring-japan-digital-trends",
+      "date": "2026-05-19",
+      "file_key": "2026-05-19_evening",
+      "title": "AI人材改革と日本企業のデジタル活用動向",
+      "summary": "スタンチャートのAI人員削減と、日本のゲーム・小売・半導体市場の最新動向を踏まえ、AI活用の実務的示唆を解説。",
+      "tags": [
+        "AI人材改革",
+        "リスキリング",
+        "金融テック",
+        "日本企業",
+        "デジタルトランスフォーメーション"
+      ],
+      "slug": "ai-workforce-restructuring-japan-digital-trends"
+    },
+    {
       "id": "2026-05-19_morning-english-slug",
       "date": "2026-05-19",
       "file_key": "2026-05-19_morning",
@@ -96,5 +111,5 @@
       "slug": "ai-news-browser-automation-social-media"
     }
   ],
-  "updated_at": "2026-05-18T22:54:07.854525+00:00"
+  "updated_at": "2026-05-19T07:54:46.798472+00:00"
 }
