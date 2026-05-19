@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-05-20_morning-tech-trends-2026-ai-ipo",
+      "date": "2026-05-20",
+      "file_key": "2026-05-20_morning",
+      "title": "テック動向2026：AIからIPOまで",
+      "summary": "Google I/O、SpaceX IPO、チップ市場動向を総まとめ。消費者技術とビジネスの接点を読み解く。",
+      "tags": [
+        "AIエージェント",
+        "SpaceX",
+        "チップストック",
+        "eSIM",
+        "有機EL"
+      ],
+      "slug": "tech-trends-2026-ai-ipo"
+    },
+    {
       "id": "2026-05-19_evening-ai-ripple-effect-commodities-finance",
       "date": "2026-05-19",
       "file_key": "2026-05-19_evening",
@@ -125,5 +140,5 @@
       "slug": "ai-news-browser-automation-social-media"
     }
   ],
-  "updated_at": "2026-05-19T13:47:26.868403+00:00"
+  "updated_at": "2026-05-19T22:59:31.263231+00:00"
 }
