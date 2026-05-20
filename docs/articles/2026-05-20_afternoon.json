@@ -1,0 +1,154 @@
+{
+  "id": "2026-05-20_afternoon-ai-news-digest-may-20-2026",
+  "file_key": "2026-05-20_afternoon",
+  "date": "2026-05-20",
+  "generated_at": "2026-05-20T06:47:12.818714+00:00",
+  "title": "AIニュース・トレンド 2026年5月20日",
+  "slug": "ai-news-digest-may-20-2026",
+  "summary": "Googleの科学AI、YouTubeの対話検索、Microsoftのセキュリティ対策などが注目。AI活用の進展とビジネス応用の可能性を探る。",
+  "tags": [
+    "AIニュース",
+    "Gemini",
+    "YouTube",
+    "Google",
+    "セキュリティ"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "本日のAIニュースは、Googleの科学向けAI「Gemini for Science」の発表やYouTubeの対話型検索機能「Ask YouTube」の登場など、技術の進展が目立つ。一方、Microsoftはマルウェアを正規ソフトのようにみせる攻撃からの脱危を進めた。AIの活用が広がる中、セキュリティやビジネスへの応用が課題となる。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "Googleは科学者のAI利用を支援する「Gemini for Science」を発表した。これにより、生命科学データベースや実証ツールを統合した「Science Skills」や、専門家レベルの研究支援ツール「ERA」が提供される。研究者はデータ分析や実験設計を効率化でき、学術界ではAIの正しい活用が期待される。一方、Microsoftはマルウェア署名サービスを運営する攻撃グループ「Fox Tempest」に対し、証明書1000件を失効させた。セキュリティ対策としての重要な施策となる。",
+      "source_title": "Googleが科学者のAI利用に役立つ実験機能コレクションの「Gemini for Science」を発表",
+      "source_url": "https://gigazine.net/news/20260520-google-gemini-for-science-science-skills-era/"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "YouTubeのショートリミックスやYouTube CreateアプリへのGemini Omniの導入が進む。ユーザーは簡単にビデオを作成し、AIによる編集を活用できるようになる。動画生成AIの民主化が加速している。",
+      "source_title": "YouTubeに対話型検索機能「Ask YouTube」が登場",
+      "source_url": "https://gigazine.net/news/20260520-ask-youtube-gemini-omni/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "研究データ解析プロンプト",
+      "prompt_body": "「Gemini for Science」を使用して、生命科学データベースから特定の遺伝子発現データを抽出し、その結果をもとに簡潔な要約を作成してください。統計的有意性の判断も含めてください。",
+      "prompt_usecase": "主に研究者や学生が論文執筆時にデータ分析を支援するために使用する。",
+      "prompt_source": "https://gigazine.net/news/20260520-google-gemini-for-science-science-skills-era/"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "IEEEの専門家が「AIという言葉をあらゆるものにつけるな」と提唾。機械学習の基本を正しく理解し、AIの波乱差を是正することが重要である。HackerNewsで広く話題に。",
+      "source_title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "source_url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "オンラインでのAI勉強会が注目。WACA主催の「Felo it monthly」や神戸で開催の「スナックAI」で、最新トレンドの共有が予定。",
+      "event_list": [
+        {
+          "title": "【WACA主催】【Felo it】monthly勉強会 vol.9",
+          "date": "2026-05-20",
+          "place": "オンライン",
+          "url": "https://web-mining.doorkeeper.jp/events/196610"
+        },
+        {
+          "title": "【神戸開催】AI勉強会「スナックAI」 in 神戸",
+          "date": "2026-05-20",
+          "place": "エムトーン会議室",
+          "url": "https://kandigi.doorkeeper.jp/events/196537"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "Googleの「Gemini for Science」は研究開発部門に、YouTubeの「Ask YouTube」はコンテンツ制作チームに、セキュリティ対策はIT部門にそれぞれ役立つ。例えば、製薬会社はGeminiを用いて新薬の設計を加速でき、メディア企業はYouTubeのAI機能でコンテンツ制作効率を向上。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "AIの科学分野への進出や、コンテンツ制作の自動化が顕著。次週は、これらのトピックが業界標準に落着するかがポイント。セキュリティ対策の強化も続く。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Microsoftがマルウェアを「正規ソフト」に見せかける証明書1000件超を失効",
+      "url": "https://gigazine.net/news/20260520-microsoft-expose-fox-tempest/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "【きょうのおはBiz 5月20日(水)】中東産油国 ねらう“AI立国”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015126261000",
+      "source": "NHK テクノロジー",
+      "category": "AI"
+    },
+    {
+      "title": "YouTubeに対話型検索機能「Ask YouTube」が登場、さらにマルチモーダル生成AI「Gemini Omni」がYouTubeショートのリミックスとYouTube Createアプリに導入へ",
+      "url": "https://gigazine.net/news/20260520-ask-youtube-gemini-omni/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "Googleが科学者のAI利用に役立つ実験機能コレクションの「Gemini for Science」を発表、30以上の主要な生命科学DBとツールの知見を統合したAIエージェントスキル集「Science Skills」や専門家レベルの実証ソフト作成支援のためのAIツール「ERA」なども登場",
+      "url": "https://gigazine.net/news/20260520-google-gemini-for-science-science-skills-era/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "GoogleストリートビューとGoogleのインタラクティブな世界構築ツール「Project Genie」が連携し実世界の画像をもとにしたリアルな世界を生成可能に",
+      "url": "https://gigazine.net/news/20260520-project-genie-expands/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "llm-gemini 0.32",
+      "url": "https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "【WACA主催】【Felo it】monthly勉強会 vol.9",
+      "url": "https://web-mining.doorkeeper.jp/events/196610",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "【神戸開催】AI勉強会「スナックAI」 in 神戸",
+      "url": "https://kandigi.doorkeeper.jp/events/196537",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "Udemy AI・機械学習コース（セール中）",
+    "url": "https://www.udemy.com/courses/search/?q=機械学習+AI&sort=popularity&lang=ja",
+    "cta": "コースを見る →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

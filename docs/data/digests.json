@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-05-20_afternoon-ai-news-digest-may-20-2026",
+      "date": "2026-05-20",
+      "file_key": "2026-05-20_afternoon",
+      "title": "AIニュース・トレンド 2026年5月20日",
+      "summary": "Googleの科学AI、YouTubeの対話検索、Microsoftのセキュリティ対策などが注目。AI活用の進展とビジネス応用の可能性を探る。",
+      "tags": [
+        "AIニュース",
+        "Gemini",
+        "YouTube",
+        "Google",
+        "セキュリティ"
+      ],
+      "slug": "ai-news-digest-may-20-2026"
+    },
+    {
       "id": "2026-05-20_morning-tech-trends-2026-ai-ipo",
       "date": "2026-05-20",
       "file_key": "2026-05-20_morning",
@@ -140,5 +155,5 @@
       "slug": "ai-news-browser-automation-social-media"
     }
   ],
-  "updated_at": "2026-05-19T22:59:31.263231+00:00"
+  "updated_at": "2026-05-20T06:47:12.819369+00:00"
 }
