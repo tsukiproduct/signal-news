@@ -131,14 +131,19 @@ AFFILIATE_MAP = {
         "cta": "Amazon で探す →",
     },
     "機械学習コース": {
-        "label": "Udemy AI・機械学習コース（セール中）",
-        "url": "https://www.udemy.com/courses/search/?q=機械学習+AI&sort=popularity&lang=ja",
-        "cta": "コースを見る →",
+        "label": "AI・機械学習の技術書（オライリー等）",
+        "url": "https://www.amazon.co.jp/s?k=機械学習+ディープラーニング+オライリー&i=stripbooks&tag=tsukiproduct-22",
+        "cta": "Amazon で探す →",
     },
     "クラウドGPU": {
-        "label": "GPU クラウド環境を無料で試す",
-        "url": "https://colab.research.google.com/",
-        "cta": "Google Colab を試す →",
+        "label": "AI・ChatGPTビジネス活用書ランキング",
+        "url": "https://www.amazon.co.jp/s?k=ChatGPT+ビジネス+活用&i=stripbooks&tag=tsukiproduct-22",
+        "cta": "Amazon で探す →",
+    },
+    "サポート": {
+        "label": "SIGNAL を応援する（Buy Me a Coffee）",
+        "url": "https://buymeacoffee.com/tsuki_product",
+        "cta": "☕ コーヒーを贈る →",
     },
     "プロンプト本": {
         "label": "プロンプトエンジニアリング実践ガイド",
@@ -151,7 +156,7 @@ AFFILIATE_MAP = {
         "cta": "Amazon で探す →",
     },
 }
-DEFAULT_AFFILIATE = "機械学習コース"
+DEFAULT_AFFILIATE = "AI入門書"
 
 
 def pick_top_items(items: list) -> list:
