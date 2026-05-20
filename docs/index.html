@@ -4,10 +4,25 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>SIGNAL — AI Intelligence Daily</title>
-<meta name="description" content="AIの最前線を、毎日。厳選されたAIニュースをリアルタイムで。">
+<meta name="description" content="AIの最前線を、毎日。研究・技術・業界動向を厳選してお届け。世界のAIニュースを1日3回自動更新。">
+<meta name="theme-color" content="#0d0d0d">
+
+<!-- Open Graph -->
 <meta property="og:title" content="SIGNAL — AI Intelligence Daily">
-<meta property="og:description" content="AIの最前線を、毎日。英語・日本語のAIニュースを1日3回自動更新。">
+<meta property="og:description" content="AIの“今”を、最速でキャッチする。研究・技術・業界動向を毎日厳選。">
 <meta property="og:type" content="website">
+<meta property="og:url" content="https://tsukiproduct.github.io/signal-news/">
+<meta property="og:image" content="https://tsukiproduct.github.io/signal-news/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:site_name" content="SIGNAL">
+<meta property="og:locale" content="ja_JP">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="SIGNAL — AI Intelligence Daily">
+<meta name="twitter:description" content="AIの“今”を、最速でキャッチする。研究・技術・業界動向を毎日厳選。">
+<meta name="twitter:image" content="https://tsukiproduct.github.io/signal-news/og-image.png">
 
 <!-- Fonts -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -232,7 +247,13 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
   position: relative; z-index: 1;
   width: 100%;
   box-sizing: border-box;
-  overflow-x: hidden;
+  overflow-x: clip;
+}
+/* 全てのカード/セクションは絶対に親の幅を超えないようガード */
+.main-wrap > * { max-width: 100%; min-width: 0; }
+.card, .card-featured, .digest-hero, .support-section, .news-grid, .featured-grid, .page-layout {
+  max-width: 100%;
+  min-width: 0;
 }
 
 /* ════════════════════════════════
@@ -1081,6 +1102,427 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
 @media (min-width: 1400px) {
   .news-grid { grid-template-columns: 1fr 1fr 1fr; }
 }
+
+/* ════════════════════════════════════════════════════
+   HEADER ACTIONS（About / Share アイコンボタン）
+════════════════════════════════════════════════════ */
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-shrink: 0;
+}
+.header-icon-btn {
+  width: 34px; height: 34px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--border);
+  border-radius: 50%;
+  background: transparent;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: all var(--transition);
+}
+.header-icon-btn:hover {
+  color: var(--gold);
+  border-color: var(--gold-dim);
+  background: rgba(201,168,76,0.06);
+}
+
+/* ════════════════════════════════════════════════════
+   DIGEST HERO — サイトの顔
+════════════════════════════════════════════════════ */
+.digest-hero {
+  position: relative;
+  margin: 32px 0 40px;
+  padding: 32px 36px;
+  background: linear-gradient(135deg, rgba(201,168,76,0.05) 0%, rgba(201,168,76,0.02) 100%);
+  border: 1px solid var(--gold-dim);
+  border-radius: 8px;
+  overflow: hidden;
+  width: 100%;
+  box-sizing: border-box;
+}
+.digest-hero::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--gold), transparent);
+}
+.digest-hero-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.2em;
+  color: var(--gold);
+  text-transform: uppercase;
+  margin-bottom: 12px;
+}
+.digest-hero-label::before {
+  content: '✦';
+  font-size: 14px;
+}
+.digest-hero-meta {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  font-family: var(--font-mono);
+  font-size: 10px;
+  color: var(--text-dim);
+  letter-spacing: 0.08em;
+  margin-bottom: 16px;
+}
+.digest-hero-title {
+  font-family: var(--font-serif);
+  font-size: clamp(22px, 3.2vw, 36px);
+  font-weight: 700;
+  line-height: 1.3;
+  color: var(--text);
+  margin-bottom: 14px;
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
+.digest-hero-summary {
+  font-size: 15px;
+  line-height: 1.7;
+  color: var(--text-muted);
+  margin-bottom: 18px;
+  max-width: 800px;
+}
+.digest-hero-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 20px;
+}
+.digest-hero-tag {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  color: var(--gold-dim);
+  padding: 3px 10px;
+  border: 1px solid var(--gold-dim);
+  border-radius: 100px;
+}
+.digest-hero-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 22px;
+  background: var(--gold);
+  color: #000;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  border-radius: 3px;
+  transition: all var(--transition);
+  text-decoration: none;
+}
+.digest-hero-cta:hover {
+  background: var(--gold-light);
+  gap: 14px;
+}
+
+/* ════════════════════════════════════════════════════
+   MODAL（About / Share / Customize共通）
+════════════════════════════════════════════════════ */
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.75);
+  backdrop-filter: blur(8px);
+  z-index: 1000;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  opacity: 0;
+  transition: opacity 200ms;
+}
+.modal-overlay.is-open {
+  display: flex;
+  opacity: 1;
+}
+.modal {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  max-width: 520px;
+  width: 100%;
+  max-height: 85vh;
+  overflow-y: auto;
+  position: relative;
+  box-shadow: 0 24px 60px rgba(0,0,0,0.5);
+  transform: translateY(10px);
+  transition: transform 200ms;
+}
+.modal-overlay.is-open .modal { transform: translateY(0); }
+
+.modal-header {
+  padding: 20px 24px 16px;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.modal-title {
+  font-family: var(--font-serif);
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--text);
+}
+.modal-close {
+  width: 30px; height: 30px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--border);
+  border-radius: 50%;
+  background: transparent;
+  color: var(--text-muted);
+  cursor: pointer;
+  font-size: 16px;
+  transition: all var(--transition);
+}
+.modal-close:hover { color: var(--gold); border-color: var(--gold-dim); }
+.modal-body {
+  padding: 24px;
+}
+
+/* About modal content */
+.about-section { margin-bottom: 20px; }
+.about-section:last-child { margin-bottom: 0; }
+.about-section h4 {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.18em;
+  color: var(--gold);
+  text-transform: uppercase;
+  margin-bottom: 8px;
+}
+.about-section p {
+  font-size: 14px;
+  line-height: 1.7;
+  color: var(--text-muted);
+}
+.about-section a {
+  color: var(--gold);
+  border-bottom: 1px solid var(--gold-dim);
+}
+
+/* Share modal */
+.share-options {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+}
+.share-option {
+  padding: 14px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--surface2);
+  color: var(--text);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 13px;
+  transition: all var(--transition);
+  text-decoration: none;
+}
+.share-option:hover {
+  border-color: var(--gold-dim);
+  background: rgba(201,168,76,0.05);
+}
+.share-option-icon {
+  font-size: 20px;
+  width: 24px;
+  text-align: center;
+}
+
+/* Customize modal */
+.customize-list {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.customize-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 14px;
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  cursor: pointer;
+  transition: border-color var(--transition);
+}
+.customize-item:hover { border-color: var(--gold-dim); }
+.customize-item input[type="checkbox"] {
+  appearance: none;
+  -webkit-appearance: none;
+  width: 18px; height: 18px;
+  border: 1.5px solid var(--border-light);
+  border-radius: 3px;
+  cursor: pointer;
+  position: relative;
+  flex-shrink: 0;
+  background: transparent;
+  transition: all var(--transition);
+}
+.customize-item input[type="checkbox"]:checked {
+  background: var(--gold);
+  border-color: var(--gold);
+}
+.customize-item input[type="checkbox"]:checked::after {
+  content: '✓';
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #000;
+  font-weight: 700;
+  font-size: 13px;
+}
+.customize-item-label {
+  font-size: 14px;
+  color: var(--text);
+}
+.customize-actions {
+  display: flex;
+  gap: 8px;
+  margin-top: 20px;
+  padding-top: 20px;
+  border-top: 1px solid var(--border);
+}
+.customize-btn {
+  flex: 1;
+  padding: 10px;
+  font-size: 12px;
+  letter-spacing: 0.05em;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all var(--transition);
+}
+.customize-btn--primary {
+  background: var(--gold);
+  color: #000;
+  font-weight: 600;
+}
+.customize-btn--primary:hover { background: var(--gold-light); }
+.customize-btn--secondary {
+  background: transparent;
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+}
+.customize-btn--secondary:hover { color: var(--text); border-color: var(--border-light); }
+
+/* ════════════════════════════════════════════════════
+   FLOATING CUSTOMIZE BUTTON（右下FAB）
+════════════════════════════════════════════════════ */
+.customize-fab {
+  position: fixed;
+  bottom: 28px;
+  right: 28px;
+  width: 48px; height: 48px;
+  border-radius: 50%;
+  background: var(--surface);
+  border: 1px solid var(--gold-dim);
+  color: var(--gold);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 150;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.4);
+  transition: all var(--transition);
+}
+.customize-fab:hover {
+  background: var(--gold);
+  color: #000;
+  transform: scale(1.05);
+}
+@media (max-width: 500px) {
+  .customize-fab { bottom: 80px; right: 16px; width: 44px; height: 44px; }
+}
+
+/* ════════════════════════════════════════════════════
+   SUPPORT SECTION（寄付・広告募集）
+════════════════════════════════════════════════════ */
+.support-section {
+  margin-top: 60px;
+  padding: 40px 32px;
+  background: linear-gradient(180deg, rgba(201,168,76,0.03) 0%, transparent 100%);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  box-sizing: border-box;
+  width: 100%;
+}
+.support-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 32px;
+}
+@media (max-width: 700px) {
+  .support-grid { grid-template-columns: 1fr; gap: 24px; }
+  .support-section { padding: 28px 20px; }
+}
+.support-card h3 {
+  font-family: var(--font-serif);
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--text);
+  margin-bottom: 8px;
+}
+.support-card-label {
+  font-family: var(--font-mono);
+  font-size: 9px;
+  letter-spacing: 0.2em;
+  color: var(--gold);
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+.support-card p {
+  font-size: 13px;
+  line-height: 1.7;
+  color: var(--text-muted);
+  margin-bottom: 16px;
+}
+.support-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 18px;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  border-radius: 4px;
+  text-decoration: none;
+  transition: all var(--transition);
+}
+.support-btn--donate {
+  background: #ffdd00;
+  color: #000;
+}
+.support-btn--donate:hover { background: #ffd000; }
+.support-btn--ad {
+  background: transparent;
+  color: var(--gold);
+  border: 1px solid var(--gold-dim);
+}
+.support-btn--ad:hover { background: rgba(201,168,76,0.08); border-color: var(--gold); }
+.support-fine-print {
+  font-family: var(--font-mono);
+  font-size: 9px;
+  color: var(--text-dim);
+  letter-spacing: 0.05em;
+  margin-top: 10px;
+}
 </style>
 </head>
 
@@ -1101,7 +1543,6 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
       <button class="nav-btn" data-filter="cat-Industry">Industry</button>
       <button class="nav-btn" data-filter="cat-Tech">Tech</button>
       <button class="nav-btn" data-filter="cat-Safety">Safety</button>
-      <button class="nav-btn" data-filter="cat-Policy">Policy</button>
       <button class="nav-btn nav-btn--wow" data-filter="cat-Wow">⚡ Wow</button>
       <button class="nav-btn nav-btn--events" data-filter="cat-Events">📅 Events</button>
       <button class="nav-btn nav-btn--prompts" data-filter="cat-Prompts">✦ Prompts</button>
@@ -1110,18 +1551,13 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
       <button class="nav-btn" data-filter="lang-en">🌐 EN</button>
     </nav>
 
-    <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
-      <a href="./digest.html"
-         style="padding:6px 14px;border:1px solid var(--gold-dim);border-radius:2px;
-                font-family:var(--font-mono);font-size:10px;letter-spacing:0.12em;
-                color:var(--gold);text-transform:uppercase;
-                transition:all 200ms;text-decoration:none;"
-         onmouseover="this.style.background='rgba(201,168,76,0.1)'"
-         onmouseout="this.style.background='transparent'">
-        ✦ Digest
-      </a>
-    </div>
-    <div class="header-right">
+    <div class="header-actions">
+      <button class="header-icon-btn" id="aboutBtn" title="About SIGNAL" aria-label="About">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+      </button>
+      <button class="header-icon-btn" id="shareBtn" title="Share" aria-label="Share">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg>
+      </button>
       <div class="live-badge">
         <div class="live-dot"></div>
         <span id="updateTime">読込中…</span>
@@ -1149,7 +1585,6 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
     <button class="mobile-tab" data-filter="cat-Industry">Industry</button>
     <button class="mobile-tab" data-filter="cat-Tech">Tech</button>
     <button class="mobile-tab" data-filter="cat-Safety">Safety</button>
-    <button class="mobile-tab" data-filter="cat-Policy">Policy</button>
     <button class="mobile-tab mobile-tab--wow" data-filter="cat-Wow">⚡ Wow</button>
     <button class="mobile-tab mobile-tab--events" data-filter="cat-Events">📅 Events</button>
     <button class="mobile-tab mobile-tab--prompts" data-filter="cat-Prompts">✦ Prompts</button>
@@ -1172,7 +1607,6 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
     <button class="filter-chip" data-filter="cat-Industry">Industry</button>
     <button class="filter-chip" data-filter="cat-Tech">Tech</button>
     <button class="filter-chip" data-filter="cat-Safety">Safety</button>
-    <button class="filter-chip" data-filter="cat-Policy">Policy</button>
     <button class="filter-chip filter-chip--wow" data-filter="cat-Wow">⚡ Wow</button>
     <button class="filter-chip filter-chip--events" data-filter="cat-Events">📅 Events</button>
     <button class="filter-chip filter-chip--prompts" data-filter="cat-Prompts">✦ Prompts</button>
@@ -1196,6 +1630,16 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
     <div class="spinner"></div>
     <span>FETCHING SIGNAL…</span>
   </div>
+
+  <!-- ✦ DIGEST HERO — サイトの顔 -->
+  <a href="./digest.html" id="digestHero" class="digest-hero" style="display:none; text-decoration:none;">
+    <div class="digest-hero-label">Today's Digest — AIがまとめる、今日の要点</div>
+    <div class="digest-hero-meta" id="digestHeroMeta"></div>
+    <h2 class="digest-hero-title" id="digestHeroTitle">読込中…</h2>
+    <p class="digest-hero-summary" id="digestHeroSummary"></p>
+    <div class="digest-hero-tags" id="digestHeroTags"></div>
+    <span class="digest-hero-cta">全文を読む <span>→</span></span>
+  </a>
 
   <!-- Featured 3 -->
   <div id="featuredSection" style="display:none;">
@@ -1268,21 +1712,158 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
 
       </div>
 
-
-
     </aside>
-  </div>
+  </div><!-- /page-layout -->
+
+  <!-- ✦ SUPPORT SECTION（寄付・広告募集） -->
+  <section class="support-section">
+    <div class="support-grid">
+      <div class="support-card">
+        <div class="support-card-label">★ Support SIGNAL</div>
+        <h3>SIGNALを応援する</h3>
+        <p>
+          SIGNALは個人運営の無料サービスです。サーバー代やAPI利用料の足しに、コーヒー1杯分の応援が大きな力になります。
+        </p>
+        <a class="support-btn support-btn--donate"
+           href="https://www.buymeacoffee.com/tsukiproduct"
+           target="_blank" rel="noopener">
+          ☕ Buy Me a Coffee
+        </a>
+        <div class="support-fine-print">※ サポートは任意です。対価としてのサービス提供はありません。</div>
+      </div>
+
+      <div class="support-card">
+        <div class="support-card-label">◆ Advertise with us</div>
+        <h3>広告掲載募集中</h3>
+        <p>
+          SIGNAL にはAI・テック領域に関心の高い読者が集まっています。
+          バナー広告・スポンサード記事・ニュースレター広告などのご相談を承ります。
+        </p>
+        <a class="support-btn support-btn--ad"
+           href="mailto:tsuki.product@gmail.com?subject=SIGNAL%20%E5%BA%83%E5%91%8A%E6%8E%B2%E8%BC%89%E3%81%AE%E3%81%94%E7%9B%B8%E8%AB%87">
+          ✉ tsuki.product@gmail.com
+        </a>
+        <div class="support-fine-print">※ 掲載可否は内容を確認の上判断させていただきます。</div>
+      </div>
+    </div>
+  </section>
 
 </div><!-- /main-wrap -->
+
+<!-- ═══════════════════════════════════════
+     MODAL: ABOUT
+═══════════════════════════════════════ -->
+<div class="modal-overlay" id="aboutModal" role="dialog" aria-label="About SIGNAL">
+  <div class="modal">
+    <div class="modal-header">
+      <div class="modal-title">About SIGNAL</div>
+      <button class="modal-close" data-close-modal aria-label="閉じる">✕</button>
+    </div>
+    <div class="modal-body">
+      <div class="about-section">
+        <h4>SIGNAL とは</h4>
+        <p>
+          AIの“今”を、最速でキャッチする。研究・技術・業界動向・画像/動画生成・プロンプト・イベント情報を毎日厳選してお届けする、AI特化のニュース・ダイジェストです。
+        </p>
+      </div>
+      <div class="about-section">
+        <h4>仕組み</h4>
+        <p>
+          OpenAI、DeepMind、HackerNews、connpassなど世界・国内の信頼できる情報源から1日3回自動収集。AIが重要度をスコアリングし、解説記事「Digest」を生成します。
+        </p>
+      </div>
+      <div class="about-section">
+        <h4>カテゴリ</h4>
+        <p>
+          AI / Research / Industry / Tech / Safety / ⚡ Wow / 📅 Events / ✦ Prompts / 🎨 Image&Video
+        </p>
+      </div>
+      <div class="about-section">
+        <h4>運営</h4>
+        <p>
+          TSUKI PRODUCT による個人運営。連絡先：<a href="mailto:tsuki.product@gmail.com">tsuki.product@gmail.com</a>
+        </p>
+      </div>
+      <div class="about-section">
+        <h4>今後の予定</h4>
+        <p>
+          メールマガジン配信 / LINE通知 / 他社アフィリエイト対応を準備中です。
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════
+     MODAL: SHARE
+═══════════════════════════════════════ -->
+<div class="modal-overlay" id="shareModal" role="dialog" aria-label="Share SIGNAL">
+  <div class="modal">
+    <div class="modal-header">
+      <div class="modal-title">SIGNAL をシェア</div>
+      <button class="modal-close" data-close-modal aria-label="閉じる">✕</button>
+    </div>
+    <div class="modal-body">
+      <div class="share-options">
+        <a class="share-option" id="shareTwitter" target="_blank" rel="noopener">
+          <span class="share-option-icon">𝕏</span> X (Twitter)
+        </a>
+        <a class="share-option" id="shareLine" target="_blank" rel="noopener">
+          <span class="share-option-icon">💬</span> LINE
+        </a>
+        <a class="share-option" id="shareFacebook" target="_blank" rel="noopener">
+          <span class="share-option-icon">f</span> Facebook
+        </a>
+        <button class="share-option" id="shareCopy">
+          <span class="share-option-icon">🔗</span> URLをコピー
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════
+     MODAL: CUSTOMIZE
+═══════════════════════════════════════ -->
+<div class="modal-overlay" id="customizeModal" role="dialog" aria-label="表示カスタマイズ">
+  <div class="modal">
+    <div class="modal-header">
+      <div class="modal-title">表示するカテゴリ</div>
+      <button class="modal-close" data-close-modal aria-label="閉じる">✕</button>
+    </div>
+    <div class="modal-body">
+      <p style="font-size:12px;color:var(--text-dim);margin-bottom:16px;line-height:1.6;">
+        興味のあるカテゴリだけを表示できます。設定はこのブラウザに保存されます。
+      </p>
+      <div class="customize-list" id="customizeList"></div>
+      <div class="customize-actions">
+        <button class="customize-btn customize-btn--secondary" id="customizeReset">リセット（全て表示）</button>
+        <button class="customize-btn customize-btn--primary" id="customizeSave">保存して適用</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════
+     FLOATING CUSTOMIZE BUTTON
+═══════════════════════════════════════ -->
+<button class="customize-fab" id="customizeFab" title="表示カスタマイズ" aria-label="表示カスタマイズ">
+  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="4" y1="21" x2="4" y2="14"/><line x1="4" y1="10" x2="4" y2="3"/>
+    <line x1="12" y1="21" x2="12" y2="12"/><line x1="12" y1="8" x2="12" y2="3"/>
+    <line x1="20" y1="21" x2="20" y2="16"/><line x1="20" y1="12" x2="20" y2="3"/>
+    <line x1="1" y1="14" x2="7" y2="14"/><line x1="9" y1="8" x2="15" y2="8"/>
+    <line x1="17" y1="16" x2="23" y2="16"/>
+  </svg>
+</button>
 
 <!-- FOOTER -->
 <footer class="site-footer">
   <div class="footer-inner">
     <div class="footer-copy">© 2025 SIGNAL · AI Intelligence Daily · Powered by TSUKI PRODUCT</div>
     <div class="footer-links">
-      <a href="#">About</a>
-      <a href="#">Privacy</a>
-      <a href="#">Contact</a>
+      <a href="#" onclick="event.preventDefault();openModal('aboutModal');return false;">About</a>
+      <a href="mailto:tsuki.product@gmail.com">Contact</a>
     </div>
   </div>
 </footer>
@@ -1731,7 +2312,7 @@ function showDemoMode() {
   const demo = [
     { id:'1', title:'OpenAI、GPT-5の詳細を発表 — マルチモーダル対応を大幅強化', summary_ja:'次世代GPT-5が正式発表。画像・音声・動画をシームレス処理し、従来比3倍の推論速度を実現。', url:'#', source:'OpenAI Blog', lang:'en', category:'Research', date: new Date().toISOString(), score:10, reason:'業界最重要発表' },
     { id:'2', title:'Google DeepMind、タンパク質折り畳み予測の新手法を論文公開', summary_ja:'AlphaFold後継モデルがNature掲載。創薬プロセスを大幅に短縮できる可能性。', url:'#', source:'Google DeepMind', lang:'en', category:'Research', date: new Date(Date.now()-3600000).toISOString(), score:9, reason:'Nature掲載・創薬応用' },
-    { id:'3', title:'日本政府、AI規制ガイドライン改定版を閣議決定', summary_ja:'内閣府が生成AI新ガイドラインを閣議決定。透明性確保義務と著作権保護を強化。', url:'#', source:'ITmedia AI+', lang:'ja', category:'Policy', date: new Date(Date.now()-7200000).toISOString(), score:9, reason:'国内規制の重要変化' },
+    { id:'3', title:'日本政府、AI規制ガイドライン改定版を閣議決定', summary_ja:'内閣府が生成AI新ガイドラインを閣議決定。透明性確保義務と著作権保護を強化。', url:'#', source:'ITmedia AI+', lang:'ja', category:'Industry', date: new Date(Date.now()-7200000).toISOString(), score:9, reason:'国内規制の重要変化' },
     { id:'4', title:'Meta、Llama 4 を OSS 公開 — ベンチマークで GPT-4 超え', summary_ja:'MetaがオープンソースLLM最新版を公開。MMLUスコアでGPT-4を上回ると主張。', url:'#', source:'TechCrunch AI', lang:'en', category:'AI', date: new Date(Date.now()-10800000).toISOString(), score:8, reason:'OSS公開・性能比較' },
     { id:'5', title:'Anthropic、Claude の安全性評価レポートを公開', summary_ja:'Anthropicが最新モデルの安全性レポートを公開。バイオ・化学リスクのテスト結果を収録。', url:'#', source:'Alignment Forum', lang:'en', category:'Safety', date: new Date(Date.now()-14400000).toISOString(), score:8, reason:'AI安全性の透明性確保' },
     { id:'6', title:'スタートアップへのAI投資が過去最高を記録 — Q1レポート', summary_ja:'AI関連VC投資が前年同期比2.8倍に急増。日本・韓国・東南アジアが特に伸長。', url:'#', source:'VentureBeat AI', lang:'en', category:'Industry', date: new Date(Date.now()-18000000).toISOString(), score:7, reason:'市場動向・投資トレンド' },
@@ -1739,7 +2320,7 @@ function showDemoMode() {
     { id:'8', title:'中国、独自AI半導体の量産体制を確立 — 輸出規制への対抗', summary_ja:'中国国産GPU「昇腾」シリーズの量産が本格化。米輸出規制の影響を軽減へ。', url:'#', source:'China AI Weekly', lang:'en', category:'Industry', date: new Date(Date.now()-25200000).toISOString(), score:7, reason:'地政学・半導体競争' },
     { id:'9', title:'AI生成コンテンツ検出精度の限界 — Princeton研究者が警告', summary_ja:'主要AI検出ツールの精度は50〜60%程度にとどまると報告。著作権問題への影響を懸念。', url:'#', source:'AI Snake Oil', lang:'en', category:'Safety', date: new Date(Date.now()-28800000).toISOString(), score:6, reason:'AI検出技術の実態' },
     { id:'10', title:'LINEヤフー、国産LLM「HanaBI」を企業向けに提供開始', summary_ja:'日本語特化型LLMをAPI公開。医療・法務・金融分野での活用を想定。', url:'#', source:'マイナビニュース', lang:'ja', category:'Industry', date: new Date(Date.now()-32400000).toISOString(), score:6, reason:'国産LLM参入' },
-    { id:'11', title:'経産省、AI活用推進に向け中小企業支援策を発表', summary_ja:'AI導入コストを最大2/3補助する中小企業向け新補助金制度を発表。申請は来月から。', url:'#', source:'経済産業省', lang:'ja', category:'Policy', date: new Date(Date.now()-36000000).toISOString(), score:6, reason:'国内補助金・政策' },
+    { id:'11', title:'経産省、AI活用推進に向け中小企業支援策を発表', summary_ja:'AI導入コストを最大2/3補助する中小企業向け新補助金制度を発表。申請は来月から。', url:'#', source:'経済産業省', lang:'ja', category:'Industry', date: new Date(Date.now()-36000000).toISOString(), score:6, reason:'国内補助金・政策' },
     { id:'12', title:'The Gradient: LLMの推論能力と「本当の理解」の境界線', summary_ja:'LLMが示す推論能力は統計的パターンなのか真の理解なのか。最新研究を横断的に考察。', url:'#', source:'The Gradient', lang:'en', category:'Research', date: new Date(Date.now()-39600000).toISOString(), score:5, reason:'深い理論的考察' },
     { id:'13', title:'This AI can lip-sync any video in real-time with 2ms latency', summary_ja:'わずか2msの遅延でリアルタイム口パク合成を実現するAIが登場。HNで▲1,240pt獲得。', url:'#', source:'HackerNews', lang:'en', category:'Wow', date: new Date(Date.now()-7200000).toISOString(), score:9, reason:'HN急上昇' },
     { id:'14', title:'I trained a model on 10 years of my own journal entries — results were unsettling', summary_ja:'10年分の日記でモデルを訓練した開発者の体験談。自己理解とプライバシーの境界を問う。', url:'#', source:'r/MachineLearning', lang:'en', category:'Wow', date: new Date(Date.now()-14400000).toISOString(), score:8, reason:'バイラル体験談' },
@@ -1767,13 +2348,219 @@ window.addEventListener('scroll', () => {
   btn.classList.toggle('visible', window.scrollY > 400);
 });
 
+// ════════════════════════════════════════════════════
+//  MODAL CONTROL
+// ════════════════════════════════════════════════════
+function openModal(id) {
+  document.getElementById(id).classList.add('is-open');
+  document.body.style.overflow = 'hidden';
+}
+function closeModal(id) {
+  document.getElementById(id).classList.remove('is-open');
+  document.body.style.overflow = '';
+}
+function initModals() {
+  // About
+  document.getElementById('aboutBtn').addEventListener('click', () => openModal('aboutModal'));
+  // Share
+  document.getElementById('shareBtn').addEventListener('click', () => openModal('shareModal'));
+  // Customize FAB
+  document.getElementById('customizeFab').addEventListener('click', () => {
+    buildCustomizeList();
+    openModal('customizeModal');
+  });
+  // 閉じるボタン
+  document.querySelectorAll('[data-close-modal]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const modal = btn.closest('.modal-overlay');
+      if (modal) modal.classList.remove('is-open');
+      document.body.style.overflow = '';
+    });
+  });
+  // 背景クリックで閉じる
+  document.querySelectorAll('.modal-overlay').forEach(ov => {
+    ov.addEventListener('click', e => {
+      if (e.target === ov) {
+        ov.classList.remove('is-open');
+        document.body.style.overflow = '';
+      }
+    });
+  });
+  // ESC で閉じる
+  document.addEventListener('keydown', e => {
+    if (e.key === 'Escape') {
+      document.querySelectorAll('.modal-overlay.is-open').forEach(m => m.classList.remove('is-open'));
+      document.body.style.overflow = '';
+    }
+  });
+}
+
+// ════════════════════════════════════════════════════
+//  SHARE
+// ════════════════════════════════════════════════════
+function initShare() {
+  const url   = 'https://tsukiproduct.github.io/signal-news/';
+  const title = 'SIGNAL — AI Intelligence Daily ｜ AIの“今”を、最速でキャッチする';
+  const enc   = encodeURIComponent;
+
+  document.getElementById('shareTwitter').href =
+    `https://twitter.com/intent/tweet?text=${enc(title)}&url=${enc(url)}`;
+  document.getElementById('shareLine').href =
+    `https://social-plugins.line.me/lineit/share?url=${enc(url)}`;
+  document.getElementById('shareFacebook').href =
+    `https://www.facebook.com/sharer/sharer.php?u=${enc(url)}`;
+
+  document.getElementById('shareCopy').addEventListener('click', async () => {
+    try {
+      await navigator.clipboard.writeText(url);
+      const btn = document.getElementById('shareCopy');
+      const original = btn.innerHTML;
+      btn.innerHTML = '<span class="share-option-icon">✓</span> コピーしました';
+      setTimeout(() => { btn.innerHTML = original; }, 1500);
+    } catch (e) {
+      alert('コピーに失敗しました: ' + url);
+    }
+  });
+}
+
+// ════════════════════════════════════════════════════
+//  CUSTOMIZE — カテゴリの表示/非表示をlocalStorageで管理
+// ════════════════════════════════════════════════════
+const CUSTOMIZE_KEY = 'signal_visible_categories';
+const ALL_CATEGORIES = [
+  { id: 'AI',         label: 'AI',              icon: '' },
+  { id: 'Research',   label: 'Research',        icon: '' },
+  { id: 'Industry',   label: 'Industry',        icon: '' },
+  { id: 'Tech',       label: 'Tech',            icon: '' },
+  { id: 'Safety',     label: 'Safety',          icon: '' },
+  { id: 'Wow',        label: 'Wow',             icon: '⚡' },
+  { id: 'Events',     label: 'Events',          icon: '📅' },
+  { id: 'Prompts',    label: 'Prompts',         icon: '✦' },
+  { id: 'ImageVideo', label: 'Image/Video',     icon: '🎨' },
+];
+
+function getVisibleCategories() {
+  try {
+    const saved = JSON.parse(localStorage.getItem(CUSTOMIZE_KEY) || 'null');
+    if (Array.isArray(saved) && saved.length > 0) return new Set(saved);
+  } catch {}
+  return null; // null = 全て表示
+}
+
+function setVisibleCategories(set) {
+  if (!set || set.size === ALL_CATEGORIES.length) {
+    localStorage.removeItem(CUSTOMIZE_KEY);
+  } else {
+    localStorage.setItem(CUSTOMIZE_KEY, JSON.stringify([...set]));
+  }
+}
+
+function buildCustomizeList() {
+  const visible = getVisibleCategories();
+  const list = document.getElementById('customizeList');
+  list.innerHTML = ALL_CATEGORIES.map(c => {
+    const checked = !visible || visible.has(c.id) ? 'checked' : '';
+    return `
+      <label class="customize-item">
+        <input type="checkbox" data-cat="${c.id}" ${checked}>
+        <span class="customize-item-label">${c.icon ? c.icon + ' ' : ''}${c.label}</span>
+      </label>
+    `;
+  }).join('');
+}
+
+function applyVisibleCategories() {
+  const visible = getVisibleCategories();
+  if (!visible) {
+    // 全表示 — タブを全て表示
+    document.querySelectorAll('[data-filter^="cat-"]').forEach(b => b.style.display = '');
+    return;
+  }
+  document.querySelectorAll('[data-filter^="cat-"]').forEach(btn => {
+    const cat = btn.dataset.filter.replace('cat-','');
+    btn.style.display = visible.has(cat) ? '' : 'none';
+  });
+  // 現在隠したカテゴリが選ばれていたら all に戻す
+  if (activeFilter.startsWith('cat-')) {
+    const cur = activeFilter.replace('cat-','');
+    if (!visible.has(cur)) {
+      activeFilter = 'all';
+      syncAllFilters('all');
+      applyFilter();
+    }
+  }
+}
+
+function initCustomize() {
+  document.getElementById('customizeSave').addEventListener('click', () => {
+    const checked = [...document.querySelectorAll('#customizeList input[type="checkbox"]:checked')]
+      .map(i => i.dataset.cat);
+    if (checked.length === 0) {
+      alert('少なくとも1つはカテゴリを選択してください');
+      return;
+    }
+    setVisibleCategories(new Set(checked));
+    applyVisibleCategories();
+    // 表示中のリストを再描画
+    if (typeof applyFilter === 'function') applyFilter();
+    closeModal('customizeModal');
+  });
+  document.getElementById('customizeReset').addEventListener('click', () => {
+    setVisibleCategories(null);
+    applyVisibleCategories();
+    if (typeof applyFilter === 'function') applyFilter();
+    closeModal('customizeModal');
+  });
+  // 初期適用
+  applyVisibleCategories();
+}
+
+// ════════════════════════════════════════════════════
+//  DIGEST HERO — 最新digestを読み込んで上部に表示
+// ════════════════════════════════════════════════════
+async function loadDigestHero() {
+  try {
+    const res = await fetch('./data/digests.json?v=' + Date.now());
+    if (!res.ok) throw new Error(res.status);
+    const data = await res.json();
+    const latest = data.articles && data.articles[0];
+    if (!latest) return;
+
+    const hero = document.getElementById('digestHero');
+    hero.href = `./digest.html?id=${encodeURIComponent(latest.id)}`;
+    document.getElementById('digestHeroTitle').textContent = latest.title || 'Today\'s Digest';
+    document.getElementById('digestHeroSummary').textContent = latest.summary || '';
+
+    // meta: 日付 + tags数
+    const date = latest.date ? new Date(latest.date).toLocaleDateString('ja-JP',
+      { year: 'numeric', month: 'short', day: 'numeric', weekday: 'short' }) : '';
+    document.getElementById('digestHeroMeta').textContent = date;
+
+    // tags
+    const tagsEl = document.getElementById('digestHeroTags');
+    if (Array.isArray(latest.tags) && latest.tags.length > 0) {
+      tagsEl.innerHTML = latest.tags.slice(0, 4)
+        .map(t => `<span class="digest-hero-tag">${escHtml(t)}</span>`).join('');
+    }
+
+    hero.style.display = 'block';
+  } catch (e) {
+    // digestがまだ無くてもサイトは動く
+    console.info('Digest未生成のためHeroは非表示:', e.message);
+  }
+}
+
 // ════════════════════════════════
 //  INIT
 // ════════════════════════════════
 initFilters();
 initMobileTabs();
 initTabDragScroll();
+initModals();
+initShare();
+initCustomize();
 loadNews();
+loadDigestHero();
 </script>
 </body>
 </html>
