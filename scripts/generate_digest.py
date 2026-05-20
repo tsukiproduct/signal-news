@@ -21,7 +21,14 @@ ARTICLES_DIR = Path(__file__).parent.parent / "docs" / "articles"
 DIGESTS_PATH = Path(__file__).parent.parent / "docs" / "data" / "digests.json"
 
 OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions"
-MODEL      = "openrouter/free"
+# 無料モデル候補（先頭から試して失敗したら次へフォールバック）
+# 2026年5月時点で稼働確認可能な無料モデル
+MODEL_FALLBACKS = [
+    "meta-llama/llama-3.3-70b-instruct:free",
+    "google/gemini-2.0-flash-exp:free",
+    "qwen/qwen3-235b-a22b:free",
+    "nousresearch/hermes-3-llama-3.1-405b:free",
+]
 MAX_TOKENS = 3000
 TEMPERATURE = 0.7
 
@@ -193,7 +200,8 @@ def pick_top_items(items: list) -> list:
     return selected
 
 
-def call_openrouter(items: list) -> dict | None:
+def call_openrouter_once(items: list, model: str) -> dict | None:
+    """単一モデルで1回API呼び出し。失敗時はNone。"""
     api_key = os.environ.get("OPENROUTER_API_KEY", "")
     if not api_key:
         print("  ⚠ OPENROUTER_API_KEY が未設定")
@@ -210,7 +218,7 @@ def call_openrouter(items: list) -> dict | None:
     ])
 
     payload = {
-        "model": MODEL,
+        "model": model,
         "max_tokens": MAX_TOKENS,
         "temperature": TEMPERATURE,
         "messages": [
@@ -237,30 +245,77 @@ def call_openrouter(items: list) -> dict | None:
     )
 
     try:
-        with urllib.request.urlopen(req, timeout=60) as resp:
+        with urllib.request.urlopen(req, timeout=120) as resp:
             data = json.loads(resp.read())
-
-        raw_text = data["choices"][0]["message"]["content"].strip()
-
-        if "```" in raw_text:
-            parts = raw_text.split("```")
-            for part in parts:
-                part = part.strip()
-                if part.startswith("json"):
-                    part = part[4:].strip()
-                if part.startswith("{"):
-                    raw_text = part
-                    break
-
-        return json.loads(raw_text.strip())
-
     except urllib.error.HTTPError as e:
         body = e.read().decode()
-        print(f"  ✗ OpenRouter API HTTP {e.code}: {body[:300]}")
+        print(f"  ✗ [{model}] HTTP {e.code}: {body[:300]}")
         return None
-    except (json.JSONDecodeError, KeyError, IndexError) as e:
-        print(f"  ✗ Parse error: {e}")
+    except Exception as e:
+        print(f"  ✗ [{model}] Request error: {e}")
         return None
+
+    # ── レスポンス構造を安全に検証 ──
+    if not isinstance(data, dict):
+        print(f"  ✗ [{model}] レスポンスがdictでない: {str(data)[:200]}")
+        return None
+
+    # OpenRouterのエラーフォーマット {"error": {...}}
+    if "error" in data:
+        err = data["error"]
+        print(f"  ✗ [{model}] API error: {err}")
+        return None
+
+    choices = data.get("choices")
+    if not choices or not isinstance(choices, list) or len(choices) == 0:
+        print(f"  ✗ [{model}] choicesが空: {str(data)[:300]}")
+        return None
+
+    message = choices[0].get("message") if isinstance(choices[0], dict) else None
+    if not isinstance(message, dict):
+        print(f"  ✗ [{model}] messageが取得できず: {str(choices[0])[:300]}")
+        return None
+
+    raw_text = message.get("content")
+    if not raw_text or not isinstance(raw_text, str):
+        # finish_reasonとrefusal/reasoningを表示
+        fr = choices[0].get("finish_reason", "?")
+        rea = message.get("reasoning") or message.get("refusal")
+        print(f"  ✗ [{model}] content空 (finish_reason={fr}): {str(rea)[:200]}")
+        return None
+
+    raw_text = raw_text.strip()
+
+    # JSONフェンス除去
+    if "```" in raw_text:
+        parts = raw_text.split("```")
+        for part in parts:
+            part = part.strip()
+            if part.startswith("json"):
+                part = part[4:].strip()
+            if part.startswith("{"):
+                raw_text = part
+                break
+
+    try:
+        return json.loads(raw_text.strip())
+    except json.JSONDecodeError as e:
+        print(f"  ✗ [{model}] JSON parse error: {e}")
+        print(f"     raw response preview: {raw_text[:300]}")
+        return None
+
+
+def call_openrouter(items: list) -> dict | None:
+    """無料モデルを順に試して最初に成功した結果を返す"""
+    for model in MODEL_FALLBACKS:
+        print(f"  → Trying model: {model}")
+        result = call_openrouter_once(items, model)
+        if result:
+            print(f"  ✓ Success with {model}")
+            return result
+        time.sleep(2)  # 次のモデル試行前に少し待つ
+    print("  ✗ 全ての無料モデルで失敗")
+    return None
 
 
 def build_article(article_data: dict, source_items: list, date_str: str, file_key: str = "") -> dict:
@@ -291,7 +346,7 @@ def build_article(article_data: dict, source_items: list, date_str: str, file_ke
             "disclosure": "※本リンクはアフィリエイトリンクです（PR）",
         },
         "legal": {
-            "ai_disclosure":  "この記事はAI（OpenRouter / Llama 3.1）が生成したコンテンツを含みます。",
+            "ai_disclosure":  "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
             "editorial_note": "事実関係は参照元記事をご確認ください。",
             "copyright_note": "引用部分の著作権は各原著作者に帰属します。",
         },
