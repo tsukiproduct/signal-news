@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "2026-05-20_evening-ai-agents-enterprise-tech-weekly",
+      "date": "2026-05-20",
+      "file_key": "2026-05-20_evening",
+      "title": "AIエージェントの現状と企業活用、今週の動向総まとめ",
+      "summary": "AIエージェントの普及が遅れる理由と企業導入の最前線。技術進歩とビジネス応用の動向を網羅。",
+      "tags": [
+        "AIエージェント",
+        "生成AI",
+        "ビジネスAI",
+        "イベント"
+      ],
+      "slug": "ai-agents-enterprise-tech-weekly"
+    },
+    {
       "id": "2026-05-20_afternoon-ai-news-digest-may-20-2026",
       "date": "2026-05-20",
       "file_key": "2026-05-20_afternoon",
@@ -155,5 +169,5 @@
       "slug": "ai-news-browser-automation-social-media"
     }
   ],
-  "updated_at": "2026-05-20T06:47:12.819369+00:00"
+  "updated_at": "2026-05-20T13:28:48.911689+00:00"
 }
