@@ -249,10 +249,53 @@ def fetch_hackernews(limit: int = 10) -> list:
                 "category": "Wow",
                 "priority": 1,
             })
-        print(f"  ✓ HackerNews: {len(items)} items")
+        print(f"  ✓ HackerNews (general): {len(items)} items")
         return items
     except Exception as e:
-        print(f"  ✗ HackerNews: {e}")
+        print(f"  ✗ HackerNews (general): {e}")
+        return []
+
+
+# ══════════════════════════════════════════
+# NEW: HackerNews 画像・動画生成キーワード検索
+# ══════════════════════════════════════════
+def fetch_hackernews_imagevideo(limit: int = 10) -> list:
+    """HackerNewsから画像/動画生成AI関連トップ記事を取得"""
+    # OR検索: 主要キーワードのいずれかを含む高評価記事
+    url = (
+        "https://hn.algolia.com/api/v1/search"
+        "?query=stable+diffusion+midjourney+sora+runway+image+generation+video+generation+flux"
+        "&tags=story"
+        "&numericFilters=points>30"
+        f"&hitsPerPage={limit}"
+    )
+    try:
+        req = Request(url, headers={"User-Agent": "SIGNALNewsBot/2.0"})
+        with urlopen(req, timeout=TIMEOUT) as resp:
+            data = json.loads(resp.read())
+
+        items = []
+        for hit in data.get("hits", []):
+            link = hit.get("url") or f"https://news.ycombinator.com/item?id={hit['objectID']}"
+            title = strip_html(hit.get("title", "")).strip()
+            if not title or not link:
+                continue
+            created = hit.get("created_at", "")
+            items.append({
+                "id":       make_id(link),
+                "title":    title,
+                "url":      link,
+                "summary":  f"▲ {hit.get('points',0)} points · {hit.get('num_comments',0)} comments on HackerNews",
+                "date":     parse_date(created) if created else datetime.now(timezone.utc).isoformat(),
+                "source":   "HackerNews",
+                "lang":     "en",
+                "category": "ImageVideo",
+                "priority": 1,
+            })
+        print(f"  ✓ HackerNews (image/video): {len(items)} items")
+        return items
+    except Exception as e:
+        print(f"  ✗ HackerNews (image/video): {e}")
         return []
 
 
@@ -385,6 +428,12 @@ def main():
 
     # ── HackerNews（Wow） ─────────────────────────────────────────────────
     for item in fetch_hackernews(limit=15):
+        if item["id"] not in seen_ids:
+            seen_ids.add(item["id"])
+            all_items.append(item)
+
+    # ── HackerNews（ImageVideo専用キーワード検索） ────────────────────────
+    for item in fetch_hackernews_imagevideo(limit=12):
         if item["id"] not in seen_ids:
             seen_ids.add(item["id"])
             all_items.append(item)
