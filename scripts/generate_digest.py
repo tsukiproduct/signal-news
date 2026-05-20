@@ -22,15 +22,19 @@ DIGESTS_PATH = Path(__file__).parent.parent / "docs" / "data" / "digests.json"
 
 OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions"
 # 無料モデル候補（先頭から試して失敗したら次へフォールバック）
-# 2026年5月時点で稼働確認可能な無料モデル
+# 推奨先頭: openrouter/free は利用可能な無料モデルを自動で選ぶ公式ルーター
+# それでも失敗した場合に個別の堅実な無料モデルを試す
 MODEL_FALLBACKS = [
-    "meta-llama/llama-3.3-70b-instruct:free",
-    "google/gemini-2.0-flash-exp:free",
-    "qwen/qwen3-235b-a22b:free",
-    "nousresearch/hermes-3-llama-3.1-405b:free",
+    "openrouter/free",                              # 公式ルーター（最優先）
+    "deepseek/deepseek-chat-v3.1:free",             # 安定的・大規模MoE
+    "meta-llama/llama-3.3-70b-instruct:free",       # Llama定番
+    "mistralai/mistral-small-3.1-24b-instruct:free",# Mistral軽量
+    "meta-llama/llama-3.1-8b-instruct:free",        # 最終フォールバック
 ]
 MAX_TOKENS = 3000
 TEMPERATURE = 0.7
+RETRY_ATTEMPTS_PER_MODEL = 2     # 各モデルで最大2回試行
+RETRY_DELAY_SEC = 5              # リトライ前の待機秒数
 
 TOP_ARTICLES   = 5
 MAX_DIGESTS    = 30
@@ -200,12 +204,14 @@ def pick_top_items(items: list) -> list:
     return selected
 
 
-def call_openrouter_once(items: list, model: str) -> dict | None:
-    """単一モデルで1回API呼び出し。失敗時はNone。"""
+def call_openrouter_once(items: list, model: str) -> tuple[dict | None, str]:
+    """単一モデルで1回API呼び出し。戻り値は (結果dict or None, ステータス文字列)。
+    ステータス: 'ok', 'rate_limited', 'not_found', 'parse_error', 'other'
+    """
     api_key = os.environ.get("OPENROUTER_API_KEY", "")
     if not api_key:
         print("  ⚠ OPENROUTER_API_KEY が未設定")
-        return None
+        return None, "no_key"
 
     news_list = "\n".join([
         f"[{i+1}] カテゴリ: {it.get('category','AI')} | タイトル: {it['title']}\n"
@@ -233,7 +239,7 @@ def call_openrouter_once(items: list, model: str) -> dict | None:
     headers = {
         "Content-Type": "application/json",
         "Authorization": f"Bearer {api_key}",
-        "HTTP-Referer": "https://github.com/tsukiproduct/signal-news",
+        "HTTP-Referer": "https://tsukiproduct.github.io/signal-news/",
         "X-Title": "SIGNAL AI News",
     }
 
@@ -249,40 +255,45 @@ def call_openrouter_once(items: list, model: str) -> dict | None:
             data = json.loads(resp.read())
     except urllib.error.HTTPError as e:
         body = e.read().decode()
-        print(f"  ✗ [{model}] HTTP {e.code}: {body[:300]}")
-        return None
+        print(f"  ✗ [{model}] HTTP {e.code}: {body[:200]}")
+        if e.code == 429:
+            return None, "rate_limited"
+        if e.code == 404:
+            return None, "not_found"
+        return None, "other"
     except Exception as e:
         print(f"  ✗ [{model}] Request error: {e}")
-        return None
+        return None, "other"
 
     # ── レスポンス構造を安全に検証 ──
     if not isinstance(data, dict):
-        print(f"  ✗ [{model}] レスポンスがdictでない: {str(data)[:200]}")
-        return None
+        return None, "other"
 
-    # OpenRouterのエラーフォーマット {"error": {...}}
     if "error" in data:
         err = data["error"]
+        code = err.get("code") if isinstance(err, dict) else None
         print(f"  ✗ [{model}] API error: {err}")
-        return None
+        if code == 429:
+            return None, "rate_limited"
+        if code == 404:
+            return None, "not_found"
+        return None, "other"
 
     choices = data.get("choices")
-    if not choices or not isinstance(choices, list) or len(choices) == 0:
-        print(f"  ✗ [{model}] choicesが空: {str(data)[:300]}")
-        return None
+    if not choices or not isinstance(choices, list):
+        print(f"  ✗ [{model}] choicesが空: {str(data)[:200]}")
+        return None, "other"
 
     message = choices[0].get("message") if isinstance(choices[0], dict) else None
     if not isinstance(message, dict):
-        print(f"  ✗ [{model}] messageが取得できず: {str(choices[0])[:300]}")
-        return None
+        return None, "other"
 
     raw_text = message.get("content")
     if not raw_text or not isinstance(raw_text, str):
-        # finish_reasonとrefusal/reasoningを表示
         fr = choices[0].get("finish_reason", "?")
         rea = message.get("reasoning") or message.get("refusal")
         print(f"  ✗ [{model}] content空 (finish_reason={fr}): {str(rea)[:200]}")
-        return None
+        return None, "other"
 
     raw_text = raw_text.strip()
 
@@ -298,22 +309,33 @@ def call_openrouter_once(items: list, model: str) -> dict | None:
                 break
 
     try:
-        return json.loads(raw_text.strip())
+        return json.loads(raw_text.strip()), "ok"
     except json.JSONDecodeError as e:
         print(f"  ✗ [{model}] JSON parse error: {e}")
-        print(f"     raw response preview: {raw_text[:300]}")
-        return None
+        print(f"     raw preview: {raw_text[:300]}")
+        return None, "parse_error"
 
 
 def call_openrouter(items: list) -> dict | None:
-    """無料モデルを順に試して最初に成功した結果を返す"""
+    """無料モデルを順に試す。
+    - 429 (rate limited) → 同じモデルで RETRY_DELAY_SEC 待ってリトライ
+    - 404 (not found) → すぐ次のモデルへ
+    - parse_error → すぐ次のモデルへ
+    """
     for model in MODEL_FALLBACKS:
-        print(f"  → Trying model: {model}")
-        result = call_openrouter_once(items, model)
-        if result:
-            print(f"  ✓ Success with {model}")
-            return result
-        time.sleep(2)  # 次のモデル試行前に少し待つ
+        for attempt in range(1, RETRY_ATTEMPTS_PER_MODEL + 1):
+            print(f"  → Trying model: {model} (attempt {attempt})")
+            result, status = call_openrouter_once(items, model)
+            if status == "ok" and result:
+                print(f"  ✓ Success with {model}")
+                return result
+            if status == "rate_limited" and attempt < RETRY_ATTEMPTS_PER_MODEL:
+                print(f"     rate limited — waiting {RETRY_DELAY_SEC}s before retry…")
+                time.sleep(RETRY_DELAY_SEC)
+                continue
+            # rate_limited以外、または最終試行 → break して次モデルへ
+            break
+        time.sleep(2)
     print("  ✗ 全ての無料モデルで失敗")
     return None
 
@@ -397,8 +419,9 @@ def main():
     article_data = call_openrouter(top_items)
 
     if not article_data:
-        print("  ✗ 記事生成失敗")
-        sys.exit(1)
+        print("  ⚠ digest記事の生成は失敗しましたが、news.jsonは更新されているのでPhase 2.5は終了します")
+        # exit 0 にすることでPipeline全体は成功扱い（news.jsonは正常にコミットされる）
+        sys.exit(0)
 
     jst     = timezone(timedelta(hours=9))
     now_jst = datetime.now(jst)
