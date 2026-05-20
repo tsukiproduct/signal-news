@@ -1227,6 +1227,23 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
   gap: 14px;
 }
 
+/* Digest Hero 既読時 — 薄く表示 */
+.digest-hero.is-read {
+  opacity: 0.55;
+  border-color: var(--border);
+  background: linear-gradient(135deg, rgba(201,168,76,0.02) 0%, transparent 100%);
+}
+.digest-hero.is-read::before {
+  background: linear-gradient(90deg, transparent, var(--border-light), transparent);
+}
+.digest-hero.is-read .digest-hero-label::after {
+  content: ' · ✓ 既読';
+  color: var(--text-dim);
+}
+.digest-hero.is-read:hover {
+  opacity: 0.85;
+}
+
 /* ════════════════════════════════════════════════════
    MODAL（About / Share / Customize共通）
 ════════════════════════════════════════════════════ */
@@ -2517,6 +2534,7 @@ function initCustomize() {
 
 // ════════════════════════════════════════════════════
 //  DIGEST HERO — 最新digestを読み込んで上部に表示
+//  既読時は薄く表示する
 // ════════════════════════════════════════════════════
 async function loadDigestHero() {
   try {
@@ -2527,11 +2545,14 @@ async function loadDigestHero() {
     if (!latest) return;
 
     const hero = document.getElementById('digestHero');
-    hero.href = `./digest.html?id=${encodeURIComponent(latest.id)}`;
+    const digestUrl = `./digest.html?id=${encodeURIComponent(latest.id)}`;
+    hero.href = digestUrl;
+    hero.dataset.id = latest.id;
+
     document.getElementById('digestHeroTitle').textContent = latest.title || 'Today\'s Digest';
     document.getElementById('digestHeroSummary').textContent = latest.summary || '';
 
-    // meta: 日付 + tags数
+    // meta: 日付
     const date = latest.date ? new Date(latest.date).toLocaleDateString('ja-JP',
       { year: 'numeric', month: 'short', day: 'numeric', weekday: 'short' }) : '';
     document.getElementById('digestHeroMeta').textContent = date;
@@ -2542,6 +2563,18 @@ async function loadDigestHero() {
       tagsEl.innerHTML = latest.tags.slice(0, 4)
         .map(t => `<span class="digest-hero-tag">${escHtml(t)}</span>`).join('');
     }
+
+    // 既読チェック: 開いたことがあれば 'is-read' を付与
+    const readIds = getReadIds();
+    if (readIds.has('digest:' + latest.id)) {
+      hero.classList.add('is-read');
+    }
+
+    // クリック時に既読マーク
+    hero.addEventListener('click', () => {
+      markRead('digest:' + latest.id);
+      hero.classList.add('is-read');
+    });
 
     hero.style.display = 'block';
   } catch (e) {
