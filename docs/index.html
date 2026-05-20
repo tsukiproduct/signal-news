@@ -41,10 +41,9 @@
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-/* スマホ横ずれ・スワイプずれ防止 */
+/* スマホ横ずれ防止 — overflow-xはhtml/bodyに設定しない（子要素のスクロールを殺すため） */
 html {
   scroll-behavior: smooth;
-  overflow-x: hidden;
   overscroll-behavior-x: none;
 }
 
@@ -56,9 +55,9 @@ body {
   line-height: 1.65;
   -webkit-font-smoothing: antialiased;
   min-height: 100vh;
-  overflow-x: hidden;
   overscroll-behavior-x: none;
   width: 100%;
+  max-width: 100vw;
   position: relative;
 }
 
@@ -95,6 +94,7 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
   align-items: center;
   justify-content: space-between;
   gap: 24px;
+  box-sizing: border-box;
 }
 
 .logo {
@@ -125,9 +125,13 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
   display: flex;
   align-items: center;
   gap: 4px;
-  flex: 1;
+  flex: 1 1 auto;
+  min-width: 0;
   justify-content: center;
+  overflow-x: auto;
+  scrollbar-width: none;
 }
+.header-nav::-webkit-scrollbar { display: none; }
 
 .nav-btn {
   padding: 5px 14px;
@@ -226,6 +230,9 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
   margin: 0 auto;
   padding: 0 24px 80px;
   position: relative; z-index: 1;
+  width: 100%;
+  box-sizing: border-box;
+  overflow-x: hidden;
 }
 
 /* ════════════════════════════════
@@ -332,16 +339,19 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
 ════════════════════════════════ */
 .featured-grid {
   display: grid;
-  grid-template-columns: 1.8fr 1fr 1fr;
-  grid-template-rows: auto;
+  grid-template-columns: 1fr;
   gap: 1px;
   background: var(--border);
   border: 1px solid var(--border);
   border-radius: 6px;
   overflow: hidden;
   margin-bottom: 48px;
-  min-width: 0;
   width: 100%;
+  box-sizing: border-box;
+}
+/* PC: 3カラム */
+@media (min-width: 801px) {
+  .featured-grid { grid-template-columns: 1.6fr 1fr 1fr; }
 }
 
 .card-featured {
@@ -354,8 +364,6 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
 .card-featured:hover { background: var(--surface2); }
 
 .card-featured:first-child {
-  grid-row: 1;
-  grid-column: 1;
   border-right: 1px solid var(--border);
 }
 
@@ -448,13 +456,18 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
 ════════════════════════════════ */
 .news-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(min(340px, 100%), 1fr));
+  grid-template-columns: 1fr;
   gap: 1px;
   background: var(--border);
   border: 1px solid var(--border);
   border-radius: 6px;
   overflow: hidden;
   width: 100%;
+  box-sizing: border-box;
+}
+/* PC: 2カラム（サイドバーありのため） */
+@media (min-width: 801px) {
+  .news-grid { grid-template-columns: 1fr 1fr; }
 }
 
 .card {
@@ -520,10 +533,16 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
 ════════════════════════════════ */
 .page-layout {
   display: grid;
-  grid-template-columns: 1fr 280px;
+  grid-template-columns: minmax(0, 1fr) 280px;
   gap: 40px;
   align-items: start;
+  width: 100%;
+  min-width: 0;
+  box-sizing: border-box;
 }
+
+/* JS から is-visible が付くまで非表示 */
+#pageLayout:not(.is-visible) { display: none !important; }
 
 .sidebar {
   position: sticky;
@@ -727,49 +746,47 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
 }
 
 @media (max-width: 800px) {
+  /* featured / news grids はベースで既に1カラム。念のため明示 */
   .featured-grid { grid-template-columns: 1fr; }
-  .card-featured:first-child { border-right: none; border-bottom: 1px solid var(--border); }
-  .header-nav { display: none; }
   .news-grid { grid-template-columns: 1fr; }
+  .card-featured:first-child {
+    border-right: none;
+    border-bottom: 1px solid var(--border);
+  }
 
-  /* ヘッダーのDigestボタン省スペース化 */
+  /* page-layout: 1カラム + サイドバー非表示 */
+  .page-layout { grid-template-columns: 1fr; }
+  .sidebar { display: none; }
+
+  /* header */
+  .header-nav { display: none; }
   .header-inner { gap: 12px; }
 
-  /* カードのpadding縮小 */
+  /* padding */
+  .main-wrap { padding: 0 12px 80px; }
   .card { padding: 18px 16px 16px; }
-  .card-featured { padding: 20px 18px; }
+  .card-featured { padding: 20px 16px; }
 
-  /* フィルター検索欄をモバイルで非表示（チップで十分） */
+  /* misc */
   .search-wrap { display: none; }
-
-  /* section-headerの余白縮小 */
   .section-header { padding: 28px 0 16px; }
+  .mobile-tab-bar { display: block !important; }
+  .mobile-tab-spacer { display: block !important; }
+  .filter-row { display: none !important; }
 }
 
 @media (max-width: 500px) {
   .header-inner { padding: 0 14px; height: 56px; }
   .logo-mark { font-size: 18px; }
   .logo-sub { display: none; }
-  .main-wrap { padding: 0 14px 60px; }
-
-  /* featured cardのpadding最小化 */
-  .card-featured { padding: 18px 14px; }
+  .main-wrap { padding: 0 12px 60px; }
+  .card-featured { padding: 16px 12px; }
   .card-featured:first-child h3 { font-size: 18px; }
-
-  /* ticker文字サイズ縮小 */
   .ticker-item { font-size: 10px; padding: 0 24px; }
   .ticker-label { padding: 0 12px; font-size: 8px; }
-
-  /* カードメタ情報の折り返し防止 */
   .card-meta { font-size: 9px; flex-wrap: wrap; gap: 6px; }
-
-  /* アフィリエイトブロックのpadding縮小 */
   .aff-card { padding: 12px; }
-
-  /* スクロールトップボタンを右下から少し内側に */
   .scroll-top { bottom: 20px; right: 16px; }
-
-  /* filter-chip のタップ領域を広げる */
   .filter-chip { padding: 7px 14px; font-size: 12px; min-height: 36px; }
 }
 
@@ -824,6 +841,246 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
   color: var(--text-dim);
   font-size: 14px;
 }
+
+/* ════════════════════════════════
+   新カテゴリ アクセントカラー
+════════════════════════════════ */
+/* Wow — 電気ブルー */
+.nav-btn--wow.active, .mobile-tab--wow.active { color: #5bc4ff; }
+.filter-chip--wow.active { background: #5bc4ff; border-color: #5bc4ff; color: #000; }
+.mobile-tab--wow::after  { background: #5bc4ff; }
+
+/* Events — ミントグリーン */
+.nav-btn--events.active, .mobile-tab--events.active { color: #5fbdad; }
+.filter-chip--events.active { background: #5fbdad; border-color: #5fbdad; color: #000; }
+.mobile-tab--events::after  { background: #5fbdad; }
+
+/* Prompts — パープル */
+.nav-btn--prompts.active, .mobile-tab--prompts.active { color: #b07fff; }
+.filter-chip--prompts.active { background: #b07fff; border-color: #b07fff; color: #000; }
+.mobile-tab--prompts::after  { background: #b07fff; }
+
+/* Image/Video — オレンジ */
+.nav-btn--iv.active, .mobile-tab--iv.active { color: #ff9f5a; }
+.filter-chip--iv.active { background: #ff9f5a; border-color: #ff9f5a; color: #000; }
+.mobile-tab--iv::after  { background: #ff9f5a; }
+
+/* ════════════════════════════════
+   EVENTS カード専用スタイル
+════════════════════════════════ */
+.card--event {
+  border-left: 3px solid var(--teal);
+}
+.card--event .event-date-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.1em;
+  color: var(--teal);
+  background: rgba(95,189,173,0.08);
+  border: 1px solid rgba(95,189,173,0.2);
+  border-radius: 3px;
+  padding: 3px 8px;
+  margin-bottom: 8px;
+}
+.card--event .event-place {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  color: var(--text-dim);
+  margin-top: 4px;
+}
+.card--event .event-online-badge {
+  display: inline-block;
+  font-size: 9px;
+  padding: 1px 6px;
+  border-radius: 2px;
+  background: rgba(95,189,173,0.12);
+  color: var(--teal);
+  margin-left: 6px;
+  letter-spacing: 0.08em;
+}
+
+/* ════════════════════════════════
+   WOW カード専用スタイル
+════════════════════════════════ */
+.card--wow {
+  border-left: 3px solid #5bc4ff;
+}
+.card--wow .wow-score {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  color: #5bc4ff;
+}
+
+/* ════════════════════════════════
+   PROMPTS カード専用スタイル
+════════════════════════════════ */
+.card--prompts {
+  border-left: 3px solid #b07fff;
+}
+
+/* ════════════════════════════════
+   IMAGEVIDEO カード専用スタイル
+════════════════════════════════ */
+.card--imagevideo {
+  border-left: 3px solid #ff9f5a;
+}
+
+/* ════════════════════════════════
+   MOBILE STICKY TAB BAR
+════════════════════════════════ */
+.mobile-tab-bar {
+  display: none;
+  position: sticky;
+  top: 56px;
+  z-index: 90;
+  background: rgba(13,13,13,0.96);
+  backdrop-filter: blur(16px);
+  border-bottom: 1px solid var(--border);
+  /* スクロール設定 */
+  overflow-x: auto;
+  overflow-y: hidden;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  /* タッチ操作を横方向に明示 */
+  touch-action: pan-x;
+}
+.mobile-tab-bar::-webkit-scrollbar { display: none; }
+
+/* fixedにしたぶん高さ分のスペーサー */
+.mobile-tab-spacer {
+  display: none;
+  height: 44px;
+}
+
+.mobile-tab-inner {
+  display: flex;
+  align-items: stretch;
+  white-space: nowrap;
+  padding: 0 4px;
+  min-width: max-content;
+}
+
+.mobile-tab {
+  padding: 0 16px;
+  height: 44px;
+  display: inline-flex;
+  align-items: center;
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--text-muted);
+  letter-spacing: 0.02em;
+  position: relative;
+  transition: color var(--transition);
+  flex-shrink: 0;
+}
+.mobile-tab::after {
+  content: '';
+  position: absolute;
+  bottom: 0; left: 16px; right: 16px;
+  height: 2px;
+  background: var(--gold);
+  transform: scaleX(0);
+  transition: transform var(--transition);
+  border-radius: 2px 2px 0 0;
+}
+.mobile-tab.active { color: var(--gold); }
+.mobile-tab.active::after { transform: scaleX(1); }
+
+
+/* ════════════════════════════════
+   既読表示
+════════════════════════════════ */
+.card.is-read,
+.card-featured.is-read {
+  opacity: 0.5;
+}
+.card.is-read h3,
+.card-featured.is-read h3 {
+  color: var(--text-dim);
+}
+.read-indicator {
+  display: none;
+  font-family: var(--font-mono);
+  font-size: 9px;
+  letter-spacing: 0.1em;
+  color: var(--text-dim);
+  text-transform: uppercase;
+}
+.is-read .read-indicator { display: inline; }
+
+/* ════════════════════════════════
+   INLINE AFFILIATE CARD (記事間挿入)
+════════════════════════════════ */
+.inline-aff {
+  background: var(--surface);
+  border: 1px solid var(--gold-dim);
+  border-radius: 6px;
+  padding: 16px 20px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  transition: border-color var(--transition);
+  text-decoration: none;
+  color: inherit;
+}
+.inline-aff:hover { border-color: var(--gold); }
+
+.inline-aff-icon {
+  font-size: 32px;
+  flex-shrink: 0;
+  line-height: 1;
+}
+.inline-aff-body { flex: 1; min-width: 0; }
+.inline-aff-label {
+  font-family: var(--font-mono);
+  font-size: 9px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--gold-dim);
+  margin-bottom: 4px;
+}
+.inline-aff-title {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--text);
+  margin-bottom: 2px;
+}
+.inline-aff-sub {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--gold);
+}
+.inline-aff-cta {
+  flex-shrink: 0;
+  padding: 8px 16px;
+  background: var(--gold);
+  color: #000;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  border-radius: 3px;
+  white-space: nowrap;
+}
+
+/* inline-aff をグリッドのfull-width行に */
+.news-grid-item--aff {
+  grid-column: 1 / -1;
+  padding: 12px;
+  background: var(--bg);
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+}
+
+/* ════════════════════════════════
+   PC GRID — 横長画面では3カラム
+════════════════════════════════ */
+@media (min-width: 1400px) {
+  .news-grid { grid-template-columns: 1fr 1fr 1fr; }
+}
 </style>
 </head>
 
@@ -845,6 +1102,10 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
       <button class="nav-btn" data-filter="cat-Tech">Tech</button>
       <button class="nav-btn" data-filter="cat-Safety">Safety</button>
       <button class="nav-btn" data-filter="cat-Policy">Policy</button>
+      <button class="nav-btn nav-btn--wow" data-filter="cat-Wow">⚡ Wow</button>
+      <button class="nav-btn nav-btn--events" data-filter="cat-Events">📅 Events</button>
+      <button class="nav-btn nav-btn--prompts" data-filter="cat-Prompts">✦ Prompts</button>
+      <button class="nav-btn nav-btn--iv" data-filter="cat-ImageVideo">🎨 Image/Video</button>
       <button class="nav-btn" data-filter="lang-ja">🇯🇵 JP</button>
       <button class="nav-btn" data-filter="lang-en">🌐 EN</button>
     </nav>
@@ -872,12 +1133,33 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
 <!-- TICKER -->
 <div class="ticker-bar">
   <div class="ticker-label">LIVE</div>
-  <div style="overflow:hidden;flex:1;">
+  <div style="overflow:hidden;flex:1;min-width:0;">
     <div class="ticker-track" id="tickerTrack">
       <span class="ticker-item" id="tickerLoading">最新AIニュースを読み込み中…</span>
     </div>
   </div>
 </div>
+
+<!-- MOBILE TAB BAR (SmartNews風) -->
+<div class="mobile-tab-bar" id="mobileTabBar">
+  <div class="mobile-tab-inner">
+    <button class="mobile-tab active" data-filter="all">すべて</button>
+    <button class="mobile-tab" data-filter="cat-AI">AI</button>
+    <button class="mobile-tab" data-filter="cat-Research">Research</button>
+    <button class="mobile-tab" data-filter="cat-Industry">Industry</button>
+    <button class="mobile-tab" data-filter="cat-Tech">Tech</button>
+    <button class="mobile-tab" data-filter="cat-Safety">Safety</button>
+    <button class="mobile-tab" data-filter="cat-Policy">Policy</button>
+    <button class="mobile-tab mobile-tab--wow" data-filter="cat-Wow">⚡ Wow</button>
+    <button class="mobile-tab mobile-tab--events" data-filter="cat-Events">📅 Events</button>
+    <button class="mobile-tab mobile-tab--prompts" data-filter="cat-Prompts">✦ Prompts</button>
+    <button class="mobile-tab mobile-tab--iv" data-filter="cat-ImageVideo">🎨 Image/Video</button>
+    <button class="mobile-tab" data-filter="lang-ja">🇯🇵 JP</button>
+    <button class="mobile-tab" data-filter="lang-en">🌐 EN</button>
+  </div>
+</div>
+<!-- タブバーがfixedなのでコンテンツが隠れないようスペーサー -->
+<div class="mobile-tab-spacer"></div>
 
 <!-- MAIN -->
 <div class="main-wrap">
@@ -891,6 +1173,10 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
     <button class="filter-chip" data-filter="cat-Tech">Tech</button>
     <button class="filter-chip" data-filter="cat-Safety">Safety</button>
     <button class="filter-chip" data-filter="cat-Policy">Policy</button>
+    <button class="filter-chip filter-chip--wow" data-filter="cat-Wow">⚡ Wow</button>
+    <button class="filter-chip filter-chip--events" data-filter="cat-Events">📅 Events</button>
+    <button class="filter-chip filter-chip--prompts" data-filter="cat-Prompts">✦ Prompts</button>
+    <button class="filter-chip filter-chip--iv" data-filter="cat-ImageVideo">🎨 Image/Video</button>
     <button class="filter-chip" data-filter="lang-ja">🇯🇵 日本語</button>
     <button class="filter-chip" data-filter="lang-en">🌐 English</button>
     <div class="search-wrap">
@@ -923,7 +1209,7 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
   </div>
 
   <!-- Page layout with sidebar -->
-  <div class="page-layout" id="pageLayout" style="display:none;">
+  <div class="page-layout" id="pageLayout">
     <div>
       <div class="section-header">
         <div class="section-title">
@@ -1043,7 +1329,103 @@ function escHtml(s) {
 }
 
 // ════════════════════════════════
-//  RENDER
+//  既読管理
+// ════════════════════════════════
+const READ_KEY = 'signal_read_ids';
+
+function getReadIds() {
+  try { return new Set(JSON.parse(localStorage.getItem(READ_KEY) || '[]')); }
+  catch { return new Set(); }
+}
+
+function markRead(id) {
+  const ids = getReadIds();
+  ids.add(id);
+  // 最大500件まで保持
+  const arr = [...ids].slice(-500);
+  localStorage.setItem(READ_KEY, JSON.stringify(arr));
+}
+
+// ════════════════════════════════
+//  INLINE AFFILIATE DATA
+// ════════════════════════════════
+const INLINE_AFFS = [
+  {
+    icon: '👑',
+    label: 'Sponsored',
+    title: 'Amazon プライム — 30日間無料体験',
+    sub: '月額600円〜 / 年額5,900円',
+    cta: '無料で試す →',
+    url: 'https://www.amazon.co.jp/prime?tag=tsukiproduct-22'
+  },
+  {
+    icon: '📖',
+    label: 'Sponsored',
+    title: 'Kindle Unlimited — AI・Tech本 読み放題',
+    sub: '月額980円 / 初回30日無料',
+    cta: '読み放題を試す →',
+    url: 'https://www.amazon.co.jp/kindle-dbs/ku/signup?tag=tsukiproduct-22'
+  },
+];
+
+function affCard(aff) {
+  return `
+    <div class="news-grid-item--aff">
+      <a class="inline-aff" href="${escHtml(aff.url)}" target="_blank" rel="noopener sponsored">
+        <div class="inline-aff-icon">${aff.icon}</div>
+        <div class="inline-aff-body">
+          <div class="inline-aff-label">${aff.label}</div>
+          <div class="inline-aff-title">${escHtml(aff.title)}</div>
+          <div class="inline-aff-sub">${escHtml(aff.sub)}</div>
+        </div>
+        <div class="inline-aff-cta">${aff.cta}</div>
+      </a>
+    </div>
+  `;
+}
+// カテゴリ別カードクラスを返す
+function cardClass(category) {
+  const map = {
+    'Events':     'card--event',
+    'Wow':        'card--wow',
+    'Prompts':    'card--prompts',
+    'ImageVideo': 'card--imagevideo',
+  };
+  return map[category] || '';
+}
+
+// Eventsカード専用HTML
+function renderEventCard(it, i, isRead) {
+  const isOnline = it.event_online || !it.event_place || it.event_place === 'オンライン';
+  const place    = it.event_place || 'オンライン';
+  return `
+    <a href="${escHtml(it.url)}" target="_blank" rel="noopener"
+       class="card card--event${isRead ? ' is-read' : ''}" style="animation-delay:${Math.min(i,20)*40}ms"
+       data-id="${escHtml(it.id)}"
+       onclick="onArticleClick('${escHtml(it.id)}',this)">
+      <div class="card-top">
+        <div style="display:flex;align-items:center;gap:6px;">
+          <span class="card-category">Events</span>
+          <span class="read-indicator">✓ 既読</span>
+        </div>
+        ${langBadge(it.lang)}
+      </div>
+      ${it.event_date ? `<div class="event-date-badge">📅 ${escHtml(it.event_date)}</div>` : ''}
+      <h3>${escHtml(it.title)}</h3>
+      <div class="event-place">
+        📍 ${escHtml(place.slice(0,40))}
+        ${isOnline ? '<span class="event-online-badge">ONLINE</span>' : ''}
+      </div>
+      <div class="card-meta">
+        <span class="card-source">${escHtml(it.source)}</span>
+        <span class="meta-sep">·</span>
+        <span>${relativeTime(it.date)}</span>
+      </div>
+    </a>
+  `;
+}
+// ════════════════════════════════
+//  RENDER HELPERS
 // ════════════════════════════════
 function langBadge(lang) {
   return `<span class="lang-badge ${lang}">${lang === 'ja' ? 'JP' : 'EN'}</span>`;
@@ -1060,12 +1442,16 @@ function getSummary(it) {
 }
 
 function renderFeatured(items) {
+  const readIds = getReadIds();
   const el = document.getElementById('featuredGrid');
-  el.innerHTML = items.slice(0,3).map((it, i) => `
-    <article class="card-featured" style="animation-delay:${i*60}ms">
+  el.innerHTML = items.slice(0,3).map((it, i) => {
+    const isRead = readIds.has(it.id);
+    return `
+    <article class="card-featured${isRead ? ' is-read' : ''}" style="animation-delay:${i*60}ms" data-id="${escHtml(it.id)}">
       <div style="display:flex;align-items:center;margin-bottom:4px;">
         <div class="card-category">${escHtml(it.category)}</div>
         ${scoreBadge(it.score)}
+        <span class="read-indicator" style="margin-left:8px;">✓ 既読</span>
       </div>
       ${langBadge(it.lang)}
       <h3>${escHtml(it.title)}</h3>
@@ -1076,41 +1462,69 @@ function renderFeatured(items) {
         <span class="meta-sep">·</span>
         <span>${relativeTime(it.date)}</span>
       </div>
-      <a class="read-link" href="${escHtml(it.url)}" target="_blank" rel="noopener">
+      <a class="read-link" href="${escHtml(it.url)}" target="_blank" rel="noopener"
+         onclick="onArticleClick('${escHtml(it.id)}',this)">
         続きを読む <span>→</span>
       </a>
     </article>
-  `).join('');
+  `}).join('');
 
   document.getElementById('featuredCount').textContent = `TOP ${Math.min(items.length,3)}`;
 }
 
 function renderGrid(items) {
+  const readIds = getReadIds();
   const el = document.getElementById('newsGrid');
   if (!items.length) {
     el.innerHTML = `<div class="no-results">該当するニュースが見つかりませんでした</div>`;
     return;
   }
-  el.innerHTML = items.slice(3).map((it, i) => `
-    <a href="${escHtml(it.url)}" target="_blank" rel="noopener"
-       class="card" style="animation-delay:${Math.min(i,20)*40}ms">
-      <div class="card-top">
-        <div style="display:flex;align-items:center;gap:6px;">
-          <span class="card-category">${escHtml(it.category)}</span>
-          ${scoreBadge(it.score)}
+  const list = items.slice(3);
+  const AFF_INTERVAL = 5; // 5件ごとにアフィリエイト挿入
+  let html = '';
+  list.forEach((it, i) => {
+    // アフィリエイト挿入 (5件目、10件目…)
+    if (i > 0 && i % AFF_INTERVAL === 0) {
+      const aff = INLINE_AFFS[(Math.floor(i / AFF_INTERVAL) - 1) % INLINE_AFFS.length];
+      html += affCard(aff);
+    }
+    const isRead = readIds.has(it.id);
+
+    // Eventsは専用レンダリング
+    if (it.category === 'Events') {
+      html += renderEventCard(it, i, isRead);
+      return;
+    }
+
+    // Wowカード: HNスコアをsummaryから抽出して表示
+    const isWow = it.category === 'Wow';
+    const extraClass = cardClass(it.category);
+
+    html += `
+      <a href="${escHtml(it.url)}" target="_blank" rel="noopener"
+         class="card${extraClass ? ' '+extraClass : ''}${isRead ? ' is-read' : ''}" style="animation-delay:${Math.min(i,20)*40}ms"
+         data-id="${escHtml(it.id)}"
+         onclick="onArticleClick('${escHtml(it.id)}',this)">
+        <div class="card-top">
+          <div style="display:flex;align-items:center;gap:6px;">
+            <span class="card-category">${escHtml(it.category)}</span>
+            ${scoreBadge(it.score)}
+          </div>
+          <span class="read-indicator">✓ 既読</span>
+          ${langBadge(it.lang)}
         </div>
-        ${langBadge(it.lang)}
-      </div>
-      <h3>${escHtml(it.title)}</h3>
-      ${getSummary(it) ? `<p>${escHtml(getSummary(it))}</p>` : ''}
-      <div class="card-meta">
-        <span class="card-source">${escHtml(it.source)}</span>
-        <span class="meta-sep">·</span>
-        <span>${relativeTime(it.date)}</span>
-        ${it.reason ? `<span class="meta-sep">·</span><span style="color:var(--gold-dim)">${escHtml(it.reason)}</span>` : ''}
-      </div>
-    </a>
-  `).join('');
+        <h3>${escHtml(it.title)}</h3>
+        ${getSummary(it) ? `<p>${escHtml(getSummary(it))}</p>` : ''}
+        <div class="card-meta">
+          <span class="card-source">${escHtml(it.source)}</span>
+          <span class="meta-sep">·</span>
+          <span>${relativeTime(it.date)}</span>
+          ${it.reason ? `<span class="meta-sep">·</span><span style="color:var(--gold-dim)">${escHtml(it.reason)}</span>` : ''}
+        </div>
+      </a>
+    `;
+  });
+  el.innerHTML = html;
 
   document.getElementById('latestCount').textContent = `${items.length - 3} articles`;
 }
@@ -1147,7 +1561,9 @@ function applyFilter() {
       items = items.filter(it => it.category === cat);
     } else if (activeFilter.startsWith('lang-')) {
       const lang = activeFilter.slice(5);
-      items = items.filter(it => it.lang === lang);
+      // Events/Wow/Prompts/ImageVideoはlangフィルタ対象外（全言語表示）
+      const NON_LANG_CATS = new Set(['Events','Wow','Prompts','ImageVideo']);
+      items = items.filter(it => NON_LANG_CATS.has(it.category) || it.lang === lang);
     }
   }
 
@@ -1166,19 +1582,96 @@ function applyFilter() {
 }
 
 // ════════════════════════════════
+//  ARTICLE CLICK — 既読マーク
+// ════════════════════════════════
+function onArticleClick(id, el) {
+  markRead(id);
+  // 即座にUIに反映
+  const card = el.closest ? el.closest('.card, .card-featured') : el;
+  if (card) card.classList.add('is-read');
+}
+
+// ════════════════════════════════
+//  TAB BAR ドラッグスクロール
+//  （overflow:autoだけでは効かない環境向けフォールバック）
+// ════════════════════════════════
+function initTabDragScroll() {
+  const bar = document.getElementById('mobileTabBar');
+  if (!bar) return;
+  let startX = 0, startScroll = 0, dragging = false;
+
+  bar.addEventListener('touchstart', e => {
+    startX = e.touches[0].clientX;
+    startScroll = bar.scrollLeft;
+    dragging = true;
+  }, { passive: true });
+
+  bar.addEventListener('touchmove', e => {
+    if (!dragging) return;
+    const dx = startX - e.touches[0].clientX;
+    bar.scrollLeft = startScroll + dx;
+  }, { passive: true });
+
+  bar.addEventListener('touchend', () => { dragging = false; }, { passive: true });
+
+  // マウスドラッグ（PC/プレビュー用）
+  bar.addEventListener('mousedown', e => {
+    startX = e.clientX;
+    startScroll = bar.scrollLeft;
+    dragging = true;
+    bar.style.cursor = 'grabbing';
+    e.preventDefault();
+  });
+  window.addEventListener('mousemove', e => {
+    if (!dragging) return;
+    bar.scrollLeft = startScroll + (startX - e.clientX);
+  });
+  window.addEventListener('mouseup', () => {
+    dragging = false;
+    bar.style.cursor = '';
+  });
+}
+// ════════════════════════════════
+//  MOBILE TAB BAR
+// ════════════════════════════════
+function initMobileTabs() {
+  document.querySelectorAll('#mobileTabBar .mobile-tab').forEach(tab => {
+    tab.addEventListener('click', () => {
+      document.querySelectorAll('#mobileTabBar .mobile-tab').forEach(t => t.classList.remove('active'));
+      document.querySelectorAll('#mainNav .nav-btn').forEach(b => b.classList.remove('active'));
+      document.querySelectorAll('#filterRow .filter-chip').forEach(b => b.classList.remove('active'));
+      tab.classList.add('active');
+      // sync desktop nav
+      const nav = document.querySelector(`#mainNav [data-filter="${tab.dataset.filter}"]`);
+      if (nav) nav.classList.add('active');
+      const chip = document.querySelector(`#filterRow [data-filter="${tab.dataset.filter}"]`);
+      if (chip) chip.classList.add('active');
+      activeFilter = tab.dataset.filter;
+      applyFilter();
+      // タブを中央に見せる
+      tab.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
+    });
+  });
+}
+
+// ════════════════════════════════
 //  FILTER BUTTONS
 // ════════════════════════════════
+function syncAllFilters(filterVal) {
+  document.querySelectorAll('#mainNav .nav-btn').forEach(b =>
+    b.classList.toggle('active', b.dataset.filter === filterVal));
+  document.querySelectorAll('#filterRow .filter-chip').forEach(b =>
+    b.classList.toggle('active', b.dataset.filter === filterVal));
+  document.querySelectorAll('#mobileTabBar .mobile-tab').forEach(b =>
+    b.classList.toggle('active', b.dataset.filter === filterVal));
+}
+
 function initFilters() {
   // Header nav
   document.querySelectorAll('#mainNav .nav-btn').forEach(btn => {
     btn.addEventListener('click', () => {
-      document.querySelectorAll('#mainNav .nav-btn').forEach(b => b.classList.remove('active'));
-      document.querySelectorAll('#filterRow .filter-chip').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      // sync filter chip
-      const chip = document.querySelector(`#filterRow [data-filter="${btn.dataset.filter}"]`);
-      if (chip) chip.classList.add('active');
       activeFilter = btn.dataset.filter;
+      syncAllFilters(activeFilter);
       applyFilter();
     });
   });
@@ -1186,13 +1679,8 @@ function initFilters() {
   // Filter chips
   document.querySelectorAll('#filterRow .filter-chip').forEach(btn => {
     btn.addEventListener('click', () => {
-      document.querySelectorAll('#filterRow .filter-chip').forEach(b => b.classList.remove('active'));
-      document.querySelectorAll('#mainNav .nav-btn').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      // sync nav
-      const nav = document.querySelector(`#mainNav [data-filter="${btn.dataset.filter}"]`);
-      if (nav) nav.classList.add('active');
       activeFilter = btn.dataset.filter;
+      syncAllFilters(activeFilter);
       applyFilter();
     });
   });
@@ -1214,24 +1702,15 @@ async function loadNews() {
     const data = await res.json();
     allItems = data.items || [];
 
-    // Updated time
-    const upEl = document.getElementById('updatedAt');
-    upEl.textContent = `最終更新: ${formatDate(data.updated_at)}`;
+    document.getElementById('updatedAt').textContent = `最終更新: ${formatDate(data.updated_at)}`;
     document.getElementById('updateTime').textContent = relativeTime(data.updated_at);
 
+    showUI();
     renderTicker(allItems);
     applyFilter();
     renderTrending(allItems);
 
-    // Show UI
-    document.getElementById('loadingState').style.display = 'none';
-    document.getElementById('featuredSection').style.display = 'block';
-    document.getElementById('pageLayout').style.display = 'grid';
-    document.getElementById('filterRow').style.display = 'flex';
-    document.getElementById('updatedBar').style.display = 'flex';
-
   } catch (e) {
-    // Dev fallback: show demo data
     console.warn('Could not load news.json, showing demo mode:', e.message);
     showDemoMode();
   }
@@ -1240,6 +1719,14 @@ async function loadNews() {
 // ════════════════════════════════
 //  DEMO MODE (開発・プレビュー用)
 // ════════════════════════════════
+function showUI() {
+  document.getElementById('loadingState').style.display = 'none';
+  document.getElementById('featuredSection').style.display = 'block';
+  document.getElementById('filterRow').style.display = 'flex';
+  document.getElementById('updatedBar').style.display = 'flex';
+  document.getElementById('pageLayout').classList.add('is-visible');
+}
+
 function showDemoMode() {
   const demo = [
     { id:'1', title:'OpenAI、GPT-5の詳細を発表 — マルチモーダル対応を大幅強化', summary_ja:'次世代GPT-5が正式発表。画像・音声・動画をシームレス処理し、従来比3倍の推論速度を実現。', url:'#', source:'OpenAI Blog', lang:'en', category:'Research', date: new Date().toISOString(), score:10, reason:'業界最重要発表' },
@@ -1254,18 +1741,22 @@ function showDemoMode() {
     { id:'10', title:'LINEヤフー、国産LLM「HanaBI」を企業向けに提供開始', summary_ja:'日本語特化型LLMをAPI公開。医療・法務・金融分野での活用を想定。', url:'#', source:'マイナビニュース', lang:'ja', category:'Industry', date: new Date(Date.now()-32400000).toISOString(), score:6, reason:'国産LLM参入' },
     { id:'11', title:'経産省、AI活用推進に向け中小企業支援策を発表', summary_ja:'AI導入コストを最大2/3補助する中小企業向け新補助金制度を発表。申請は来月から。', url:'#', source:'経済産業省', lang:'ja', category:'Policy', date: new Date(Date.now()-36000000).toISOString(), score:6, reason:'国内補助金・政策' },
     { id:'12', title:'The Gradient: LLMの推論能力と「本当の理解」の境界線', summary_ja:'LLMが示す推論能力は統計的パターンなのか真の理解なのか。最新研究を横断的に考察。', url:'#', source:'The Gradient', lang:'en', category:'Research', date: new Date(Date.now()-39600000).toISOString(), score:5, reason:'深い理論的考察' },
+    { id:'13', title:'This AI can lip-sync any video in real-time with 2ms latency', summary_ja:'わずか2msの遅延でリアルタイム口パク合成を実現するAIが登場。HNで▲1,240pt獲得。', url:'#', source:'HackerNews', lang:'en', category:'Wow', date: new Date(Date.now()-7200000).toISOString(), score:9, reason:'HN急上昇' },
+    { id:'14', title:'I trained a model on 10 years of my own journal entries — results were unsettling', summary_ja:'10年分の日記でモデルを訓練した開発者の体験談。自己理解とプライバシーの境界を問う。', url:'#', source:'r/MachineLearning', lang:'en', category:'Wow', date: new Date(Date.now()-14400000).toISOString(), score:8, reason:'バイラル体験談' },
+    { id:'15', title:'AI勉強会 Tokyo #42 — Claude API ハンズオン', summary_ja:'AnthropicのClaude APIを使ったアプリ開発を実践形式で学ぶ。初心者歓迎。', url:'#', source:'connpass', lang:'ja', category:'Events', date: new Date(Date.now()+86400000*3).toISOString(), score:5, reason:'イベント情報', event_date: new Date(Date.now()+86400000*3).toISOString().slice(0,10), event_place:'渋谷ヒカリエ', event_online:false },
+    { id:'16', title:'LLM Meetup Japan — オンライン勉強会', summary_ja:'最新LLM研究の論文読み会。英語論文を日本語で解説。Zoomで参加可能。', url:'#', source:'Doorkeeper', lang:'ja', category:'Events', date: new Date(Date.now()+86400000*7).toISOString(), score:5, reason:'イベント情報', event_date: new Date(Date.now()+86400000*7).toISOString().slice(0,10), event_place:'オンライン', event_online:true },
+    { id:'17', title:'System prompts that make Claude 3.5 dramatically better at coding', summary_ja:'Claude 3.5のコーディング精度を劇的に上げるシステムプロンプト集。実例付き解説。', url:'#', source:'Simon Willison', lang:'en', category:'Prompts', date: new Date(Date.now()-10800000).toISOString(), score:8, reason:'実用プロンプト解説' },
+    { id:'18', title:'Hugging Face: マルチモーダルモデル向けプロンプト設計ガイド', summary_ja:'画像+テキストを組み合わせたマルチモーダルプロンプトの設計パターンを体系化。', url:'#', source:'Hugging Face Blog', lang:'en', category:'Prompts', date: new Date(Date.now()-21600000).toISOString(), score:7, reason:'マルチモーダル活用' },
+    { id:'19', title:'Stable Diffusion 4.0 beta — photorealistic portraits with new architecture', summary_ja:'SD4.0ベータが公開。新アーキテクチャにより人物写真のリアリティが大幅向上。', url:'#', source:'Stability AI', lang:'en', category:'ImageVideo', date: new Date(Date.now()-5400000).toISOString(), score:9, reason:'SD最新版リリース' },
+    { id:'20', title:'Sora競合が続々登場 — 動画生成AI比較レビュー2025', summary_ja:'Runway Gen-3、Pika 2.0、PixVerseを実際に使い比較。用途別おすすめを解説。', url:'#', source:'r/MediaSynthesis', lang:'en', category:'ImageVideo', date: new Date(Date.now()-18000000).toISOString(), score:7, reason:'動画AI比較レビュー' },
   ];
   allItems = demo;
   document.getElementById('updateTime').textContent = 'Demo Mode';
   document.getElementById('updatedAt').textContent = `デモデータ表示中 — 本番では自動更新されます`;
+  showUI();
   renderTicker(allItems);
   applyFilter();
   renderTrending(allItems);
-  document.getElementById('loadingState').style.display = 'none';
-  document.getElementById('featuredSection').style.display = 'block';
-  document.getElementById('pageLayout').style.display = 'grid';
-  document.getElementById('filterRow').style.display = 'flex';
-  document.getElementById('updatedBar').style.display = 'flex';
 }
 
 // ════════════════════════════════
@@ -1280,6 +1771,8 @@ window.addEventListener('scroll', () => {
 //  INIT
 // ════════════════════════════════
 initFilters();
+initMobileTabs();
+initTabDragScroll();
 loadNews();
 </script>
 </body>
