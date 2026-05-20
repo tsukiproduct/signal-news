@@ -5,6 +5,24 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>SIGNAL Digest — AI解説記事</title>
 <meta name="description" content="AIニュースの解説・応用・今日のプロンプトをお届けするSIGNAL Digest。">
+<meta name="theme-color" content="#0d0d0d">
+
+<!-- Open Graph -->
+<meta property="og:title" content="SIGNAL Digest — AI解説記事">
+<meta property="og:description" content="AIニュースの解説・応用・今日のプロンプトをお届けするSIGNAL Digest。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://tsukiproduct.github.io/signal-news/digest.html">
+<meta property="og:image" content="https://tsukiproduct.github.io/signal-news/og-image.PNG">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:site_name" content="SIGNAL">
+<meta property="og:locale" content="ja_JP">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="SIGNAL Digest — AI解説記事">
+<meta name="twitter:description" content="AIニュースの解説・応用・今日のプロンプトをお届けするSIGNAL Digest。">
+<meta name="twitter:image" content="https://tsukiproduct.github.io/signal-news/og-image.PNG">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400&family=DM+Sans:wght@300;400;500&family=Noto+Sans+JP:wght@300;400;500&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
@@ -310,6 +328,78 @@ a { color:inherit; text-decoration:none; }
 }
 .legal-block p + p { margin-top:4px; }
 
+/* ── ARTICLE NAVIGATION (前/次の記事 + 一覧に戻る) ── */
+.article-nav {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin: 40px 0 24px;
+}
+.article-nav-btn {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 16px 18px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all var(--trans);
+  text-align: left;
+  min-width: 0;
+  text-decoration: none;
+  color: inherit;
+}
+.article-nav-btn:hover {
+  border-color: var(--gold-dim);
+  background: var(--surface2);
+}
+.article-nav-btn.is-disabled {
+  opacity: 0.35;
+  pointer-events: none;
+}
+.article-nav-direction {
+  font-family: var(--font-mono);
+  font-size: 9px;
+  letter-spacing: 0.15em;
+  color: var(--gold);
+  text-transform: uppercase;
+}
+.article-nav-title {
+  font-size: 13px;
+  color: var(--text);
+  line-height: 1.45;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.article-nav-btn--next { text-align: right; }
+.article-nav-back-bottom {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 18px;
+  background: transparent;
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+  border-radius: 100px;
+  font-size: 12px;
+  letter-spacing: 0.03em;
+  cursor: pointer;
+  transition: all var(--trans);
+  margin-bottom: 40px;
+}
+.article-nav-back-bottom:hover {
+  color: var(--gold);
+  border-color: var(--gold-dim);
+}
+
+@media (max-width: 600px) {
+  .article-nav { grid-template-columns: 1fr; }
+  .article-nav-btn--next { text-align: left; }
+}
+
 /* ── SIDEBAR ── */
 .sidebar {
   position:sticky; top:80px; padding-top:40px;
@@ -565,6 +655,46 @@ function renderArticle(article) {
   const aff = article.affiliate || {};
   const legal = article.legal || {};
 
+  // 前/次の記事を digestIndex から検索
+  // digestIndex は updated_at 降順なので、idx-1 が次の新しい記事、idx+1 が前の古い記事
+  const curKey = article.file_key || article.date;
+  const idx = digestIndex.findIndex(a => (a.file_key || a.date) === curKey);
+  const newerArticle = idx > 0 ? digestIndex[idx - 1] : null;
+  const olderArticle = idx >= 0 && idx < digestIndex.length - 1 ? digestIndex[idx + 1] : null;
+
+  const navHtml = `
+    <div class="article-nav">
+      ${olderArticle ? `
+        <a class="article-nav-btn" onclick="openArticle('${esc(olderArticle.file_key || olderArticle.date)}'); return false;" href="?id=${encodeURIComponent(olderArticle.file_key || olderArticle.date)}">
+          <span class="article-nav-direction">← 前の記事</span>
+          <span class="article-nav-title">${esc(olderArticle.title)}</span>
+        </a>
+      ` : `
+        <div class="article-nav-btn is-disabled">
+          <span class="article-nav-direction">← 前の記事</span>
+          <span class="article-nav-title">これが最も古い記事です</span>
+        </div>
+      `}
+      ${newerArticle ? `
+        <a class="article-nav-btn article-nav-btn--next" onclick="openArticle('${esc(newerArticle.file_key || newerArticle.date)}'); return false;" href="?id=${encodeURIComponent(newerArticle.file_key || newerArticle.date)}">
+          <span class="article-nav-direction">次の記事 →</span>
+          <span class="article-nav-title">${esc(newerArticle.title)}</span>
+        </a>
+      ` : `
+        <div class="article-nav-btn article-nav-btn--next is-disabled">
+          <span class="article-nav-direction">次の記事 →</span>
+          <span class="article-nav-title">これが最新の記事です</span>
+        </div>
+      `}
+    </div>
+
+    <div style="text-align:center;">
+      <button class="article-nav-back-bottom" onclick="showList()">
+        <span>≡</span> 記事一覧に戻る
+      </button>
+    </div>
+  `;
+
   document.getElementById('articleContent').innerHTML = `
     <div class="article-date">${formatDate(article.date)}</div>
     <h1 class="article-title">${esc(article.title)}</h1>
@@ -596,6 +726,8 @@ function renderArticle(article) {
       <p>📝 ${esc(legal.editorial_note || '')}</p>
       <p>©  ${esc(legal.copyright_note || '')}</p>
     </div>
+
+    ${navHtml}
   `;
 }
 
@@ -604,15 +736,25 @@ function showList() {
   document.getElementById('digestList').style.display = 'block';
   document.getElementById('articleReader').classList.remove('active');
   window.scrollTo({ top: 0, behavior: 'smooth' });
+  // ブラウザURL をクリーンに（クエリパラメータを除去）
+  if (location.search || location.hash) {
+    history.pushState({}, '', location.pathname);
+  }
 }
 
-async function openArticle(fileKey) {
+async function openArticle(fileKey, pushHistory = true) {
   document.getElementById('digestList').style.display = 'none';
   const reader = document.getElementById('articleReader');
   reader.classList.add('active');
   document.getElementById('articleContent').innerHTML =
     '<div class="loading-state"><div class="spinner"></div><span>LOADING…</span></div>';
   window.scrollTo({ top: 0, behavior: 'smooth' });
+
+  // ブラウザURLを更新 (?id=xxx) — 戻る/進むで動作するように
+  if (pushHistory) {
+    const newUrl = `${location.pathname}?id=${encodeURIComponent(fileKey)}`;
+    history.pushState({ fileKey }, '', newUrl);
+  }
 
   try {
     const res = await fetch(`${ARTICLES_URL}${fileKey}.json?v=${Date.now()}`);
@@ -625,6 +767,17 @@ async function openArticle(fileKey) {
       `<div class="empty-state">記事の読み込みに失敗しました（${e.message}）</div>`;
   }
 }
+
+// ブラウザの戻る/進む対応
+window.addEventListener('popstate', (e) => {
+  const params = new URLSearchParams(location.search);
+  const id = params.get('id') || location.hash.slice(1);
+  if (id && digestIndex.some(a => (a.file_key || a.date) === id)) {
+    openArticle(id, false);
+  } else {
+    showList();
+  }
+});
 
 // ── RENDER LIST ──────────────────────────────────────────────────────────────
 function renderDigestList(articles) {
@@ -679,10 +832,14 @@ async function init() {
     renderDigestList(digestIndex);
     renderSidebar(digestIndex);
 
-    // URLハッシュで直接記事を開く ( digest.html#2025-05-20 )
-    const hash = location.hash.slice(1);
-    if (hash && digestIndex.some(a => a.date === hash)) {
-      openArticle(hash);
+    // URLから記事を直接開く
+    // 優先順: ?id=xxx (新方式) > #xxx (旧方式hash) > なし
+    const params = new URLSearchParams(location.search);
+    const idFromQuery = params.get('id');
+    const idFromHash  = location.hash.slice(1);
+    const id = idFromQuery || idFromHash;
+    if (id && digestIndex.some(a => (a.file_key || a.date) === id)) {
+      openArticle(id, false);  // 初期表示時はhistoryをpushしない
     }
 
   } catch(e) {
