@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-05-21_morning-quantum-ai-glasses-this-week",
+      "date": "2026-05-21",
+      "file_key": "2026-05-21_morning",
+      "title": "量子コンピューターとオーディオグラス、AIの新たなる旅",
+      "summary": "量子スピン液体の発見やGoogleのオーディオグラス、SpaceXのIPOなど、AIと量子技術の最新動向を解説。",
+      "tags": [
+        "量子コンピューター",
+        "AR/VR",
+        "生成AI",
+        "SpaceX",
+        "Google"
+      ],
+      "slug": "quantum-ai-glasses-this-week"
+    },
+    {
       "id": "2026-05-20_evening-ai-agents-enterprise-tech-weekly",
       "date": "2026-05-20",
       "file_key": "2026-05-20_evening",
@@ -169,5 +184,5 @@
       "slug": "ai-news-browser-automation-social-media"
     }
   ],
-  "updated_at": "2026-05-20T13:28:48.911689+00:00"
+  "updated_at": "2026-05-20T23:07:39.903550+00:00"
 }

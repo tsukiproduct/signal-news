@@ -1,0 +1,164 @@
+{
+  "id": "2026-05-21_morning-quantum-ai-glasses-this-week",
+  "file_key": "2026-05-21_morning",
+  "date": "2026-05-21",
+  "generated_at": "2026-05-20T23:07:39.902940+00:00",
+  "title": "量子コンピューターとオーディオグラス、AIの新たなる旅",
+  "slug": "quantum-ai-glasses-this-week",
+  "summary": "量子スピン液体の発見やGoogleのオーディオグラス、SpaceXのIPOなど、AIと量子技術の最新動向を解説。",
+  "tags": [
+    "量子コンピューター",
+    "AR/VR",
+    "生成AI",
+    "SpaceX",
+    "Google"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "この週は量子コンピューターの進展やAR技術、企業のAI戦略が注目されました。廃鉱山からの希少金属探しや、Googleの音声制御型オーディオグラス、そしてSpaceXのIPO申請まで、AIと物理学の境界面での革新が目立ちます。一方、HackerNewsでは「AI」という用語の定義論争や、画像生成AIの最新動向が議論されています。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "量子スピン液体、Quantum Computingの新たな鍵",
+      "body": "量子コンピューターは量子ビット（キュービット）を利用して計算を行いますが、その性能を左右するのが「量子スピン液体」と呼ばれる状態です。この材料は粒子間の相互作用が複雑になり、量子情報の保存が可能です。廃鉱山から発見されたこの鉱物は、純度の高さと量産のしやすさがあり、量子コンピューターの商用化を加速する可能性があります。将来、量子アルゴリズムの実行や、Drug Discoveryなどの分野での応用が期待されています。",
+      "source_title": "将来の量子コンピューターに役立つ可能性を秘めた「量子スピン液体」の候補となる鉱物が廃鉱山から大量に見つかる",
+      "source_url": "https://gigazine.net/news/20260521-abandoned-mine-ultra-pure-quantum-crystals/"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "ゲームのAI進化、DLSS 5の登場",
+      "body": "NVIDIAのDLSS 5は、リアルタイムでの生成AIフィルターとして注目されています。これにより、ゲーム内での画像生成や、仮想現実（VR）の映像処理が劇的に向上する可能性があります。また、OpenAIが進める「Superapp」の動向も注目。ユーザーがAIを活用したアプリケーションを簡単に作成・利用できるようになるとの報告があります。",
+      "source_title": "Last Week in AI #339 - DLSS 5, OpenAI Superapp, MiniMax M2.7",
+      "source_url": "https://lastweekin.ai/p/last-week-in-ai-339-dlss-5-openai"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "クリエイティブAIプロンプト",
+      "prompt_title": "科幻小説の世界観生成",
+      "prompt_body": "「未来の都市「ニューアストラ」の風景を、サイファットな空気と垂れ流す水晶チャネル、そびしだらな広場、宇宙船が着陸するハブを描いてください。」",
+      "prompt_usecase": "クリエイティブライティングや、ビジュアルデザインに活用。AIに具体的な要素を与えることで、より鮮明なイメージを生成できます。",
+      "prompt_source": "https://lastweekin.ai/p/last-week-in-ai-339-dlss-5-openai"
+    },
+    {
+      "type": "wow",
+      "heading": "HackerNewsのAI論争",
+      "body": "HackerNewsでは、「AI」という用語の広すぎる定義による問題提起が議論されました。一方、機械学習の基本を解説する記事も注目され、初心者にもわかりやすいAIの仕組みが紹介されています。これらの議論は、AIの利用目的を明確にするための「用語の正義化」が重要であることを示しています。",
+      "source_title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "source_url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "5月21日には、AIセキュリティとSASE制御に関するオンラインイベント「見えない生成AI利用リスク」が開催されました。また、UiPath主催の「UiPath Friends 2026」もオンラインで開催。AI開発者や企業担当者は、これらのイベントで最新のトレンドやツールに触れることができます。",
+      "event_list": [
+        {
+          "title": "見えない生成AI利用リスク",
+          "date": "2026-05-21",
+          "place": "オンライン",
+          "url": "https://majisemi-security.doorkeeper.jp/events/196679"
+        },
+        {
+          "title": "UiPath Friends 2026",
+          "date": "2026-05-21",
+          "place": "UiPath株式会社",
+          "url": "https://uipath-friends.doorkeeper.jp/events/196303"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "量子スピン液体の技術は、薬剤開発や材料科学におけるシミュレーションを加速できるでしょう。Googleのオーディオグラスは、ヘルスケアや介助技術に応用可能。また、SpaceXのIPOにより、Starlinkを活用したエッジコンピューティングや、xAIの統合によるビッグデータ分析が進む見込みです。企業はこれらの技術を組み合わせ、効率的なAIインフラを構築すべきです。",
+      "source_title": "SpaceXがIPO申請 イーロン・マスクCEOが議決権の85.1％掌握へ",
+      "source_url": "https://www.itmedia.co.jp/news/articles/2605/21/news061.html"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "量子技術とAIの融合、ARグラスの登場、企業のIPO動向が今後のトレンドを形作るでしょう。特に、生成AIの業務活用や、セキュリティ対策の必要性が浮上しています。次週も、これらの動向を継続的に追跡していきます。",
+      "source_title": "SpaceX just filed for what could be the biggest IPO ever",
+      "source_url": "https://www.theverge.com/business/902219/spacex-ipo-details"
+    }
+  ],
+  "sources": [
+    {
+      "title": "将来の量子コンピューターに役立つ可能性を秘めた「量子スピン液体」の候補となる鉱物が廃鉱山から大量に見つかる",
+      "url": "https://gigazine.net/news/20260521-abandoned-mine-ultra-pure-quantum-crystals/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "秋発売！ グーグルの「Gemini搭載オーディオグラス」のプロトタイプを体験してわかった「声」と「視線」で操作する未来",
+      "url": "https://ascii.jp/elem/000/004/403/4403800/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "手元ボタンで2台のPCをサクッと切り替え。サンワのDisplayPort対応KVMが4割引",
+      "url": "https://ascii.jp/elem/000/004/403/4403325/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "SpaceX just filed for what could be the biggest IPO ever",
+      "url": "https://www.theverge.com/business/902219/spacex-ipo-details",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "SpaceXがIPO申請 イーロン・マスクCEOが議決権の85.1％掌握へ",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/21/news061.html",
+      "source": "ITmedia News",
+      "category": "Tech"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Quoting SpaceX S-1",
+      "url": "https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "Last Week in AI #339 - DLSS 5, OpenAI Superapp, MiniMax M2.7",
+      "url": "https://lastweekin.ai/p/last-week-in-ai-339-dlss-5-openai",
+      "source": "Last Week in AI",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "見えない生成AI利用リスク、情シスはどう統制すべきか ～既存SASEでは捉えきれないAI利用の実態を可視化・制御する現実的アプローチ～",
+      "url": "https://majisemi-security.doorkeeper.jp/events/196679",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "UiPath Friends 2026 春 ～エージェンティックと歩む2026年、進化し続ける開発者のための羅針盤～",
+      "url": "https://uipath-friends.doorkeeper.jp/events/196303",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
