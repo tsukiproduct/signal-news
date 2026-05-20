@@ -12,7 +12,7 @@
 <meta property="og:description" content="AIの“今”を、最速でキャッチする。研究・技術・業界動向を毎日厳選。">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://tsukiproduct.github.io/signal-news/">
-<meta property="og:image" content="https://tsukiproduct.github.io/signal-news/og-image.png">
+<meta property="og:image" content="https://tsukiproduct.github.io/signal-news/og-image.PNG">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:site_name" content="SIGNAL">
@@ -22,7 +22,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="SIGNAL — AI Intelligence Daily">
 <meta name="twitter:description" content="AIの“今”を、最速でキャッチする。研究・技術・業界動向を毎日厳選。">
-<meta name="twitter:image" content="https://tsukiproduct.github.io/signal-news/og-image.png">
+<meta name="twitter:image" content="https://tsukiproduct.github.io/signal-news/og-image.PNG">
 
 <!-- Fonts -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -459,6 +459,36 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
 .card-source { color: var(--text-muted); }
 .meta-sep { color: var(--border-light); }
 
+/* 外部リンク先ドメイン表示 — 「どこに飛ぶか」を明示 */
+.ext-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  margin-left: auto;
+  font-family: var(--font-mono);
+  font-size: 9px;
+  color: var(--text-dim);
+  letter-spacing: 0.04em;
+  padding: 2px 7px;
+  border: 1px solid var(--border);
+  border-radius: 100px;
+  background: rgba(0,0,0,0.2);
+  white-space: nowrap;
+  max-width: 50%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.ext-link::before {
+  content: '↗';
+  font-size: 10px;
+  color: var(--text-muted);
+}
+.card:hover .ext-link,
+.card-featured:hover .ext-link {
+  color: var(--gold-dim);
+  border-color: var(--gold-dim);
+}
+
 .read-link {
   display: inline-flex;
   align-items: center;
@@ -885,6 +915,46 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
 .nav-btn--iv.active, .mobile-tab--iv.active { color: #ff9f5a; }
 .filter-chip--iv.active { background: #ff9f5a; border-color: #ff9f5a; color: #000; }
 .mobile-tab--iv::after  { background: #ff9f5a; }
+
+/* ════════════════════════════════
+   DIGEST TAB — リンクボタン（フィルタではなく遷移）
+════════════════════════════════ */
+.nav-btn--digest,
+.mobile-tab--digest,
+.filter-chip--digest {
+  color: var(--gold) !important;
+  font-weight: 500;
+  position: relative;
+  white-space: nowrap;
+  text-decoration: none;
+}
+.nav-btn--digest {
+  border: 1px solid var(--gold-dim);
+  background: rgba(201,168,76,0.05);
+}
+.nav-btn--digest:hover {
+  background: rgba(201,168,76,0.15);
+  color: var(--gold-light) !important;
+}
+.mobile-tab--digest {
+  display: inline-flex;
+  align-items: center;
+  height: 44px;
+  padding: 0 16px;
+  font-size: 13px;
+  letter-spacing: 0.02em;
+  border-bottom: 2px solid transparent;
+}
+.mobile-tab--digest::after { display: none; }
+.filter-chip--digest {
+  display: inline-flex;
+  align-items: center;
+  border: 1px solid var(--gold-dim);
+  background: rgba(201,168,76,0.05);
+}
+.filter-chip--digest:hover {
+  background: rgba(201,168,76,0.15);
+}
 
 /* ════════════════════════════════
    EVENTS カード専用スタイル
@@ -1555,6 +1625,7 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
 
     <nav class="header-nav" id="mainNav">
       <button class="nav-btn active" data-filter="all">All</button>
+      <a href="./digest.html" class="nav-btn nav-btn--digest">✦ Digest</a>
       <button class="nav-btn" data-filter="cat-AI">AI</button>
       <button class="nav-btn" data-filter="cat-Research">Research</button>
       <button class="nav-btn" data-filter="cat-Industry">Industry</button>
@@ -1597,6 +1668,7 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
 <div class="mobile-tab-bar" id="mobileTabBar">
   <div class="mobile-tab-inner">
     <button class="mobile-tab active" data-filter="all">すべて</button>
+    <a href="./digest.html" class="mobile-tab mobile-tab--digest">✦ Digest</a>
     <button class="mobile-tab" data-filter="cat-AI">AI</button>
     <button class="mobile-tab" data-filter="cat-Research">Research</button>
     <button class="mobile-tab" data-filter="cat-Industry">Industry</button>
@@ -1619,6 +1691,7 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
   <!-- Filter row -->
   <div class="filter-row" id="filterRow" style="display:none;">
     <button class="filter-chip active" data-filter="all">すべて</button>
+    <a href="./digest.html" class="filter-chip filter-chip--digest">✦ Digest</a>
     <button class="filter-chip" data-filter="cat-AI">AI</button>
     <button class="filter-chip" data-filter="cat-Research">Research</button>
     <button class="filter-chip" data-filter="cat-Industry">Industry</button>
@@ -1926,6 +1999,17 @@ function escHtml(s) {
   return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 }
 
+// 外部リンクから表示用ドメインを抽出
+// 'https://www.techcrunch.com/article/123' → 'techcrunch.com'
+function getDomain(url) {
+  try {
+    const u = new URL(url);
+    return u.hostname.replace(/^www\./, '');
+  } catch {
+    return '';
+  }
+}
+
 // ════════════════════════════════
 //  既読管理
 // ════════════════════════════════
@@ -2018,6 +2102,7 @@ function renderEventCard(it, i, isRead) {
         <span class="card-source">${escHtml(it.source)}</span>
         <span class="meta-sep">·</span>
         <span>${relativeTime(it.date)}</span>
+        ${getDomain(it.url) ? `<span class="ext-link">${escHtml(getDomain(it.url))}</span>` : ''}
       </div>
     </a>
   `;
@@ -2059,6 +2144,7 @@ function renderFeatured(items) {
         <span class="card-source">${escHtml(it.source)}</span>
         <span class="meta-sep">·</span>
         <span>${relativeTime(it.date)}</span>
+        ${getDomain(it.url) ? `<span class="ext-link">${escHtml(getDomain(it.url))}</span>` : ''}
       </div>
       <a class="read-link" href="${escHtml(it.url)}" target="_blank" rel="noopener"
          onclick="onArticleClick('${escHtml(it.id)}',this)">
@@ -2118,6 +2204,7 @@ function renderGrid(items) {
           <span class="meta-sep">·</span>
           <span>${relativeTime(it.date)}</span>
           ${it.reason ? `<span class="meta-sep">·</span><span style="color:var(--gold-dim)">${escHtml(it.reason)}</span>` : ''}
+          ${getDomain(it.url) ? `<span class="ext-link">${escHtml(getDomain(it.url))}</span>` : ''}
         </div>
       </a>
     `;
