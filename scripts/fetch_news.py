@@ -9,6 +9,7 @@ AI News Fetcher — Phase 1 (Python固定ロジック)
 import json
 import re
 import time
+import html
 import hashlib
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
@@ -134,9 +135,19 @@ def make_id(url: str) -> str:
 
 
 def strip_html(text: str) -> str:
+    """HTMLタグを除去し、エンティティを完全にデコードする。
+    数値文字参照（&#32;, &#32076; など）も正しく処理する。
+    Reddit RSSなど二重エスケープされたものにも対応するため複数回適用。
+    """
+    if not text:
+        return ""
+    # まずタグを除去
     text = re.sub(r"<[^>]+>", "", text)
-    for ent, ch in [("&amp;","&"),("&lt;","<"),("&gt;",">"),("&quot;",'"'),("&#39;","'")]:
-        text = text.replace(ent, ch)
+    # html.unescape で名前付き(&amp;)・10進数値(&#32;)・16進数値(&#x20;)を一括デコード
+    # 二重エスケープ対策として2回適用（&amp;amp; → &amp; → &）
+    text = html.unescape(text)
+    text = html.unescape(text)
+    # 連続する空白を1つにまとめる
     return re.sub(r"\s+", " ", text).strip()
 
 
