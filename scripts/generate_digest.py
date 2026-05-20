@@ -4,6 +4,7 @@ SIGNAL Digest Generator — Phase 2.5
 OpenRouter API（無料モデル）使用版
 
 無料モデル: meta-llama/llama-3.1-8b-instruct:free
+新カテゴリ（Wow / Events / Prompts / ImageVideo）をdigestに反映
 """
 
 import json
@@ -20,12 +21,16 @@ ARTICLES_DIR = Path(__file__).parent.parent / "docs" / "articles"
 DIGESTS_PATH = Path(__file__).parent.parent / "docs" / "data" / "digests.json"
 
 OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions"
-MODEL     = "openrouter/free"
+MODEL      = "openrouter/free"
 MAX_TOKENS = 3000
 TEMPERATURE = 0.7
 
-TOP_ARTICLES = 5
-MAX_DIGESTS  = 30
+TOP_ARTICLES   = 5
+MAX_DIGESTS    = 30
+TOP_WOW        = 2   # Wowカテゴリから何件digestに含めるか
+TOP_PROMPTS    = 1   # Promptsカテゴリから何件digestに含めるか
+TOP_EVENTS     = 2   # Eventsカテゴリから何件digestに含めるか
+TOP_IMAGEVIDEO = 1   # ImageVideoカテゴリから何件digestに含めるか
 
 SYSTEM_PROMPT = """あなたはAI技術の専門ジャーナリストです。
 提供されたAIニュースをもとに、読者に役立つオリジナル解説記事を日本語で書いてください。
@@ -36,12 +41,13 @@ SYSTEM_PROMPT = """あなたはAI技術の専門ジャーナリストです。
 - 解説・考察・応用は自分の言葉で書く
 - 事実と考察を明確に区別する
 - 誇大な表現を避ける
+- 画像・動画生成AIや注目プロンプト、イベント情報も積極的に取り上げる
 
 出力はJSONのみ。前置き不要。"""
 
-USER_PROMPT_TEMPLATE = """{count}本のAIニュースをもとに解説記事を生成してください。
+USER_PROMPT_TEMPLATE = """{count}本のAIニュース・情報をもとに解説記事を生成してください。
 
-【参照ニュース】
+【参照ニュース・情報】
 {news_list}
 
 【出力JSON】
@@ -52,7 +58,7 @@ USER_PROMPT_TEMPLATE = """{count}本のAIニュースをもとに解説記事を
   "sections": [
     {{
       "type": "overview",
-      "heading": "今日のAIニュース概観",
+      "heading": "今日のAI概観",
       "body": "導入文（200字程度）"
     }},
     {{
@@ -63,16 +69,39 @@ USER_PROMPT_TEMPLATE = """{count}本のAIニュースをもとに解説記事を
       "source_url": "参照記事URL"
     }},
     {{
-      "type": "practical",
-      "heading": "実践：ビジネスへの応用",
-      "body": "具体的な活用方法（300字程度）"
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "画像・動画生成AI関連の注目情報（200字程度）。該当情報がなければ省略可。",
+      "source_title": "参照記事タイトル（任意）",
+      "source_url": "参照記事URL（任意）"
     }},
     {{
       "type": "prompt_of_day",
       "heading": "今日のプロンプト",
       "prompt_title": "プロンプトタイトル（20字以内）",
       "prompt_body": "実用的なプロンプト（150字程度）",
-      "prompt_usecase": "使い方（100字程度）"
+      "prompt_usecase": "使い方（100字程度）",
+      "prompt_source": "参照記事URL（任意）"
+    }},
+    {{
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "HackerNews・Redditで話題のAI情報（200字程度）。該当情報がなければ省略可。",
+      "source_title": "参照記事タイトル（任意）",
+      "source_url": "参照記事URL（任意）"
+    }},
+    {{
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "注目のオンライン・オフラインイベント情報（200字程度）。該当情報がなければ省略可。",
+      "event_list": [
+        {{"title": "イベント名", "date": "日程", "place": "会場/オンライン", "url": "URL"}}
+      ]
+    }},
+    {{
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "具体的な活用方法（300字程度）"
     }},
     {{
       "type": "weekly_watch",
@@ -105,8 +134,63 @@ AFFILIATE_MAP = {
         "url": "https://www.amazon.co.jp/s?k=プロンプトエンジニアリング&tag=tsukiproduct-22",
         "cta": "Amazon で探す →",
     },
+    "画像生成AI本": {
+        "label": "画像生成AI活用ガイド（Stable Diffusion・Midjourney）",
+        "url": "https://www.amazon.co.jp/s?k=画像生成AI+Stable+Diffusion&tag=tsukiproduct-22",
+        "cta": "Amazon で探す →",
+    },
 }
 DEFAULT_AFFILIATE = "機械学習コース"
+
+
+def pick_top_items(items: list) -> list:
+    """
+    カテゴリ別に上位記事を選出してdigest用リストを作る。
+    通常ニュース上位5件 + 各新カテゴリから補完。
+    """
+    by_cat = {}
+    for it in items:
+        cat = it.get("category", "AI")
+        by_cat.setdefault(cat, []).append(it)
+
+    selected = []
+    seen_ids = set()
+
+    def add(item):
+        if item["id"] not in seen_ids:
+            seen_ids.add(item["id"])
+            selected.append(item)
+
+    # 通常ニュース上位（スコア降順）
+    normal_cats = {"AI", "Research", "Industry", "Tech", "Safety", "Policy"}
+    normal_items = sorted(
+        [x for x in items if x.get("category") in normal_cats],
+        key=lambda x: x.get("score", 5), reverse=True
+    )
+    for it in normal_items[:TOP_ARTICLES]:
+        add(it)
+
+    # Wow
+    wow_items = sorted(by_cat.get("Wow", []), key=lambda x: x.get("score", 5), reverse=True)
+    for it in wow_items[:TOP_WOW]:
+        add(it)
+
+    # Prompts
+    prompt_items = sorted(by_cat.get("Prompts", []), key=lambda x: x.get("score", 5), reverse=True)
+    for it in prompt_items[:TOP_PROMPTS]:
+        add(it)
+
+    # ImageVideo
+    iv_items = sorted(by_cat.get("ImageVideo", []), key=lambda x: x.get("score", 5), reverse=True)
+    for it in iv_items[:TOP_IMAGEVIDEO]:
+        add(it)
+
+    # Events（開催日順）
+    event_items = sorted(by_cat.get("Events", []), key=lambda x: x.get("event_date") or x["date"])
+    for it in event_items[:TOP_EVENTS]:
+        add(it)
+
+    return selected
 
 
 def call_openrouter(items: list) -> dict | None:
@@ -116,10 +200,12 @@ def call_openrouter(items: list) -> dict | None:
         return None
 
     news_list = "\n".join([
-        f"[{i+1}] タイトル: {it['title']}\n"
+        f"[{i+1}] カテゴリ: {it.get('category','AI')} | タイトル: {it['title']}\n"
         f"    URL: {it['url']}\n"
         f"    要約: {(it.get('summary_ja') or it.get('summary',''))[:100]}\n"
         f"    ソース: {it['source']}"
+        + (f"\n    イベント日程: {it.get('event_date','')} / 会場: {it.get('event_place','')}"
+           if it.get("category") == "Events" else "")
         for i, it in enumerate(items)
     ])
 
@@ -156,7 +242,6 @@ def call_openrouter(items: list) -> dict | None:
 
         raw_text = data["choices"][0]["message"]["content"].strip()
 
-        # JSONフェンス除去
         if "```" in raw_text:
             parts = raw_text.split("```")
             for part in parts:
@@ -179,11 +264,12 @@ def call_openrouter(items: list) -> dict | None:
 
 
 def build_article(article_data: dict, source_items: list, date_str: str, file_key: str = "") -> dict:
-    aff_key = article_data.get("affiliate_context", DEFAULT_AFFILIATE)
+    aff_key   = article_data.get("affiliate_context", DEFAULT_AFFILIATE)
     affiliate = AFFILIATE_MAP.get(aff_key, AFFILIATE_MAP[DEFAULT_AFFILIATE])
 
     sources = [
-        {"title": it["title"], "url": it["url"], "source": it["source"]}
+        {"title": it["title"], "url": it["url"], "source": it["source"],
+         "category": it.get("category", "AI")}
         for it in source_items
     ]
 
@@ -241,15 +327,17 @@ def main():
         print(f"✗ {NEWS_PATH} が見つかりません")
         sys.exit(1)
 
-    news = json.loads(NEWS_PATH.read_text())
+    news  = json.loads(NEWS_PATH.read_text())
     items = news.get("items", [])
 
     if len(items) < 3:
         print("  ⚠ ニュースが3件未満のためスキップ")
         sys.exit(0)
 
-    top_items = sorted(items, key=lambda x: x.get("score", 5), reverse=True)[:TOP_ARTICLES]
-    print(f"  → 選択ニュース: {len(top_items)}件")
+    top_items = pick_top_items(items)
+    print(f"  → 選択: {len(top_items)}件")
+    for it in top_items:
+        print(f"     [{it.get('category','?')}] {it['title'][:50]}")
 
     article_data = call_openrouter(top_items)
 
@@ -257,10 +345,10 @@ def main():
         print("  ✗ 記事生成失敗")
         sys.exit(1)
 
-    jst = timezone(timedelta(hours=9))
+    jst     = timezone(timedelta(hours=9))
     now_jst = datetime.now(jst)
     date_str = now_jst.strftime("%Y-%m-%d")
-    slot = "morning" if now_jst.hour < 10 else "afternoon" if now_jst.hour < 16 else "evening"
+    slot    = "morning" if now_jst.hour < 10 else "afternoon" if now_jst.hour < 16 else "evening"
     file_key = f"{date_str}_{slot}"
 
     article = build_article(article_data, top_items, date_str, file_key)
