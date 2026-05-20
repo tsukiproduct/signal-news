@@ -35,6 +35,32 @@ SCORE_THRESHOLD = 5
 # Eventsは日付フィルタしないため除外
 NON_SCORED_CATEGORIES = {"Events"}
 
+# ════════════════════════════════════════════════
+# Image/Video 自動分類キーワード
+# 既存ソース（TechCrunch / Verge / HuggingFace等）の記事から
+# 画像・動画生成関連のものをImageVideoカテゴリに自動昇格させる
+# ════════════════════════════════════════════════
+IMAGEVIDEO_KEYWORDS = [
+    # 画像生成モデル
+    "midjourney", "dall-e", "dalle", "stable diffusion", "stable-diffusion",
+    "flux", "imagen", "ideogram", "firefly", "nano banana",
+    # 動画生成モデル
+    "sora", "runway", "pika labs", "kling", "veo", "lumiere",
+    "luma dream", "pixverse", "minimax", "hailuo",
+    # 一般用語
+    "text-to-image", "text to image", "text-to-video", "text to video",
+    "image generation", "video generation", "generative video",
+    "diffusion model", "diffusion models",
+    # 日本語
+    "画像生成", "動画生成", "画像生成ai", "動画生成ai",
+    "テキストから画像", "テキストから動画",
+]
+
+def reclassify_to_imagevideo(item: dict) -> bool:
+    """記事のタイトル/要約をキーワードでチェックしてImageVideo該当か判定"""
+    text = (item.get("title","") + " " + item.get("summary","")).lower()
+    return any(kw in text for kw in IMAGEVIDEO_KEYWORDS)
+
 SYSTEM_PROMPT = """あなたはAIニュースの専門キュレーターです。
 渡された記事リストを精査し、AIに真剣に関心を持つ読者にとって有用な記事を厳選・スコアリングしてください。
 
@@ -157,6 +183,20 @@ def main():
     raw = json.loads(RAW_PATH.read_text())
     raw_items = raw.get("items", [])
     print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Phase 2: Curating {len(raw_items)} items via Claude API...")
+
+    # ── 画像/動画キーワードを含む記事をImageVideoカテゴリに自動昇格 ──
+    # 既存ソース（TechCrunch等）から画像生成・動画生成関連の記事を拾う
+    # 元のカテゴリがWow/Events/Promptsなど特殊カテゴリの場合は触らない
+    UNTOUCHED = {"Wow", "Events", "Prompts", "ImageVideo"}
+    promoted_count = 0
+    for item in raw_items:
+        if item.get("category") in UNTOUCHED:
+            continue
+        if reclassify_to_imagevideo(item):
+            item["category"] = "ImageVideo"
+            promoted_count += 1
+    if promoted_count:
+        print(f"  → ImageVideo自動昇格: {promoted_count}件")
 
     # Events はスコアリングAPIに送らない（コスト節約・不要なため）
     score_targets = [x for x in raw_items if x.get("category") not in NON_SCORED_CATEGORIES]
