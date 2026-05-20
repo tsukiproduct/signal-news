@@ -35,12 +35,13 @@ FEEDS = [
      "source": "BAIR Blog",          "lang": "en", "category": "Research", "priority": 1},
     {"url": "https://thegradient.pub/rss/",
      "source": "The Gradient",       "lang": "en", "category": "Research", "priority": 1},
-    {"url": "https://newsletter.importai.net/feed",
+    {"url": "https://importai.substack.com/feed",
      "source": "Import AI",          "lang": "en", "category": "Research", "priority": 1},
-    {"url": "https://paperswithcode.com/rss.xml",
-     "source": "Papers With Code",   "lang": "en", "category": "Research", "priority": 2},
     {"url": "https://www.alignmentforum.org/feed.xml",
      "source": "Alignment Forum",    "lang": "en", "category": "Safety",   "priority": 2},
+    # Anthropic公式ブログを追加（Safety/Researchソース強化）
+    {"url": "https://www.anthropic.com/news/rss.xml",
+     "source": "Anthropic News",     "lang": "en", "category": "Safety",   "priority": 1},
 
     # ── ビジネス・産業（EN）
     {"url": "https://venturebeat.com/category/ai/feed/",
@@ -55,66 +56,60 @@ FEEDS = [
      "source": "Ars Technica",       "lang": "en", "category": "Tech",     "priority": 2},
     {"url": "https://feeds.bloomberg.com/technology/news.rss",
      "source": "Bloomberg Tech",     "lang": "en", "category": "Industry", "priority": 2},
-    {"url": "https://feeds.reuters.com/reuters/technologyNews",
-     "source": "Reuters Tech",       "lang": "en", "category": "Industry", "priority": 2},
-    {"url": "https://feeds.feedburner.com/oreilly/radar",
-     "source": "O'Reilly Radar",     "lang": "en", "category": "Tech",     "priority": 2},
     {"url": "https://lastweekin.ai/feed",
      "source": "Last Week in AI",    "lang": "en", "category": "Research", "priority": 2},
     {"url": "https://www.aisnakeoil.com/feed",
      "source": "AI Snake Oil",       "lang": "en", "category": "Safety",   "priority": 2},
-    {"url": "https://chinaaiwkly.substack.com/feed",
-     "source": "China AI Weekly",    "lang": "en", "category": "Industry", "priority": 2},
 
-    # ── 日本語（国内）
-    {"url": "https://ledge.ai/feed/",
-     "source": "Ledge.ai",           "lang": "ja", "category": "AI",       "priority": 1},
+    # ── 日本語（国内）— 動作確認できているもののみ
     {"url": "https://ainow.ai/feed/",
      "source": "AINOW",              "lang": "ja", "category": "AI",       "priority": 1},
-    {"url": "https://www.itmedia.co.jp/rss/2.0/aiplus.rdf",
-     "source": "ITmedia AI+",        "lang": "ja", "category": "Tech",     "priority": 1},
     {"url": "https://gigazine.net/news/rss_2.0/",
      "source": "Gigazine",           "lang": "ja", "category": "Tech",     "priority": 2},
     {"url": "https://ascii.jp/rss.xml",
      "source": "ASCII.jp",           "lang": "ja", "category": "Tech",     "priority": 2},
-    {"url": "https://news.mynavi.jp/rss/tech",
-     "source": "マイナビニュース",     "lang": "ja", "category": "Tech",     "priority": 2},
     {"url": "https://www.nhk.or.jp/rss/news/cat5.xml",
      "source": "NHK テクノロジー",    "lang": "ja", "category": "AI",      "priority": 2},
-    {"url": "https://www.meti.go.jp/rss/press.rdf",
-     "source": "経済産業省",           "lang": "ja", "category": "Policy",   "priority": 1},
-    {"url": "https://www.denkei.co.jp/rss.xml",
-     "source": "電経新聞",             "lang": "ja", "category": "Industry", "priority": 3},
+    # ITmedia AI+ — RDFが廃止されたためXML版に変更（要動作確認）
+    {"url": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
+     "source": "ITmedia News",       "lang": "ja", "category": "Tech",     "priority": 2},
+
+    # 既存ソースから削除（404/廃止/SSLエラー）:
+    # - Papers With Code (syntax error: JSON化されている)
+    # - Reuters Tech (DNS解決失敗: RSSフィード廃止)
+    # - O'Reilly Radar (404)
+    # - China AI Weekly (403: Substack側がBot拒否)
+    # - Ledge.ai (404)
+    # - マイナビニュース (404)
+    # - 経済産業省 (timeout頻発)
+    # - 電経新聞 (404)
+    # - ITmedia AI+ (.rdf廃止)
 
     # ══════════════════════════════════════════
     # NEW: Prompts カテゴリ
-    # プロンプト・AI活用ノウハウ系（RSS・無料・無登録）
+    # プロンプト・AI活用ノウハウ系（実在確認済みRSSのみ）
     # ══════════════════════════════════════════
     {"url": "https://simonwillison.net/atom/everything/",
      "source": "Simon Willison",     "lang": "en", "category": "Prompts",  "priority": 1},
     {"url": "https://huggingface.co/blog/feed.xml",
      "source": "Hugging Face Blog",  "lang": "en", "category": "Prompts",  "priority": 1},
-    {"url": "https://www.promptingguide.ai/feed.xml",
-     "source": "Prompt Guide",       "lang": "en", "category": "Prompts",  "priority": 2},
-    {"url": "https://learnprompting.org/feed.xml",
-     "source": "Learn Prompting",    "lang": "en", "category": "Prompts",  "priority": 2},
+    # 注: promptingguide.ai / learnprompting.org は公式RSSが確認できなかったため除外
 
     # ══════════════════════════════════════════
     # NEW: ImageVideo カテゴリ
-    # 画像・動画生成AI系（RSS・無料・無登録）
+    # 画像・動画生成AI系（実在確認済みRSSのみ）
     # ══════════════════════════════════════════
-    {"url": "https://stability.ai/news/rss.xml",
+    {"url": "https://stability.ai/blog?format=rss",
      "source": "Stability AI",       "lang": "en", "category": "ImageVideo","priority": 1},
-    {"url": "https://blog.research.google/feeds/posts/default/-/generative-ai",
-     "source": "Google AI Blog",     "lang": "en", "category": "ImageVideo","priority": 1},
+    # Redditは User-Agent によってブロックされる可能性があるためRSSルートでフェッチ
     {"url": "https://www.reddit.com/r/StableDiffusion/.rss",
      "source": "r/StableDiffusion",  "lang": "en", "category": "ImageVideo","priority": 2},
-    {"url": "https://www.reddit.com/r/MediaSynthesis/.rss",
-     "source": "r/MediaSynthesis",   "lang": "en", "category": "ImageVideo","priority": 2},
+    {"url": "https://www.reddit.com/r/midjourney/.rss",
+     "source": "r/midjourney",       "lang": "en", "category": "ImageVideo","priority": 2},
 
     # ══════════════════════════════════════════
     # NEW: Wow カテゴリ
-    # バイラル・驚き系AI情報（HN + Reddit・無料・無登録）
+    # バイラル・驚き系AI情報（メインはHackerNews API、Redditは補助）
     # ══════════════════════════════════════════
     {"url": "https://www.reddit.com/r/artificial/.rss",
      "source": "r/artificial",       "lang": "en", "category": "Wow",      "priority": 2},
@@ -159,10 +154,19 @@ def parse_date(raw: str) -> str:
 
 
 def fetch_feed(meta: dict) -> list:
-    headers = {
-        "User-Agent": "Mozilla/5.0 (compatible; SIGNALNewsBot/2.0)",
-        "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml",
-    }
+    # Reddit対策: ボット風UAを避け、現実的なブラウザUAを使う
+    is_reddit = "reddit.com" in meta["url"]
+    if is_reddit:
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15",
+            "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml",
+            "Accept-Language": "en-US,en;q=0.9",
+        }
+    else:
+        headers = {
+            "User-Agent": "Mozilla/5.0 (compatible; SIGNALNewsBot/2.0; +https://tsukiproduct.github.io/signal-news/)",
+            "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml",
+        }
     try:
         req = Request(meta["url"], headers=headers)
         with urlopen(req, timeout=TIMEOUT) as resp:
@@ -265,7 +269,10 @@ def fetch_connpass(limit: int = 10) -> list:
         f"&count={limit}"
     )
     try:
-        req = Request(url, headers={"User-Agent": "SIGNALNewsBot/2.0"})
+        req = Request(url, headers={
+            "User-Agent": "Mozilla/5.0 (compatible; SIGNALNewsBot/2.0)",
+            "Accept": "application/json",
+        })
         with urlopen(req, timeout=TIMEOUT) as resp:
             data = json.loads(resp.read())
 
