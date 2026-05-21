@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-05-21_evening-2026-05-ai-technology-latest-developments-and-events",
+      "date": "2026-05-21",
+      "file_key": "2026-05-21_evening",
+      "title": "2026年5月AI技術の最新動向とイベントまとめ",
+      "summary": "2026年のAI技術動向とイベントをレビュー。Stable Diffusionの新機能やエージェント型AIのコストについて解説。",
+      "tags": [
+        "AI技術",
+        "イベント",
+        "画像生成",
+        "プロンプト",
+        "実践"
+      ],
+      "slug": "2026-05-ai-technology-latest-developments-and-events"
+    },
+    {
       "id": "2026-05-21_morning-quantum-ai-glasses-this-week",
       "date": "2026-05-21",
       "file_key": "2026-05-21_morning",
@@ -184,5 +199,5 @@
       "slug": "ai-news-browser-automation-social-media"
     }
   ],
-  "updated_at": "2026-05-20T23:07:39.903550+00:00"
+  "updated_at": "2026-05-21T08:02:56.207879+00:00"
 }
