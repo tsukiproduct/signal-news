@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-05-21_evening-american-ai-revolution",
+      "date": "2026-05-21",
+      "file_key": "2026-05-21_evening",
+      "title": "AI急進 既存企業の戦略",
+      "summary": "AI技術の急速な進展が大企業に波及。既存企業は生態系戦略の再构築を進めつつ、倫理的課題と競争優位性を jointly 解決する必要に迫られる。",
+      "tags": [
+        "AI",
+        "企業戦略",
+        "技術革新"
+      ],
+      "slug": "american-ai-revolution"
+    },
+    {
       "id": "2026-05-21_evening-2026-05-ai-technology-latest-developments-and-events",
       "date": "2026-05-21",
       "file_key": "2026-05-21_evening",
@@ -199,5 +212,5 @@
       "slug": "ai-news-browser-automation-social-media"
     }
   ],
-  "updated_at": "2026-05-21T08:02:56.207879+00:00"
+  "updated_at": "2026-05-21T13:52:29.625887+00:00"
 }
