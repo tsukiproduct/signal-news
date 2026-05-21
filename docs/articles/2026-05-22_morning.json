@@ -1,0 +1,90 @@
+{
+  "id": "2026-05-22_morning-english-slug",
+  "file_key": "2026-05-22_morning",
+  "date": "2026-05-22",
+  "generated_at": "2026-05-21T22:59:12.325079+00:00",
+  "title": "AIの最新動向解説",
+  "slug": "english-slug",
+  "summary": "技術業界が直面するAI投資や規制動向を深く掘り下げ、未来への影響を解説します。",
+  "tags": [],
+  "sections": [],
+  "sources": [
+    {
+      "title": "States ask judge to break up Live Nation-Ticketmaster",
+      "url": "https://www.theverge.com/policy/935735/live-nation-ticketmaster-states-remedies-request-break-up",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "Spacex’s IPO & the Future of the AI Build-Out | The Close 5/21/2026",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-21/the-close-5-21-2026-video",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "米政府、IBMなど量子技術企業9社に総額約20億ドルの投資へ 各社の株式取得",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/22/news063.html",
+      "source": "ITmedia News",
+      "category": "Tech"
+    },
+    {
+      "title": "ついに予測市場を規制する最初の州が出現",
+      "url": "https://gigazine.net/news/20260522-ban-prediction-markets/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "IVRy、メガバンク3行から総額45億円の資金調達実施 AIプロダクト開発やエンタープライズ領域の強化など推進",
+      "url": "https://ascii.jp/elem/000/004/404/4404067/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Datasette Agent",
+      "url": "https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "In desperate times, graduates find hope in humiliating tech CEOs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos",
+      "source": "The Verge",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "テスト自動化を提案しても通らない―― スクリプト作成・保守コストが壁になる現場 ～ AI活用によりスクリプト負荷を抑え、導入しやすい自動化に変える方法 ～",
+      "url": "https://majisemi-dev.doorkeeper.jp/events/196698",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "【シーメンスエキスパートトーク 第2弾】AIアプリ開発はなぜ、個別開発止まりで全社展開できないのか ～ローコードで実現する、開発から改善までのサイクルを加速する「AIアプリ工場」～",
+      "url": "https://majisemi-dev.doorkeeper.jp/events/196682",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

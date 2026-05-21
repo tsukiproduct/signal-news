@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "2026-05-22_morning-english-slug",
+      "date": "2026-05-22",
+      "file_key": "2026-05-22_morning",
+      "title": "AIの最新動向解説",
+      "summary": "技術業界が直面するAI投資や規制動向を深く掘り下げ、未来への影響を解説します。",
+      "tags": [],
+      "slug": "english-slug"
+    },
+    {
       "id": "2026-05-21_evening-american-ai-revolution",
       "date": "2026-05-21",
       "file_key": "2026-05-21_evening",
@@ -212,5 +221,5 @@
       "slug": "ai-news-browser-automation-social-media"
     }
   ],
-  "updated_at": "2026-05-21T13:52:29.625887+00:00"
+  "updated_at": "2026-05-21T22:59:12.325699+00:00"
 }
