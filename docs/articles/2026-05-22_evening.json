@@ -1,0 +1,159 @@
+{
+  "id": "2026-05-22_evening-ai-trends-update",
+  "file_key": "2026-05-22_evening",
+  "date": "2026-05-22",
+  "generated_at": "2026-05-22T13:20:26.468590+00:00",
+  "title": "AI活用最前線：技術進歩と社会の動き",
+  "slug": "ai-trends-update",
+  "summary": "AI技術の進歩や社会活動の動きをキャッチアップ。企業潮目、健康技術、モデル開発の動向を振り返る。",
+  "tags": [
+    "AIニュース",
+    "生成AI",
+    "企業動向",
+    "ヘルステック"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "AI技術は急速に進化し、企業活動や社会問題にも及びつつある。今回のキュレーションでは、ハイエンドPCの活用から健康科技、企業の倫理問題、そしてオープンソースモデルの登場まで、多彩なトピックを取り上げている。これらは単なる技術ニュースではなく、私たちの日常と仕事に対する影響を示す重要なシグナルである。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "特別調査委員会の指摘を受け、YKK APの元会長3人が経費不正で退任したことは、AI時代における企業のガバナンス問題の典型例である。生成AIの急速な導入に伴い、データ活用の是非や経費の適正使用が再び焦点となっている。一方、ヘルステック分野では、新型コロナの長期影響として振る舞いが残る嗅覚・味覚の欠乏を持つチューインガムが開発され、AIを活用したセンシング技術との組み合わせが期待されている。",
+      "source_title": "「YKK AP」会長ら3人退任へ 私的飲食で会社の経費使用",
+      "source_url": "https://news.web.nhk/newsweb/na/na-k10015129401000"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "Midjourneyでのヴァンダルズ・エンカウンターのようなクリエイティブな出力が注目を集めている。鍛冶師の_knightがドラゴンと対峙する姿は、AI生成画像のリアリズムとユーザーの想像力が融合した傑作である。画像生成AIはまもなく決焦線の向こうにある創造的可能性を示している。",
+      "source_title": "The meeting",
+      "source_url": "https://www.reddit.com/r/midjourney/comments/1tkhah0/the_meeting/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "効率的なドキュメント抽出",
+      "prompt_body": "NuExtract3を使用して、PDFや画像からMarkdown形式で構造化データを抽出するプロンプト。open-weight 4B VLMモデルを活用し、OCR精度を向上させる。",
+      "prompt_usecase": "ビジネス書類や技術マニュアルのデジタル変換に活用。自社ホストでのセルフホストが可能。",
+      "prompt_source": "https://www.reddit.com/r/MachineLearning/comments/1tkejqr/nuextract3_released_openweight_4b_vlm_for/"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "AIモデルが生成したデータで自己を訓練する現象、「AIカニバリゼーション」が防ぐ方法が科学的に示された。人間のデータが枯渇する未来に備えた対策として、データ多様性を維持する技術が注目されている。これは、AI研究の永遠の課題の一つである。",
+      "source_title": "How can we prevent AI models from cannibalizing themselves when human-generated data runs out?",
+      "source_url": "https://www.reddit.com/r/artificial/comments/1tki38c/how_can_we_prevent_ai_models_from_cannibalizing/"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "地域活動として、第4回CoderDojo南会津が開催。子供たちのためのプログラミング教育イベントで、地元の会津田島駅近くで行われる。また、IPA主催のセキュリティWEBinarがオンラインで提供中。生成AI時代の企業セキュリティについて学べる機会となる。",
+      "event_list": [
+        {
+          "title": "第4回CoderDojo 南会津",
+          "date": "2026-05-24",
+          "place": "南会津町役場本庁舎多目的ホール",
+          "url": "https://coderdojo-minamiaizu.doorkeeper.jp/events/196199"
+        },
+        {
+          "title": "IPA「情報セキュリティ10大脅威」セミナー",
+          "date": "2026-05-26",
+          "place": "オンライン",
+          "url": "https://majisemi-security.doorkeeper.jp/events/196719"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "YKK APの件は企業に警鐘となる。生成AIの導入では、データ利用の透明性と経費管理が不可欠である。一方、チューインガムのように身近な製品でAI技術を活用できることを示す。ビジネスでは、顧客の感覚リカバリー支援や、センシングデータの分析にAIを積極的に活用すべきだ。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "AI規制の動きや企業のガバナンス、そしてオープンソースモデルの登場が顕著である。特に、FTCの活動は消費者保護への関心を冷たくせず、企業のAI活用における倫理的配慮が問われている。今後の動向は、規制と革新がいかに調和するかにある。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "If I could only have one laptop for work and gaming, I’d get this one",
+      "url": "https://www.theverge.com/tech/935898/asus-rog-zephyrus-g14-2026-intel-nvidia-review",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "新型コロナで失われた嗅覚と味覚が「特別な味付けのチューインガム」のおかげで回復した事例",
+      "url": "https://gigazine.net/news/20260522-chewing-gum-restores-taste-smell-covid/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "NYSE's Martin Questions Some Rules Used to Attract SpaceX to Nasdaq",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-22/nyse-s-martin-questions-some-ipo-rule-changes-video",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "「YKK AP」会長ら3人退任へ 私的飲食で会社の経費使用",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015129401000",
+      "source": "NHK テクノロジー",
+      "category": "AI"
+    },
+    {
+      "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
+      "url": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
+      "source": "MIT Tech Review",
+      "category": "Research"
+    },
+    {
+      "title": "How can we prevent AI models from cannibalizing themselves when human-generated data runs out? Scientists say they've found the answer.",
+      "url": "https://www.reddit.com/r/artificial/comments/1tki38c/how_can_we_prevent_ai_models_from_cannibalizing/",
+      "source": "r/artificial",
+      "category": "Wow"
+    },
+    {
+      "title": "NuExtract3 released: open-weight 4B VLM for Markdown, OCR and structured extraction (self-hostable) [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tkejqr/nuextract3_released_openweight_4b_vlm_for/",
+      "source": "r/MachineLearning",
+      "category": "Wow"
+    },
+    {
+      "title": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service",
+      "url": "https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "The meeting",
+      "url": "https://www.reddit.com/r/midjourney/comments/1tkhah0/the_meeting/",
+      "source": "r/midjourney",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "第4回CoderDojo 南会津（最寄駅：会津田島駅）",
+      "url": "https://coderdojo-minamiaizu.doorkeeper.jp/events/196199",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "【再放送】IPA「情報セキュリティ10大脅威」に見る 生成AI時代の企業セキュリティリスクとは ～脆弱性が発生するポイント解説と、診断の重要性～",
+      "url": "https://majisemi-security.doorkeeper.jp/events/196719",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

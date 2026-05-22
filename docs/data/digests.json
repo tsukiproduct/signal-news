@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "2026-05-22_evening-ai-trends-update",
+      "date": "2026-05-22",
+      "file_key": "2026-05-22_evening",
+      "title": "AI活用最前線：技術進歩と社会の動き",
+      "summary": "AI技術の進歩や社会活動の動きをキャッチアップ。企業潮目、健康技術、モデル開発の動向を振り返る。",
+      "tags": [
+        "AIニュース",
+        "生成AI",
+        "企業動向",
+        "ヘルステック"
+      ],
+      "slug": "ai-trends-update"
+    },
+    {
       "id": "2026-05-22_morning-english-slug",
       "date": "2026-05-22",
       "file_key": "2026-05-22_morning",
@@ -221,5 +235,5 @@
       "slug": "ai-news-browser-automation-social-media"
     }
   ],
-  "updated_at": "2026-05-21T22:59:12.325699+00:00"
+  "updated_at": "2026-05-22T13:20:26.469324+00:00"
 }
