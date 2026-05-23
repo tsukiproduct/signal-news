@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-05-23_afternoon-ai-news-summary",
+      "date": "2026-05-23",
+      "file_key": "2026-05-23_afternoon",
+      "title": "AIの最新動向と実用応用：ガソリン政策からセキュリティリスクまで",
+      "summary": "AI技術がガソリン価格支援策からセキュリティリスクまでさまざまな分野に影響を与える。イベントや画像生成技術の進展も注目。",
+      "tags": [
+        "AI",
+        "Tech",
+        "Events",
+        "ImageVideo",
+        "Prompts"
+      ],
+      "slug": "ai-news-summary"
+    },
+    {
       "id": "2026-05-22_evening-ai-trends-update",
       "date": "2026-05-22",
       "file_key": "2026-05-22_evening",
@@ -235,5 +250,5 @@
       "slug": "ai-news-browser-automation-social-media"
     }
   ],
-  "updated_at": "2026-05-22T13:20:26.469324+00:00"
+  "updated_at": "2026-05-23T06:40:51.888966+00:00"
 }
