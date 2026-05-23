@@ -1,0 +1,142 @@
+{
+  "id": "2026-05-23_evening-english-slug",
+  "file_key": "2026-05-23_evening",
+  "date": "2026-05-23",
+  "generated_at": "2026-05-23T11:52:05.321763+00:00",
+  "title": "AI技術の最新動向とビジネスへの影響",
+  "slug": "english-slug",
+  "summary": "本記事では、AIニュースを3本まとめ、Androidゲーム機やセキュリティ、Apple WatchのTouch IDについて解説。技術の進化と実用的な応用が強調されています。",
+  "tags": [
+    "AI",
+    "技術",
+    "ビジネス"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "2026年3月、Androidゲーム機「AYANEO Pocket S Mini」が発売。Snapdragon G3x Gen 2搭載、Androidアプリ対応。技術革新の兆し。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "Nvidia CEOがSuper Microに監査を強化を呼びかけ、AI時代のサプライチェーンが重要となる。業界の変化が明確。"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "AIを活用しよう",
+      "prompt_body": "Soften your prompt to help AI generate ideas for your project. Try natural language inputs for best results.",
+      "prompt_source": "example"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "HackerNewsやRedditでAI関連の話題が急上昇。トレンドを追うことが重要。"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "次週のCoderDojo南会津で参加。技術動向を直接体験できます。",
+      "event_list": [
+        {
+          "title": "第4回CoderDojo 南会津",
+          "date": "2026-05-24",
+          "place": "会津田島駅",
+          "url": "https://coderdojo-minamiaizu.doorkeeper.jp/events/196199"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "AIを活用した業務効率化や顧客対応の最適化を試してみよう。具体的な導入例を参考に。",
+      "prompt_usecase": "AIによる日常業務改善",
+      "prompt_source": "例文"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "AI技術は急速進化。トレンドを把握し、柔軟に対応することが成功の鍵。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Android搭載の小型ゲーム機「AYANEO Pocket S Mini」の外観はこんな感じ",
+      "url": "https://gigazine.net/news/20260523-ayaneo-pocket-s-mini-appearance/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "“激安ノーブランド”は不安…。ACEの拡張＆前開きキャリーが1万円台に！",
+      "url": "https://ascii.jp/elem/000/004/404/4404220/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "Nvidia CEO Urges Super Micro to Tighten Up Amid Taiwan Crackdown",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-23/nvidia-ceo-urges-super-micro-to-tighten-up-amid-taiwan-crackdown",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "アップル、次期Apple WatchでTouch ID搭載を見送りか",
+      "url": "https://ascii.jp/elem/000/004/404/4404439/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "アップル、iPhone 18でモデム自社製に統一か Qualcomm依存を終了へ",
+      "url": "https://ascii.jp/elem/000/004/404/4404438/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+      "source": "Hugging Face Blog",
+      "category": "Prompts"
+    },
+    {
+      "title": "Last Week in AI #339 - DLSS 5, OpenAI Superapp, MiniMax M2.7",
+      "url": "https://lastweekin.ai/p/last-week-in-ai-339-dlss-5-openai",
+      "source": "Last Week in AI",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "第4回CoderDojo 南会津（最寄駅：会津田島駅）",
+      "url": "https://coderdojo-minamiaizu.doorkeeper.jp/events/196199",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "【再放送】IPA「情報セキュリティ10大脅威」に見る 生成AI時代の企業セキュリティリスクとは ～脆弱性が発生するポイント解説と、診断の重要性～",
+      "url": "https://majisemi-security.doorkeeper.jp/events/196719",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-05-23_evening-english-slug",
+      "date": "2026-05-23",
+      "file_key": "2026-05-23_evening",
+      "title": "AI技術の最新動向とビジネスへの影響",
+      "summary": "本記事では、AIニュースを3本まとめ、Androidゲーム機やセキュリティ、Apple WatchのTouch IDについて解説。技術の進化と実用的な応用が強調されています。",
+      "tags": [
+        "AI",
+        "技術",
+        "ビジネス"
+      ],
+      "slug": "english-slug"
+    },
+    {
       "id": "2026-05-23_afternoon-ai-news-summary",
       "date": "2026-05-23",
       "file_key": "2026-05-23_afternoon",
@@ -250,5 +263,5 @@
       "slug": "ai-news-browser-automation-social-media"
     }
   ],
-  "updated_at": "2026-05-23T06:40:51.888966+00:00"
+  "updated_at": "2026-05-23T11:52:05.322440+00:00"
 }
