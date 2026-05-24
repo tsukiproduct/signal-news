@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "id": "2026-05-24_evening-ai-weekly-report",
+      "date": "2026-05-24",
+      "file_key": "2026-05-24_evening",
+      "title": "AIイベントとニュースの週次レポート",
+      "summary": "AI技術の進展、イベント、プロンプトの活用方法を解説。企業向けサイバーセキュリティ対応と画像生成AIの最前線を紹介。",
+      "tags": [
+        "AI",
+        "サイバーセキュリティ",
+        "画像生成",
+        "イベント",
+        "プロンプト",
+        "ビジネス応用"
+      ],
+      "slug": "ai-weekly-report"
+    },
+    {
       "id": "2026-05-23_evening-english-slug",
       "date": "2026-05-23",
       "file_key": "2026-05-23_evening",
@@ -263,5 +279,5 @@
       "slug": "ai-news-browser-automation-social-media"
     }
   ],
-  "updated_at": "2026-05-23T11:52:05.322440+00:00"
+  "updated_at": "2026-05-24T07:27:34.228607+00:00"
 }

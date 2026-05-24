@@ -1,0 +1,161 @@
+{
+  "id": "2026-05-24_evening-ai-weekly-report",
+  "file_key": "2026-05-24_evening",
+  "date": "2026-05-24",
+  "generated_at": "2026-05-24T07:27:34.227860+00:00",
+  "title": "AIイベントとニュースの週次レポート",
+  "slug": "ai-weekly-report",
+  "summary": "AI技術の進展、イベント、プロンプトの活用方法を解説。企業向けサイバーセキュリティ対応と画像生成AIの最前線を紹介。",
+  "tags": [
+    "AI",
+    "サイバーセキュリティ",
+    "画像生成",
+    "イベント",
+    "プロンプト",
+    "ビジネス応用"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "AI技術の多様な分野での進化が目立つ今週。新商品の発売、イベントの開催、AI活用の実務的な動向が報じられている。セブンの新サンドイッチや、日産の高級ミニバン、スマホ保険の新サービスなど、生活とビジネスへのAIの影響が広がっている。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "生成AIの進化とその社会への影響が議論の的となっている。日産の新型エルグランドは、AI技術を活用した高性能車の例として注目され、一方でAIによるサイバー攻撃のリスクや対策の重要性が企業にとって課題とされている。また、アニメコラボレーションのマーケティング戦略も注目されている。",
+      "source_title": "AIがサイバー攻撃を変える",
+      "source_url": "https://majisemi-security.doorkeeper.jp/events/196785"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "画像生成AIの進化が目立つ。Redditの投稿では、月の満ち欠けを再現するMidJourneyのプロンプトが話題に。画像生成の技術がクリエイティブ分野でどのように活用されているのか、具体的な例を紹介。",
+      "source_title": "Moon phases",
+      "source_url": "https://www.reddit.com/r/midjourney/comments/1tm38v8/moon_phases/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "月の満ち欠けを再現",
+      "prompt_body": "Moon phases: Create a detailed image of the moon in various phases, including full moon, crescent, and new moon. Use realistic lighting and textures.",
+      "prompt_usecase": "デザインや教育用途で月の状態を視覚的に理解するための補助ツールとして活用可能。",
+      "prompt_source": "https://www.reddit.com/r/midjourney/comments/1tm38v8/moon_phases/"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "HackerNewsやRedditでは、AIの応用例や技術動向が取り上げられている。特に、AIによるサイバー攻撃の変化や、企業向けのセキュリティ対策の重要性が議論され、AI技術の社会的影響が注目されている。",
+      "source_title": "AIがサイバー攻撃を変える",
+      "source_url": "https://majisemi-security.doorkeeper.jp/events/196785"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "オンラインイベントが多数開催。AIセキュリティリスクに関するセミナーや、生成AIの活用事例の紹介イベントなどが注目。参加者数は限定されているため、早めの登録が推奨される。",
+      "event_list": [
+        {
+          "title": "AIがサイバー攻撃を変える",
+          "date": "2026-05-25",
+          "place": "Webセミナー",
+          "url": "https://majisemi-security.doorkeeper.jp/events/196785"
+        },
+        {
+          "title": "生成AI時代の企業セキュリティリスク",
+          "date": "2026-05-26",
+          "place": "オンライン",
+          "url": "https://majisemi-security.doorkeeper.jp/events/196719"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "AI技術を活用した企業向けの具体的な活用方法を紹介。例えば、スマホ保険のオンライン加入や、AIによるサイバーセキュリティ対策の導入が挙げられる。また、画像生成AIを活用したマーケティング活動や教育ツールとしての利用も検討される。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "AI技術の進化がビジネスや社会に与える影響が加速している。特に、AIによるサイバー攻撃のリスクや、企業向けのセキュリティ対策の重要性が注目され、今後の技術動向に注目が集まっている。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "コロッケどーん！セブン「よくばりサンド」新作がうまそう",
+      "url": "https://ascii.jp/elem/000/004/403/4403579/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "打倒アルファードの大本命！ 日産復活の狼煙、新型「エルグランド」が示す高級ミニバンの最適解",
+      "url": "https://ascii.jp/elem/000/004/404/4404550/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "povoで月190円から加入できるスマホ保険 新品・中古問わず、家族のスマホも対象にできる",
+      "url": "https://ascii.jp/elem/000/004/404/4404509/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "複数端末リアルタイム同期タイマー OSS「DeviceTick」を公開",
+      "url": "https://ascii.jp/elem/000/004/404/4404584/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "『名探偵コナン』と『名探偵プリキュア』がテレビ局や会社の垣根を越えて名探偵コラボへ",
+      "url": "https://gigazine.net/news/20260524-conan-precure-detective-collaboration/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "Is There a Roadmap for Applied AI Engineering Without Going Deep Into Data Science?",
+      "url": "https://www.reddit.com/r/artificial/comments/1tm3vba/is_there_a_roadmap_for_applied_ai_engineering/",
+      "source": "r/artificial",
+      "category": "Wow"
+    },
+    {
+      "title": "Expedia ML Scientist II interview experience anyone ? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tm0q92/expedia_ml_scientist_ii_interview_experience/",
+      "source": "r/MachineLearning",
+      "category": "Wow"
+    },
+    {
+      "title": "On the",
+      "url": "https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "Moon phases",
+      "url": "https://www.reddit.com/r/midjourney/comments/1tm38v8/moon_phases/",
+      "source": "r/midjourney",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "AIがサイバー攻撃を変える AI時代のサイバーセキュリティ、あなたの会社は対応できていますか？",
+      "url": "https://majisemi-security.doorkeeper.jp/events/196785",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "【再放送】IPA「情報セキュリティ10大脅威」に見る 生成AI時代の企業セキュリティリスクとは ～脆弱性が発生するポイント解説と、診断の重要性～",
+      "url": "https://majisemi-security.doorkeeper.jp/events/196719",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
