@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-05-24_evening-english-slug",
+      "date": "2026-05-24",
+      "file_key": "2026-05-24_evening",
+      "title": "AIの最新動向解説",
+      "summary": "本記事では、宇宙飛行士の重力適応、Appleの生成AIサブドメイン、ならではのプロンプト活用、AIセキュリティアップの必要性など、AIの多様な話題を解説します。技術の進化とその社会への影響が考えられます。",
+      "tags": [
+        "AI",
+        "技術",
+        "ビジネス"
+      ],
+      "slug": "english-slug"
+    },
+    {
       "id": "2026-05-24_evening-ai-weekly-report",
       "date": "2026-05-24",
       "file_key": "2026-05-24_evening",
@@ -279,5 +292,5 @@
       "slug": "ai-news-browser-automation-social-media"
     }
   ],
-  "updated_at": "2026-05-24T07:27:34.228607+00:00"
+  "updated_at": "2026-05-24T11:57:09.913566+00:00"
 }

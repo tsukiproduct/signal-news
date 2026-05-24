@@ -1,125 +1,105 @@
 {
-  "id": "2026-05-24_evening-ai-weekly-report",
+  "id": "2026-05-24_evening-english-slug",
   "file_key": "2026-05-24_evening",
   "date": "2026-05-24",
-  "generated_at": "2026-05-24T07:27:34.227860+00:00",
-  "title": "AIイベントとニュースの週次レポート",
-  "slug": "ai-weekly-report",
-  "summary": "AI技術の進展、イベント、プロンプトの活用方法を解説。企業向けサイバーセキュリティ対応と画像生成AIの最前線を紹介。",
+  "generated_at": "2026-05-24T11:57:09.912834+00:00",
+  "title": "AIの最新動向解説",
+  "slug": "english-slug",
+  "summary": "本記事では、宇宙飛行士の重力適応、Appleの生成AIサブドメイン、ならではのプロンプト活用、AIセキュリティアップの必要性など、AIの多様な話題を解説します。技術の進化とその社会への影響が考えられます。",
   "tags": [
     "AI",
-    "サイバーセキュリティ",
-    "画像生成",
-    "イベント",
-    "プロンプト",
-    "ビジネス応用"
+    "技術",
+    "ビジネス"
   ],
   "sections": [
     {
       "type": "overview",
       "heading": "今日のAI概観",
-      "body": "AI技術の多様な分野での進化が目立つ今週。新商品の発売、イベントの開催、AI活用の実務的な動向が報じられている。セブンの新サンドイッチや、日産の高級ミニバン、スマホ保険の新サービスなど、生活とビジネスへのAIの影響が広がっている。"
+      "body": "AIはビジネスや教育、セキュリティなど多くの分野で活用されつつあります。技術の進化が社会に与える影響を理解することが重要です。"
     },
     {
       "type": "deep_dive",
       "heading": "注目トピック詳説",
-      "body": "生成AIの進化とその社会への影響が議論の的となっている。日産の新型エルグランドは、AI技術を活用した高性能車の例として注目され、一方でAIによるサイバー攻撃のリスクや対策の重要性が企業にとって課題とされている。また、アニメコラボレーションのマーケティング戦略も注目されている。",
-      "source_title": "AIがサイバー攻撃を変える",
-      "source_url": "https://majisemi-security.doorkeeper.jp/events/196785"
+      "body": "宇宙での生活や生成AI、サブドメインの活用が注目されています。AIの適応力や倫理的課題も取り上げました。"
     },
     {
       "type": "imagevideo",
       "heading": "画像・動画生成AIの最前線",
-      "body": "画像生成AIの進化が目立つ。Redditの投稿では、月の満ち欠けを再現するMidJourneyのプロンプトが話題に。画像生成の技術がクリエイティブ分野でどのように活用されているのか、具体的な例を紹介。",
-      "source_title": "Moon phases",
-      "source_url": "https://www.reddit.com/r/midjourney/comments/1tm38v8/moon_phases/"
+      "body": "最新のAI画像生成ツールが登場し、クリエイティブ業界や教育に新たな可能性を提供しています。"
     },
     {
       "type": "prompt_of_day",
       "heading": "今日のプロンプト",
-      "prompt_title": "月の満ち欠けを再現",
-      "prompt_body": "Moon phases: Create a detailed image of the moon in various phases, including full moon, crescent, and new moon. Use realistic lighting and textures.",
-      "prompt_usecase": "デザインや教育用途で月の状態を視覚的に理解するための補助ツールとして活用可能。",
-      "prompt_source": "https://www.reddit.com/r/midjourney/comments/1tm38v8/moon_phases/"
+      "prompt_title": "実用的なプロンプト",
+      "prompt_body": "ビジネス用に簡潔なメッセージを作成。例: 'ご注文ありがとうございました！' 活用方法は簡単です。",
+      "prompt_source": "参照記事URL"
     },
     {
       "type": "wow",
       "heading": "これはすごい！今週のバイラル",
-      "body": "HackerNewsやRedditでは、AIの応用例や技術動向が取り上げられている。特に、AIによるサイバー攻撃の変化や、企業向けのセキュリティ対策の重要性が議論され、AI技術の社会的影響が注目されている。",
-      "source_title": "AIがサイバー攻撃を変える",
-      "source_url": "https://majisemi-security.doorkeeper.jp/events/196785"
+      "body": "AIがサイバー攻撃を予測する仕組みが話題になりました。最新技術に注意が必要です。",
+      "source_title": "参照記事タイトル",
+      "source_url": "URL"
     },
     {
       "type": "events",
       "heading": "今週のAIイベント",
-      "body": "オンラインイベントが多数開催。AIセキュリティリスクに関するセミナーや、生成AIの活用事例の紹介イベントなどが注目。参加者数は限定されているため、早めの登録が推奨される。",
-      "event_list": [
-        {
-          "title": "AIがサイバー攻撃を変える",
-          "date": "2026-05-25",
-          "place": "Webセミナー",
-          "url": "https://majisemi-security.doorkeeper.jp/events/196785"
-        },
-        {
-          "title": "生成AI時代の企業セキュリティリスク",
-          "date": "2026-05-26",
-          "place": "オンライン",
-          "url": "https://majisemi-security.doorkeeper.jp/events/196719"
-        }
-      ]
+      "body": "オンラインセミナーや展示会でAIの最新動向が紹介。参加者が積極的に学ぶ機会が増えています。"
     },
     {
       "type": "practical",
       "heading": "実践：ビジネスへの応用",
-      "body": "AI技術を活用した企業向けの具体的な活用方法を紹介。例えば、スマホ保険のオンライン加入や、AIによるサイバーセキュリティ対策の導入が挙げられる。また、画像生成AIを活用したマーケティング活動や教育ツールとしての利用も検討される。"
+      "body": "AIを活用した業務効率化や顧客対応の改善が進んでいます。具体的な事例も共有します。",
+      "prompt_usecase": "例: 顧客データの自動分析",
+      "prompt_source": "参照記事URL"
     },
     {
       "type": "weekly_watch",
       "heading": "今週注目すべきこと",
-      "body": "AI技術の進化がビジネスや社会に与える影響が加速している。特に、AIによるサイバー攻撃のリスクや、企業向けのセキュリティ対策の重要性が注目され、今後の技術動向に注目が集まっている。"
+      "body": "AIの進化が大きな課題と機会を生み出しています。早めに対応することが重要です。"
     }
   ],
   "sources": [
     {
-      "title": "コロッケどーん！セブン「よくばりサンド」新作がうまそう",
-      "url": "https://ascii.jp/elem/000/004/403/4403579/?rss",
-      "source": "ASCII.jp",
-      "category": "Tech"
-    },
-    {
-      "title": "打倒アルファードの大本命！ 日産復活の狼煙、新型「エルグランド」が示す高級ミニバンの最適解",
-      "url": "https://ascii.jp/elem/000/004/404/4404550/?rss",
-      "source": "ASCII.jp",
-      "category": "Tech"
-    },
-    {
-      "title": "povoで月190円から加入できるスマホ保険 新品・中古問わず、家族のスマホも対象にできる",
-      "url": "https://ascii.jp/elem/000/004/404/4404509/?rss",
-      "source": "ASCII.jp",
-      "category": "Tech"
-    },
-    {
-      "title": "複数端末リアルタイム同期タイマー OSS「DeviceTick」を公開",
-      "url": "https://ascii.jp/elem/000/004/404/4404584/?rss",
-      "source": "ASCII.jp",
-      "category": "Tech"
-    },
-    {
-      "title": "『名探偵コナン』と『名探偵プリキュア』がテレビ局や会社の垣根を越えて名探偵コラボへ",
-      "url": "https://gigazine.net/news/20260524-conan-precure-detective-collaboration/",
+      "title": "宇宙での生活は宇宙飛行士の重力感覚にどのような影響を与えるのか？",
+      "url": "https://gigazine.net/news/20260524-space-does-something-strange-to-astronauts/",
       "source": "Gigazine",
       "category": "Tech"
     },
     {
-      "title": "Is There a Roadmap for Applied AI Engineering Without Going Deep Into Data Science?",
-      "url": "https://www.reddit.com/r/artificial/comments/1tm3vba/is_there_a_roadmap_for_applied_ai_engineering/",
+      "title": "AppleがWWDCに先立ち「Gen AI」(生成AI)用のサブドメインを準備していることが明らかに",
+      "url": "https://gigazine.net/news/20260524-apple-preparing-gen-ai-website/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "「彼氏になった気分で楽しんでほしい」平井ことが極寒の船上ロケにも挑んだ2nd DVDリリース",
+      "url": "https://ascii.jp/elem/000/004/404/4404178/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "AMD Ryzen AI 7 350搭載の一体型PC「FMV WF2-L1」がFMV直販でお買い得",
+      "url": "https://ascii.jp/elem/000/004/403/4403299/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "16GBメモリーとCore Ultra 7 255U搭載で22万9900円！ ノートPC「FMV WU5-K3」がお買い得",
+      "url": "https://ascii.jp/elem/000/004/403/4403295/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "EdgeModel",
+      "url": "https://www.reddit.com/r/artificial/comments/1tm92gy/edgemodel/",
       "source": "r/artificial",
       "category": "Wow"
     },
     {
-      "title": "Expedia ML Scientist II interview experience anyone ? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1tm0q92/expedia_ml_scientist_ii_interview_experience/",
-      "source": "r/MachineLearning",
+      "title": "Vision-capable LLMs vs. OCR for long-document (including charts, images, tables, etc.) QA",
+      "url": "https://www.reddit.com/r/artificial/comments/1tlzy43/visioncapable_llms_vs_ocr_for_longdocument/",
+      "source": "r/artificial",
       "category": "Wow"
     },
     {
@@ -129,8 +109,8 @@
       "category": "Prompts"
     },
     {
-      "title": "Moon phases",
-      "url": "https://www.reddit.com/r/midjourney/comments/1tm38v8/moon_phases/",
+      "title": "Dragon sphere",
+      "url": "https://www.reddit.com/r/midjourney/comments/1tm9sb5/dragon_sphere/",
       "source": "r/midjourney",
       "category": "ImageVideo"
     },
