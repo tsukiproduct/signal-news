@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-05-25_evening-ai-2026-weekly-insights",
+      "date": "2026-05-25",
+      "file_key": "2026-05-25_evening",
+      "title": "生成AIとビジネス変革：動画生成・セキュリティ・活用術を徹底解説",
+      "summary": "生成AIの最新動向とビジネス活用法を、動画生成技術・サイバーセキュリティ・実務定着支援イベント情報と合わせて解説。",
+      "tags": [
+        "生成AI",
+        "動画生成",
+        "サイバーセキュリティ",
+        "プロンプト",
+        "ビジネス活用"
+      ],
+      "slug": "ai-2026-weekly-insights"
+    },
+    {
       "id": "2026-05-24_evening-english-slug",
       "date": "2026-05-24",
       "file_key": "2026-05-24_evening",
@@ -292,5 +307,5 @@
       "slug": "ai-news-browser-automation-social-media"
     }
   ],
-  "updated_at": "2026-05-24T11:57:09.913566+00:00"
+  "updated_at": "2026-05-25T08:28:03.876718+00:00"
 }

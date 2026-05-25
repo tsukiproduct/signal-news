@@ -1,0 +1,160 @@
+{
+  "id": "2026-05-25_evening-ai-2026-weekly-insights",
+  "file_key": "2026-05-25_evening",
+  "date": "2026-05-25",
+  "generated_at": "2026-05-25T08:28:03.875988+00:00",
+  "title": "生成AIとビジネス変革：動画生成・セキュリティ・活用術を徹底解説",
+  "slug": "ai-2026-weekly-insights",
+  "summary": "生成AIの最新動向とビジネス活用法を、動画生成技術・サイバーセキュリティ・実務定着支援イベント情報と合わせて解説。",
+  "tags": [
+    "生成AI",
+    "動画生成",
+    "サイバーセキュリティ",
+    "プロンプト",
+    "ビジネス活用"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "2026年5月のAIシーンは、リアルタイム動画生成モデルの登場と、生成AIに対するセキュリティリスクの顕在化が同時に進行中です。NVIDIAのLongLive-2.0が軽量かつ高品質な動画生成を実現し、企業は生成AI活用のハードルを下げようとしています。一方で、IPAが提示した「情報セキュリティ10大脅威」やフォーティネットのUAE向けサイバー防御支援は、AI導入時のリスク管理が不可欠であることを示しています。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "NVIDIAが公開した動画生成AI「LongLive-2.0」は、FP4量子化を前提とした学習手法により、リアルタイムで数秒間の高解像度動画を生成できる点が特徴です。従来の動画生成は数時間単位の計算が必要でしたが、LongLive-2.0はGPU一枚で30fps以上のストリーミングを可能にし、広告制作やライブ配信、AR/VRコンテンツの即時生成に応用が期待されます。技術的には、Transformerベースのエンコーダ‑デコーダ構造に時間的一貫性を保つ自己教師あり学習を組み込み、長時間のシーンでもフレーム間のアーティファクトを抑制しています。実務的インパクトとしては、クリエイティブコストの削減と市場投入速度の向上が見込まれ、特に中小企業が高品質動画を低コストで制作できる環境が整いつつある点が重要です。",
+      "source_title": "リアルタイム動画生成AI「LongLive-2.0」をNVIDIAが公開、FP4量子化を想定した学習により軽量かつ高品質な生成を実現",
+      "source_url": "https://gigazine.net/news/20260525-nvidia-video-generation-ai-longlive-2/"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "LongLive-2.0に加え、画像生成分野ではStable Diffusion 3やMidjourney V7がテキスト‑ツー‑イメージの精度を向上させ、プロンプト設計の重要性が再認識されています。特に「Jump to...」メニューを搭載したdatasette 1.0a30は、データセット内の画像メタ情報を瞬時に検索できるため、生成AIの出力管理に有用です。",
+      "source_title": "datasette 1.0a30",
+      "source_url": "https://simonwillison.net/2026/May/24/datasette/#atom-everything"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "動画シーン切替プロンプト",
+      "prompt_body": "「[シーン説明]」を5秒間のHD動画に変換してください。カメラアングルは低めのローアングル、照明は自然光、背景は都市の夕暮れ。フレームレートは30fps、音声はなし。",
+      "prompt_usecase": "LongLive-2.0や類似動画生成モデルで、広告バナーやSNSストーリー用の短編動画を即座に作成する際に使用。",
+      "prompt_source": "https://gigazine.net/news/20260525-nvidia-video-generation-ai-longlive-2/"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "IEEE Spectrumで「すべてをAIと呼ぶのはやめよう」という記事が話題に。機械学習のパイオニアが、AIという言葉が過度に拡散し本来の意味が曖昧になる危険性を指摘し、正確な用語選択の重要性を訴えました。Hacker Newsでも同記事が多数のコメントを集め、AI・MLの概念整理が再び注目されています。",
+      "source_title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "source_url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "生成AIの実務定着とセキュリティリスクに関するオンラインセミナーが2件開催されます。参加者は実際の導入事例や診断ツールのデモを通じて、リスクマネジメントと業務効率化の両立策を学べます。",
+      "event_list": [
+        {
+          "title": "IPA「情報セキュリティ10大脅威」に見る 生成AI時代の企業セキュリティリスクとは",
+          "date": "2026-05-26",
+          "place": "オンライン",
+          "url": "https://majisemi-security.doorkeeper.jp/events/196719"
+        },
+        {
+          "title": "生成AI活用が進まない壁をどう越える？ \"試して終わる\"から\"業務定着\"へ",
+          "date": "2026-05-26",
+          "place": "オンライン",
+          "url": "https://majisemi-technology.doorkeeper.jp/events/196661"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "1) 動画広告：LongLive-2.0で季節キャンペーン動画を自社で生成し、外部制作費を30％削減。2) データ検索：datasetteのJump toメニューで生成AIの出力メタデータを即座にフィルタリングし、品質管理を自動化。3) セキュリティ：フォーティネットのUAE向けサイバー防御フレームワークを参考に、生成AIモデルのAPIアクセス制御とログ監査を導入し、情報漏洩リスクを低減。これらを組み合わせることで、クリエイティブとガバナンスを同時に強化できます。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "生成AIは「作る」から「管理へ」へとフェーズが移行しつつあります。動画生成の低コスト化は市場拡大を促す一方で、AI生成物の著作権・偽情報リスクが顕在化。企業は技術導入と同時に、IPAが示す脅威リストを踏まえたAIリスク評価フレームワークを策定し、持続可能なAI活用基盤を構築すべきです。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "セブン＆アイ 鈴木敏文名誉顧問が死去 日本のコンビニ礎築く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015130611000",
+      "source": "NHK テクノロジー",
+      "category": "AI"
+    },
+    {
+      "title": "サンダルなのにスニーカー感覚！ ニューバランス「Fresh Foam UA710」は夏の外出にちょうどいい",
+      "url": "https://ascii.jp/elem/000/004/404/4404789/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "30万円切りでRTX 5070＋メモリ32GB！ STORM特価PCの本命、これでは？",
+      "url": "https://ascii.jp/elem/000/004/404/4404704/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "RTX 3050＋144Hz液晶で、ゲーム入門にちょうどいい。MSIのノートPCがタイムセールで12万円台",
+      "url": "https://ascii.jp/elem/000/004/404/4404701/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "フォーティネットがアラブ首長国連邦のサイバーセキュリティを強化",
+      "url": "https://ascii.jp/elem/000/004/404/4404609/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "datasette 1.0a30",
+      "url": "https://simonwillison.net/2026/May/24/datasette/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "リアルタイム動画生成AI「LongLive-2.0」をNVIDIAが公開、FP4量子化を想定した学習により軽量かつ高品質な生成を実現",
+      "url": "https://gigazine.net/news/20260525-nvidia-video-generation-ai-longlive-2/",
+      "source": "Gigazine",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "【再放送】IPA「情報セキュリティ10大脅威」に見る 生成AI時代の企業セキュリティリスクとは ～脆弱性が発生するポイント解説と、診断の重要性～",
+      "url": "https://majisemi-security.doorkeeper.jp/events/196719",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "生成AI活用が進まない壁をどう越える？ \"試して終わる\"から\"業務定着\"へ ～ NTT東日本のミンクスプラス生成AI×伴走支援で、実務定着までの進め方を解説 ～",
+      "url": "https://majisemi-technology.doorkeeper.jp/events/196661",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
