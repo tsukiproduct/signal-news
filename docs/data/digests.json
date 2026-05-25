@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-05-25_evening-ai-this-week",
+      "date": "2026-05-25",
+      "file_key": "2026-05-25_evening",
+      "title": "AIの今週の注目：生成AIからゲームディスプレイまで",
+      "summary": "最新AI技術・イベント・プロンプトを解剖。生成AIの活用課題、ゲームディスプレイの進化、スタートアップ支援策を解説。",
+      "tags": [
+        "生成AI",
+        "スタートアップ支援",
+        "ゲームハードウェア"
+      ],
+      "slug": "ai-this-week"
+    },
+    {
       "id": "2026-05-25_evening-ai-2026-weekly-insights",
       "date": "2026-05-25",
       "file_key": "2026-05-25_evening",
@@ -307,5 +320,5 @@
       "slug": "ai-news-browser-automation-social-media"
     }
   ],
-  "updated_at": "2026-05-25T08:28:03.876718+00:00"
+  "updated_at": "2026-05-25T13:56:10.832120+00:00"
 }
