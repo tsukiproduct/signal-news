@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-05-27_morning-digest",
+      "date": "2026-05-27",
+      "file_key": "2026-05-27_morning",
+      "title": "AIの進化と課題",
+      "summary": "AI技術の急速な進展が社会に与える影響を指摘。",
+      "tags": [
+        "AI",
+        "倫理",
+        "未来"
+      ],
+      "slug": "digest"
+    },
+    {
       "id": "2026-05-26_evening-ai-impact-daily-industry",
       "date": "2026-05-26",
       "file_key": "2026-05-26_evening",
@@ -335,5 +348,5 @@
       "slug": "ai-news-browser-automation-social-media"
     }
   ],
-  "updated_at": "2026-05-26T13:46:10.985029+00:00"
+  "updated_at": "2026-05-26T23:04:10.659345+00:00"
 }

@@ -1,0 +1,110 @@
+{
+  "id": "2026-05-27_morning-digest",
+  "file_key": "2026-05-27_morning",
+  "date": "2026-05-27",
+  "generated_at": "2026-05-26T23:04:10.658807+00:00",
+  "title": "AIの進化と課題",
+  "slug": "digest",
+  "summary": "AI技術の急速な進展が社会に与える影響を指摘。",
+  "tags": [
+    "AI",
+    "倫理",
+    "未来"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "技術の現状",
+      "body": "多様化するAIは医療、教育など múltiち分野で変革を及ぼす。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "倫理的課題",
+      "body": "プライバシー保護と倫理的配慮が課題となる。"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "最新トレンド",
+      "body": "画像生成技術の進化が注目される。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "ディズニーがディズニーランドの入り口に導入した顔認証技術をめぐり訴訟を起こされる",
+      "url": "https://gigazine.net/news/20260527-disney-lawsuit-facial-recognition/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "永遠に更新できる「RHEL Forever」は、日本の声が実ったもの ― レッドハット三浦社長が語るAI時代のインフラ",
+      "url": "https://ascii.jp/elem/000/004/404/4404832/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+      "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+      "source": "TechCrunch AI",
+      "category": "Industry"
+    },
+    {
+      "title": "初海外で北米は無理？ バンクーバーは拍子抜けするほどラクでした",
+      "url": "https://ascii.jp/elem/000/004/404/4404869/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "NASA’s permanent Moon base plans start with three missions this year",
+      "url": "https://www.theverge.com/science/937775/nasa-moon-base-moonfall-updates",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Microsoft Copilot Cowork Exfiltrates Files",
+      "url": "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "Last Week in AI #339 - DLSS 5, OpenAI Superapp, MiniMax M2.7",
+      "url": "https://lastweekin.ai/p/last-week-in-ai-339-dlss-5-openai",
+      "source": "Last Week in AI",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "【Flashセミナー Vol.142】超人気塾発！Claude Code実装革命！現場のリアル全公開",
+      "url": "https://web-mining.doorkeeper.jp/events/196650",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "思考を即座に形にする「バイブコーディング」入門とAI駆動開発事例紹介セミナー",
+      "url": "https://cloudace.doorkeeper.jp/events/196675",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
