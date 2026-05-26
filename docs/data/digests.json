@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-05-26_evening-ai-impact-daily-industry",
+      "date": "2026-05-26",
+      "file_key": "2026-05-26_evening",
+      "title": "AIが変える日常と産業：音声ナレーションから軍事AI、ウェアラブルまで",
+      "summary": "音声配信、軍事利用、映像機材、健康管理、GPU自作まで、今週注目のAIニュースを横断的に解説します。",
+      "tags": [
+        "AI音声",
+        "自律兵器",
+        "画像生成",
+        "ウェアラブル",
+        "GPUISA"
+      ],
+      "slug": "ai-impact-daily-industry"
+    },
+    {
       "id": "2026-05-25_evening-ai-this-week",
       "date": "2026-05-25",
       "file_key": "2026-05-25_evening",
@@ -320,5 +335,5 @@
       "slug": "ai-news-browser-automation-social-media"
     }
   ],
-  "updated_at": "2026-05-25T13:56:10.832120+00:00"
+  "updated_at": "2026-05-26T13:46:10.985029+00:00"
 }
