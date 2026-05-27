@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-05-27_evening-ai-future-2026",
+      "date": "2026-05-27",
+      "file_key": "2026-05-27_evening",
+      "title": "AIが切り拓く未来：機内Wi‑Fiから生成音楽まで",
+      "summary": "機内ギガビット通信、ジャンル切替音楽生成、画像生成AIの進化、イベント情報を網羅し、実務への応用を解説します。",
+      "tags": [
+        "航空インフラ",
+        "生成音楽",
+        "AIイベント"
+      ],
+      "slug": "ai-future-2026"
+    },
+    {
       "id": "2026-05-27_morning-digest",
       "date": "2026-05-27",
       "file_key": "2026-05-27_morning",
@@ -348,5 +361,5 @@
       "slug": "ai-news-browser-automation-social-media"
     }
   ],
-  "updated_at": "2026-05-26T23:04:10.659345+00:00"
+  "updated_at": "2026-05-27T14:17:38.105255+00:00"
 }

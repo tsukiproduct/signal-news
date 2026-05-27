@@ -1,0 +1,154 @@
+{
+  "id": "2026-05-27_evening-ai-future-2026",
+  "file_key": "2026-05-27_evening",
+  "date": "2026-05-27",
+  "generated_at": "2026-05-27T14:17:38.104524+00:00",
+  "title": "AIが切り拓く未来：機内Wi‑Fiから生成音楽まで",
+  "slug": "ai-future-2026",
+  "summary": "機内ギガビット通信、ジャンル切替音楽生成、画像生成AIの進化、イベント情報を網羅し、実務への応用を解説します。",
+  "tags": [
+    "航空インフラ",
+    "生成音楽",
+    "AIイベント"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "2026年5月、AI技術は航空・音楽・画像生成と多領域で進化を続けている。アメリカン航空がStarlinkを導入し機内Wi‑Fiをギガビット化、ElevenLabsがジャンルを途中で切り替えられる音楽生成モデルを公開、さらにDLSS5がリアルタイム動画フィルタとして注目されている。これらは単なる技術的進歩に留まらず、ビジネスやエンタメ、日常生活に大きなインパクトを与えている。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "アメリカン航空は2027年第1四半期から500機以上にStarlinkアンテナを装備し、機内Wi‑Fiをギガビット通信へと刷新する計画を発表した。これにより、長距離フライト中でも高品質なストリーミングやクラウドワークが可能となり、航空業界のサービス水準が大幅に向上する見込みだ。一方、ElevenLabsは新モデルで曲の途中から別ジャンルへシームレスに移行できる機能を実装した。これにより、音楽制作の自由度が飛躍的に拡大し、ゲーム音楽や広告、ラジオ配信など多様な用途での活用が期待される。"
+    },
+    {
+      "source_title": "ElevenLabs’s new music generation model can switch genres mid-track",
+      "source_url": "https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "DLSS5はリアルタイムでAIフィルタを適用し、ゲーム映像を高解像度化・ノイズ除去する技術として注目。OpenAIのスーパーアプリ化の試みも報じられ、テキストから画像・動画・音声まで統合的に生成できるプラットフォーム構築が進行中。",
+      "source_title": "Last Week in AI #339 - DLSS 5, OpenAI Superapp, MiniMax M2.7",
+      "source_url": "https://lastweekin.ai/p/last-week-in-ai-339-dlss-5-openai"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "ビジネスシナリオ生成",
+      "prompt_body": "\"あなたの会社が導入したAIチャットボットが、顧客からの問い合わせに対し、製品情報、FAQ、購入手続きの案内を一括で行う様子を、実際の対話フローとして5つのステップで作成してください。\"",
+      "prompt_usecase": "チャットボット設計者が実装前にユーザーエクスペリエンスを検証する際に活用。",
+      "prompt_source": "https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "HackerNewsでは「Stop Calling Everything AI」という記事が熱烈に議論され、機械学習とAIの定義の曖昧さを指摘。Redditのr/MachineLearningでも同テーマが盛り上がり、実務者が「AIとMLの境界線を再確認する」呼びかけが多く見られる。",
+      "source_title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "source_url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "2026年5月28日、オンラインで開催される『AIと一緒に育つ。非エンジニアの挑戦の広げ方』フラッシュセミナーは、非エンジニア向けにAI基礎と実務応用を解説。参加者はAIツールのハンズオン体験を通じて、業務プロセスにAIを組み込む方法を学べる。",
+      "event_list": [
+        {
+          "title": "AIと一緒に育つ。非エンジニアの挑戦の広げ方",
+          "date": "2026-05-28",
+          "place": "オンライン",
+          "url": "https://web-mining.doorkeeper.jp/events/196825"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "航空会社はStarlink導入により、機内エンタメの拡充やリアルタイムの顧客サポートが可能になる。顧客はフライト中に動画ストリーミングやビデオ会議を行えるため、旅の満足度が向上。音楽制作企業はElevenLabsのジャンル切替機能を利用し、広告・ゲームサウンドトラックを高速かつ低コストで生成できる。さらにDLSS5を活用した投資家向けプレゼンテーションでは、低解像度データをリアルタイムで高解像度化し、視覚的インパクトを高めることが可能だ。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "AIのデータ管理と倫理が引き続き重要課題。Starlink導入で機内ネットワークが大規模化するため、データプライバシーとセキュリティ対策の整備が急務となる。音楽生成AIでは、著作権侵害リスクを回避するために創作データのクリーンアップが求められる。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "This smart bird feeder captures more of my backyard drama",
+      "url": "https://www.theverge.com/tech/937628/coolfly-aura-smart-bird-feeder-review",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "アメリカン航空が500機以上の旅客機にStarlinkを導入して機内Wi-Fiでギガビット通信を可能に",
+      "url": "https://gigazine.net/news/20260527-american-airlines-to-install-starlink/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "ElevenLabs’s new music generation model can switch genres mid-track",
+      "url": "https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/",
+      "source": "TechCrunch AI",
+      "category": "Industry"
+    },
+    {
+      "title": "This Ferrari should have been a Volkswagen",
+      "url": "https://www.theverge.com/transportation/938016/this-ferrari-should-have-been-a-volkswagen",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "Natura AI Partnership Aims to Shake Up Brazil’s Beauty Routines",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-27/natura-ai-partnership-aims-to-shake-up-brazil-s-beauty-routines",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Quoting Kyle Ferrana",
+      "url": "https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "Last Week in AI #339 - DLSS 5, OpenAI Superapp, MiniMax M2.7",
+      "url": "https://lastweekin.ai/p/last-week-in-ai-339-dlss-5-openai",
+      "source": "Last Week in AI",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "【Flashセミナー Vol.143】AIと一緒に育つ。非エンジニアの挑戦の広げ方",
+      "url": "https://web-mining.doorkeeper.jp/events/196825",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "例外処理・全社統制を見据えた業務実行基盤の設計ポイント ～部門ごとに乱立した自動化を、全社標準へどう移行するか～",
+      "url": "https://majisemi-business.doorkeeper.jp/events/196830",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
