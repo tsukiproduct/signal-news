@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "2026-05-28_morning-ai-benchmarking-and-definition-trends",
+      "date": "2026-05-28",
+      "file_key": "2026-05-28_morning",
+      "title": "AI性能評価の厳格化と「AI呼称」への警鐘：真の能力を測る時代へ",
+      "summary": "コーディングAIの厳格なベンチマーク登場や、AI定義への議論など、AIの「実力」を正しく評価する動きが加速しています。",
+      "tags": [
+        "AIベンチマーク",
+        "LLM評価",
+        "AIエージェント",
+        "生成AI"
+      ],
+      "slug": "ai-benchmarking-and-definition-trends"
+    },
+    {
       "id": "2026-05-27_evening-ai-future-2026",
       "date": "2026-05-27",
       "file_key": "2026-05-27_evening",
@@ -361,5 +375,5 @@
       "slug": "ai-news-browser-automation-social-media"
     }
   ],
-  "updated_at": "2026-05-27T14:17:38.105255+00:00"
+  "updated_at": "2026-05-27T23:12:47.821073+00:00"
 }

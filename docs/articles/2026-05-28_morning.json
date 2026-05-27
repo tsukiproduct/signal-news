@@ -1,0 +1,159 @@
+{
+  "id": "2026-05-28_morning-ai-benchmarking-and-definition-trends",
+  "file_key": "2026-05-28_morning",
+  "date": "2026-05-28",
+  "generated_at": "2026-05-27T23:12:47.820289+00:00",
+  "title": "AI性能評価の厳格化と「AI呼称」への警鐘：真の能力を測る時代へ",
+  "slug": "ai-benchmarking-and-definition-trends",
+  "summary": "コーディングAIの厳格なベンチマーク登場や、AI定義への議論など、AIの「実力」を正しく評価する動きが加速しています。",
+  "tags": [
+    "AIベンチマーク",
+    "LLM評価",
+    "AIエージェント",
+    "生成AI"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "現在のAIトレンドは、単なる「機能追加」から「精緻な評価と定義」のフェーズに移行しています。特にコーディングAIやエンタープライズ向けエージェントにおいて、従来のベンチマークでは測定しきれなかった「カンニング（学習データへの漏洩）」や「実務遂行能力」を正しく測る手法が模索されています。同時に、あらゆる技術を「AI」と呼ぶ風潮に対する専門家からの警鐘など、概念的な整理が進んでいます。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説：AIベンチマークの信頼性向上",
+      "body": "AIモデルの性能測定において、テスト問題が学習データに含まれていることで高スコアが出る「データ汚染（カンニング）」が深刻な課題となっています。新ベンチマーク「DeepSWE」は、この問題を改善し、より実戦的なプログラミング能力を測定することを目指しています。また、IBMとArtificial Analysisが公開した「ITBench-AA」では、最先端モデルであってもエンタープライズITタスクの正答率が50%を下回るという結果が出ており、チャット形式の対話能力と、実際の業務遂行能力（エージェンティック能力）の間には依然として大きな乖離があることが浮き彫りになりました。",
+      "source_title": "コーディングAIによるカンニングを防いでより正確なプログラミング性能が測定可能なベンチマーク「DeepSWE」",
+      "source_url": "https://gigazine.net/news/20260528-deepswe-ai-coding-benchmark/"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "ゲーム体験を劇的に変える可能性を持つ「DLSS 5」の噂が注目されています。これは単なる解像度アップスケールではなく、リアルタイムの生成AIフィルタとして機能し、ビデオゲームの視覚表現を動的に書き換える技術になると見られています。また、OpenAIが「スーパーアプリ」への方向転換を図っているとの報道もあり、マルチモーダルな生成機能が統合されたプラットフォームへの進化が期待されます。",
+      "source_title": "Last Week in AI #339 - DLSS 5, OpenAI Superapp, MiniMax M2.7",
+      "source_url": "https://lastweekin.ai/p/last-week-in-ai-339-dlss-5-openai"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "ITタスク分解・実行プラン策定",
+      "prompt_body": "あなたはシニアITエンジニアです。以下の[タスク]を完遂するために、必要なステップを最小単位のアクションに分解し、各ステップでの『期待される出力』と『検証方法』を定義したチェックリストを作成してください。特に例外処理が必要なポイントを明確にしてください。\n\n[タスク]：(ここに具体的なIT業務を入力)",
+      "prompt_usecase": "ITBench-AAの結果が示す通り、AIは複雑なタスクに弱いため、人間がタスクを細分化して指示することで、エージェント的な実行精度を高めることができます。",
+      "prompt_source": "https://huggingface.co/blog/ibm-research/itbench-aa"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "HackerNewsでは、機械学習のパイオニアによる「何でもAIと呼ぶのをやめよう」という主張が話題となっています。マーケティング用語として消費される「AI」という言葉が、本来の技術的な定義を曖昧にし、期待値の不適切なコントロールを招いているという指摘です。技術の本質を理解し、適切に区別して議論することの重要性が再認識されています。",
+      "source_title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "source_url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "非エンジニアがAIをどう活用して自身の可能性を広げるかという実践的なセミナーや、企業レベルでの自動化基盤の設計に関する専門的なセミナーが開催されます。",
+      "event_list": [
+        {
+          "title": "AIと一緒に育つ。非エンジニアの挑戦の広げ方",
+          "date": "2026-05-28",
+          "place": "オンライン",
+          "url": "https://web-mining.doorkeeper.jp/events/196825"
+        },
+        {
+          "title": "例外処理・全社統制を見据えた業務実行基盤の設計ポイント",
+          "date": "2026-05-28",
+          "place": "オンライン",
+          "url": "https://majisemi-business.doorkeeper.jp/events/196830"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "AIエージェントを導入する際は、「AIだから何でもできる」という過信を捨て、ITBench-AAのようなベンチマーク結果を参考に「どのタスクに弱点があるか」を把握することが不可欠です。具体的には、AIに丸投げするのではなく、人間がワークフローを設計し、AIには部分的なタスク実行と一次回答を任せ、最終的な検証（人間によるレビュー）を組み込んだ「Human-in-the-Loop」の体制を構築することが、エンタープライズ環境での唯一の現実的な解となります。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "AIの「ベンチマーク性能」と「実務性能」の乖離に注目してください。カタログスペック上の数値ではなく、自社固有のデータやタスクでどれだけ動作するかを検証する「社内ベンチマーク」の構築が、今後のAI導入成功の鍵を握るでしょう。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "コーディングAIによるカンニングを防いでより正確なプログラミング性能が測定可能なベンチマーク「DeepSWE」",
+      "url": "https://gigazine.net/news/20260528-deepswe-ai-coding-benchmark/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "SIMフリーで使える8.8型タブ、2.5K/90Hzで3万円台は濃い／PHILIPS「T7250」",
+      "url": "https://ascii.jp/elem/000/004/405/4405676/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "「テプラ出すの面倒」が消える！ 手のひらサイズのスマホ対応機が特価5535円に",
+      "url": "https://ascii.jp/elem/000/004/405/4405096/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "A Google employee allegedly used inside information to win $1.2 million on Polymarket",
+      "url": "https://www.theverge.com/tech/938635/google-polymarket-insider-trading-prediction-market-bets",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "“10年間2000円、月額費用ゼロ”の1NCE IoT回線、国内でも広がるユースケースをアピール",
+      "url": "https://ascii.jp/elem/000/004/405/4405685/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+      "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+      "source": "Hugging Face Blog",
+      "category": "Prompts"
+    },
+    {
+      "title": "Last Week in AI #339 - DLSS 5, OpenAI Superapp, MiniMax M2.7",
+      "url": "https://lastweekin.ai/p/last-week-in-ai-339-dlss-5-openai",
+      "source": "Last Week in AI",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "【Flashセミナー Vol.143】AIと一緒に育つ。非エンジニアの挑戦の広げ方",
+      "url": "https://web-mining.doorkeeper.jp/events/196825",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "例外処理・全社統制を見据えた業務実行基盤の設計ポイント ～部門ごとに乱立した自動化を、全社標準へどう移行するか～",
+      "url": "https://majisemi-business.doorkeeper.jp/events/196830",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
