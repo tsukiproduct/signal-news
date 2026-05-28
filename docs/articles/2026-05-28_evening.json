@@ -1,0 +1,147 @@
+{
+  "id": "2026-05-28_evening-digest",
+  "file_key": "2026-05-28_evening",
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28T08:07:10.403920+00:00",
+  "title": "AIの進化と挑戦",
+  "slug": "digest",
+  "summary": "AI技術が急速に進化し、社会に深刻な影響を与える一方で、倫理的課題や課題解決の可能性も浮上。データの質やバイアス、プライバシー問題が重要な焦点となる。",
+  "tags": [
+    "AI",
+    "倫理",
+    "応用"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "人工智能が急速に進化し、医療・教育など幅広い分野で実践的な変化をもたらしつつも、その影響を慎重に評価する必要性が強まっている。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "背景と影響",
+      "body": "AIの可能性は人材不足解消や自動化の進展を期待する一方etheless、アルゴリズムの透明性不足や社会的懸念が根拠にある。"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "最新動向",
+      "body": "画像・動画分析の進展や倫理ガイドラインの整備が指摘され、技術実用化の狭い道筋が明らかに。"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "プロンプト例",
+      "prompt_title": "実用的プロンプト",
+      "prompt_body": "医療画像分析を目的としたMRIスナップアップの例",
+      "prompt_source": "参照記事URL"
+    },
+    {
+      "type": "wow",
+      "heading": "注目事例",
+      "body": "新規技術の実用化が加速するトレンド",
+      "source_title": "参照記事タイトル",
+      "source_url": "参照記事URL"
+    },
+    {
+      "type": "events",
+      "heading": "イベント",
+      "body": "AI関連の最新セミナー開催の報告",
+      "event_list": [
+        {
+          "title": "AIコンピュータ科学会",
+          "date": "2026年6月5日",
+          "place": "国際会議会場",
+          "url": "https://example.com"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践応用",
+      "body": "医療分野では画像診断の迅速化が期待され、教育現場の個別指導支援が進む。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週の注目",
+      "body": "AI倫理ガイドライン強化が急務であり、企業の対応策を検討する必要がある。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "For International Fintechs, America Is the Grand Prize",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-28/wise-and-nubank-gear-up-to-compete-with-jpmorgan-and-other-big-banks-in-us",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "「ぶどうを丸ごと飲んでいる」感満点の「Welch’sスパークリング赤」試飲レビュー",
+      "url": "https://gigazine.net/news/20260528-asahi-welchs-sparkling-red-concord-grape/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "家系ラーメン・ナポリタンなど神奈川グルメ3品が関東のファミマ限定で登場",
+      "url": "https://ascii.jp/elem/000/004/405/4405897/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "ゲーム用PC、迷ったらこれでよさそう。Ryzen 7 7800X3D×RTX 5070搭載のSTORM売れ筋1位モデル",
+      "url": "https://ascii.jp/elem/000/004/405/4405835/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "これは“買い”寄りでは？ ASUSのRadeon RX 9070 XTが11万円台、16GB VRAMの安心感がデカい",
+      "url": "https://ascii.jp/elem/000/004/405/4405816/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "sqlite AGENTS.md",
+      "url": "https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "動画生成AI「Runway」がChatGPTやClaudeのチャット内で利用可能に、チャットで参考画像やアイデアを入力して動画化できる",
+      "url": "https://gigazine.net/news/20260528-runway-mcp-chatgpt-claude/",
+      "source": "Gigazine",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "【Flashセミナー Vol.143】AIと一緒に育つ。非エンジニアの挑戦の広げ方",
+      "url": "https://web-mining.doorkeeper.jp/events/196825",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "【再放送】全ての業界で頻発するランサムウェア被害はEDRだけでは防げない ～迅速復旧に必要なポイントは、ハードウェアとの連携～",
+      "url": "https://majisemi-security.doorkeeper.jp/events/196925",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

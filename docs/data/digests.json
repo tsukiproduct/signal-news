@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-05-28_evening-digest",
+      "date": "2026-05-28",
+      "file_key": "2026-05-28_evening",
+      "title": "AIの進化と挑戦",
+      "summary": "AI技術が急速に進化し、社会に深刻な影響を与える一方で、倫理的課題や課題解決の可能性も浮上。データの質やバイアス、プライバシー問題が重要な焦点となる。",
+      "tags": [
+        "AI",
+        "倫理",
+        "応用"
+      ],
+      "slug": "digest"
+    },
+    {
       "id": "2026-05-28_morning-ai-benchmarking-and-definition-trends",
       "date": "2026-05-28",
       "file_key": "2026-05-28_morning",
@@ -375,5 +388,5 @@
       "slug": "ai-news-browser-automation-social-media"
     }
   ],
-  "updated_at": "2026-05-27T23:12:47.821073+00:00"
+  "updated_at": "2026-05-28T08:07:10.404630+00:00"
 }
