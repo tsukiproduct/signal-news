@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-05-29_evening-ai-trends-and-events",
+      "date": "2026-05-29",
+      "file_key": "2026-05-29_evening",
+      "title": "AI技術の熱い動きと注目イベント",
+      "summary": "AI分野の最新動向、イベント情報、応用事例を解説。",
+      "tags": [
+        "AI技術",
+        "イベント",
+        "応用"
+      ],
+      "slug": "ai-trends-and-events"
+    },
+    {
       "id": "2026-05-28_evening-digest",
       "date": "2026-05-28",
       "file_key": "2026-05-28_evening",
@@ -388,5 +401,5 @@
       "slug": "ai-news-browser-automation-social-media"
     }
   ],
-  "updated_at": "2026-05-28T08:07:10.404630+00:00"
+  "updated_at": "2026-05-29T13:53:10.900422+00:00"
 }

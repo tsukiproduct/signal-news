@@ -1,0 +1,153 @@
+{
+  "id": "2026-05-29_evening-ai-trends-and-events",
+  "file_key": "2026-05-29_evening",
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29T13:53:10.899714+00:00",
+  "title": "AI技術の熱い動きと注目イベント",
+  "slug": "ai-trends-and-events",
+  "summary": "AI分野の最新動向、イベント情報、応用事例を解説。",
+  "tags": [
+    "AI技術",
+    "イベント",
+    "応用"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "AI技術がさまざまな業界で活用され、イベントや新製品が注目されています。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "Acerの新型ノートPCがMacBookと競合、NASAが生成AIを活用しプロジェクトを推進。イベント参加者が急増中。",
+      "source_title": "Acerの新型ノートPCがMacBookと競合",
+      "source_url": "https://www.theverge.com/tech/939596/acer-swift-air-14-aspire-18-nitro-16-computex-price-specs"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "LTX 2.3が動画生成に進出、カスタムノードで可能性を広げる。"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "データ分析プロンプト",
+      "prompt_body": "「CSV形式の販売データを可視化するためのプロンプト」",
+      "prompt_usecase": "販売データのトレンド分析に活用できる。",
+      "prompt_source": "https://simonwillison.net/2026/May/29/datasette/#atom-everything"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "SOC分析家がAIツールでデータ処理を試みる事例が話題に。"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "event_list": [
+        {
+          "title": "ゼロから始めるClaude Code講座",
+          "date": "2026-05-30",
+          "place": "テックジム東京本校",
+          "url": "https://techgym.doorkeeper.jp/events/196974"
+        },
+        {
+          "title": "CoderDojo Nadaプログラミング勉強会",
+          "date": "2026-05-31",
+          "place": "オンライン",
+          "url": "https://coderdojo-nada.doorkeeper.jp/events/196775"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "AIツールを活用したデータ分析やクラウドストレージの最適化が企業に求められている。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "AIによる雇用への影響や、NASAのプロジェクトが注目。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Acer’s answer to the MacBook Neo is a $699 laptop with Intel chips and 8GB of RAM",
+      "url": "https://www.theverge.com/tech/939596/acer-swift-air-14-aspire-18-nitro-16-computex-price-specs",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "サンリオ 役員の不適切報酬で調査報告書 総額は2億5000万円余",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135561000",
+      "source": "NHK テクノロジー",
+      "category": "AI"
+    },
+    {
+      "title": "A Brand Built on Truth: NASA in the Generative Era",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-29/a-brand-built-on-truth-nasa-in-the-generative-era-video",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "Dropbox Plus 3年版が37,500円、2TBクラウドをまとめて確保",
+      "url": "https://ascii.jp/elem/000/004/406/4406502/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "This is MSI’s new Claw 8 EX AI Plus gaming handheld",
+      "url": "https://www.theverge.com/entertainment/939758/msi-claw-8-ex-ai-plus-gaming-handheld-reveal-computex-2026",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "A.I. Doesn’t Have to Mean Layoffs",
+      "url": "https://www.reddit.com/r/artificial/comments/1tr1oco/ai_doesnt_have_to_mean_layoffs/",
+      "source": "r/artificial",
+      "category": "Wow"
+    },
+    {
+      "title": "SOC analysts pasting incident data into AI tools for triage and the data handling implications were never in the policy",
+      "url": "https://www.reddit.com/r/artificial/comments/1tr1c1w/soc_analysts_pasting_incident_data_into_ai_tools/",
+      "source": "r/artificial",
+      "category": "Wow"
+    },
+    {
+      "title": "datasette 1.0a31",
+      "url": "https://simonwillison.net/2026/May/29/datasette/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "LTX 2.3 + LTX Director",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1tr1xlg/ltx_23_ltx_director/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "ゼロから始めるClaude Code講座",
+      "url": "https://techgym.doorkeeper.jp/events/196974",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "CoderDojo Nada(灘) プログラミング勉強会（オンライン参加）",
+      "url": "https://coderdojo-nada.doorkeeper.jp/events/196775",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
