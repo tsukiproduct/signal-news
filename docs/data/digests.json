@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-05-30_evening-ai-news-japan",
+      "date": "2026-05-30",
+      "file_key": "2026-05-30_evening",
+      "title": "AIの最新トレンドと実用ガイド",
+      "summary": "2026年のAI技術動向をモバイルルーターからオープンソースAIまでカバー。セキュリティ、イベント、プロンプトの実用例を解説。",
+      "tags": [
+        "AI技術",
+        "モバイルルーター",
+        "オープンソース",
+        "イベント",
+        "プロンプト"
+      ],
+      "slug": "ai-news-japan"
+    },
+    {
       "id": "2026-05-29_evening-ai-trends-and-events",
       "date": "2026-05-29",
       "file_key": "2026-05-29_evening",
@@ -401,5 +416,5 @@
       "slug": "ai-news-browser-automation-social-media"
     }
   ],
-  "updated_at": "2026-05-29T13:53:10.900422+00:00"
+  "updated_at": "2026-05-30T12:02:26.918510+00:00"
 }

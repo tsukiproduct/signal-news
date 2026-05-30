@@ -1,0 +1,160 @@
+{
+  "id": "2026-05-30_evening-ai-news-japan",
+  "file_key": "2026-05-30_evening",
+  "date": "2026-05-30",
+  "generated_at": "2026-05-30T12:02:26.917903+00:00",
+  "title": "AIの最新トレンドと実用ガイド",
+  "slug": "ai-news-japan",
+  "summary": "2026年のAI技術動向をモバイルルーターからオープンソースAIまでカバー。セキュリティ、イベント、プロンプトの実用例を解説。",
+  "tags": [
+    "AI技術",
+    "モバイルルーター",
+    "オープンソース",
+    "イベント",
+    "プロンプト"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "2026年はAI技術が多様化する年です。モバイルルーター『Beryl 7』がセキュアWi-Fiを推進し、オープンソースAIの政策変化が業界に影響を与えています。また、自己ホスト可能なアプリ『Karakeep』やMidJourneyの画像生成技術の進展も注目されています。イベントとしてはオンラインプログラミング勉強会やAI戦略セミナーが開催され、実用性が高いトレンドが広がっています。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "GL.iNetが開発した『Beryl 7』はコンパクトなモバイルルーターとして、公衆Wi-Fiのセキュリティを向上させる設計です。Wi-Fi 6E対応と簡易設定機能により、旅行やオフィスでの利用に最適です。Anthropicが販売プラットフォームリストを縮小したことは、AI倫理や投資リスクへの関心の高まりを示しています。一方で、無料で自己ホスト可能な『Karakeep』は、AIタグ付け機能で資産管理を効率化する新しい方法を提案しています。",
+      "source_title": "持ち運び便利＆設定ラクラクで公衆Wi-Fiをより安全に使用できるモバイルルーター「Beryl 7」を使ってみた",
+      "source_url": "https://gigazine.net/news/20260530-glinet-beryl-7/"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "MidJourneyの『Gridlines』機能は、画像生成時のグリッド線を追加し、デザインの整合性を保つためのツールです。これにより、建築や製品デザインの可視化が容易になり、クリエイター向けの実用性が向上しています。",
+      "source_title": "Gridlines",
+      "source_url": "https://www.reddit.com/r/midjourney/comments/1trxk7b/gridlines/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "データ可視化プロンプト",
+      "prompt_body": "datasette 1.0a31を使用して、CSVデータをインタラクティブなチャートに変換するプロンプト。例: 'datasetteで売上データを時系列グラフに表示し、フィルターで地域別に絞り込む'。",
+      "prompt_usecase": "マーケティング分析やレポート作成で、手動でのグラフ作成を省略し、リアルタイムでデータを可視化可能。",
+      "prompt_source": "https://simonwillison.net/2026/May/29/datasette/#atom-everything"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "G7諸国がオープンソースAIの共通語彙を合意したことは、国際的なAI開発の標準化を目指す大きな一歩です。これにより、AI技術の共有や倫理規制の統一が進む可能性があります。",
+      "source_title": "G7 agrees on shared language around open-source AI, open weights AI",
+      "source_url": "https://www.reddit.com/r/artificial/comments/1trx8p4/g7_agrees_on_shared_language_around_opensource_ai/"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "5月31日のCoderDojo Nadaはオンラインでプログラミングスキル向上を目指す勉強会を開催。6月2日のAI戦略セミナーでは、BtoBリード獲得の効果的な手法を予測するテーマが取り上げられ、AI活用の実務価値が強調されています。",
+      "event_list": [
+        {
+          "title": "CoderDojo Nada プログラミング勉強会",
+          "date": "2026-05-31",
+          "place": "オンライン",
+          "url": "https://coderdojo-nada.doorkeeper.jp/events/196775"
+        },
+        {
+          "title": "AI普及で変わるBtoBリード獲得戦略",
+          "date": "2026-06-02",
+          "place": "オンライン",
+          "url": "https://majisemi-sales.doorkeeper.jp/events/197006"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "Beryl 7はリモートワーク環境でのセキュアWi-Fi構築に活用可能。Karakeepはマーケティング資産管理の効率化に役立ちます。G7のオープンソースAI方針に沿うことで、スタートアップの技術共有が促進されます。中小企業はこれらの技術を活用してコスト削減や競争力強化を図るべきです。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "オープンソースAIの政策変化や自己ホストツールの普及が進む中、セキュリティと倫理に配慮した利用が重要です。また、AIイベントでの実践的な学習機会を活用し、具体的なスキル習得を推奨します。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "持ち運び便利＆設定ラクラクで公衆Wi-Fiをより安全に使用できるモバイルルーター「Beryl 7」を使ってみた",
+      "url": "https://gigazine.net/news/20260530-glinet-beryl-7/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "Anthropic Cuts Unauthorized Platform List by Half After Pushback",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-30/anthropic-cuts-unauthorized-platform-list-by-half-after-pushback",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "無料でリンク・メモ・画像・動画・PDFを保存してあとでスマホなどで読むアプリ「Karakeep」、オープンソースでセルフホスト可能",
+      "url": "https://gigazine.net/news/20260530-karakeep/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "会心のムチッと体型に自信あり!? 五百木いおが「Cream」掲載記念イベント開催",
+      "url": "https://ascii.jp/elem/000/004/406/4406391/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "黄金の意匠が渋すぎる！ 「007 First Light」仕様の特製DualSenseワイヤレスコントローラーを発見",
+      "url": "https://ascii.jp/elem/000/004/406/4406236/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "G7 agrees on shared language around open-source AI, open weights AI",
+      "url": "https://www.reddit.com/r/artificial/comments/1trx8p4/g7_agrees_on_shared_language_around_opensource_ai/",
+      "source": "r/artificial",
+      "category": "Wow"
+    },
+    {
+      "title": "Query about non-archival workshop at CVPR-2026 [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1trwork/query_about_nonarchival_workshop_at_cvpr2026_r/",
+      "source": "r/MachineLearning",
+      "category": "Wow"
+    },
+    {
+      "title": "datasette 1.0a31",
+      "url": "https://simonwillison.net/2026/May/29/datasette/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "Gridlines",
+      "url": "https://www.reddit.com/r/midjourney/comments/1trxk7b/gridlines/",
+      "source": "r/midjourney",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "CoderDojo Nada(灘) プログラミング勉強会（オンライン参加）",
+      "url": "https://coderdojo-nada.doorkeeper.jp/events/196775",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "【再放送】AI普及で変わる、BtoBリード獲得戦略 ～成果が出なくなる手法、重要性が増す手法を予測する～",
+      "url": "https://majisemi-sales.doorkeeper.jp/events/197006",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
