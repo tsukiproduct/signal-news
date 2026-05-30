@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "2026-05-31_morning-ai-wave-2026",
+      "date": "2026-05-31",
+      "file_key": "2026-05-31_morning",
+      "title": "AIの波を乗りこなす：ガン対策からAI投資、生成AIの最新動向まで",
+      "summary": "カリフォルニアのガン追い出しプロジェクトやソフトバンクのフランス投資計画、生成AIのUI改良など、今週のAIニュースを解説。ビジネス応用やイベント情報も網羅。",
+      "tags": [
+        "AI投資",
+        "生成AI",
+        "環境AI",
+        "プログラミング教育"
+      ],
+      "slug": "ai-wave-2026"
+    },
+    {
       "id": "2026-05-30_evening-ai-news-japan",
       "date": "2026-05-30",
       "file_key": "2026-05-30_evening",
@@ -400,21 +414,7 @@
         "モバイル通信"
       ],
       "slug": "ai-trend-life-change"
-    },
-    {
-      "id": "2026-05-17_afternoon-ai-news-browser-automation-social-media",
-      "date": "2026-05-17",
-      "file_key": "2026-05-17_afternoon",
-      "title": "AI News Brief: Browser Automation and Social Media Trends",
-      "summary": "This week's AI news covers Browser-Use for natural language automation, Garmin's smartwatch AI features, a spicy cup noodle launch, soccer formation tools, and social media settlements.",
-      "tags": [
-        "AI Automation",
-        "Web Tools",
-        "Tech News",
-        "AI Ethics"
-      ],
-      "slug": "ai-news-browser-automation-social-media"
     }
   ],
-  "updated_at": "2026-05-30T12:02:26.918510+00:00"
+  "updated_at": "2026-05-30T22:54:14.652596+00:00"
 }

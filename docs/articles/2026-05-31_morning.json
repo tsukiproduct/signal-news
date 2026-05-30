@@ -1,0 +1,157 @@
+{
+  "id": "2026-05-31_morning-ai-wave-2026",
+  "file_key": "2026-05-31_morning",
+  "date": "2026-05-31",
+  "generated_at": "2026-05-30T22:54:14.652142+00:00",
+  "title": "AIの波を乗りこなす：ガン対策からAI投資、生成AIの最新動向まで",
+  "slug": "ai-wave-2026",
+  "summary": "カリフォルニアのガン追い出しプロジェクトやソフトバンクのフランス投資計画、生成AIのUI改良など、今週のAIニュースを解説。ビジネス応用やイベント情報も網羅。",
+  "tags": [
+    "AI投資",
+    "生成AI",
+    "環境AI",
+    "プログラミング教育"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "今週のAIニュースは、環境対策からエンタメ、投資、生成AIまで幅広い分野で進展が起きています。カリフォルニア州フォスターシティで導入された「グーシネーター」が、ドローンとGPSトラッカーを組み合わせてカナダガンを追い出す実験を行い、AIとロボット技術の実用性が示されました。一方、ソフトバンクはフランスのAIセンターに最大75億ユーロを投資する計画を発表し、欧州におけるAIインフラ拡充の波を加速。生成AI分野では、StableDiffusionのWeb UIが更新され、ユーザーがより直感的にプロンプトを扱えるようになりました。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "カリフォルニアの「グーシネーター」プロジェクトは、単なる風刺的ラジコンボートではなく、AIを活用した動物管理の新たなアプローチを示しています。GPSトラッカーでガンの位置をリアルタイムで把握し、ドローンが追跡しながら音声や振動でガンを遠ざける仕組み。実際に1羽あたり1300ドルの費用対効果が検証され、コストパフォーマンスが高いと評価されています。ソフトバンクの投資は、フランスのAI研究機関と産業界を結びつけ、5ギガワット規模のデータセンターを構築する計画。これにより、欧州全体でのAI算力の分散化が進むと同時に、エネルギー効率と再生可能エネルギーの利用拡大が期待されています。",
+      "source_title": "SoftBank Plans Up to €75 Billion Investment in French AI Centers",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-05-30/softbank-to-invest-some-75-billion-in-ai-in-france-reports-say"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "StableDiffusionのコミュニティが公開したv0.2.20 Nexus BTAのWeb UI更新は、ユーザーが事前定義されたワークフローをドラッグ＆ドロップで組み合わせられるようにすることで、生成AIの操作性を大幅に向上させました。UIの改善により、非エンジニアでも高度な画像生成が可能になり、クリエイティブ業界への敷居が下がる見込みです。"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "プロンプト生成の自動化",
+      "prompt_body": "「以下のテーマについて、初心者向けの説明文を5文で書いてください。テーマ: AI投資の最新動向、言語: 日本語、文体: 親しみやすい」",
+      "prompt_usecase": "教育コンテンツ作成やブログ記事の下書きに利用。プロンプトのテンプレート化で時間短縮が可能。",
+      "prompt_source": "https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "Redditのr/artificialでは、Prompt Logic Gates（PLG）が注目を集めています。PLGはプロンプトを論理ゲートのように組み合わせることで、複雑なタスクをシンプルに管理できる新しいフレームワークです。コミュニティは、複数のプロンプトをチェーン化し、条件付き実行やループ処理を行うサンプルを公開し、実験的な利用が広がっています。",
+      "source_title": "🚀 Prompt Logic Gates (PLG): Are Prompts Becoming Systems?",
+      "source_url": "https://www.reddit.com/r/artificial/comments/1ts7b48/prompt_logic_gates_plg_are_prompts_becoming/"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "本週はオンラインで開催されるプログラミング勉強会とAIリード獲得戦略の再放送が予定されています。特に、CoderDojo Nadaの勉強会は初心者に優しい内容で、AIとプログラミングの融合を学べる絶好の機会です。",
+      "event_list": [
+        {
+          "title": "CoderDojo Nada(灘) プログラミング勉強会（オンライン参加）",
+          "date": "2026-05-31",
+          "place": "オンライン",
+          "url": "https://coderdojo-nada.doorkeeper.jp/events/196775"
+        },
+        {
+          "title": "【再放送】AI普及で変わる、BtoBリード獲得戦略",
+          "date": "2026-06-02",
+          "place": "オンライン",
+          "url": "https://majisemi-sales.doorkeeper.jp/events/197006"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "AI投資の動向を踏まえ、企業は自社のデータセンターとAIサービスを統合する戦略を検討すべきです。例えば、ソフトバンクのフランス投資を模倣し、現地の再生可能エネルギーを活用した低コストAIインフラを構築することで、エネルギーコストを削減しつつ、欧州市場への進出をスピードアップできます。生成AIのUI改善により、マーケティング部門は高速にプロトタイプを作成し、顧客への価値提案を短時間で行えるようになります。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "AIと環境保全の融合（グーシネーター）と、AI算力の地域分散化（ソフトバンク投資）が同時進行し、AIの社会的インパクトが拡大しています。生成AIのUI進化は、非専門家のAI活用を加速させ、クリエイティブ業界のデジタル化を後押しします。今後は、AI倫理とエネルギー効率の両立に注目が集まるでしょう。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "「グーシネーター」対カナダガン、1羽1300ドルの追い出し作戦",
+      "url": "https://ascii.jp/elem/000/004/406/4406574/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "「Forza Horizon 6」にハマったマンガ家がレースゲームに興味ない人にも勧めたい理由は……できなくてもいい快適さ？",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/31/news014.html",
+      "source": "ITmedia News",
+      "category": "Tech"
+    },
+    {
+      "title": "Two of our favorite art TVs are more than 40 percent off this weekend",
+      "url": "https://www.theverge.com/gadgets/940211/samsung-frame-hisense-canvastv-art-tv-sale-deal",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "Listen to the new Steam Controller buzz to the tune of Doom",
+      "url": "https://www.theverge.com/games/940157/valve-steam-controller-singing-music-doom",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "SoftBank Plans Up to €75 Billion Investment in French AI Centers",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-30/softbank-to-invest-some-75-billion-in-ai-in-france-reports-say",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "Why Pope Leo is right to call on EU to disarm lethal AI weapons",
+      "url": "https://www.reddit.com/r/artificial/comments/1ts8trn/why_pope_leo_is_right_to_call_on_eu_to_disarm/",
+      "source": "r/artificial",
+      "category": "Wow"
+    },
+    {
+      "title": "🚀 Prompt Logic Gates (PLG): Are Prompts Becoming Systems?",
+      "url": "https://www.reddit.com/r/artificial/comments/1ts7b48/prompt_logic_gates_plg_are_prompts_becoming/",
+      "source": "r/artificial",
+      "category": "Wow"
+    },
+    {
+      "title": "How we contain Claude across products",
+      "url": "https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "UPDATE v0.2.20 Nexus BTA My Web UI for Comfy with Predfined Workflow/template",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1tsa458/update_v0220_nexus_bta_my_web_ui_for_comfy_with/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "CoderDojo Nada(灘) プログラミング勉強会（オンライン参加）",
+      "url": "https://coderdojo-nada.doorkeeper.jp/events/196775",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "【再放送】AI普及で変わる、BtoBリード獲得戦略 ～成果が出なくなる手法、重要性が増す手法を予測する～",
+      "url": "https://majisemi-sales.doorkeeper.jp/events/197006",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
