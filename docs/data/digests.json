@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-05-31_evening-ai-news-summary-2026",
+      "date": "2026-05-31",
+      "file_key": "2026-05-31_evening",
+      "title": "AIの最新トレンドと実用案",
+      "summary": "2026年のAI動向は、創造性の向上から健康管理、ビジネス戦略まで幅広く影響しています。画像生成AIの進化や喫煙予測技術、B2BマーケティングのAI活用が注目されています。実用的なツールやイベントも増加傾向です。",
+      "tags": [
+        "AI",
+        "健康管理",
+        "創造性",
+        "ビジネス戦略",
+        "画像生成"
+      ],
+      "slug": "ai-news-summary-2026"
+    },
+    {
       "id": "2026-05-31_evening-ai-business-security-image-generation-trends",
       "date": "2026-05-31",
       "file_key": "2026-05-31_evening",
@@ -402,20 +417,7 @@
         "倫理"
       ],
       "slug": "ai-news-overview-may-2026"
-    },
-    {
-      "id": "2026-05-17_evening-ai-monitoring-tools-digital-trends",
-      "date": "2026-05-17",
-      "file_key": "2026-05-17_evening",
-      "title": "AI監視ツールとデジタルトレンドの最前線",
-      "summary": "無料セルフホスト監視ツールchangedetection.ioを中心に、AI活用の最新動向を解説",
-      "tags": [
-        "AI",
-        "監視ツール",
-        "自動化"
-      ],
-      "slug": "ai-monitoring-tools-digital-trends"
     }
   ],
-  "updated_at": "2026-05-31T07:51:04.600749+00:00"
+  "updated_at": "2026-05-31T12:08:23.726367+00:00"
 }
