@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "2026-05-31_evening-ai-business-security-image-generation-trends",
+      "date": "2026-05-31",
+      "file_key": "2026-05-31_evening",
+      "title": "AI活用の最前線：ビジネス戦略からセキュリティまで",
+      "summary": "AI技術のビジネス応用、セキュリティ対策、画像生成AI最新動向を解説",
+      "tags": [
+        "AIビジネス",
+        "セキュリティ",
+        "画像生成",
+        "マーケティング"
+      ],
+      "slug": "ai-business-security-image-generation-trends"
+    },
+    {
       "id": "2026-05-31_morning-ai-wave-2026",
       "date": "2026-05-31",
       "file_key": "2026-05-31_morning",
@@ -401,20 +415,7 @@
         "自動化"
       ],
       "slug": "ai-monitoring-tools-digital-trends"
-    },
-    {
-      "id": "2026-05-17_afternoon-ai-trend-life-change",
-      "date": "2026-05-17",
-      "file_key": "2026-05-17_afternoon",
-      "title": "AIの動向と生活の変化 5つのニュースを読み解く",
-      "summary": "サムソン労組のストライキ危機や楽天モバイルのネットワーク終了など、AI関連ニュースが多様な分野で動く。ビジネスからエンタメまで、日常生活への影響を分析します。",
-      "tags": [
-        "AI技術",
-        "労働問題",
-        "モバイル通信"
-      ],
-      "slug": "ai-trend-life-change"
     }
   ],
-  "updated_at": "2026-05-30T22:54:14.652596+00:00"
+  "updated_at": "2026-05-31T07:51:04.600749+00:00"
 }
