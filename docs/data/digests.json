@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-06-01_morning-ai-future-2026-06",
+      "date": "2026-06-01",
+      "file_key": "2026-06-01_morning",
+      "title": "AIと暮らす未来：ポイント還元から脳のリワイヤ、業務自動化まで",
+      "summary": "PayPayキャンペーン、AIデータセンター批判、父親の脳変化、業務設計AI、画像生成AIの動向をまとめ、実務への応用を解説。",
+      "tags": [
+        "AIインフラ",
+        "業務自動化",
+        "生成AI"
+      ],
+      "slug": "ai-future-2026-06"
+    },
+    {
       "id": "2026-05-31_evening-ai-news-summary-2026",
       "date": "2026-05-31",
       "file_key": "2026-05-31_evening",
@@ -403,21 +416,7 @@
         "未来社会"
       ],
       "slug": "ai-democratization-malta-chatgpt"
-    },
-    {
-      "id": "2026-05-18_morning-ai-news-overview-may-2026",
-      "date": "2026-05-18",
-      "file_key": "2026-05-18_morning",
-      "title": "AIの光と影：医療誤認識からエンタメ進化まで",
-      "summary": "医療AIの重大誤認識、Codexのゲーム開発実力、YouTubeのTV化など、今週のAIニュースを分析。",
-      "tags": [
-        "AI",
-        "医療",
-        "開発",
-        "倫理"
-      ],
-      "slug": "ai-news-overview-may-2026"
     }
   ],
-  "updated_at": "2026-05-31T12:08:23.726367+00:00"
+  "updated_at": "2026-05-31T22:55:35.336096+00:00"
 }
