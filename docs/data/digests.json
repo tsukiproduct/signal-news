@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-06-02_morning-ai-investments-and-tech-innovation-this-week",
+      "date": "2026-06-02",
+      "file_key": "2026-06-02_morning",
+      "title": "AI 投資と技術革新の今週",
+      "summary": "SalesforceのAnthropic投資、NvidiaのAIチップ、画像生成AIの進展など、今週のAIニュースを解説。",
+      "tags": [
+        "AI投資",
+        "Nvidia",
+        "Anthropic",
+        "画像生成AI",
+        "イベント"
+      ],
+      "slug": "ai-investments-and-tech-innovation-this-week"
+    },
+    {
       "id": "2026-06-01_evening-nvidia-rtx-spark-pc-chip-market-entry",
       "date": "2026-06-01",
       "file_key": "2026-06-01_evening",
@@ -403,20 +418,7 @@
         "技術"
       ],
       "slug": "english-slug"
-    },
-    {
-      "id": "2026-05-18_evening-english-slug",
-      "date": "2026-05-18",
-      "file_key": "2026-05-18_evening",
-      "title": "AIニュースの要約と読み方",
-      "summary": "AI技術の進展とビジネスへの影響を解説。最近のニュースを分析し、読者がわかりやすく応用できるポイントをまとめました。",
-      "tags": [
-        "AI",
-        "ビジネス",
-        "技術"
-      ],
-      "slug": "english-slug"
     }
   ],
-  "updated_at": "2026-06-01T09:33:00.146394+00:00"
+  "updated_at": "2026-06-01T16:31:17.754036+00:00"
 }
