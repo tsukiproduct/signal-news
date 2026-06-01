@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-06-02_morning-ai-hardware-merge",
+      "date": "2026-06-02",
+      "file_key": "2026-06-02_morning",
+      "title": "AIとハードウェアの融合：ASRockとASUSの新戦略と生成AIの最前線",
+      "summary": "ASRockのワンクリックAI導入ツールとASUSのAI注力戦略を解説。画像生成AIの実例と今週の話題をまとめ、ビジネス応用例を提示。",
+      "tags": [
+        "AI導入",
+        "生成AI",
+        "ハードウェア"
+      ],
+      "slug": "ai-hardware-merge"
+    },
+    {
       "id": "2026-06-02_morning-ai-investments-and-tech-innovation-this-week",
       "date": "2026-06-02",
       "file_key": "2026-06-02_morning",
@@ -405,20 +418,7 @@
         "デジタルトランスフォーメーション"
       ],
       "slug": "ai-workforce-restructuring-japan-digital-trends"
-    },
-    {
-      "id": "2026-05-19_morning-english-slug",
-      "date": "2026-05-19",
-      "file_key": "2026-05-19_morning",
-      "title": "5本のAIニュースを解説: 技術とビジネスへの影響",
-      "summary": "5つの最新AIニュースを簡潔にまとめ、技術の進化とビジネスへの応用を解説。摘要は読みやすく、実践的な示唆も含みます。",
-      "tags": [
-        "AI",
-        "ビジネス",
-        "技術"
-      ],
-      "slug": "english-slug"
     }
   ],
-  "updated_at": "2026-06-01T16:31:17.754036+00:00"
+  "updated_at": "2026-06-01T23:24:05.987685+00:00"
 }

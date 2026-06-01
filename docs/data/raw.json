@@ -1,7 +1,535 @@
 {
-  "fetched_at": "2026-06-01T16:30:20.500590+00:00",
+  "fetched_at": "2026-06-01T23:23:01.059433+00:00",
   "total": 230,
   "items": [
+    {
+      "id": "071af2d89779",
+      "title": "ASRock、AIエージェントをワンクリック導入できる「Claw Quickset」を発表",
+      "url": "https://ascii.jp/elem/000/004/407/4407057/?rss",
+      "summary": "ASRockがWindows向けの新アプリケーション「ASRock Claw Quickset」を発表。AI運用のハードルを下げ、ワンクリックでプライベートAIエージェント環境を構築可能に。",
+      "date": "2026-06-01T23:15:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "4757542cd672",
+      "title": "ICML Conference Ticket (looking to purchase) [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tu935n/icml_conference_ticket_looking_to_purchase_d/",
+      "summary": "Hi everyone, I missed the ICML conference tickets because I was waiting for some travel funding confirmation and now they are sold out. Do you know any other ways I could still purchase one? There seems to be no waiting list… or if you know anyone wh",
+      "date": "2026-06-01T23:08:41+00:00",
+      "source": "r/MachineLearning",
+      "lang": "en",
+      "category": "Wow",
+      "priority": 2
+    },
+    {
+      "id": "685b0c1c36aa",
+      "title": "ASUSが語るPC市場の最前線：AIへの注力、ハンドヘルドPCの躍進、そしてMacBookへの対抗戦略とは？",
+      "url": "https://ascii.jp/elem/000/004/407/4407045/?rss",
+      "summary": "台湾にあるASUSの本社に招待いただき、インタビューをする機会が得られた。同社は日本市場をどうとらえているのかから、AIへの取り組み、スマートフォン事業の展望など、多岐にわたるトピックを聞いてきた。",
+      "date": "2026-06-01T23:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "f5a82990e880",
+      "title": "Full duplex vs half duplex - the spectrum of AI voice models [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tu8rqv/full_duplex_vs_half_duplex_the_spectrum_of_ai/",
+      "summary": "It seems that there are two ways to build voice AI: Half-duplex: strict turn-taking. You speak, the other side waits until you’re done, one direction of speech at a time. ← This is how almost every voice assistant works today. Full-duplex: two channe",
+      "date": "2026-06-01T22:56:15+00:00",
+      "source": "r/MachineLearning",
+      "lang": "en",
+      "category": "Wow",
+      "priority": 2
+    },
+    {
+      "id": "483ed7019f1f",
+      "title": "Free Ai App",
+      "url": "https://www.reddit.com/r/artificial/comments/1tu8r9i/free_ai_app/",
+      "summary": "Is there a free ai model apple on IOS that i can send unlimited conversations without a cool down or having to pay? submitted by /u/garrettisaqt [link] [comments]",
+      "date": "2026-06-01T22:55:41+00:00",
+      "source": "r/artificial",
+      "lang": "en",
+      "category": "Wow",
+      "priority": 2
+    },
+    {
+      "id": "97fd2150ce72",
+      "title": "Alphabet plans to raise $80 billion to pay for AI buildout",
+      "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+      "summary": "The Google parent company plans to raise the funds by selling stock.",
+      "date": "2026-06-01T22:55:09+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "31741f99417b",
+      "title": "NYダウ最高値更新 ナスダック S＆P500も イラン情勢に期待感",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015137751000",
+      "summary": "1日のニューヨーク株式市場では、アメリカとイランの協議が継続されるのではないかとの期待感などを背景に、ダウ平均株価やそのほかの代表的な株価指数がそろって最高値を更新しました。",
+      "date": "2026-06-01T22:30:35+00:00",
+      "source": "NHK テクノロジー",
+      "lang": "ja",
+      "category": "AI",
+      "priority": 2
+    },
+    {
+      "id": "a1e21e84a140",
+      "title": "「USB Type-Cディスプレー」って何？ USBが画面になる……わけじゃありません",
+      "url": "https://ascii.jp/elem/000/004/406/4406781/?rss",
+      "summary": "最近よく聞く「USB Type-Cディスプレー」。 とは言え、USBが画面に変身するわけではなく、これまで以上に「パソコンと外付けディスプレーの関係」をスムーズにする利便性マシマシのディスプレーのことです。",
+      "date": "2026-06-01T22:30:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "404ea5f18c3b",
+      "title": "フロリダ州がOpenAIとアルトマンCEOを提訴 ChatGPTを「子供を危険にさらす製品」と非難",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/02/news063.html",
+      "summary": "米フロリダ州は、OpenAIとサム・アルトマンCEOを提訴した。同州司法長官は、OpenAIが安全に関する警告を無視してChatGPTを導入し、利用者を自殺誘導や銃乱射事件の幇助などの危険にさらし、未成年者を依存状態に陥れたと主張。同州は4月、州内の銃乱射事件に関連して刑事捜査も開始している。",
+      "date": "2026-06-01T22:18:00+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "ddcf5949e1e5",
+      "title": "MSIがCOMPUTEX 2026で新製品ラッシュ 40周年記念ノートPCやAIデバイスを公開",
+      "url": "https://ascii.jp/elem/000/004/407/4407055/?rss",
+      "summary": "MSIはCOMPUTEX 2026で40周年を記念し、革新的なコンピュータ技術を搭載した新製品を発表。Titan 18 HX Dragon Edition Draco EpicやMSI Claw 8 EX AI+など、次世代型デバイスが登場。",
+      "date": "2026-06-01T22:15:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "3a52a6d19e56",
+      "title": "Stocks up as Trump Cites Rapid Pace in Iran Talks | The Close 6/1/2026",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-01/the-close-6-1-2026-video",
+      "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are RBC Capital Markets Equity Derivatives Strategist Amy Wu Silverman, Sidley A",
+      "date": "2026-06-01T22:09:48+00:00",
+      "source": "Bloomberg Tech",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 2
+    },
+    {
+      "id": "c61f04a0f684",
+      "title": "Cosmos3-Super-Image2Video running locally on a single RTX PRO 6000 96GB",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1tu7bth/cosmos3superimage2video_running_locally_on_a/",
+      "summary": "I got nvidia/Cosmos3-Super-Image2Video BF16 running locally on a single RTX PRO 6000 Blackwell 96GB. its hard to talk about quality results and gen speeds yeat as i tested whit SPDA attention and not SAGE, also prompting need more work. Most importan",
+      "date": "2026-06-01T22:01:23+00:00",
+      "source": "r/StableDiffusion",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
+    {
+      "id": "23d9bd42d249",
+      "title": "AIによる人員削減のせいで市場が壊滅して民主主義体制が揺らぐ「死んだ経済理論」とは？",
+      "url": "https://gigazine.net/news/20260602-ai-dead-economy-theory/",
+      "summary": "AIテクノロジーの発達によりさまざまなタスクをAIが実行できるようになり、企業は人間の従業員をAIシステムに置き換えようと躍起になっています。哲学やテクノロジーに関するブログを書いているオーウェン・マクグラン氏が、AIによる人員削減がもたらす社会経済の問題を「死んだ経済理論」と名付け、起こり得る問題について指摘しました。続きを読む...",
+      "date": "2026-06-01T22:00:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "36b2ab6e2221",
+      "title": "ローソン「盛りすぎ」本日スタート！増量ハムサンドにロールケーキなど登場",
+      "url": "https://ascii.jp/elem/000/004/407/4407047/?rss",
+      "summary": "ローソンは6月2日から「超ハッピーすぎ！チャレンジ」を開始。第1弾の商品をチェックします！",
+      "date": "2026-06-01T22:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "15217711fe9a",
+      "title": "ｕｇｏとFastLabel、フィジカルAI活用に向けた開発者向け「ugo VLAモデル開発研修プログラム」提供開始",
+      "url": "https://ascii.jp/elem/000/004/407/4407040/?rss",
+      "summary": "ｕｇｏ株式会社とFastLabel株式会社は、国産ヒューマノイドロボット「ugo Pro R&Dモデル」を活用した実践型プログラム「ugo VLAモデル開発研修プログラムpowered by FastLabel」の提供開始を発表した。企業や大学・研究機関などがVLA（Vision-Language-Action）モデル開発に初期段階から取り組めるように支援するという。",
+      "date": "2026-06-01T22:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "a2861fefa79a",
+      "title": "ビジネス用途特化のAI漫画生成ツール「AI漫画つくるくん」、タッチの安定性向上や「4コマ漫画制作」機能などリリース",
+      "url": "https://ascii.jp/elem/000/004/407/4407039/?rss",
+      "summary": "株式会社PRIZMAは5月27日に、同社が提供するビジネス用途に特化した漫画AI生成ツール「AI漫画つくるくん」のアップデート実施を発表。生成AI特有の課題だったコマごとの絵柄のブレ解消やストーリー・シナリオ生成の精度強化のほか、新機能「4コマ漫画制作」をリリースした。",
+      "date": "2026-06-01T22:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "6dbbe28318d5",
+      "title": "超S級にお得だったVisa割ルーレット、正直かなり改悪 それでも使わないと損な理由",
+      "url": "https://ascii.jp/elem/000/004/407/4407000/?rss",
+      "summary": "超絶お得だったVisa割ルーレット、正直かなり改悪 それでも使わないと損な理由",
+      "date": "2026-06-01T22:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "1969c5dbf1fd",
+      "title": "名門カリフォルニア大学で“中学数学を教え直す”異常事態 理工系教員ら1000人超が連名で抗議文書 原因は……",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/02/news021.html",
+      "summary": "カリフォルニア大学（UC）の数学およびSTEM（科学・技術・工学・数学）分野の教員らが、、大学運営陣やカリフォルニア州民に向け、教育体制に関する公開書簡（抗議文書）を発表した。",
+      "date": "2026-06-01T22:00:00+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "c1bdc2d3d669",
+      "title": "Shapes",
+      "url": "https://www.reddit.com/r/midjourney/comments/1tu783d/shapes/",
+      "summary": "submitted by /u/EleanorKalatheraine [link] [comments]",
+      "date": "2026-06-01T21:57:43+00:00",
+      "source": "r/midjourney",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
+    {
+      "id": "5effe901bdd7",
+      "title": "Anthropic’s First-Mover IPO Edge Set to Widen Lead Over OpenAI",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-01/anthropic-s-first-mover-ipo-edge-set-to-widen-lead-over-openai",
+      "summary": "Anthropic PBC pulled ahead of OpenAI with its confidential IPO filing Monday, as the free-spending artificial intelligence startups battle for a fundraising edge that’s set to determine who will win the ultimate battle for computing power.",
+      "date": "2026-06-01T21:55:52+00:00",
+      "source": "Bloomberg Tech",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 2
+    },
+    {
+      "id": "7a8f5bd4e587",
+      "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+      "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+      "summary": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big.",
+      "date": "2026-06-01T21:35:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "89daeaaad546",
+      "title": "Anthropicが上場申請",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/02/news062.html",
+      "summary": "Anthropicは、米証券取引委員会（SEC）に内容非公開で新規株式公開（IPO）を申請したと発表した。発行株数や価格などの詳細は後日公開される。同社は直近の資金調達により企業価値がOpenAIを上回ったとされており、年間予想売上高も増加している。早ければ今秋にも上場する見通しだ。",
+      "date": "2026-06-01T21:20:00+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "1e36bc5f75af",
+      "title": "The Google Pixel Watch 5 may have been spoiled by… the creator of Borderlands",
+      "url": "https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands",
+      "summary": "We may just have gotten an early look at the Google Pixel Watch 5 - and from an unusual source. Randy Pitchford, the creator of the Borderlands game franchise, posted a pair of images of a watch on X, saying that his friend found it underwater while ",
+      "date": "2026-06-01T21:18:23+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "9abda8fbeade",
+      "title": "Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked",
+      "url": "https://simonwillison.net/2026/Jun/1/hackers-simply-asked-meta-ai/#atom-everything",
+      "summary": "Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked I had trouble believing this story was true, but I've seen it verified from multiple sources now: One video shows a hacker starting a conversation with Met",
+      "date": "2026-06-01T21:14:47+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
+    {
+      "id": "ecfee1c3c4d8",
+      "title": "Alphabet Will Raise $80 Billion to Fund AI Spending",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-01/alphabet-will-raise-80-billion-to-fund-ai-spending-video",
+      "summary": "Google parent Alphabet will raise $80 billion in equity capital to pay for ambitious artificial intelligence spending plans. Mandeep Singh of Bloomberg Intelligence has more. (Source: Bloomberg)",
+      "date": "2026-06-01T21:14:28+00:00",
+      "source": "Bloomberg Tech",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 2
+    },
+    {
+      "id": "cecf9fbd9fd0",
+      "title": "Changing from 2D generation method to a 3D one change the problem",
+      "url": "https://www.reddit.com/r/artificial/comments/1tu5uxw/changing_from_2d_generation_method_to_a_3d_one/",
+      "summary": "I’ve been thinking that 3D generation and image generation are really quite different. When creating images most of the time we are thinking whether the final image looks good. But when creating 3D models, I start to think more about where this model",
+      "date": "2026-06-01T21:08:09+00:00",
+      "source": "r/artificial",
+      "lang": "en",
+      "category": "Wow",
+      "priority": 2
+    },
+    {
+      "id": "eea3d2d6ac9f",
+      "title": "Nvidia’s AI Chips Sought by Chinese Labs With Ties to Military",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-01/nvidia-s-ai-chips-sought-by-chinese-labs-with-ties-to-military",
+      "summary": "At least seven Chinese universities that support the country’s armed forces and defense industry are seeking access to Nvidia Corp.’s H200 chips, the most powerful artificial intelligence processors ever allowed by the US to be sold in China, accordi",
+      "date": "2026-06-01T21:02:32+00:00",
+      "source": "Bloomberg Tech",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 2
+    },
+    {
+      "id": "d58bb42bf7a3",
+      "title": "アメリカの民家の庭で見つかった石板が約1900年前の古代ローマ水兵の墓碑だったと判明",
+      "url": "https://gigazine.net/news/20260602-roman-headstone-new-orleans-backyard/",
+      "summary": "アメリカ・ニューオーリンズの民家の庭で見つかったラテン語碑文入りの大理石板が、約1900年前にローマ帝国海軍の水兵「セクストゥス・コンゲニウス・ウェルス」を記念して作られた墓碑だったと判明しました。続きを読む...",
+      "date": "2026-06-01T21:00:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "be0158ca7288",
+      "title": "Mach Industries Valued at $1.8 Billion in Latest Funding Deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-01/mach-industries-valued-at-1-8-billion-in-latest-funding-deal",
+      "summary": "Defense startup Mach Industries notched a $1.8 billion valuation in a funding deal to ramp up production of its autonomous aircraft, strike systems and other gear for the Pentagon and allied forces.",
+      "date": "2026-06-01T20:54:06+00:00",
+      "source": "Bloomberg Tech",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 2
+    },
+    {
+      "id": "ead63c7f6443",
+      "title": "Alphabet to Raise $80 Billion in Equity for AI Spending",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-01/alphabet-to-raise-80-billion-in-equity-capital-for-ai-spending",
+      "summary": "Google parent Alphabet Inc. is raising $80 billion through a package of equity offerings, including an investment deal with Berkshire Hathaway Inc., as the company races to fund its ambitious artificial intelligence spending plans.",
+      "date": "2026-06-01T20:50:33+00:00",
+      "source": "Bloomberg Tech",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 2
+    },
+    {
+      "id": "d9181690844c",
+      "title": "I've been trying to replicate this Anima V1.0 image all day but I can't manage it. Maybe I need a special workflow or something?",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1tu4zsy/ive_been_trying_to_replicate_this_anima_v10_image/",
+      "summary": "If CivitAI says that Anima was used, it's because it's possible to create that image with Anima, right? Source: https://civitai.red/images/131490478 The workflow doesn't even work when I paste it into ComfyUI. submitted by /u/Hi7u7 [link] [comments]",
+      "date": "2026-06-01T20:37:17+00:00",
+      "source": "r/StableDiffusion",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
+    {
+      "id": "186ab6e5ea58",
+      "title": "Pebblebee’s Halo can help track lost items and keep you safe, and it’s on sale for $50",
+      "url": "https://www.theverge.com/gadgets/941273/pebblebee-halo-bluetooth-tracker-personal-safety-deal-sale",
+      "summary": "If you’re planning to travel this summer, both a Bluetooth tracker and a personal safety device can come in handy, especially if you’ll be exploring on your own. The Pebblebee Halo combines those two gadgets into one, and it’s currently on sale for $",
+      "date": "2026-06-01T20:30:06+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "7917d0cdb3c8",
+      "title": "Feedback on my EU AI Act Risk Tier Assessor [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tu4rnt/feedback_on_my_eu_ai_act_risk_tier_assessor_p/",
+      "summary": "Hey everyone, hope this is ok to post here. I built a free EU AI Act risk assessment tool and would love some feedback from people who actually know this space. You fill out a 10-question form describing your AI system, it classifies your EU AI Act r",
+      "date": "2026-06-01T20:29:43+00:00",
+      "source": "r/MachineLearning",
+      "lang": "en",
+      "category": "Wow",
+      "priority": 2
+    },
+    {
+      "id": "2aaeca7d0205",
+      "title": "This could be Windows’ M1 moment — but expect it to cost a ton",
+      "url": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
+      "summary": "Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform incredibly well while also delivering great battery life - at least on the Mac. In the Win",
+      "date": "2026-06-01T20:18:01+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "b2d8c3633cc6",
+      "title": "HPE Surges After Intense Demand for AI Buoys Sales Forecast",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-01/hpe-sees-strong-growth-over-next-18-months-on-server-demand",
+      "summary": "Hewlett Packard Enterprise Co. shares soared in extended trading after the company gave an outlook for annual sales that topped estimates, citing massive growth in AI-fueled demand for its servers and networking.",
+      "date": "2026-06-01T20:07:33+00:00",
+      "source": "Bloomberg Tech",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 2
+    },
+    {
+      "id": "7d21ec3ff9c0",
+      "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+      "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+      "summary": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
+      "date": "2026-06-01T20:03:40+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "f15aed5f3350",
+      "title": "Gemini’s new AI agent is about as good as Google’s demo",
+      "url": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
+      "summary": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs. The company gave me access to Spark last week. Google advertises Spark ",
+      "date": "2026-06-01T19:54:52+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "f93dd0aa6830",
+      "title": "EX NIHILO | Chapter One | A Sci-Fi Series (images made with Midjourney)",
+      "url": "https://www.reddit.com/r/midjourney/comments/1tu3nws/ex_nihilo_chapter_one_a_scifi_series_images_made/",
+      "summary": "submitted by /u/LeftyMcLeftFace [link] [comments]",
+      "date": "2026-06-01T19:52:07+00:00",
+      "source": "r/midjourney",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
+    {
+      "id": "4e02f586f031",
+      "title": "Dozens of Red Hat packages backdoored through its official NPM channel",
+      "url": "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/",
+      "summary": "Anyone who has downloaded affected Red Hat packages should investigate immediately.",
+      "date": "2026-06-01T19:49:09+00:00",
+      "source": "Ars Technica",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "998477006dab",
+      "title": "Meta’s own AI was exploited to hijack Instagram accounts",
+      "url": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
+      "summary": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media. In a video shared on Telegram, a hacker shows how they could take over an account by asking Meta's chatbot to switch the email associated with someo",
+      "date": "2026-06-01T19:20:47+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "d4855e2a9971",
+      "title": "Casey Neistat’s guide to posting every day",
+      "url": "https://www.theverge.com/podcast/941140/casey-neistat-daily-vergecast",
+      "summary": "Some news: The Vergecast is now a daily podcast! Starting today, we'll be posting every weekday, with even more gadgets and rankings and conversations and feelings and podcasts-within-podcasts. We're excited for all the ways this new schedule lets us",
+      "date": "2026-06-01T19:07:03+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "1a40ff2a49b0",
+      "title": "Water access is now a risk factor in SpaceX’s IPO",
+      "url": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
+      "summary": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge.",
+      "date": "2026-06-01T18:19:53+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "b1fc27546893",
+      "title": "How much published AI research is wrong because of data leakage?",
+      "url": "https://www.reddit.com/r/artificial/comments/1tu0ri0/how_much_published_ai_research_is_wrong_because/",
+      "summary": "There is a Princeton paper by Kapoor and Narayanan. They found data leakage in close to 300 papers across 17 fields, including medicine and economics. Leakage means the model was trained on information it would never have when it makes a real predict",
+      "date": "2026-06-01T18:15:09+00:00",
+      "source": "r/artificial",
+      "lang": "en",
+      "category": "Wow",
+      "priority": 2
+    },
+    {
+      "id": "723a9b3437a9",
+      "title": "Florida sues OpenAI, alleging it’s unsafe for children",
+      "url": "https://www.reddit.com/r/artificial/comments/1tu0i8n/florida_sues_openai_alleging_its_unsafe_for/",
+      "summary": "submitted by /u/Bubbly-Air7302 [link] [comments]",
+      "date": "2026-06-01T18:07:02+00:00",
+      "source": "r/artificial",
+      "lang": "en",
+      "category": "Wow",
+      "priority": 2
+    },
+    {
+      "id": "60f849d5b1f2",
+      "title": "Anthropic has officially filed to go public",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public",
+      "summary": "After months of speculation about whether OpenAI or Anthropic would be first in their race to IPO, Anthropic on Monday reached a key milestone: filing to kick off the process with the U.S. Securities and Exchange Commission. The filing sets the stage",
+      "date": "2026-06-01T17:45:28+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "388c0763bb7e",
+      "title": "Anthropic files to go public",
+      "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+      "summary": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models.",
+      "date": "2026-06-01T16:36:55+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "bc48ccec061e",
+      "title": "Sony’s new fight stick and gaming monitor launch in August",
+      "url": "https://www.theverge.com/games/941031/sony-playstation-flexstrike-fight-stick-gaming-monitor-pulse-elevate-speakers-launch-date-price",
+      "summary": "Sony is sharing new details about some of its upcoming gaming-focused hardware, including pricing and August launch dates for its FlexStrike fight stick and its 27-inch monitor. The FlexStrike fight stick will be available starting August 6th - the s",
+      "date": "2026-06-01T16:36:18+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "54a6134e8a25",
+      "title": "Best local realistic image model that is uncensored?",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1ttxmvd/best_local_realistic_image_model_that_is/",
+      "summary": "I would like to know which model gives the most realistic and candid images, similar to nano banana, that still allows for uncensored and 18+ generation? submitted by /u/BigHugeFella [link] [comments]",
+      "date": "2026-06-01T16:33:01+00:00",
+      "source": "r/StableDiffusion",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
     {
       "id": "447ff6cf2683",
       "title": "Finetuning a Reasoning LLM with Supervised or Reinforcement Learning? [D]",
@@ -14,81 +542,15 @@
       "priority": 2
     },
     {
-      "id": "92139eff3f1a",
-      "title": "Salesforce Investment in Anthropic Is Valued at About $5 Billion",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-01/salesforce-investment-in-anthropic-is-valued-at-about-5-billion",
-      "summary": "Salesforce Inc. has a stake in Anthropic PBC worth about $5 billion after repeatedly investing in the ascendant AI startup.",
-      "date": "2026-06-01T16:21:11+00:00",
-      "source": "Bloomberg Tech",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 2
-    },
-    {
-      "id": "ee6585c43b26",
-      "title": "Nvidia Is Taking On Intel and AMD With AI Chip for Computers",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-01/nvidia-takes-on-intel-and-amd-with-ai-chip-for-computers-video",
-      "summary": "Nvidia Corp. is entering the PC market with a new chip aimed at loosening the stranglehold of Intel Corp. technology in that arena and modernizing the machines for the AI era. Mandeep Singh, Global Tech Research Head at Bloomberg Intelligence, discus",
-      "date": "2026-06-01T16:11:50+00:00",
-      "source": "Bloomberg Tech",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 2
-    },
-    {
-      "id": "6c07a035fff6",
-      "title": "Anthropic Files Confidentially for IPO in Race With OpenAI",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-01/anthropic-files-confidentially-for-ipo-as-claude-demand-surges",
-      "summary": "Anthropic PBC has confidentially submitted draft paperwork for a public listing as it races longtime rival OpenAI to make a Wall Street debut as soon as this fall.",
-      "date": "2026-06-01T16:09:01+00:00",
-      "source": "Bloomberg Tech",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 2
-    },
-    {
-      "id": "8b551e6166e4",
-      "title": "Computex 2026: All the news and announcements",
-      "url": "https://www.theverge.com/tech/940844/computex-2026",
-      "summary": "Computex 2026 is kicking off in Taipei, Taiwan this week, where Nvidia, AMD, Qualcomm, Intel, and other tech brands are announcing new laptops, handhelds, chips, and more. Nvidia unveiled RTX Spark, its first family of consumer PC chips, arriving in ",
-      "date": "2026-06-01T16:06:24+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "712bba29cbac",
-      "title": "Florida Sues OpenAI, Sam Altman Over Chatbot Safety Concerns",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-01/florida-sues-openai-sam-altman-over-chatbot-safety-concerns",
-      "summary": "The state of Florida sued OpenAI and Chief Executive Officer Sam Altman, accusing the artificial intelligence company of ignoring safety warnings and releasing a product that is harmful to users.",
-      "date": "2026-06-01T16:03:41+00:00",
-      "source": "Bloomberg Tech",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 2
-    },
-    {
       "id": "2015d5b1d007",
       "title": "This AI weather startup is out-forecasting government agencies",
       "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
-      "summary": "Windborne Systems' newest weather forecasting model beats the best government predictions by days.",
+      "summary": "WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering sensor readings at any given time, launched from 15 sites around the globe. The advances in its current m",
       "date": "2026-06-01T16:00:00+00:00",
       "source": "TechCrunch AI",
       "lang": "en",
       "category": "Industry",
       "priority": 1
-    },
-    {
-      "id": "4bdd56749992",
-      "title": "Summer Game Fest 2026: All the news from gaming’s busiest week",
-      "url": "https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026",
-      "summary": "Get ready for some gaming news. It’s officially June, which means splashy new events from PlayStation, Xbox, and gaming hype man Geoff Keighley. But this season doesn’t just feature the big tentpole shows; there will be a bunch of smaller events, too",
-      "date": "2026-06-01T15:56:35+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "4b064bb53f14",
@@ -97,28 +559,6 @@
       "summary": "I built a routing-based approach to lightweight real-time multilingual ASR as part of my research at Gladia. The core problem was how multilingual models that accurately handle mid-conversation language switches are often too big for most local hardw",
       "date": "2026-06-01T15:53:18+00:00",
       "source": "r/MachineLearning",
-      "lang": "en",
-      "category": "Wow",
-      "priority": 2
-    },
-    {
-      "id": "11da2e62198c",
-      "title": "Fluence Shares Soar on Design for Nvidia AI Data Center Factory",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-01/fluence-shares-soar-on-design-for-nvidia-ai-data-center-factory",
-      "summary": "Fluence Energy Inc. shares soared more than 40% after the US energy storage company said it collaborated with Siemens AG and Nvidia Corp. to develop a design for artificial intelligence data centers.",
-      "date": "2026-06-01T15:50:59+00:00",
-      "source": "Bloomberg Tech",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 2
-    },
-    {
-      "id": "7245d24ccadb",
-      "title": "Why do people hate/refuse to use anything with AI involved?",
-      "url": "https://www.reddit.com/r/artificial/comments/1ttw89x/why_do_people_haterefuse_to_use_anything_with_ai/",
-      "summary": "I’m genuinely curious why I see so many posts with people complaining about anything with AI involved? It’s not just games, it’s everything. The only time I get mad at AI material is when I get a notification like “NEW AVENGERS DOOMDAY TRAILER” and I",
-      "date": "2026-06-01T15:46:34+00:00",
-      "source": "r/artificial",
       "lang": "en",
       "category": "Wow",
       "priority": 2
@@ -157,28 +597,6 @@
       "priority": 2
     },
     {
-      "id": "497709155e78",
-      "title": "An affordable, long-lasting AirTag alternative is $15 right now",
-      "url": "https://www.theverge.com/gadgets/940830/find-my-bluetooth-tracker-bose-qc-ultra-google-pixel-buds-deal-sale",
-      "summary": "There are many solid Bluetooth trackers for iPhones that tap into Apple’s expansive Find My network. Some are thin, some are a bit chunkier. And, evidently, some look like tiny soccer balls. Ugreen’s FineTrack 2 glows in the dark, and it has a loud 1",
-      "date": "2026-06-01T15:24:32+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "11c6c8ed33f6",
-      "title": "Strava blames zero-code AI apps and scrapers as it tightens API access",
-      "url": "https://www.theverge.com/gadgets/940854/strava-restricts-api-access-ai-apps",
-      "summary": "The popular fitness-tracking platform, Strava, is restricting access to its API as part of efforts to clamp down on AI scraping, as reported earlier by TechCrunch. Developers who want to build an app using Strava's data now need to pay for a flat $11",
-      "date": "2026-06-01T15:06:40+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "6af242b06976",
       "title": "[D] Simple Questions Thread",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1ttuuwx/d_simple_questions_thread/",
@@ -187,39 +605,6 @@
       "source": "r/MachineLearning",
       "lang": "en",
       "category": "Wow",
-      "priority": 2
-    },
-    {
-      "id": "9e699cd380b5",
-      "title": "The next big career move for young Hollywood? Reading audio smut",
-      "url": "https://www.theverge.com/entertainment/940869/quinn-erotica-rent-free-ember-and-ice-heated-rivalry-off-campus",
-      "summary": "Though Gen Z has developed a reputation for being so disinterested in sex that they don't even want to see it on TV, the popularity of series like Heated Rivalry and The Summer I Turned Pretty has made it very clear that more than a few young people ",
-      "date": "2026-06-01T15:00:12+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "8c3ddadf395c",
-      "title": "今だけ最大8万円引き！ RTX 5080搭載ゲーミングPCをお得に買うチャンス",
-      "url": "https://ascii.jp/elem/000/004/406/4406634/?rss",
-      "summary": "パソコンショップSEVENが最新のゲーミングPCやデスクトップPCを24時間限定セールでお得に購入できるチャンスを提供。最大80,000円オフのこの機会を見逃さないでください。",
-      "date": "2026-06-01T15:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "d7d4bbb43750",
-      "title": "週刊アスキー No.1598(2026年6月2日発行)",
-      "url": "https://ascii.jp/elem/000/004/406/4406557/?rss",
-      "summary": "特集1はパソコンの買い方。全体に価格が高騰する中、本当に必要な性能・機能はなに？ 特集2はおひとりさまの「生活の悩み」も解決してくれるベストバイ家電10選だ。",
-      "date": "2026-06-01T15:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
       "priority": 2
     },
     {
@@ -234,69 +619,14 @@
       "priority": 1
     },
     {
-      "id": "deebb1449460",
-      "title": "Meredith Whitney on AI's Impact, Rates and Debt Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-01/meredith-whitney-on-ai-s-impact-rates-and-debt-markets-video",
-      "summary": "Meredith Whitney Advisory Group CEO Meredith Whitney says the economy is doing \"well\" amid the expansion of AI and rising inflation on \"Bloomberg Open Interest.\" (Source: Bloomberg)",
-      "date": "2026-06-01T14:47:52+00:00",
-      "source": "Bloomberg Tech",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 2
-    },
-    {
-      "id": "a2c34073bab0",
-      "title": "Microsoft to unveil new AI models and Windows improvements at Build",
-      "url": "https://www.theverge.com/report/940861/microsoft-build-ai-models-windows-dev-mode-what-to-expect",
-      "summary": "Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days when Microsoft called it the Professional Developers Conference, and I can't remember a more pivotal mom",
-      "date": "2026-06-01T14:39:03+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "55101935b767",
-      "title": "How much of MLE-Bench's gains are the algorithm vs. better models + more search? [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ttu47l/how_much_of_mlebenchs_gains_are_the_algorithm_vs/",
-      "summary": "MLE-Bench scores have jumped from 30% to 80% over the last two years. But how much of that is real algorithmic progress vs. better base models + problem definition shifts + overfitting? Turns out: not much. Once you control for the same step budget a",
-      "date": "2026-06-01T14:34:16+00:00",
-      "source": "r/MachineLearning",
-      "lang": "en",
-      "category": "Wow",
-      "priority": 2
-    },
-    {
       "id": "d922714c2891",
       "title": "Cosmos3 Nano testing with vllm-omni",
       "url": "https://www.reddit.com/r/StableDiffusion/comments/1tttwgu/cosmos3_nano_testing_with_vllmomni/",
-      "summary": "Hey everyone, just wanted to share my recent testing recipe and results running the Cosmos3 Nano using vllm-omni. The performance is incredibly fast, it took almost exactly 9 minutes to generate a 720x720, 161 frames video on my setup. However, while",
+      "summary": "Hey everyone, just wanted to share my recent testing recipe and results running the Cosmos3 Nano using vllm-omni. The performance is incredibly fast, it took almost exactly 9 minutes to generate a 720x720, 161 frames video 20 steps on my setup. Howev",
       "date": "2026-06-01T14:27:29+00:00",
       "source": "r/StableDiffusion",
       "lang": "en",
       "category": "ImageVideo",
-      "priority": 2
-    },
-    {
-      "id": "4f48eaf914db",
-      "title": "5060 Ti 16GB or Cloud: Which makes more sense for DL, RL, and LLM studies/research? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ttte5x/5060_ti_16gb_or_cloud_which_makes_more_sense_for/",
-      "summary": "Hi everyone, If you have purchased (at least one) GPU(s) for ML/DL studies and research: How is your experience and is it worth it? What do you use it for and how is the ROI? I have a MacBook Pro with M4 from some years ago, while MPS is useful in ma",
-      "date": "2026-06-01T14:09:51+00:00",
-      "source": "r/MachineLearning",
-      "lang": "en",
-      "category": "Wow",
-      "priority": 2
-    },
-    {
-      "id": "9a1d6db6f9af",
-      "title": "AI is blowing up music. How should the Grammys handle it?",
-      "url": "https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason",
-      "summary": "Today I’m talking with Harvey Mason Jr., who is CEO of the Recording Academy — that’s the outfit that puts on the Grammy Awards. I last talked to Harvey in 2024, when it was obvious that generative AI would upend the music industry, but still not exa",
-      "date": "2026-06-01T14:02:55+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
       "priority": 2
     },
     {
@@ -344,56 +674,23 @@
       "priority": 2
     },
     {
-      "id": "defdd64d0d87",
-      "title": "なんでも売ってそう。台湾の電気街が楽しすぎます",
-      "url": "https://ascii.jp/elem/000/004/407/4407044/?rss",
-      "summary": "台北に到着したKTU。引き続き、パソコン聖地・光華商場のビルの中を散策。",
-      "date": "2026-06-01T13:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "d67201b8bd58",
-      "title": "CPUが大量に山積みされている！ すごいぞ、台湾の電気街",
-      "url": "https://ascii.jp/elem/000/004/407/4407043/?rss",
-      "summary": "台北に到着したKTU。引き続き、パソコン聖地・光華商場のビルの中を散策。",
-      "date": "2026-06-01T12:45:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "f0f5b4ccaa4f",
-      "title": "このレトロ感がたまらねえ。台湾のパソコン聖地「光華商場」に入ってみたぞ！",
-      "url": "https://ascii.jp/elem/000/004/407/4407042/?rss",
-      "summary": "台北に到着したKTU。パソコン聖地・光華商場のビルの中に入ります！",
-      "date": "2026-06-01T12:30:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "14f10debaf7c",
-      "title": "台湾のパソコン聖地「光華商場」ってどんなところ？",
-      "url": "https://ascii.jp/elem/000/004/407/4407041/?rss",
-      "summary": "台北に到着したKTU。いざ、パソコン聖地・光華商場へ！",
-      "date": "2026-06-01T12:15:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "40a078879743",
       "title": "The Download: China’s brain implant ambitions",
       "url": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. China has approved the world’s first invasive brain-computer chip—here’s what’s next Sitting in the courtyard of",
       "date": "2026-06-01T12:10:00+00:00",
       "source": "MIT Tech Review",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "890b25eddf68",
+      "title": "Building the infrastructure for the Intelligence Age in Michigan",
+      "url": "https://openai.com/index/stargate-michigan-data-center",
+      "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
+      "date": "2026-06-01T12:00:00+00:00",
+      "source": "OpenAI Blog",
       "lang": "en",
       "category": "Research",
       "priority": 1
@@ -410,28 +707,6 @@
       "priority": 2
     },
     {
-      "id": "e1fefd848d1a",
-      "title": "台北の街をぶらぶらして見つけた、カオスな街並みの魅力",
-      "url": "https://ascii.jp/elem/000/004/407/4407038/?rss",
-      "summary": "台北に到着したKTU。そこで見つけたのは、看板が入り乱れるカオスの魅力。",
-      "date": "2026-06-01T12:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "7fb48ecfcc62",
-      "title": "Ryzen 7＋16GBメモリで10万円以下！ ASUS「Vivobook 15」が普段使いにちょうどいい",
-      "url": "https://ascii.jp/elem/000/004/406/4406994/?rss",
-      "summary": "Amazon.co.jpにて、ノートPC「ASUS Vivobook 15」がセール中。Windows 11／AMD Ryzen 7 170／メモリ16GB／SSD 512GBモデルで、9万8800円となる。",
-      "date": "2026-06-01T12:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "4bc51d6030f2",
       "title": "My AI chats are becoming dead archives.",
       "url": "https://www.reddit.com/r/artificial/comments/1ttpxsn/my_ai_chats_are_becoming_dead_archives/",
@@ -443,17 +718,6 @@
       "priority": 2
     },
     {
-      "id": "791682bb1fd9",
-      "title": "I compared 62 samplers and 16 schedulers for WAN 2.1 image generation and rated the image quality so you don't have to 😬",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1ttpvn4/i_compared_62_samplers_and_16_schedulers_for_wan/",
-      "summary": "https://preview.redd.it/mj7g2e2xtn4h1.png?width=616&format=png&auto=webp&s=5ce6a688fafdee4ce578ad81925f216edb32fe8f Here's a sampler/scheduler comparison table for WAN 2.1 image generation. Obviously it reads like Red < Orange < Yellow < Green. You'r",
-      "date": "2026-06-01T11:54:06+00:00",
-      "source": "r/StableDiffusion",
-      "lang": "en",
-      "category": "ImageVideo",
-      "priority": 2
-    },
-    {
       "id": "c1a5a5935f71",
       "title": "Bernie Sanders: A.I. Belongs to the People, Not to Billionaires",
       "url": "https://www.reddit.com/r/artificial/comments/1ttpt5c/bernie_sanders_ai_belongs_to_the_people_not_to/",
@@ -462,17 +726,6 @@
       "source": "r/artificial",
       "lang": "en",
       "category": "Wow",
-      "priority": 2
-    },
-    {
-      "id": "787c5ba6b416",
-      "title": "The Escape",
-      "url": "https://www.reddit.com/r/midjourney/comments/1ttps6m/the_escape/",
-      "summary": "submitted by /u/Dropdeadlegs84 [link] [comments]",
-      "date": "2026-06-01T11:49:40+00:00",
-      "source": "r/midjourney",
-      "lang": "en",
-      "category": "ImageVideo",
       "priority": 2
     },
     {
@@ -495,17 +748,6 @@
       "source": "NHK テクノロジー",
       "lang": "ja",
       "category": "AI",
-      "priority": 2
-    },
-    {
-      "id": "45ac1a5bc4dc",
-      "title": "FLUX.2 Klein 9B Schematic LoRA - Depth, Normal, Pose, and Segmentation",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1ttpbl3/flux2_klein_9b_schematic_lora_depth_normal_pose/",
-      "summary": "There have already been several projects that try to use the prior knowledge of image generation models for CV tasks, such as Marigold and SDPose. Now that image editing models have become more common, there is a very simple idea: maybe these CV task",
-      "date": "2026-06-01T11:28:55+00:00",
-      "source": "r/StableDiffusion",
-      "lang": "en",
-      "category": "ImageVideo",
       "priority": 2
     },
     {
@@ -542,17 +784,6 @@
       "priority": 2
     },
     {
-      "id": "699bb02b89ed",
-      "title": "AI taking jobs is \"complete nonsense\" says Nvidia CEO, as software engineer numbers are \"actually increasing\"",
-      "url": "https://www.reddit.com/r/artificial/comments/1tto1wx/ai_taking_jobs_is_complete_nonsense_says_nvidia/",
-      "summary": "submitted by /u/Dapper_Order7182 [link] [comments]",
-      "date": "2026-06-01T10:26:41+00:00",
-      "source": "r/artificial",
-      "lang": "en",
-      "category": "Wow",
-      "priority": 2
-    },
-    {
       "id": "dbc7b5bd8464",
       "title": "Anima with dark style anime lora is pretty good. Tried with some Sailor girls.",
       "url": "https://www.reddit.com/r/StableDiffusion/comments/1ttnnzu/anima_with_dark_style_anime_lora_is_pretty_good/",
@@ -562,6 +793,17 @@
       "lang": "en",
       "category": "ImageVideo",
       "priority": 2
+    },
+    {
+      "id": "0417997d923f",
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS a",
+      "date": "2026-06-01T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
     },
     {
       "id": "739a99df9d1e",
@@ -707,17 +949,6 @@
       "priority": 2
     },
     {
-      "id": "1820b96c0db5",
-      "title": "経口補水液の「飲みにくさ」を改善してスポーツドリンクのようにゴクゴク飲める「SUNTORY DAKARA経口補水液」を飲んでみた",
-      "url": "https://gigazine.net/news/20260601-suntory-dakara-oral-rehydration-solution/",
-      "summary": "経口補水液は脱水時に速やかに水分と電解質を補給できるように作られた飲料であり、一般的なスポーツドリンクよりもナトリウムやカリウムの量が多くなっています。サントリーは初めて経口補水液を飲む人や子どもでも飲みやすい「SUNTORY DAKARA経口補水液」を2026年6月9日(火)から発売する予定であり、サンプルが編集部にも届いたので、どんな経口補水液に仕上がっているのか実際に飲んで確かめてみました。続きを読む...",
-      "date": "2026-06-01T08:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "4656570c5abd",
       "title": "Untitled 59",
       "url": "https://www.reddit.com/r/midjourney/comments/1ttldcx/untitled_59/",
@@ -740,28 +971,6 @@
       "priority": 2
     },
     {
-      "id": "bf0c9ea099db",
-      "title": "相次ぐ再開発事業見直し 開発・建設の業界団体が初会合",
-      "url": "https://news.web.nhk/newsweb/na/na-k10015137281000",
-      "summary": "工事費の高騰や人手不足などを背景に全国で再開発事業の見直しが相次いでいることを受けて、6月1日、開発業者の団体とゼネコンなどの団体が初めての対策会議を開き、今後、連携して解決する課題を整理した上で、1…",
-      "date": "2026-06-01T07:44:30+00:00",
-      "source": "NHK テクノロジー",
-      "lang": "ja",
-      "category": "AI",
-      "priority": 2
-    },
-    {
-      "id": "3a8509346b17",
-      "title": "Anthropicの人材採用プロセスはこんな感じ、面接でのAI使用は厳禁",
-      "url": "https://gigazine.net/news/20260601-anthropic-recruiting/",
-      "summary": "AI「Claude」を開発するAnthropicは、「OpenAIが安全性に十分な重点を置いていない」との懸念から同社を離れた人物により設立された企業であり、その採用プロセスにおいてAIの安全性をひときわ重視しているとされています。採用プロセスの実態をBloombergがまとめました。続きを読む...",
-      "date": "2026-06-01T07:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "e5f95e76b5fe",
       "title": "Nvidia releases Cosmos3-Super-Image2Video . 64B parametres",
       "url": "https://www.reddit.com/r/StableDiffusion/comments/1ttjuc0/nvidia_releases_cosmos3superimage2video_64b/",
@@ -773,54 +982,10 @@
       "priority": 2
     },
     {
-      "id": "35e33ba33e63",
-      "title": "Nvidia releasesCosmos3-Super-Text2Image model . 64 billion paramteres",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1ttjrip/nvidia_releasescosmos3supertext2image_model_64/",
-      "summary": "Model: https://huggingface.co/nvidia/Cosmos3-Super-Text2Image/tree/main Paper: https://research.nvidia.com/labs/cosmos-lab/cosmos3/technical-report.pdf submitted by /u/AgeNo5351 [link] [comments]",
-      "date": "2026-06-01T06:28:30+00:00",
-      "source": "r/StableDiffusion",
-      "lang": "en",
-      "category": "ImageVideo",
-      "priority": 2
-    },
-    {
-      "id": "c7ba509e4977",
-      "title": "Intel、データセンター向け新CPU「Xeon 6+」発表 エージェンティックAI基盤を強化",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/01/news103.html",
-      "summary": "Intelは「Computex Taipei 2026」で、データセンター等向けの新CPU「Xeon 6+」を発表した。最先端のIntel 18Aプロセスを採用し、前世代比で最大2.5倍の性能向上を実現。新イーサネットコントローラや次世代データセンターGPU「Crescent Island」の追加情報も公開した。",
-      "date": "2026-06-01T06:28:00+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "76e4d1c7fa63",
-      "title": "Microsoft、NVIDIAと共同設計のPC「Surface Laptop Ultra」発表 AIモデルのローカル実行可能",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/01/news098.html",
-      "summary": "Microsoftは、新ノートPC「Surface Laptop Ultra」を発表した。NVIDIAと共同設計したSoC「RTX Spark」を搭載する初のSurfaceで、1ペタフロップスのAI演算性能を誇る。最大128GBのユニファイドメモリを備え、1200億パラメータのモデルをローカルで実行可能だ。2026年秋に発売予定。",
-      "date": "2026-06-01T05:44:00+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "8334e180de6c",
-      "title": "NVIDIA、Windows用プロセッサ「RTX Spark」発表 ノートPCでローカルAIを高速実行",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/01/news088.html",
-      "summary": "米NVIDIAは6月1日、台湾で開催中の「GTC Taipei 2026」の基調講演で、PC向けの新チップ「NVIDIA RTX Spark」を発表した。",
-      "date": "2026-06-01T05:00:00+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "c404da29ff74",
       "title": "Emerging Currencies Snap Winning Streak as Peace Deal in Doubt",
       "url": "https://www.bloomberg.com/news/articles/2026-06-01/em-stocks-hit-record-high-on-ai-currencies-lower-as-oil-climbs",
-      "summary": "Emerging-market currencies sank on waning hopes for a peace deal in the Middle East after a report that Iran had stopped exchanging messages with the US in protest at Israel’s actions in Lebanon.",
+      "summary": "Emerging-market currencies snapped an eight-day winning streak on Monday as hopes faded for an imminent peace deal, even though President Donald Trump tried to calm market jitters by saying talks with Iran are moving at a “rapid pace.”",
       "date": "2026-06-01T04:51:11+00:00",
       "source": "Bloomberg Tech",
       "lang": "en",
@@ -850,17 +1015,6 @@
       "priority": 1
     },
     {
-      "id": "8b2210e79ea3",
-      "title": "Nvidia Is Taking On Intel and AMD With AI Chip for Computers",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-01/nvidia-enters-windows-laptop-market-taking-on-intel-and-amd",
-      "summary": "Nvidia Corp. is entering the PC market with a new chip aimed at loosening the stranglehold of Intel Corp. technology in that arena and modernizing the machines for the AI era.",
-      "date": "2026-06-01T04:25:23+00:00",
-      "source": "Bloomberg Tech",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 2
-    },
-    {
       "id": "36b3ca8b7b0a",
       "title": "Cognitive debt might be the most underrated problem AI is creating",
       "url": "https://www.reddit.com/r/artificial/comments/1tteup9/cognitive_debt_might_be_the_most_underrated/",
@@ -883,17 +1037,6 @@
       "priority": 2
     },
     {
-      "id": "996c2bb148da",
-      "title": "I think AI is making me dumber and I have proof",
-      "url": "https://www.reddit.com/r/artificial/comments/1tte09c/i_think_ai_is_making_me_dumber_and_i_have_proof/",
-      "summary": "okay so this is embarrassing to admit but here it is took a reasoning test in 2022, scored pretty well. Retook the same test last month out of curiosity, dropped significantly, like not a small difference. The only major change in my life is using AI",
-      "date": "2026-06-01T01:46:20+00:00",
-      "source": "r/artificial",
-      "lang": "en",
-      "category": "Wow",
-      "priority": 2
-    },
-    {
       "id": "1290a53c5d62",
       "title": "datasette 1.0a32",
       "url": "https://simonwillison.net/2026/May/31/datasette/#atom-everything",
@@ -903,28 +1046,6 @@
       "lang": "en",
       "category": "Prompts",
       "priority": 1
-    },
-    {
-      "id": "0f6c3158bc5f",
-      "title": "UAI Results are out [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1tt9xbt/uai_results_are_out_r/",
-      "summary": "You can’t see AC comments yet, but you can see the Accept/Reject consoles. My paper (with scores of 8,6,3) got rejected. submitted by /u/GeeseChen [link] [comments]",
-      "date": "2026-05-31T22:45:36+00:00",
-      "source": "r/MachineLearning",
-      "lang": "en",
-      "category": "Wow",
-      "priority": 2
-    },
-    {
-      "id": "69d5fbe17f9b",
-      "title": "Fantasy Landscape",
-      "url": "https://www.reddit.com/r/midjourney/comments/1tt9rhp/fantasy_landscape/",
-      "summary": "submitted by /u/NaturalCrits [link] [comments]",
-      "date": "2026-05-31T22:38:35+00:00",
-      "source": "r/midjourney",
-      "lang": "en",
-      "category": "ImageVideo",
-      "priority": 2
     },
     {
       "id": "6e2aa85b95d5",
@@ -938,17 +1059,6 @@
       "priority": 1
     },
     {
-      "id": "8b95037a3af1",
-      "title": "In 1997 I built a chatbot for an IRC channel. I shut it down when people started preferring it to talking to each other.",
-      "url": "https://www.reddit.com/r/artificial/comments/1tt2bwx/in_1997_i_built_a_chatbot_for_an_irc_channel_i/",
-      "summary": "It was called Vlad. I wrapped a C program called MegaHal in Python, fed it every message from a #gothic IRC channel, and let it learn the community's speech patterns. It developed what I can only describe as an illusion of being extremely lucid — the",
-      "date": "2026-05-31T17:55:56+00:00",
-      "source": "r/artificial",
-      "lang": "en",
-      "category": "Wow",
-      "priority": 2
-    },
-    {
       "id": "a94e18e9af92",
       "title": "The solution might be cancelling my AI subscription",
       "url": "https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything",
@@ -957,17 +1067,6 @@
       "source": "Simon Willison",
       "lang": "en",
       "category": "Prompts",
-      "priority": 1
-    },
-    {
-      "id": "219fb65d984a",
-      "title": "Making sense of the debate over AI psychosis",
-      "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
-      "summary": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
-      "date": "2026-05-31T15:30:00+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
       "priority": 1
     },
     {
@@ -990,17 +1089,6 @@
       "source": "Simon Willison",
       "lang": "en",
       "category": "Prompts",
-      "priority": 1
-    },
-    {
-      "id": "4f54dd187fdc",
-      "title": "SoftBank says it will invest up to €75 billion to build French data centers",
-      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-      "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
-      "date": "2026-05-30T21:45:00+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
       "priority": 1
     },
     {
@@ -1037,50 +1125,6 @@
       "priority": 1
     },
     {
-      "id": "8db77124b6a5",
-      "title": "Quoting Daniel Jalkut",
-      "url": "https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything",
-      "summary": "My take on AI is, essentially, everybody who’s against it is too against it and everybody who’s for it is too for it. — Daniel Jalkut, via John Gruber Tags: ai, john-gruber",
-      "date": "2026-05-30T17:29:55+00:00",
-      "source": "Simon Willison",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1
-    },
-    {
-      "id": "54225d41602f",
-      "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
-      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-      "summary": "The golden age of Microsoft's Github Copilot appears to be at an end.",
-      "date": "2026-05-30T16:30:00+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "361533e64698",
-      "title": "Meta is reportedly developing an AI pendant",
-      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-      "summary": "Meta seems to be making big bets on AI-powered hardware.",
-      "date": "2026-05-30T15:59:58+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "efe0c0c4c881",
-      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
-      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-      "summary": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
-      "date": "2026-05-30T15:30:00+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
       "id": "90d00180bba1",
       "title": "物流業界の生成AI活用事例10選！メリットや導入ステップも解説",
       "url": "https://ainow.ai/2026/05/30/278121/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2589%25a9%25e6%25b5%2581%25e6%25a5%25ad%25e7%2595%258c%25e3%2581%25ae%25e7%2594%259f%25e6%2588%2590ai%25e6%25b4%25bb%25e7%2594%25a8%25e4%25ba%258b%25e4%25be%258b10%25e9%2581%25b8%25ef%25bc%2581%25e3%2583%25a1%25e3%2583%25aa%25e3%2583%2583%25e3%2583%2588%25e3%2582%2584%25e5%25b0%258e%25e5%2585%25a5%25e3%2582%25b9",
@@ -1090,17 +1134,6 @@
       "lang": "ja",
       "category": "AI",
       "priority": 1
-    },
-    {
-      "id": "37c7cbee0e7d",
-      "title": "Your guide to June’s biggest gaming events",
-      "url": "https://www.theverge.com/games/939238/video-game-gaming-events-summer-game-fest-schedule-2026",
-      "summary": "It's early June, which means it's video game event season once again. Now that E3 has been gone for a few years, a bunch of showcases and presentations have started to fill the void, including big productions like Summer Game Fest Live and smaller af",
-      "date": "2026-05-29T20:14:49+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "082fea04b748",
@@ -1290,17 +1323,6 @@
       "priority": 1
     },
     {
-      "id": "702fb607570e",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "url": "https://openai.com/index/mufg",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "date": "2026-05-28T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
       "id": "78758b8ec5bc",
       "title": "OpenAI’s Frontier Governance Framework",
       "url": "https://openai.com/index/openai-frontier-governance-framework",
@@ -1353,17 +1375,6 @@
       "source": "AINOW",
       "lang": "ja",
       "category": "AI",
-      "priority": 1
-    },
-    {
-      "id": "b5479ebcde18",
-      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
-      "url": "https://openai.com/index/cisco",
-      "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
-      "date": "2026-05-27T11:00:00+00:00",
-      "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
       "priority": 1
     },
     {
@@ -1563,17 +1574,6 @@
       "lang": "ja",
       "category": "AI",
       "priority": 1
-    },
-    {
-      "id": "c47218addf4f",
-      "title": "US government takes $2 billion equity stake in nine quantum computing firms",
-      "url": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/",
-      "summary": "Beneficiaries include startup backed by firm with links to the Trump family.",
-      "date": "2026-05-21T13:48:38+00:00",
-      "source": "Ars Technica",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "05380276668c",
@@ -2262,7 +2262,7 @@
       "title": "SNS広報を全4回の講座で習得！≪SNS広報担当養成講座 統合マスターコース≫2026年6月開講（61期生）オンライン講座",
       "url": "https://belove.doorkeeper.jp/events/189305",
       "summary": "📅 2026-06-17 · 📍 オンライン · 👥 参加 14人",
-      "date": "2026-06-01T16:30:20.499731+00:00",
+      "date": "2026-06-01T23:23:01.058546+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2276,7 +2276,7 @@
       "title": "【対面】 ２日間  マネジメント3.0 基礎ワークショップAI時代に求められる組織心理学に基づく、世界標準のよい組織づくり、週休3日のマネジメント（国際認定が取得可能）",
       "url": "https://management30-nuworks.doorkeeper.jp/events/195257",
       "summary": "📅 2026-07-31 · 📍 渋谷　ジェイフィール　ホール · 👥 参加 5/10人",
-      "date": "2026-06-01T16:30:20.499787+00:00",
+      "date": "2026-06-01T23:23:01.058603+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2290,7 +2290,7 @@
       "title": "SNS広報を全4回の講座で習得！≪SNS広報担当養成講座 統合マスターコース≫2026年9月開講（62期生）オンライン講座",
       "url": "https://belove.doorkeeper.jp/events/195545",
       "summary": "📅 2026-09-16 · 📍 オンライン · 👥 参加 0人",
-      "date": "2026-06-01T16:30:20.499817+00:00",
+      "date": "2026-06-01T23:23:01.058633+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2304,7 +2304,7 @@
       "title": "The 4th Bayes-Duality Workshop 2026",
       "url": "https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/195619",
       "summary": "📅 2026-06-24 · 📍 オンライン · 👥 参加 58人",
-      "date": "2026-06-01T16:30:20.499842+00:00",
+      "date": "2026-06-01T23:23:01.058660+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2318,7 +2318,7 @@
       "title": "10/6　AI×SNS 中小企業のためのSNS×AI活用術セミナー",
       "url": "https://belove.doorkeeper.jp/events/196182",
       "summary": "📅 2026-10-06 · 📍 オンライン · 👥 参加 0人",
-      "date": "2026-06-01T16:30:20.499867+00:00",
+      "date": "2026-06-01T23:23:01.058686+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2332,7 +2332,7 @@
       "title": "12/8 中小企業のためのSNS活用術セミナー ～DX初めの一歩～ 著者・西良旺子が語る！",
       "url": "https://belove.doorkeeper.jp/events/196183",
       "summary": "📅 2026-12-08 · 📍 オンライン · 👥 参加 0人",
-      "date": "2026-06-01T16:30:20.499892+00:00",
+      "date": "2026-06-01T23:23:01.058711+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2346,7 +2346,7 @@
       "title": "初年度2千万円のノウハウ。Web制作で食べる！WordPressでやるべきこと、Web制作ビジネスノウハウ全部盛りセミナー（大人気追加開催）",
       "url": "https://enterprise-wordpress.doorkeeper.jp/events/196195",
       "summary": "📅 2026-06-24 · 📍 オンライン · 👥 参加 45/100人",
-      "date": "2026-06-01T16:30:20.499934+00:00",
+      "date": "2026-06-01T23:23:01.058735+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2360,7 +2360,7 @@
       "title": "第5回CoderDojo 南会津（最寄駅：会津田島駅）",
       "url": "https://coderdojo-minamiaizu.doorkeeper.jp/events/196200",
       "summary": "📅 2026-07-26 · 📍 南会津町役場本庁舎多目的ホール（祇園祭のため場所が変更する場 · 👥 参加 0/10人",
-      "date": "2026-06-01T16:30:20.499959+00:00",
+      "date": "2026-06-01T23:23:01.058759+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2374,7 +2374,7 @@
       "title": "成果を出すウェブ解析の最前線を“生で見る”｜『Senior Web Analytics Consultant Award 2026』開催",
       "url": "https://web-mining.doorkeeper.jp/events/196214",
       "summary": "📅 2026-06-06 · 📍 日本経済大学東京渋谷キャンパスSTATIO  · 👥 参加 82人",
-      "date": "2026-06-01T16:30:20.499987+00:00",
+      "date": "2026-06-01T23:23:01.058784+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2388,7 +2388,7 @@
       "title": "VoIP & Asterisk lounge extra Gen AI ハンズオン編",
       "url": "https://voip-lounge.doorkeeper.jp/events/196433",
       "summary": "📅 2026-06-18 · 📍 TOKYO L.O.C.A.L BASE · 👥 参加 3/30人",
-      "date": "2026-06-01T16:30:20.500011+00:00",
+      "date": "2026-06-01T23:23:01.058812+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2401,8 +2401,8 @@
       "id": "bae0c588694a",
       "title": "【AIエージェント勉強会】ビジネスマッチング部会",
       "url": "https://retech.doorkeeper.jp/events/196567",
-      "summary": "📅 2026-06-11 · 📍 アットビジネスセンター渋谷東口駅前 402号室 · 👥 参加 68人",
-      "date": "2026-06-01T16:30:20.500034+00:00",
+      "summary": "📅 2026-06-11 · 📍 アットビジネスセンター渋谷東口駅前 402号室 · 👥 参加 69人",
+      "date": "2026-06-01T23:23:01.058836+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2416,7 +2416,7 @@
       "title": "WACA主催【WACA認定マーケティングテクノロジスト認定講座オープンセミナー（旧上級GA4講座）】事前ガイダンス＆認定資格説明会6月",
       "url": "https://web-mining.doorkeeper.jp/events/196641",
       "summary": "📅 2026-06-04 · 📍 オンライン · 👥 参加 8人",
-      "date": "2026-06-01T16:30:20.500056+00:00",
+      "date": "2026-06-01T23:23:01.058859+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2430,7 +2430,7 @@
       "title": "マーケティングテクノロジスト認定講座【WACA公式】（旧上級GA4講座）6月（2日間講座）",
       "url": "https://web-mining.doorkeeper.jp/events/196640",
       "summary": "📅 2026-06-16 · 📍 オンライン · 👥 参加 0/10人",
-      "date": "2026-06-01T16:30:20.500080+00:00",
+      "date": "2026-06-01T23:23:01.058882+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2444,7 +2444,7 @@
       "title": "SNS広報を全4回の講座で習得！≪SNS広報担当養成講座 統合マスターコース≫2026年11月開講（63期生）オンライン講座",
       "url": "https://belove.doorkeeper.jp/events/196703",
       "summary": "📅 2026-11-19 · 📍 オンライン · 👥 参加 0人",
-      "date": "2026-06-01T16:30:20.500104+00:00",
+      "date": "2026-06-01T23:23:01.058906+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2458,7 +2458,7 @@
       "title": "【PMOの負担をどこまで減らせるか？】情シス、DX部門のプロジェクトを生成AIで効率よく進める方法 ～進捗・残課題からユーザ公開後の対応まで、生成AI×ナレッジ管理で必要な情報をすぐ活かす～",
       "url": "https://majisemi-business.doorkeeper.jp/events/196630",
       "summary": "📅 2026-06-02 · 📍 オンライン · 👥 参加 1/1人",
-      "date": "2026-06-01T16:30:20.500128+00:00",
+      "date": "2026-06-01T23:23:01.058931+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2472,7 +2472,7 @@
       "title": "#朝までディレクション 3",
       "url": "https://cssnite.doorkeeper.jp/events/196798",
       "summary": "📅 2026-06-19 · 📍 オンライン · 👥 参加 261人",
-      "date": "2026-06-01T16:30:20.500151+00:00",
+      "date": "2026-06-01T23:23:01.058954+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2486,7 +2486,7 @@
       "title": "[無料] 隠岐の島から、再定義する日本の未来 〜「課題先進地」をイノベーションの武器へ変える挑戦〜",
       "url": "https://sustainableq.doorkeeper.jp/events/196817",
       "summary": "📅 2026-06-03 · 📍 オンライン · 👥 参加 61/100人",
-      "date": "2026-06-01T16:30:20.500175+00:00",
+      "date": "2026-06-01T23:23:01.058978+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2500,7 +2500,7 @@
       "title": "ふくいＤＸ経営塾【7月10日開講】＜参加者募集中＞",
       "url": "https://dxlab.doorkeeper.jp/events/196533",
       "summary": "📅 2026-07-10 · 📍 福井県産業情報センター · 👥 参加 19/19人",
-      "date": "2026-06-01T16:30:20.500199+00:00",
+      "date": "2026-06-01T23:23:01.059002+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2514,7 +2514,7 @@
       "title": "【大企業向け】ナレッジが増え続けるが、FAQ・AI用学習データに落とし込めない ～問い合わせ・インシデント起点でナレッジの更新と活用へ～",
       "url": "https://majisemi-business.doorkeeper.jp/events/196959",
       "summary": "📅 2026-06-02 · 📍 オンライン · 👥 参加 0人",
-      "date": "2026-06-01T16:30:20.500225+00:00",
+      "date": "2026-06-01T23:23:01.059026+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2528,7 +2528,7 @@
       "title": "【再放送】AIで巧妙化する標的型／CEO詐欺メール対策が情シスの運用負荷に ～低コストで回せるメール訓練と結果を可視化する仕組み～",
       "url": "https://majisemi-security.doorkeeper.jp/events/196962",
       "summary": "📅 2026-06-02 · 📍 オンライン · 👥 参加 0人",
-      "date": "2026-06-01T16:30:20.500249+00:00",
+      "date": "2026-06-01T23:23:01.059053+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2542,7 +2542,7 @@
       "title": "Hardening Designers Conference 2026",
       "url": "https://hardening.doorkeeper.jp/events/196978",
       "summary": "📅 2026-07-02 · 📍 オンライン · 👥 参加 30/170人",
-      "date": "2026-06-01T16:30:20.500272+00:00",
+      "date": "2026-06-01T23:23:01.059076+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2556,7 +2556,7 @@
       "title": "SCS評価制度時代、取引先に示すセキュリティ対策に不安はありませんか ～求められる防御・復旧・バックアップの実践ポイント～",
       "url": "https://majisemi-security.doorkeeper.jp/events/196998",
       "summary": "📅 2026-06-03 · 📍 オンライン · 👥 参加 4/4人",
-      "date": "2026-06-01T16:30:20.500295+00:00",
+      "date": "2026-06-01T23:23:01.059114+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2570,7 +2570,7 @@
       "title": "【再放送】AI普及で変わる、BtoBリード獲得戦略 ～成果が出なくなる手法、重要性が増す手法を予測する～",
       "url": "https://majisemi-sales.doorkeeper.jp/events/197006",
       "summary": "📅 2026-06-02 · 📍 オンライン · 👥 参加 0人",
-      "date": "2026-06-01T16:30:20.500318+00:00",
+      "date": "2026-06-01T23:23:01.059139+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2584,7 +2584,7 @@
       "title": "【2026年6月｜ゆるDomo】5月βリリース機能をご紹介！",
       "url": "https://domobuddies.doorkeeper.jp/events/196739",
       "summary": "📅 2026-06-09 · 📍 オンライン · 👥 参加 34人",
-      "date": "2026-06-01T16:30:20.500342+00:00",
+      "date": "2026-06-01T23:23:01.059162+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2598,7 +2598,7 @@
       "title": "【再放送】2026年度版、リード獲得方法の比較 ～生成AI時代、展示会、カンファレンス、比較広告、ウェビナーなどを徹底比較～",
       "url": "https://majisemi-sales.doorkeeper.jp/events/197011",
       "summary": "📅 2026-06-04 · 📍 オンライン · 👥 参加 0人",
-      "date": "2026-06-01T16:30:20.500365+00:00",
+      "date": "2026-06-01T23:23:01.059186+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
