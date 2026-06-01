@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-06-01_evening-nvidia-rtx-spark-pc-chip-market-entry",
+      "date": "2026-06-01",
+      "file_key": "2026-06-01_evening",
+      "title": "NvidiaがPCチップ市場へ本格参入、ハードとAIの統合加速",
+      "summary": "Nvidiaが新チップ「RTX Spark」を発表しPC市場に参入。AIハードウェアの統合が加速します。",
+      "tags": [
+        "Nvidia",
+        "RTX Spark",
+        "AI PC",
+        "LLM",
+        "AI Security"
+      ],
+      "slug": "nvidia-rtx-spark-pc-chip-market-entry"
+    },
+    {
       "id": "2026-06-01_morning-ai-future-2026-06",
       "date": "2026-06-01",
       "file_key": "2026-06-01_morning",
@@ -401,22 +416,7 @@
         "技術"
       ],
       "slug": "english-slug"
-    },
-    {
-      "id": "2026-05-18_evening-ai-democratization-malta-chatgpt",
-      "date": "2026-05-18",
-      "file_key": "2026-05-18_evening",
-      "title": "AI民主化の波、マルタが国民全員に無料提供",
-      "summary": "マルタ政府が国民全員にChatGPT Plusを無料提供、AIリテラシーの重要性が浮き彫りに",
-      "tags": [
-        "AI民主化",
-        "政府政策",
-        "教育",
-        "ビジネス応用",
-        "未来社会"
-      ],
-      "slug": "ai-democratization-malta-chatgpt"
     }
   ],
-  "updated_at": "2026-05-31T22:55:35.336096+00:00"
+  "updated_at": "2026-06-01T09:33:00.146394+00:00"
 }
