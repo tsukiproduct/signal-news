@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-06-02_evening-ai-changing-travel-business-games",
+      "date": "2026-06-02",
+      "file_key": "2026-06-02_evening",
+      "title": "AIが変える旅・ビジネス・ゲーム：今日の最前線",
+      "summary": "Gemini Sparkの旅企画からPolandの技術主権、Lego Smart Play、AIで収益倍増など、AIが多様な分野で加速する姿勢を解説。",
+      "tags": [
+        "AI",
+        "旅行",
+        "IoT"
+      ],
+      "slug": "ai-changing-travel-business-games"
+    },
+    {
       "id": "2026-06-02_morning-ai-hardware-merge",
       "date": "2026-06-02",
       "file_key": "2026-06-02_morning",
@@ -403,22 +416,7 @@
         "リスク管理"
       ],
       "slug": "ai-ripple-effect-commodities-finance"
-    },
-    {
-      "id": "2026-05-19_evening-ai-workforce-restructuring-japan-digital-trends",
-      "date": "2026-05-19",
-      "file_key": "2026-05-19_evening",
-      "title": "AI人材改革と日本企業のデジタル活用動向",
-      "summary": "スタンチャートのAI人員削減と、日本のゲーム・小売・半導体市場の最新動向を踏まえ、AI活用の実務的示唆を解説。",
-      "tags": [
-        "AI人材改革",
-        "リスキリング",
-        "金融テック",
-        "日本企業",
-        "デジタルトランスフォーメーション"
-      ],
-      "slug": "ai-workforce-restructuring-japan-digital-trends"
     }
   ],
-  "updated_at": "2026-06-01T23:24:05.987685+00:00"
+  "updated_at": "2026-06-02T14:41:58.100218+00:00"
 }
