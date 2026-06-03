@@ -1,0 +1,139 @@
+{
+  "id": "2026-06-04_morning-english-slug",
+  "file_key": "2026-06-04_morning",
+  "date": "2026-06-04",
+  "generated_at": "2026-06-03T23:29:27.919691+00:00",
+  "title": "AIニュースの最新トレンド解説",
+  "slug": "english-slug",
+  "summary": "本記事では、セガやSpaceXなど注目企業のAI活用動向や、企業のAI投資増加、専門家の視点をまとめました。これらの動きが今後のビジネスや技術にどのような影響を与えるかを解説します。",
+  "tags": [
+    "AI",
+    "ビジネス",
+    "テクノロジー"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "AI技術が業界を変える過程を掘り下げ、セガのゲームデータ再生、SpaceXのIPO調達、AIインフラへの投資が注目されました。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "セガがレコードプレイヤーにデータを载わせる試みや、COMPUTEXでのAI展示会が企業の戦略変化を示している点が特筆されます。"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "AIが創造性やデータ処理を進化させ、カメラの画像生成や動画編集で実用化が進む様子が紹介されています。"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "実用的",
+      "prompt_body": "日産の自動車デザインをAIで生成。創造性と効率の両立を示すプロンプトを紹介します。",
+      "prompt_source": "参照記事URL"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！",
+      "body": "AIが金融、医療、製造の分野で急速に実用化され、企業の競争力を強化しています。",
+      "source_title": "参考記事タイトル",
+      "source_url": "URL"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "オンライン会議やセミナーが多数開催され、セキュリティや倫理的なAI活用について議論が活発化しています。"
+    },
+    {
+      "type": "practical",
+      "heading": "実践：応用例",
+      "body": "企業はAIを活用して業務効率化や顧客対応を改善。具体的な事例をまとめました。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週の注目点",
+      "body": "AIが社会やビジネスに与える影響が大きくなりつつあり、今後の選択が重要となります。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "メガドライブのゲームをアナログレコードに記録して実機でプレイすることは可能なのか？",
+      "url": "https://gigazine.net/news/20260604-sega-games-vinyl-record/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "今年のCOMPUTEXはいつもとなにかが違う：COMPUTEX 2026取材2日目まとめ",
+      "url": "https://ascii.jp/elem/000/004/407/4407848/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "Lovable signs multi-year deal with Google Cloud to up usage 5x, source says",
+      "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+      "source": "TechCrunch AI",
+      "category": "Industry"
+    },
+    {
+      "title": "DoubleLine’s Robert Cohen on AI Debt Loads, Private Credit",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-03/doubleline-s-robert-cohen-on-ai-debt-private-credit-video",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "SpaceX、IPOで750億ドル（約12兆円）調達へ 時価総額は1兆7700億ドルの見通し",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/04/news065.html",
+      "source": "ITmedia News",
+      "category": "Tech"
+    },
+    {
+      "title": "Companies are letting AI gains go to waste, study says",
+      "url": "https://www.reddit.com/r/artificial/comments/1tw5v4v/companies_are_letting_ai_gains_go_to_waste_study/",
+      "source": "r/artificial",
+      "category": "Wow"
+    },
+    {
+      "title": "Is there a less conformist more-progrsssive AI?",
+      "url": "https://www.reddit.com/r/artificial/comments/1tw3j5h/is_there_a_less_conformist_moreprogrsssive_ai/",
+      "source": "r/artificial",
+      "category": "Wow"
+    },
+    {
+      "title": "Direct Preference Optimization Beyond Chatbots",
+      "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+      "source": "Hugging Face Blog",
+      "category": "Prompts"
+    },
+    {
+      "title": "People giving you crap because you prefer A1111 WebUI over Comfy, so you ask for a simple T2I workflow and they go \"Here's a simple workflow\" and then they hit you with this",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1tw5b2e/people_giving_you_crap_because_you_prefer_a1111/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "増え続けるアラート、インシデントの兆候を見逃していませんか？ ～マネージドSOCで優先度を可視化し再発防止まで支援～",
+      "url": "https://majisemi-security.doorkeeper.jp/events/197073",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "【Flashセミナー Vol.144】ChatGPT・Gemini時代のLLMO対策 AIに“おすすめされる”Web戦略実践セミナー",
+      "url": "https://web-mining.doorkeeper.jp/events/197055",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

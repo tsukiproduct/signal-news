@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-06-04_morning-english-slug",
+      "date": "2026-06-04",
+      "file_key": "2026-06-04_morning",
+      "title": "AIニュースの最新トレンド解説",
+      "summary": "本記事では、セガやSpaceXなど注目企業のAI活用動向や、企業のAI投資増加、専門家の視点をまとめました。これらの動きが今後のビジネスや技術にどのような影響を与えるかを解説します。",
+      "tags": [
+        "AI",
+        "ビジネス",
+        "テクノロジー"
+      ],
+      "slug": "english-slug"
+    },
+    {
       "id": "2026-06-02_evening-ai-changing-travel-business-games",
       "date": "2026-06-02",
       "file_key": "2026-06-02_evening",
@@ -402,21 +415,7 @@
         "有機EL"
       ],
       "slug": "tech-trends-2026-ai-ipo"
-    },
-    {
-      "id": "2026-05-19_evening-ai-ripple-effect-commodities-finance",
-      "date": "2026-05-19",
-      "file_key": "2026-05-19_evening",
-      "title": "AIの波及効果： commodities 市場と金融イノベーションをどう読むか",
-      "summary": "AI需要が commodities スーパーサイクルを呼ぶ一方、元FTX幹部が「ノーロス」AIトレーディングをローンチ。技術の実体経済と金融への二重の浸透を解説。",
-      "tags": [
-        "AI経済影響",
-        "commodities 市場",
-        "フィンテック",
-        "リスク管理"
-      ],
-      "slug": "ai-ripple-effect-commodities-finance"
     }
   ],
-  "updated_at": "2026-06-02T14:41:58.100218+00:00"
+  "updated_at": "2026-06-03T23:29:27.920303+00:00"
 }
