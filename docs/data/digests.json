@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-06-04_evening-ai-news-digest-private-credit-ml-events",
+      "date": "2026-06-04",
+      "file_key": "2026-06-04_evening",
+      "title": "AIニュース・トレンドまとめ：プライベートクレジット、ML進歩、イベント情報",
+      "summary": "AI投資の動向や機械学習の技術進歩、生成AIの活用事例、そらすAI関連イベントの情報をわかりやすく解説します。",
+      "tags": [
+        "AI Finance",
+        "Machine Learning",
+        "AI Events"
+      ],
+      "slug": "ai-news-digest-private-credit-ml-events"
+    },
+    {
       "id": "2026-06-04_morning-english-slug",
       "date": "2026-06-04",
       "file_key": "2026-06-04_morning",
@@ -400,22 +413,7 @@
         "セキュリティ"
       ],
       "slug": "ai-news-digest-may-20-2026"
-    },
-    {
-      "id": "2026-05-20_morning-tech-trends-2026-ai-ipo",
-      "date": "2026-05-20",
-      "file_key": "2026-05-20_morning",
-      "title": "テック動向2026：AIからIPOまで",
-      "summary": "Google I/O、SpaceX IPO、チップ市場動向を総まとめ。消費者技術とビジネスの接点を読み解く。",
-      "tags": [
-        "AIエージェント",
-        "SpaceX",
-        "チップストック",
-        "eSIM",
-        "有機EL"
-      ],
-      "slug": "tech-trends-2026-ai-ipo"
     }
   ],
-  "updated_at": "2026-06-03T23:29:27.920303+00:00"
+  "updated_at": "2026-06-04T13:52:25.573483+00:00"
 }
