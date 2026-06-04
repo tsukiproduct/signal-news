@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-06-05_morning-ai-psychological-support",
+      "date": "2026-06-05",
+      "file_key": "2026-06-05_morning",
+      "title": "AIが心理的サポートを変える―実務と未来を読む",
+      "summary": "AI相談が普及し、ビジネスやイベントでの活用が期待される。本文では調査結果の解釈と実務への応用、画像生成AIの最前線、今週のバイラル情報を紹介。",
+      "tags": [
+        "AIサポート",
+        "対話型AI",
+        "ビジネス応用"
+      ],
+      "slug": "ai-psychological-support"
+    },
+    {
       "id": "2026-06-04_evening-ai-news-digest-private-credit-ml-events",
       "date": "2026-06-04",
       "file_key": "2026-06-04_evening",
@@ -398,22 +411,7 @@
         "イベント"
       ],
       "slug": "ai-agents-enterprise-tech-weekly"
-    },
-    {
-      "id": "2026-05-20_afternoon-ai-news-digest-may-20-2026",
-      "date": "2026-05-20",
-      "file_key": "2026-05-20_afternoon",
-      "title": "AIニュース・トレンド 2026年5月20日",
-      "summary": "Googleの科学AI、YouTubeの対話検索、Microsoftのセキュリティ対策などが注目。AI活用の進展とビジネス応用の可能性を探る。",
-      "tags": [
-        "AIニュース",
-        "Gemini",
-        "YouTube",
-        "Google",
-        "セキュリティ"
-      ],
-      "slug": "ai-news-digest-may-20-2026"
     }
   ],
-  "updated_at": "2026-06-04T13:52:25.573483+00:00"
+  "updated_at": "2026-06-04T23:04:47.615752+00:00"
 }
