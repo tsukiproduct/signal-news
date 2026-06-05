@@ -1,0 +1,157 @@
+{
+  "id": "2026-06-06_morning-ai-and-gaming-industry-trends",
+  "file_key": "2026-06-06_morning",
+  "date": "2026-06-06",
+  "generated_at": "2026-06-05T23:01:57.198478+00:00",
+  "title": "AIとゲーム業界の最新動向",
+  "slug": "ai-and-gaming-industry-trends",
+  "summary": "AI技術がゲーム業界に与える影響と、関連イベントの概要を紹介します。",
+  "tags": [
+    "AI",
+    "ゲーム開発",
+    "データセンター",
+    "イベント"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "AI技術の進化がゲーム業界に与える影響を取り上げます。Final Fantasy VIIのリメイク完結作や、AIを活用したゲーム開発の可能性を探ります。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "Final Fantasy VIIのリメイク第3作『Revelation』の発表により、ゲーム業界の新たな可能性が開かれる可能性があります。一方、AIによる職業の変化や、データセンターの拡大が社会に与える影響も注目されています。",
+      "source_title": "Final Fantasy VII’s remake trilogy will conclude with Revelation",
+      "source_url": "https://www.theverge.com/games/939396/final-fantasy-vii-revelation-remake-trilogy-third-game-announcement"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "画像生成AIのスタイル維持技術がゲーム開発に活用される可能性を検討します。"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "一貫したアートスタイル維持",
+      "prompt_body": "複数のシーンで一貫したアートスタイルを維持するためのプロンプトを設計します。",
+      "prompt_usecase": "点とクリック型ゲームのビジュアル開発に活用可能です。",
+      "prompt_source": "https://www.reddit.com/r/midjourney/comments/1txx4sv/how_do_you_keep_one_art_style_consistent_across_a/"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "AIが職業に与える影響や、データセンターの拡大が社会に与える影響が議論されています。",
+      "source_title": "AI Replacing Jobs? I Think People Are Overestimating It",
+      "source_url": "https://www.reddit.com/r/artificial/comments/1txzq72/ai_replacing_jobs_i_think_people_are/"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "ゲーム開発やAI技術に関するイベントの開催状況を紹介します。",
+      "event_list": [
+        {
+          "title": "第7回Roblox×AIで、自分だけのゲームを作ろう！",
+          "date": "2026-06-07",
+          "place": "路地裏GarageMarket",
+          "url": "https://gameschool.doorkeeper.jp/events/197106"
+        },
+        {
+          "title": "Senior Web Analytics Consultant Award 2026",
+          "date": "2026-06-06",
+          "place": "日本経済大学東京渋谷キャンパスSTATIO",
+          "url": "https://web-mining.doorkeeper.jp/events/196214"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "AI技術を活用したゲーム開発や、データ分析の最適化が企業にとって有効です。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "AI技術の進化とその社会への影響、ゲーム業界の動向が注目される週です。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Final Fantasy VII’s remake trilogy will conclude with Revelation",
+      "url": "https://www.theverge.com/games/939396/final-fantasy-vii-revelation-remake-trilogy-third-game-announcement",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "Summer Game Fest Live 2026: The biggest news, trailers, and announcements",
+      "url": "https://www.theverge.com/games/939484/summer-game-fest-live-2026-biggest-news-trailers-announcements",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "Discussion on the Iconoclast Dinner Experience and Its Cultural Impact",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-05/discussion-on-the-iconoclast-dinner-its-impact-video",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "Market Sell-Off Analyzed Amid NASDAQ 100 Decline and Rising Yields",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-05/market-sell-off-analyzed-amid-decline-rising-yields-video",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "The $200 Billion Data Center Transforming Louisiana",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-05/the-200-billion-data-center-transforming-louisiana-video",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "AI Replacing Jobs? I Think People Are Overestimating It",
+      "url": "https://www.reddit.com/r/artificial/comments/1txzq72/ai_replacing_jobs_i_think_people_are/",
+      "source": "r/artificial",
+      "category": "Wow"
+    },
+    {
+      "title": "What are the most valuable skills to learn in the AI era?",
+      "url": "https://www.reddit.com/r/artificial/comments/1txz6n0/what_are_the_most_valuable_skills_to_learn_in_the/",
+      "source": "r/artificial",
+      "category": "Wow"
+    },
+    {
+      "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
+      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+      "source": "Hugging Face Blog",
+      "category": "Prompts"
+    },
+    {
+      "title": "How do you keep ONE art style consistent across a series of different scenes?",
+      "url": "https://www.reddit.com/r/midjourney/comments/1txx4sv/how_do_you_keep_one_art_style_consistent_across_a/",
+      "source": "r/midjourney",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "成果を出すウェブ解析の最前線を“生で見る”｜『Senior Web Analytics Consultant Award 2026』開催",
+      "url": "https://web-mining.doorkeeper.jp/events/196214",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "第7回Roblox×AIで、自分だけの ゲームを作ろう！",
+      "url": "https://gameschool.doorkeeper.jp/events/197106",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
