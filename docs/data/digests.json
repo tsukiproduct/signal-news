@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-06-05_evening-ai-news-june-5-2026",
+      "date": "2026-06-05",
+      "file_key": "2026-06-05_evening",
+      "title": "AIニュース2026年6月5日：エジプトIPO、インド大型データセンター",
+      "summary": "エジプトの国営資産IPO計画、インドでの大型AIデータセンター、ゲーミングデバイスの最新トレンドなどをキャッチアップ",
+      "tags": [
+        "AIインフラ",
+        "データセンター",
+        "グローバルAI",
+        "イベント",
+        "セキュリity"
+      ],
+      "slug": "ai-news-june-5-2026"
+    },
+    {
       "id": "2026-06-05_morning-ai-psychological-support",
       "date": "2026-06-05",
       "file_key": "2026-06-05_morning",
@@ -397,21 +412,7 @@
         "Google"
       ],
       "slug": "quantum-ai-glasses-this-week"
-    },
-    {
-      "id": "2026-05-20_evening-ai-agents-enterprise-tech-weekly",
-      "date": "2026-05-20",
-      "file_key": "2026-05-20_evening",
-      "title": "AIエージェントの現状と企業活用、今週の動向総まとめ",
-      "summary": "AIエージェントの普及が遅れる理由と企業導入の最前線。技術進歩とビジネス応用の動向を網羅。",
-      "tags": [
-        "AIエージェント",
-        "生成AI",
-        "ビジネスAI",
-        "イベント"
-      ],
-      "slug": "ai-agents-enterprise-tech-weekly"
     }
   ],
-  "updated_at": "2026-06-04T23:04:47.615752+00:00"
+  "updated_at": "2026-06-05T13:46:58.948484+00:00"
 }
