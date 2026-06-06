@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-06-07_morning-ai-security-creative-trends-june-2026",
+      "date": "2026-06-07",
+      "file_key": "2026-06-07_morning",
+      "title": "AIセキュリティとクリエイティブ新潮流：ロックダウンモードからゲームAIまで",
+      "summary": "ChatGPTのロックダウンモード導入やゲームAIイベントなど、今週注目のAIニュースを解説し、実務活用まで展開します。",
+      "tags": [
+        "AIセキュリティ",
+        "プロンプトインジェクション",
+        "ゲームAI",
+        "画像生成",
+        "イベント"
+      ],
+      "slug": "ai-security-creative-trends-june-2026"
+    },
+    {
       "id": "2026-06-06_evening-ai解説",
       "date": "2026-06-06",
       "file_key": "2026-06-06_evening",
@@ -396,20 +411,7 @@
       "summary": "技術業界が直面するAI投資や規制動向を深く掘り下げ、未来への影響を解説します。",
       "tags": [],
       "slug": "english-slug"
-    },
-    {
-      "id": "2026-05-21_evening-american-ai-revolution",
-      "date": "2026-05-21",
-      "file_key": "2026-05-21_evening",
-      "title": "AI急進 既存企業の戦略",
-      "summary": "AI技術の急速な進展が大企業に波及。既存企業は生態系戦略の再构築を進めつつ、倫理的課題と競争優位性を jointly 解決する必要に迫られる。",
-      "tags": [
-        "AI",
-        "企業戦略",
-        "技術革新"
-      ],
-      "slug": "american-ai-revolution"
     }
   ],
-  "updated_at": "2026-06-06T12:03:29.617424+00:00"
+  "updated_at": "2026-06-06T22:58:07.256551+00:00"
 }

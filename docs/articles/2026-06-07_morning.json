@@ -1,0 +1,160 @@
+{
+  "id": "2026-06-07_morning-ai-security-creative-trends-june-2026",
+  "file_key": "2026-06-07_morning",
+  "date": "2026-06-07",
+  "generated_at": "2026-06-06T22:58:07.255933+00:00",
+  "title": "AIセキュリティとクリエイティブ新潮流：ロックダウンモードからゲームAIまで",
+  "slug": "ai-security-creative-trends-june-2026",
+  "summary": "ChatGPTのロックダウンモード導入やゲームAIイベントなど、今週注目のAIニュースを解説し、実務活用まで展開します。",
+  "tags": [
+    "AIセキュリティ",
+    "プロンプトインジェクション",
+    "ゲームAI",
+    "画像生成",
+    "イベント"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "今週はAIセキュリティとエンタメ領域が交錯する動きが目立ちました。OpenAIはプロンプトインジェクション対策として「ロックダウンモード」を提供開始し、企業の機密情報保護が議論の中心に。ゲーム業界ではSummer Game Festが開催され、AI生成コンテンツが次世代タイトルに組み込まれる姿が見られました。また、RobloxとAIのコラボイベントが開催され、初心者でも手軽にAI駆動ゲーム開発が体験できる機会が提供されています。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "OpenAIがChatGPTに搭載した「ロックダウンモード」は、プロンプトインジェクション攻撃による情報漏洩リスクを低減するオプションです。ユーザーがこのモードを有効化すると、外部ウェブ検索やファイルアクセスといった機能が制限され、モデルが外部からの指示に従う余地が減ります。TechCrunchは「完全に防げるわけではないが、被害確率を大幅に下げる」点を評価しています。一方で、企業はこの機能を導入する際に業務フローへの影響を検証する必要があります。セキュリティと利便性のトレードオフが新たな議論を呼び、AIガバナンスの実装指針が求められています。",
+      "source_title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "source_url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "RedditのStable Diffusionコミュニティでは、Ideogram 4が既存IPの再現に活用され、画質向上とプロンプト最適化が話題に。ユーザーは高解像度のイラストを短時間で生成でき、商用デザインやコンテンツ制作のスピードが加速しています。",
+      "source_title": "Ideogram 4 - Testing some existing IPs.",
+      "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1tyufqz/ideogram_4_testing_some_existing_ips/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "ロックダウンモードで安全に情報取得",
+      "prompt_body": "You are ChatGPT in lockdown mode. Retrieve only publicly available facts about the 2024 US election without accessing external URLs or disallowed data sources.",
+      "prompt_usecase": "社内で機密情報を扱う際に、モデルが外部検索やファイル参照を行わないことを保証しつつ、一般的知識のみを提供するプロンプト。",
+      "prompt_source": "https://www.itmedia.co.jp/news/articles/2606/07/news022.html"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "Redditのr/artificialで、AIがテック企業のリストラ原因とされる議論が活発化。実際の統計と比較すると、AI導入と同時に増加したのは新規AI関連職種であり、単純な置き換えではなく職種転換が主流という指摘が多数寄せられました。",
+      "source_title": "AI keeps getting blamed for tech layoffs, but the numbers don't really line up",
+      "source_url": "https://www.reddit.com/r/artificial/comments/1tyq91e/ai_keeps_getting_blamed_for_tech_layoffs_but_the/"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "AIとゲーム開発の融合を体感できるイベントが続々開催。初心者からプロまでが参加しやすい内容が揃っています。",
+      "event_list": [
+        {
+          "title": "第7回Roblox×AIで、自分だけのゲームを作ろう！",
+          "date": "2026-06-07",
+          "place": "路地裏GarageMarket",
+          "url": "https://gameschool.doorkeeper.jp/events/197106"
+        },
+        {
+          "title": "【再放送】2026年版 展示会とウェビナーの比較",
+          "date": "2026-06-09",
+          "place": "オンライン",
+          "url": "https://majisemi-sales.doorkeeper.jp/events/197078"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "ロックダウンモードを業務システムに組み込む際は、以下のステップが有効です。①社内ポリシーで機密情報扱いのチャットを限定；②API呼び出し時にmode=lockdownをパラメータで付与；③ログでモード切替履歴を監査。これにより、顧客データや知的財産が外部へ流出するリスクを最小化しつつ、社内ヘルプデスクやナレッジベースの自動応答にChatGPTを活用できます。また、Roblox×AIワークショップで作成したプロトタイプは、社内研修やマーケティングミニゲームとして即座に展開可能です。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "AIガバナンスが実装段階に入り、ロックダウンモードのような機能が標準化されつつあります。並行して、ゲーム業界ではAI生成コンテンツが主流化し、開発コスト削減とクリエイティブ多様化が加速。今後は、セキュリティと創造性の両立が企業競争力の鍵となるでしょう。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "ChatGPTに「ロックダウンモード」 プロンプトインジェクションによる情報漏えい対策",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/07/news022.html",
+      "source": "ITmedia News",
+      "category": "Tech"
+    },
+    {
+      "title": "パトレイバー大好きマンガ家が新作「EZY」を見たら、フィジカルAIな近未来にノスタルジーを感じた件",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/07/news016.html",
+      "source": "ITmedia News",
+      "category": "Tech"
+    },
+    {
+      "title": "Summer Game Fest 2026: All the news from gaming’s busiest week",
+      "url": "https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "source": "TechCrunch AI",
+      "category": "Industry"
+    },
+    {
+      "title": "Trump AI Policy Adviser Krishnan Is Giving Up White House Role",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-06/trump-ai-policy-adviser-krishnan-is-giving-up-white-house-role",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "Which country can replace Taiwan? Realistically...",
+      "url": "https://www.reddit.com/r/artificial/comments/1tyu8rw/which_country_can_replace_taiwan_realistically/",
+      "source": "r/artificial",
+      "category": "Wow"
+    },
+    {
+      "title": "AI keeps getting blamed for tech layoffs, but the numbers don't really line up",
+      "url": "https://www.reddit.com/r/artificial/comments/1tyq91e/ai_keeps_getting_blamed_for_tech_layoffs_but_the/",
+      "source": "r/artificial",
+      "category": "Wow"
+    },
+    {
+      "title": "micropython-wasm 0.1a2",
+      "url": "https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "Ideogram 4 - Testing some existing IPs.",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1tyufqz/ideogram_4_testing_some_existing_ips/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "第7回Roblox×AIで、自分だけの ゲームを作ろう！",
+      "url": "https://gameschool.doorkeeper.jp/events/197106",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "【再放送】2026年版 展示会とウェビナーの比較",
+      "url": "https://majisemi-sales.doorkeeper.jp/events/197078",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
