@@ -1,0 +1,148 @@
+{
+  "id": "2026-06-06_evening-ai解説",
+  "file_key": "2026-06-06_evening",
+  "date": "2026-06-06",
+  "generated_at": "2026-06-06T12:03:29.616696+00:00",
+  "title": "AI技術の現状と活用",
+  "slug": "ai解説",
+  "summary": "各AI技術の技術性・社会影響を客観的に解説。クラウド共有の課題や、VLPツールの活用、クラウド kaumの特性など重点を挙げ、実用的な応用例を提示。",
+  "tags": [
+    "AI技術",
+    "応用",
+    "トレンド"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "技術の進化",
+      "body": "AI技術が社会に与える変化を分析。クラウド共有の課題や、モデル推奨ツールの活用が盛んに進行中です。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "応用事例",
+      "body": "LLM CheckerやLLM Checkerの活用方法、micropython-wasmの応用事例が紹介。具体的な技術的メカニズムと実装方法を解説。"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "技術の動向",
+      "body": "画像分析ツールや生成AIの進化を示すグラフィックが反映されている。",
+      "source_title": "参照記事",
+      "source_url": "参照記事URL"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "AIプロンプト",
+      "prompt_body": "生成abileًなクエリ例",
+      "prompt_source": "参照記事URL"
+    },
+    {
+      "type": "wow",
+      "heading": "注目点",
+      "body": "AIが社会に与える影響の重大性",
+      "source_title": "参照記事",
+      "source_url": "参照記事URL"
+    },
+    {
+      "type": "events",
+      "heading": "イベント",
+      "body": "AI関連イベントのまとめ",
+      "event_list": [
+        {
+          "title": "AI Summit 2026",
+          "date": "2026年7月",
+          "place": "東京国際 conference center"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実用性",
+      "body": "教育ツールとしての活用や、自動化プロジェクトへの応用事例が示されている。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "トレンド",
+      "body": "倫理的課題や市場成長のバランスが議論されている。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "無料でファイル・メモ共有ができ日本語化済みの「SkySend」、有効期限や最大ダウンロード数で自動削除設定でき、エンドツーエンド暗号化をサポートしてオープンソースでセルフホスト可能",
+      "url": "https://gigazine.net/news/20260606-skysend/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "モバイルルーター「Beryl 7」上でAdGuardを動かしあらゆるアプリで広告ブロック＆スマホをつないでUSBテザリングなどさまざまな機能を試してみたよレビュー",
+      "url": "https://gigazine.net/news/20260606-beryl-7-adguard/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "デビュー1周年を迎えた美波那緒が憧れの「Cream」に初登場。セーラー服にまつわる高校時代の思い出話も！",
+      "url": "https://ascii.jp/elem/000/004/407/4407066/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "無料で自分のPCで動かせるローカルAIモデルがわかる「LLM Checker」",
+      "url": "https://gigazine.net/news/20260606-llm-checker/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "日本の陰キャ男子と天然美少女の学園生活という神話『僕の心のヤバイやつ』が50%還元【Kindle漫画セール情報】",
+      "url": "https://ascii.jp/elem/000/004/408/4408629/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "how to make the \"mimic\"",
+      "url": "https://www.reddit.com/r/artificial/comments/1tyfa6i/how_to_make_the_mimic/",
+      "source": "r/artificial",
+      "category": "Wow"
+    },
+    {
+      "title": "Using FC26 to simulate the world cup ? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tybqrx/using_fc26_to_simulate_the_world_cup_d/",
+      "source": "r/MachineLearning",
+      "category": "Wow"
+    },
+    {
+      "title": "micropython-wasm 0.1a2",
+      "url": "https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "The Hallway",
+      "url": "https://www.reddit.com/r/midjourney/comments/1tye2ms/the_hallway/",
+      "source": "r/midjourney",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "第7回Roblox×AIで、自分だけの ゲームを作ろう！",
+      "url": "https://gameschool.doorkeeper.jp/events/197106",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "【再放送】2026年版 展示会とウェビナーの比較",
+      "url": "https://majisemi-sales.doorkeeper.jp/events/197078",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
