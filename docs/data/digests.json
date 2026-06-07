@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-06-07_evening-english-slug",
+      "date": "2026-06-07",
+      "file_key": "2026-06-07_evening",
+      "title": "AIニュースの要約と解説",
+      "summary": "本記事では最新AI技術の動向を解説。ディックオーバーの問題、ローカルAIの登場、コードレビューツールの進化、AIの歴史的記録など、注目すべきポイントをまとめました。技術的な詳細と社会的な影響をバランスよく取り、読者にお手本を提供します。",
+      "tags": [
+        "AI",
+        "テクノロジー",
+        "ビジネス"
+      ],
+      "slug": "english-slug"
+    },
+    {
       "id": "2026-06-07_morning-ai-security-creative-trends-june-2026",
       "date": "2026-06-07",
       "file_key": "2026-06-07_morning",
@@ -402,16 +415,7 @@
         "ヘルステック"
       ],
       "slug": "ai-trends-update"
-    },
-    {
-      "id": "2026-05-22_morning-english-slug",
-      "date": "2026-05-22",
-      "file_key": "2026-05-22_morning",
-      "title": "AIの最新動向解説",
-      "summary": "技術業界が直面するAI投資や規制動向を深く掘り下げ、未来への影響を解説します。",
-      "tags": [],
-      "slug": "english-slug"
     }
   ],
-  "updated_at": "2026-06-06T22:58:07.256551+00:00"
+  "updated_at": "2026-06-07T12:15:51.403061+00:00"
 }

@@ -1,0 +1,142 @@
+{
+  "id": "2026-06-07_evening-english-slug",
+  "file_key": "2026-06-07_evening",
+  "date": "2026-06-07",
+  "generated_at": "2026-06-07T12:15:51.402310+00:00",
+  "title": "AIニュースの要約と解説",
+  "slug": "english-slug",
+  "summary": "本記事では最新AI技術の動向を解説。ディックオーバーの問題、ローカルAIの登場、コードレビューツールの進化、AIの歴史的記録など、注目すべきポイントをまとめました。技術的な詳細と社会的な影響をバランスよく取り、読者にお手本を提供します。",
+  "tags": [
+    "AI",
+    "テクノロジー",
+    "ビジネス"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "AIは日常生活とビジネスで急速進化。ウェブ画面の操作に影響を及ぼすディックオーバー、ローカルAIの登場、コードレビューの自動化が社会に波及しています。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "ディックオーバーはCookieの表示制限を引き起こし、プライバシーへの警告。同時にIrodori-TTSのようなローカルAIが音声操作の新たな可能性を示しています。"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "AI画像生成技術が写真や動画の作成を変革。企業やクリエイターが効率化できるため、注目度が高まっています。",
+      "source_title": "Ideogramのプロジェクト",
+      "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1tz8aqg/ideogram_working_on_forge_neo/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "実用的なプロンプト",
+      "prompt_body": "明日の天気を予測するプロンプトを作成。精度と説明責任を意識し、AIの限界を認識。",
+      "prompt_source": "Gigazineリンク"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "HackerNewsとRedditでAIの進化を強調。技術者たちの声が注目され、AI社会の最新トレンドが明らかに。",
+      "source_title": "نيュースタイトル"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "オンライン開催の展示会で新機能が発表。参加者数はわずかですが、目新しさが感じられます。",
+      "event_url": "https://majisemi-sales.doorkeeper.jp/events/197078"
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "AIを活用すれば、業務効率化や顧客対応の質向上に活用可能。導入にはリスクも伴うが、価値は大きい。",
+      "application_example": "顧客データ分析によるマーケティング戦略の最適化"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "AIが人間の知能に近づくにつれ、倫理や規制の対応が急務。技術者や投資家の目が集まっている。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "ウェブページを覆い隠してクソどうでもいい操作を迫る「ディックオーバー」とは？",
+      "url": "https://gigazine.net/news/20260607-what-is-a-dickover/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "声を指定して好きなセリフを喋らせられるローカルAI「Irodori-TTS」のV3が出たので使ってみた、音声の長さを指定可能で絵文字感情制御も簡単に",
+      "url": "https://gigazine.net/news/20260607-irodori-tts-v3/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "AIコードレビューツール「Open Code Review」、既存のAIに各種ルールを設定してレビュー能力を底上げ可能＆Alibabaグループで100万件のコード欠陥を検出済み",
+      "url": "https://gigazine.net/news/20260607-open-code-review/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "武豊騎手が57歳でGⅠ・安田記念に勝利、史上最年長GⅠ勝利記録を更新",
+      "url": "https://gigazine.net/news/20260607-the-oldest-g1-jockey-yutaka-take/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "AIがすべての認知労働を自動化する「AGI」はいつまでに実現するのか？",
+      "url": "https://gigazine.net/news/20260607-agi-timeline-tracker/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "Two independent ML/CV researchers (M.Eng, ex-research-institute in Europe) looking for an arXiv cs.CV endorser for a nearly finished paper. Happy to share the full draft, repo, or talk collaboration [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tza169/two_independent_mlcv_researchers_meng/",
+      "source": "r/MachineLearning",
+      "category": "Wow"
+    },
+    {
+      "title": "How I built an AI email agent that processes 15,000 hotel guest emails per day. full architecture breakdown",
+      "url": "https://www.reddit.com/r/artificial/comments/1tz8vm2/how_i_built_an_ai_email_agent_that_processes/",
+      "source": "r/artificial",
+      "category": "Wow"
+    },
+    {
+      "title": "Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange",
+      "url": "https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers",
+      "source": "Hugging Face Blog",
+      "category": "Prompts"
+    },
+    {
+      "title": "Ideogram working on Forge Neo",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1tz8aqg/ideogram_working_on_forge_neo/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "【再放送】2026年版 展示会とウェビナーの比較",
+      "url": "https://majisemi-sales.doorkeeper.jp/events/197078",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "【2026年6月｜ゆるDomo】5月βリリース機能をご紹介！",
+      "url": "https://domobuddies.doorkeeper.jp/events/196739",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
