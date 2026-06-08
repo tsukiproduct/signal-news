@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "2026-06-08_evening-ai-infrastructure-research-tools-trends",
+      "date": "2026-06-08",
+      "file_key": "2026-06-08_evening",
+      "title": "AIインフラの拡大とリサーチツールの信頼性：最新AIトレンド解説",
+      "summary": "Starlinkのインフラ拡張と、ChatGPT vs Perplexityの信頼性論争など、AIを支える基盤と活用の最前線を解説します。",
+      "tags": [
+        "AIインフラ",
+        "リサーチAI",
+        "Starlink",
+        "データ自動化"
+      ],
+      "slug": "ai-infrastructure-research-tools-trends"
+    },
+    {
       "id": "2026-06-07_evening-english-slug",
       "date": "2026-06-07",
       "file_key": "2026-06-07_evening",
@@ -401,21 +415,7 @@
         "Prompts"
       ],
       "slug": "ai-news-summary"
-    },
-    {
-      "id": "2026-05-22_evening-ai-trends-update",
-      "date": "2026-05-22",
-      "file_key": "2026-05-22_evening",
-      "title": "AI活用最前線：技術進歩と社会の動き",
-      "summary": "AI技術の進歩や社会活動の動きをキャッチアップ。企業潮目、健康技術、モデル開発の動向を振り返る。",
-      "tags": [
-        "AIニュース",
-        "生成AI",
-        "企業動向",
-        "ヘルステック"
-      ],
-      "slug": "ai-trends-update"
     }
   ],
-  "updated_at": "2026-06-07T12:15:51.403061+00:00"
+  "updated_at": "2026-06-08T09:00:51.096039+00:00"
 }
