@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-06-09_morning-ai-latest-trends-practical-guide",
+      "date": "2026-06-09",
+      "file_key": "2026-06-09_morning",
+      "title": "AIと日常を結ぶ最新トレンドと実践ガイド",
+      "summary": "今週のAIニュースを掘り下げ、画像生成AIの進化、エッジデバイスでのAI活用、イベント情報まで網羅した解説記事。",
+      "tags": [
+        "AI導入",
+        "生成AI",
+        "クラウドエッジ"
+      ],
+      "slug": "ai-latest-trends-practical-guide"
+    },
+    {
       "id": "2026-06-08_evening-ai-infrastructure-research-tools-trends",
       "date": "2026-06-08",
       "file_key": "2026-06-08_evening",
@@ -400,22 +413,7 @@
         "ビジネス"
       ],
       "slug": "english-slug"
-    },
-    {
-      "id": "2026-05-23_afternoon-ai-news-summary",
-      "date": "2026-05-23",
-      "file_key": "2026-05-23_afternoon",
-      "title": "AIの最新動向と実用応用：ガソリン政策からセキュリティリスクまで",
-      "summary": "AI技術がガソリン価格支援策からセキュリティリスクまでさまざまな分野に影響を与える。イベントや画像生成技術の進展も注目。",
-      "tags": [
-        "AI",
-        "Tech",
-        "Events",
-        "ImageVideo",
-        "Prompts"
-      ],
-      "slug": "ai-news-summary"
     }
   ],
-  "updated_at": "2026-06-08T09:00:51.096039+00:00"
+  "updated_at": "2026-06-08T23:10:39.052986+00:00"
 }
