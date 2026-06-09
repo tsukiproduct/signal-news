@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-06-09_evening-ai-trends-weekly-june-2026",
+      "date": "2026-06-09",
+      "file_key": "2026-06-09_evening",
+      "title": "AI活用と市場動向、今週注目の技術とイベントまとめ",
+      "summary": "AI技術の最新動向、生成系AIの進展、フリーランス市場拡大、今週の注目イベントを解説します。",
+      "tags": [
+        "生成AI",
+        "ネットワークAI",
+        "フリーランス市場",
+        "AI安全性",
+        "イベント情報"
+      ],
+      "slug": "ai-trends-weekly-june-2026"
+    },
+    {
       "id": "2026-06-09_morning-ai-latest-trends-practical-guide",
       "date": "2026-06-09",
       "file_key": "2026-06-09_morning",
@@ -400,20 +415,7 @@
         "ビジネス応用"
       ],
       "slug": "ai-weekly-report"
-    },
-    {
-      "id": "2026-05-23_evening-english-slug",
-      "date": "2026-05-23",
-      "file_key": "2026-05-23_evening",
-      "title": "AI技術の最新動向とビジネスへの影響",
-      "summary": "本記事では、AIニュースを3本まとめ、Androidゲーム機やセキュリティ、Apple WatchのTouch IDについて解説。技術の進化と実用的な応用が強調されています。",
-      "tags": [
-        "AI",
-        "技術",
-        "ビジネス"
-      ],
-      "slug": "english-slug"
     }
   ],
-  "updated_at": "2026-06-08T23:10:39.052986+00:00"
+  "updated_at": "2026-06-09T07:58:23.756662+00:00"
 }
