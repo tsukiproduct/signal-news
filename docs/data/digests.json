@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-06-11_morning-ai-technology-frontiers-and-applications",
+      "date": "2026-06-11",
+      "file_key": "2026-06-11_morning",
+      "title": "AI技術の最前線と実用応用",
+      "summary": "最新のAI研究から実用ツールまで、11本のニュースを元に技術の進展とビジネス応用を解説します。画像生成AIやLLMの課題からイベント情報まで幅広くカバー。",
+      "tags": [
+        "AI研究",
+        "画像生成",
+        "仮想通貨",
+        "イベント",
+        "実用応用"
+      ],
+      "slug": "ai-technology-frontiers-and-applications"
+    },
+    {
       "id": "2026-06-09_evening-ai-trends-weekly-june-2026",
       "date": "2026-06-09",
       "file_key": "2026-06-09_evening",
@@ -399,23 +414,7 @@
         "ビジネス"
       ],
       "slug": "english-slug"
-    },
-    {
-      "id": "2026-05-24_evening-ai-weekly-report",
-      "date": "2026-05-24",
-      "file_key": "2026-05-24_evening",
-      "title": "AIイベントとニュースの週次レポート",
-      "summary": "AI技術の進展、イベント、プロンプトの活用方法を解説。企業向けサイバーセキュリティ対応と画像生成AIの最前線を紹介。",
-      "tags": [
-        "AI",
-        "サイバーセキュリティ",
-        "画像生成",
-        "イベント",
-        "プロンプト",
-        "ビジネス応用"
-      ],
-      "slug": "ai-weekly-report"
     }
   ],
-  "updated_at": "2026-06-09T07:58:23.756662+00:00"
+  "updated_at": "2026-06-10T23:21:54.536389+00:00"
 }
