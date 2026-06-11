@@ -1,7 +1,480 @@
 {
-  "fetched_at": "2026-06-11T14:27:43.400319+00:00",
-  "total": 230,
+  "fetched_at": "2026-06-11T23:16:30.209206+00:00",
+  "total": 206,
   "items": [
+    {
+      "id": "288ba1f24173",
+      "title": "iPhoneにApp Storeで配布されていないアプリをインストールできるようにする代替アプリストア「AltStore PAL」の導入手順はこんな感じ",
+      "url": "https://gigazine.net/news/20260612-altstore-pal/",
+      "summary": "iPhoneやiPadのアプリは基本的にApple公式アプリストアの「App Store」からダウンロードする仕組みですが、実はサードパーティ製のアプリストアを使うこともできます。サードパーティ製アプリストアの「AltStore PAL」をiPhoneに導入すれば、App Storeでは配布されていないアプリをiPhoneにインストールすることが可能。AltStore PALそのものの導入手順は少し特殊なので、導入手順を画像つきでまとめてみました。続きを読む...",
+      "date": "2026-06-11T23:00:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "73a19efccd60",
+      "title": "GALLERIA×ぶいすぽっ！コラボPC第2弾 新メンバー11人のデザイン＆ボイス追加",
+      "url": "https://ascii.jp/elem/000/004/410/4410013/?rss",
+      "summary": "GALLERIAがぶいすぽっ！コラボモデル第2弾を6月10日に追加。新メンバー11種のカスタムパネルや新録システムボイス、記念配信、秋葉原の店舗ジャックまで含む最新コラボ情報を紹介する。",
+      "date": "2026-06-11T23:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "6a9fabc1dc4b",
+      "title": "サッカーとテクノロジーの16年 ― それはランパードの“幻のゴール”から始まった",
+      "url": "https://ascii.jp/elem/000/004/409/4409996/?rss",
+      "summary": "2010年のFIFAワールドカップで起きた“誤審”――。それから16年、現在のワールドカップでは先進的なテクノロジーが取り入れられ、より正確なジャッジも、世界のファンを楽しませるサービスも支えている。",
+      "date": "2026-06-11T23:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "2a295e446df2",
+      "title": "Scaffolding Company’s Data-Center Pivot Cuts Into Margins",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-11/scaffolding-company-s-data-center-pivot-cuts-into-margins",
+      "summary": "Brand Industrial Services Inc., a scaffolding and industrial services company that does business as BrandSafway, reported sharply lower first-quarter earnings as higher costs and spending on its push into data center construction weighed on results, ",
+      "date": "2026-06-11T22:55:09+00:00",
+      "source": "Bloomberg Tech",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 2
+    },
+    {
+      "id": "00d8a5a19133",
+      "title": "マクドナルド「チーチーダブチ」もうすぐ終売、今のうちに！",
+      "url": "https://ascii.jp/elem/000/004/409/4409992/?rss",
+      "summary": "マクドナルドは6月3日より、「チーズチーズダブルチーズバーガー」を期間限定で発売中。6月16日までです。",
+      "date": "2026-06-11T22:30:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "67e2e036c7a2",
+      "title": "パナソニックの43型4Kテレビが47％オフ。Fire TV搭載「VIERA W90A」が8万円台に",
+      "url": "https://ascii.jp/elem/000/004/409/4409715/?rss",
+      "summary": "パナソニックの43型4K液晶テレビ「VIERA W90A（TV-43W90A）」がAmazonで割引対象。参考価格170,000円のところ、47％オフの89,800円で販売中。Fire TV搭載やモーションエンハンスメントテクノロジー、転倒防止スタンドを備えた2024年モデル。",
+      "date": "2026-06-11T22:30:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "65add8215d6c",
+      "title": "Amazon’s Echo Hub gets a customizable new look and Ring’s AI features",
+      "url": "https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign",
+      "summary": "Amazon's rolling out a free software update for Echo Hub devices that gives the home screen a much-needed update to the interface it launched with in 2024. It had already added Alex Plus AI support, but the new interface has a cleaner, fully customiz",
+      "date": "2026-06-11T22:12:08+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "8c587fee596c",
+      "title": "Blueskyは2026年中に新機能「コミュニティ」を追加予定、同じ興味を持つ人々とより深く交流できる小規模スペース",
+      "url": "https://gigazine.net/news/20260612-bluesky-communities-deeper-smaller-spaces/",
+      "summary": "X(旧Twitter)の代替SNSとして人気のBlueskyに、同じことに興味を持つ人々とより深く交流できる「コミュニティ」機能が追加されることが明らかになりました。続きを読む...",
+      "date": "2026-06-11T22:00:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "4c3f947deb4b",
+      "title": "うちの会社って標的？ 元イスラエル諜報機関の会社がダークウェブを見張ってくれますよ",
+      "url": "https://ascii.jp/elem/000/004/409/4409993/?rss",
+      "summary": "サイバー攻撃が激化する中、多くの経営者や情シスは、「うちの会社がランサムウェアの攻撃対象リストに入っていないか心配」と考えているはず。知りたいけど、聞くのも怖いそんな情報をダークウェブから調べてくれるのが、Interopに出展しているKELAだ。",
+      "date": "2026-06-11T22:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "b71ec38f726e",
+      "title": "【本日】松のや、とんかつ屋の「厚切り豚テキ」発売、にんにく濃厚ダレで進みそう！",
+      "url": "https://ascii.jp/elem/000/004/409/4409991/?rss",
+      "summary": "松のやでは本日6月12日15時より、「にんにく醤油の揚げる厚切り豚テキ定食」、「にんにく醤油の揚げる鶏テキ定食」を発売します。",
+      "date": "2026-06-11T22:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "1b3ae3b6f48d",
+      "title": "ダイナミックマッププラットフォーム、高精度3次元地図データを提供 国際基準に対応した自動運転・ADAS開発を支援",
+      "url": "https://ascii.jp/elem/000/004/409/4409946/?rss",
+      "summary": "ダイナミックマッププラットフォーム株式会社は6月8日に、自動車の自動操舵に関する国際基準「国連規則第79号(UN-R79)」への対応に向けた自動運転および先進運転支援システム(ADAS)の開発用途として、国内自動車メーカーに高精度3次元地図データを提供したことを発表した。",
+      "date": "2026-06-11T22:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "8e68ace5ee13",
+      "title": "コールドメール配信プラットフォーム「Benri.ai」、AIとの会話でターゲット選定から文面作成まで完結する「AIモード」リリース",
+      "url": "https://ascii.jp/elem/000/004/409/4409944/?rss",
+      "summary": "enri.ai株式会社は6月8日に、同社が提供するコールドメール配信プラットフォーム「Benri.ai」において、AIエージェントとの対話を通じて新規開拓営業の準備を実施する新機能「AIモード」を正式リリースした。ユーザーが「こういう会社にアプローチしたい」と話しかけると、3体のAIエージェントが連携してターゲットリストの作成や優先順位付け、個別最適化した文面生成を完了させるという。",
+      "date": "2026-06-11T22:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "241debb9790b",
+      "title": "Concerns Raised Over Corporate Governance in SpaceX's Historic IPO",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-11/concerns-over-corporate-governance-in-spacex-s-ipo-video",
+      "summary": "Nell Minow, Chair of Value Edge Advisors and Former President of ISS, advised caution regarding SpaceX's IPO, which was priced at $135 per share in the largest debut ever. She highlighted significant corporate governance issues being raised by pensio",
+      "date": "2026-06-11T21:54:41+00:00",
+      "source": "Bloomberg Tech",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 2
+    },
+    {
+      "id": "3a98996faa2a",
+      "title": "CME Announces Plans to Offer 24/7 WTI Oil and Gold Contracts",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-11/cme-announces-plans-to-offer-24-7-wti-oil-and-gold-contracts",
+      "summary": "The Chicago Mercantile Group announced plans to offer 24-hour, seven-days-a-week trading in new, smaller crude oil futures and its existing gold contract, the exchange said Thursday.",
+      "date": "2026-06-11T21:48:52+00:00",
+      "source": "Bloomberg Tech",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 2
+    },
+    {
+      "id": "ff367d2a1f32",
+      "title": "ComfyUI-PiD update: native models, workflows, and FP8 support",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1u3cckr/comfyuipid_update_native_models_workflows_and_fp8/",
+      "summary": "Hey everyone - I updated my ComfyUI-PiD custom node for NVIDIA PiD pixel diffusion decoding in ComfyUI. https://github.com/Merserk/ComfyUI-PiD This update moves the node to ComfyUI’s native PixelDiT / PiD model support using the Comfy-Org repackaged ",
+      "date": "2026-06-11T21:39:59+00:00",
+      "source": "r/StableDiffusion",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
+    {
+      "id": "0df08353c01b",
+      "title": "SpaceX IPO Priced at $135 Amid Massive Oversubscription, Sparking Market Anticipation",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-11/spacex-ipo-priced-at-135-amid-massive-oversubscription-video",
+      "summary": "SpaceX has made history with the largest IPO ever, pricing shares at $135 each and raising $75 billion. Dan Ives, Global Head of Technology Research at Wedbush Securities, discussed the overwhelming demand for the offering, which Bloomberg reports is",
+      "date": "2026-06-11T21:28:27+00:00",
+      "source": "Bloomberg Tech",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 2
+    },
+    {
+      "id": "e276a850b60f",
+      "title": "Anthropic、「Fable 5」の不可視だった蒸留の保護機能を可視化 「誤った判断」と謝罪",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/12/news068.html",
+      "summary": "Anthropicは、AIモデル「Claude Fable 5」の特定の保護機能がユーザーに不透明な形で動作していたことを「誤った判断」と認め、謝罪した。モデルの蒸留に関する制限を検知した際、これまでは不可視のまま下位モデルへ切り替えていたが、今後は明示的な仕様に変更する。誤検知への対応と分類器の調整も進める。",
+      "date": "2026-06-11T21:20:00+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "100157af7633",
+      "title": "PSA: ComfyUI won't train on your images, but if you use Cloud your workflow structure is fair game",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1u3br9y/psa_comfyui_wont_train_on_your_images_but_if_you/",
+      "summary": "If you've spent months dialing in your workflows locally, read this before you move anything to Comfy Cloud. Their terms say flat out they won't train AI on your inputs or outputs. Sounds great. Then the very next sentence reserves the right to colle",
+      "date": "2026-06-11T21:16:49+00:00",
+      "source": "r/StableDiffusion",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
+    {
+      "id": "4b565851add9",
+      "title": "NYダウ900ドル超値上がり イラン攻撃中止表明で買い注文広がる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015147971000",
+      "summary": "11日のニューヨーク株式市場では、アメリカのトランプ大統領がSNSでイランへの攻撃を中止したと明らかにしたことで買い注文が広がり、ダウ平均株価は前日から900ドルあまりの値上がりとなりました。",
+      "date": "2026-06-11T21:15:53+00:00",
+      "source": "NHK テクノロジー",
+      "lang": "ja",
+      "category": "AI",
+      "priority": 2
+    },
+    {
+      "id": "1a4b2298656c",
+      "title": "PIMCO’s Richard Clarida: AI Now a Major Economic Driver",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-11/pimco-s-richard-clarida-ai-now-a-major-economic-driver-video",
+      "summary": "Richard Clarida, Managing Director and Global Economic Adviser at PIMCO and Former Vice Chair of the Federal Reserve Board of Governors, discussed the significant impact of artificial intelligence (AI) on the economy and markets over the next five ye",
+      "date": "2026-06-11T21:11:01+00:00",
+      "source": "Bloomberg Tech",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 2
+    },
+    {
+      "id": "9559d7038434",
+      "title": "AIで書いた文章を自分の言葉として伝えるのは倫理的に問題があるのか？",
+      "url": "https://gigazine.net/news/20260612-ai-use-disclosure-morally-wrong/",
+      "summary": "ChatGPTなどの生成AIを使えば会議メモやメール、スピーチの原稿を短時間で整えることができますが、AIの力を借りたことを相手に明かさず自分が書いた文章として伝えると相手を誤解させる可能性があります。オーストラリア・マッコーリー大学で哲学を研究するシアヴォシュ・サヘビ氏とトーマス・モンテフィオーレ氏が、AIを使っていることを明かさない場合にどのような問題が起こるのかについて論じています。続きを読む...",
+      "date": "2026-06-11T21:00:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "32f44ef46f2c",
+      "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
+      "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
+      "summary": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
+      "date": "2026-06-11T20:33:10+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "de2746af5c95",
+      "title": "Founders Fund, Andreessen Poised for Record Returns From SpaceX IPO",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-11/founders-fund-andreessen-set-for-record-returns-from-spacex-ipo",
+      "summary": "A small number of firms are set to net tens of billions of dollars in returns from SpaceX’s initial public offering at a nearly $1.8 trillion valuation, marking one of the most significant windfalls in venture capital history.",
+      "date": "2026-06-11T20:27:48+00:00",
+      "source": "Bloomberg Tech",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 2
+    },
+    {
+      "id": "4124f13f94c0",
+      "title": "Adobe’s CFO Departs While Company Also Searches for New CEO",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-11/adobe-s-cfo-departs-leaving-company-seeking-top-executives",
+      "summary": "Adobe Inc. said its chief financial officer would depart, leaving the company without a top tier of veteran leadership after Chief Executive Officer Shantanu Narayen announced in March that he would step aside.",
+      "date": "2026-06-11T20:22:51+00:00",
+      "source": "Bloomberg Tech",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 2
+    },
+    {
+      "id": "b83506c99aef",
+      "title": "CEO Thoughts: What's Next at LTX",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1u3a4dp/ceo_thoughts_whats_next_at_ltx/",
+      "summary": "Zeev, CEO of LTX, here. Wanted to pull back the curtain on the technical bets we're making and where they're headed. Happy to go deep in the comments. We've been heads down on the next generation of LTX, and I want to share what's coming. Not the lon",
+      "date": "2026-06-11T20:14:30+00:00",
+      "source": "r/StableDiffusion",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
+    {
+      "id": "dc391d966a6d",
+      "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
+      "url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
+      "summary": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the risk of outright fraud.",
+      "date": "2026-06-11T19:58:01+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "6dfbcdb60ef0",
+      "title": "Logitech’s awesome MX Master 3S mouse drops to under $100",
+      "url": "https://www.theverge.com/gadgets/948204/logitech-mx-master-3s-mouse-sale-deal",
+      "summary": "The platform-agnostic Logitech MX Master 3S wireless mouse is discounted to $89.99 at Amazon ($30 off), matching the best price we’ve seen so far this year. While it may look like a somewhat ordinary mouse, it has a unique second scroll wheel near th",
+      "date": "2026-06-11T19:08:29+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "c6425b0b57f2",
+      "title": "Highest quality Ideogram 4.0 quantizations that run on a 3090 or smaller cards",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1u37xho/highest_quality_ideogram_40_quantizations_that/",
+      "summary": "I work on Transformer Lab. We quantized Ideogram 4 so it fits on a single 24GB card. We made two builds depending on how much VRAM you have. Quick background: the official builds are FP8 and NF4. On a 3090, FP8 doesn't actually run \"natively\" (Ampere",
+      "date": "2026-06-11T18:53:47+00:00",
+      "source": "r/StableDiffusion",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
+    {
+      "id": "f4c0f3d60226",
+      "title": "SpaceX IPO Raises $75 Billion in Biggest Debut of All Time",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-11/elon-musk-s-spacex-set-to-make-history-with-record-breaking-ipo",
+      "summary": "SpaceX has made history with the biggest-ever IPO, launching it into the top ranks of the largest public companies and putting founder Elon Musk on the verge of becoming the world’s first trillionaire.",
+      "date": "2026-06-11T18:30:05+00:00",
+      "source": "Bloomberg Tech",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 2
+    },
+    {
+      "id": "b591cf4c4f7b",
+      "title": "Blink’s six-piece outdoor camera kit is a great deal under $200",
+      "url": "https://www.theverge.com/gadgets/948459/blink-camera-bundle-aeropress-deal-sale",
+      "summary": "You can save on a big set of outdoor security cameras ahead of Prime Day. Amazon has a five-pack of Blink cameras with a video doorbell included that’s marked down to $166.99. The bundle includes a Blink Battery Doorbell 2K+, five Blink Outdoor 2K+ c",
+      "date": "2026-06-11T18:04:43+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "bbba32b325ed",
+      "title": "Roborock’s Q10 S5 Plus robovac is over half off, matching its best price to date",
+      "url": "https://www.theverge.com/gadgets/948529/roborock-q10-s5-plus-robot-vacuum-mop-deal-sale",
+      "summary": "Even at full price, the Roborock Q10 S5 Plus offers impressive value, boasting features typically reserved for pricier robovac models at a fraction of the price. That’s especially true today. It’s down to just $269.99 ($280 off) at Wellbots when you ",
+      "date": "2026-06-11T17:42:29+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "033ccf63529d",
+      "title": "Amazon’s data centers used 2.5 billion gallons of water last year",
+      "url": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
+      "summary": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With concerns about water consumption and energy use a focu",
+      "date": "2026-06-11T17:26:57+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "2ba22d6a9ca2",
+      "title": "The bill that would let Jimmy Kimmel sue Brendan Carr is here",
+      "url": "https://www.theverge.com/policy/948525/cruz-wyden-jawbone-act-censorship",
+      "summary": "Under a new bipartisan bill, Americans could sue for damages if a government official illegally tries to coerce a social media, AI, or broadcasting company to remove their post - regardless of whether the platform actually does it. Senate Commerce Co",
+      "date": "2026-06-11T17:23:02+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "1fc2aa9d09ff",
+      "title": "i1: A Simple and Fully Open-Source Recipe for Strong Text-to-Image Models",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1u35ekr/i1_a_simple_and_fully_opensource_recipe_for/",
+      "summary": "Code: https://github.com/zlab-princeton/i1 Abstract Diffusion models have consistently driven progress in text-to-image generation. However, it is challenging to attribute recent progress to specific modeling and data choices: state-of-the-art open-w",
+      "date": "2026-06-11T17:22:48+00:00",
+      "source": "r/StableDiffusion",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
+    {
+      "id": "247e36dc4341",
+      "title": "Here are the price-matching policies for Best Buy, GameStop, and others",
+      "url": "https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft",
+      "summary": "Nothing is more frustrating than buying a new pair of headphones, an OLED TV, or a laptop just to find out that you could have gotten it for cheaper somewhere else just a few days or weeks later. That’s why, in order to keep customers happy and preve",
+      "date": "2026-06-11T17:14:28+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "60d3a062305f",
+      "title": "A warrantless wiretap law is about to expire — but surveillance networks aren’t actually ‘going dark’",
+      "url": "https://www.theverge.com/tech/948451/fisa-702-reauthorization-vote-fails-congress-wiretapping-lapse",
+      "summary": "Congress has failed to pass a three-week extension of Section 702 of the Foreign Intelligence Surveillance Act (FISA), with the House voting 218-198 against reauthorizing the controversial warrantless wiretapping authority through July 2nd. After a s",
+      "date": "2026-06-11T16:42:26+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "d008a461e581",
+      "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
+      "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+      "summary": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
+      "date": "2026-06-11T16:36:20+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "057699689858",
+      "title": "Made a tool to turn natural language prompt to Ideogram JSON prompt, 100% local",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1u32tbi/made_a_tool_to_turn_natural_language_prompt_to/",
+      "summary": "Made a tool to turn a natural language prompt into a proper Ideogram bbox JSON prompt, powered by local LLM (Qwen3) Basically, it makes Ideogram prompting feel like gpt-image-2 prompting (but of course, 100% local). No need to mess around with the bb",
+      "date": "2026-06-11T15:48:27+00:00",
+      "source": "r/StableDiffusion",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
+    {
+      "id": "2b01028b4706",
+      "title": "Bernini I2V with sound",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1u32ki4/bernini_i2v_with_sound/",
+      "summary": "Here is a example of a bernini video generated with sound at 24fps with 8 seconds. workflow: https://github.com/peterducan-hub/PeterDuncan_Comfyui submitted by /u/smereces [link] [comments]",
+      "date": "2026-06-11T15:39:25+00:00",
+      "source": "r/StableDiffusion",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
+    {
+      "id": "57f419fe4ff7",
+      "title": "Pool’s new app turns your screenshots into something useful",
+      "url": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
+      "summary": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other things you meant to revisit.",
+      "date": "2026-06-11T15:30:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "3ccf24dca251",
+      "title": "生成AIガイドラインを企業が策定する手順！必須項目も解説",
+      "url": "https://ainow.ai/2026/06/12/278163/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e3%2582%25ac%25e3%2582%25a4%25e3%2583%2589%25e3%2583%25a9%25e3%2582%25a4%25e3%2583%25b3%25e3%2582%2592%25e4%25bc%2581%25e6%25a5%25ad%25e3%2581%258c%25e7%25ad%2596%25e5%25ae%259a%25e3%2581%2599%25e3%2582%258b%25e6%2589%258b%25e9%25a0%2586%25ef%25bc%2581%25e5%25bf%2585%25e9%25a0%2588%25e9%25a0%2585",
+      "summary": "「全社で生成AIを使え」と号令はかかったものの、情報漏洩や著作権が不安で、止める根拠になる社内ルールがない。本記事では、生成AIガイドラインに盛り込むべき必須項目、ゼロから策定する5つの手順、テンプレートに使える公的ひな... The post 生成AIガイドラインを企業が策定する手順！必須項目も解説 first appeared on AI専門ニュースメディア AINOW.",
+      "date": "2026-06-11T15:27:35+00:00",
+      "source": "AINOW",
+      "lang": "ja",
+      "category": "AI",
+      "priority": 1
+    },
+    {
+      "id": "178076882579",
+      "title": "datasette 1.0a33",
+      "url": "https://simonwillison.net/2026/Jun/11/datasette/#atom-everything",
+      "summary": "Release: datasette 1.0a33 This alpha is a significant step on the road to a stable 1.0, finally extending the ?_extra= pattern I introduced in Datasette 1.0a3 to cover queries and rows in addition to tables. That pattern is also now documented! I wro",
+      "date": "2026-06-11T15:26:49+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
+    {
+      "id": "7eeb63b95a8b",
+      "title": "DJIに強力なライバル Insta360初のジンバルカメラ「Insta360 Luna Ultra」海外発表 11万9800円",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/11/news134.html",
+      "summary": "中国Insta360は、独ライカと共同開発したジンバル一体型カメラ「Insta360 Luna Ultra」を発売した。1型センサーの8Kカメラと望遠カメラのデュアルレンズ構成で、着脱式タッチスクリーンによる遠隔操作にも対応する。日本の公式ストアでは11万9800円からだが、執筆時点では「近日販売予定」と表示されている。",
+      "date": "2026-06-11T14:55:00+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
     {
       "id": "c265bd405c5c",
       "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
@@ -14,94 +487,6 @@
       "priority": 1
     },
     {
-      "id": "b49ea0eb61d8",
-      "title": "OpenAI Filed for IPO at $852B as Anthropic Beats It to Market and Price Cuts Loom",
-      "url": "https://www.reddit.com/r/artificial/comments/1u302rd/openai_filed_for_ipo_at_852b_as_anthropic_beats/",
-      "summary": "submitted by /u/andix3 [link] [comments]",
-      "date": "2026-06-11T14:07:04+00:00",
-      "source": "r/artificial",
-      "lang": "en",
-      "category": "Wow",
-      "priority": 2
-    },
-    {
-      "id": "88ec36809a39",
-      "title": "True 'FOMO' Is Still Ahead of Us, Emanuel Says",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-11/true-fomo-is-still-ahead-of-us-emanuel-says-video",
-      "summary": "The bull market has room to run says Evercore's Julian Emanuel. “I would say that the true FOMO — the wild-eyed, buy at any cost, whatever it is I’ll take it — is still potentially ahead of us,” Emanuel said on \"Bloomberg Surveillance.\" (Source: Bloo",
-      "date": "2026-06-11T13:54:01+00:00",
-      "source": "Bloomberg Tech",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 2
-    },
-    {
-      "id": "cbca85f3f54b",
-      "title": "I went to the woods to drink surprisingly great espresso",
-      "url": "https://www.theverge.com/tech/942873/ikape-cera-portable-espresso-review",
-      "summary": "With summer's return, I'm again reminded of my limits as I head into the great outdoors: I can put up with a heavy, uncomfortable backpack, bug bites, mud, and even bland dehydrated food, but I will not forsake my morning brew. I've tried every imagi",
-      "date": "2026-06-11T13:38:09+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "b239f51789a9",
-      "title": "What if AI's biggest limitation isn't reasoning, but the inability to accumulate experience?",
-      "url": "https://www.reddit.com/r/artificial/comments/1u2z66y/what_if_ais_biggest_limitation_isnt_reasoning_but/",
-      "summary": "Everyone talks about reasoning, agents, and larger models. But the more I learn about AI systems, the more I think we're missing something fundamental: AI doesn't accumulate experience the way humans do. A senior engineer isn't valuable only because ",
-      "date": "2026-06-11T13:30:53+00:00",
-      "source": "r/artificial",
-      "lang": "en",
-      "category": "Wow",
-      "priority": 2
-    },
-    {
-      "id": "7f6b15f619c7",
-      "title": "Is Symbolic Regression still a thing, given LLMs' performance? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1u2yqnu/is_symbolic_regression_still_a_thing_given_llms/",
-      "summary": "I've been teaching myself about Symbolic Regression (SR), which looks like a super exciting field. (A great intro resource below [1]). But then I was wondering: given LLMs' increasingly-growing power in generating code, which is in a way very similar",
-      "date": "2026-06-11T13:13:32+00:00",
-      "source": "r/MachineLearning",
-      "lang": "en",
-      "category": "Wow",
-      "priority": 2
-    },
-    {
-      "id": "732a7c87e1cc",
-      "title": "Cash App’s launching a phone service",
-      "url": "https://www.theverge.com/tech/948181/cash-app-mobile",
-      "summary": "Cash App's AT&T-based MVNO will offer an unlimited 5G data plan for $40 per month including taxes and fees. The new mobile service is powered by Gigs, the same firm behind the Klarna mobile service that launched last year with the same pricing and is",
-      "date": "2026-06-11T13:10:49+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "68b279c20a65",
-      "title": "DoorDash Built an AI Chatbot to Help With Orders, Reservations and Grocery Lists",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-11/doordash-s-ask-doordash-ai-chatbot-can-help-with-orders-groceries-reservations",
-      "summary": "DoorDash Inc. introduced an in-app artificial intelligence chatbot to help customers make restaurant and grocery orders, and suggested the technology could also be used to unlock new enterprise revenue streams.",
-      "date": "2026-06-11T13:00:32+00:00",
-      "source": "Bloomberg Tech",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 2
-    },
-    {
-      "id": "135349f6f381",
-      "title": "Amazon Says Its Data Centers Use 2.5 Billion Gallons of Water",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-11/amazon-says-its-data-centers-use-2-5-billion-gallons-of-water",
-      "summary": "Amazon.com Inc. said its data centers used 2.5 billion gallons of water worldwide last year, or about 5% of the amount metro Seattle consumes annually.",
-      "date": "2026-06-11T13:00:00+00:00",
-      "source": "Bloomberg Tech",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 2
-    },
-    {
       "id": "f8065bfe8631",
       "title": "AppleがmacOS上で高速かつ軽量なLinux環境を提供できる「Container machine」を発表",
       "url": "https://gigazine.net/news/20260611-apple-container-machines/",
@@ -110,50 +495,6 @@
       "source": "Gigazine",
       "lang": "ja",
       "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "0d59d7bf87f8",
-      "title": "Krea 2 edit",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1u2ye19/krea_2_edit/",
-      "summary": "Looks like krea are working on an edit model alongside their open source release! Exciting times we live in! submitted by /u/thatworm [link] [comments]",
-      "date": "2026-06-11T12:59:39+00:00",
-      "source": "r/StableDiffusion",
-      "lang": "en",
-      "category": "ImageVideo",
-      "priority": 2
-    },
-    {
-      "id": "4499f29c6962",
-      "title": "OpenAI's Osborne on Governments Adopting AI",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-11/openai-s-osborne-on-governments-adopting-ai-video",
-      "summary": "OpenAI Head of Countries and former UK Chancellor of the Exchequer George Osborne says that while many countries have talked about adopting AI there are many still in process who haven't delivered on the adoption yet. He adds that governments that do",
-      "date": "2026-06-11T12:52:07+00:00",
-      "source": "Bloomberg Tech",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 2
-    },
-    {
-      "id": "eaefd895eb4a",
-      "title": "SpaceX IPO Draws More Than $70 Billion in Retail Orders",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-11/spacex-ipo-said-to-draw-more-than-70-billion-in-retail-orders",
-      "summary": "SpaceX’s initial public offering has attracted more than $70 billion in orders from retail investors, according to people familiar with the matter, as the potentially record-breaking debut enters the home stretch.",
-      "date": "2026-06-11T12:41:06+00:00",
-      "source": "Bloomberg Tech",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 2
-    },
-    {
-      "id": "c00be2a22923",
-      "title": "UK Energy Regulator Warns Data Centers Are Hoarding Grid Capacity",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-11/uk-energy-regulator-warns-data-centers-are-hoarding-grid-capacity",
-      "summary": "The UK’s energy regulator is concerned that data centers are reserving large amounts of grid capacity years before fully needed, further threatening the efficiency of networks facing long queues for new supply.",
-      "date": "2026-06-11T12:39:04+00:00",
-      "source": "Bloomberg Tech",
-      "lang": "en",
-      "category": "Industry",
       "priority": 2
     },
     {
@@ -168,17 +509,6 @@
       "priority": 2
     },
     {
-      "id": "3c7243962ac3",
-      "title": "We captured the network traffic of ChatGPT, Gemini and DeepSeek to see how each defines a \"source\" — they're three completely different mechanisms",
-      "url": "https://www.reddit.com/r/artificial/comments/1u2xdmg/we_captured_the_network_traffic_of_chatgpt_gemini/",
-      "summary": "Disclosure upfront: I'm the founder of an AI-visibility company, so this research scratches our own itch. Our domain was excluded from all counts before analysis. Not linking anything in the post. We wanted to answer a simple question: when an AI ass",
-      "date": "2026-06-11T12:15:02+00:00",
-      "source": "r/artificial",
-      "lang": "en",
-      "category": "Wow",
-      "priority": 2
-    },
-    {
       "id": "2e52d71156ea",
       "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
       "url": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
@@ -188,17 +518,6 @@
       "lang": "en",
       "category": "Research",
       "priority": 1
-    },
-    {
-      "id": "f0993e3a3c37",
-      "title": "Boox’s new e-reader could replace your Kindle, Kobo, and digital notepad",
-      "url": "https://www.theverge.com/tech/947769/boox-onyx-go-6-gen-ii-android-11-e-reader-google-play",
-      "summary": "Boox has announced a new version of its smallest e-reader that expands the Go 6's functionality to now include note-taking. The new Go 6 (Gen II) sticks with a 6-inch, 300PPI E Ink screen like its predecessor but gets a bump from 2GB to 3GB of RAM an",
-      "date": "2026-06-11T12:08:51+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "fdea0b6ff0f7",
@@ -212,17 +531,6 @@
       "priority": 2
     },
     {
-      "id": "da97a0c61c29",
-      "title": "「北斗の拳」スピンオフアニメを見放題で楽しむ 拳王軍のザコたちが主役の異色コメディ",
-      "url": "https://ascii.jp/elem/000/004/408/4408646/?rss",
-      "summary": "「Amazonプライム・ビデオ」で観られるおすすめ作品をご紹介！ 今回は人気アニメの見放題から「北斗の拳 拳王軍ザコたちの挽歌」「#神奈川に住んでるエルフ」をピックアップ。この機会にお見逃しなく。",
-      "date": "2026-06-11T12:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "c0da8a7bdb95",
       "title": "日系企業 レアアースなど輸出規制の運用透明化を中国に要望",
       "url": "https://news.web.nhk/newsweb/na/na-k10015147701000",
@@ -231,94 +539,6 @@
       "source": "NHK テクノロジー",
       "lang": "ja",
       "category": "AI",
-      "priority": 2
-    },
-    {
-      "id": "866072bf2988",
-      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-      "summary": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The company says it is reversing course and will be more tra",
-      "date": "2026-06-11T11:40:43+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "1d17b25a9ad4",
-      "title": "When someone shares a productivity system",
-      "url": "https://www.reddit.com/r/artificial/comments/1u2wm54/when_someone_shares_a_productivity_system/",
-      "summary": "Good system. One addition that moved the needle for me: ​ I track \"capacity conversion\" -- when AI saves me 3 hours on a task what do those 3 hours actually become? ​ Most people save time with AI and then fill it with more busywork. The ROI only mat",
-      "date": "2026-06-11T11:39:30+00:00",
-      "source": "r/artificial",
-      "lang": "en",
-      "category": "Wow",
-      "priority": 2
-    },
-    {
-      "id": "446717af8dc5",
-      "title": "Ex-parrot",
-      "url": "https://www.reddit.com/r/midjourney/comments/1u2wjul/exparrot/",
-      "summary": "submitted by /u/Zaicab [link] [comments]",
-      "date": "2026-06-11T11:36:24+00:00",
-      "source": "r/midjourney",
-      "lang": "en",
-      "category": "ImageVideo",
-      "priority": 2
-    },
-    {
-      "id": "e6baa06ee808",
-      "title": "iFixit Trump phone teardown confirms it’s an HTC dupe",
-      "url": "https://www.theverge.com/gadgets/948262/trump-phone-t1-ifixit-teardown-htc-u24-pro",
-      "summary": "After getting its hands on a Trump phone and tearing it apart, iFixit has confirmed what I first reported back in February: the T1 Phone is an almost exact duplicate of the HTC U24 Pro. iFixit partnered with NBC to get hold of the network's media sam",
-      "date": "2026-06-11T11:32:29+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "f8b28119a1f2",
-      "title": "ウザい「スマホの出し入れ」がなくなるAIスマートグラス！ 通知やメモに使ったら世界が変わった！",
-      "url": "https://ascii.jp/elem/000/004/409/4409702/?rss",
-      "summary": "今、AIスマートグラスがとても盛り上がっており、各メーカーからさまざまなアプローチで新製品が登場しています。",
-      "date": "2026-06-11T11:30:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "a3ca92f96b66",
-      "title": "The hidden eye",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1u2werr/the_hidden_eye/",
-      "summary": "I wanted to upscale this image that I made and I noticed that there is a hidden eye in the final result. down right of the image submitted by /u/ohMyUsernam [link] [comments]",
-      "date": "2026-06-11T11:29:32+00:00",
-      "source": "r/StableDiffusion",
-      "lang": "en",
-      "category": "ImageVideo",
-      "priority": 2
-    },
-    {
-      "id": "ed13207c9150",
-      "title": "Software Stock Reversal Has Traders Bracing for More Pain Ahead",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-11/software-stock-reversal-has-traders-bracing-for-more-pain-ahead",
-      "summary": "A recent rally in software stocks is proving to be short-lived, and investors are bracing for more selling as fears linger about artificial intelligence disruption.",
-      "date": "2026-06-11T11:28:01+00:00",
-      "source": "Bloomberg Tech",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 2
-    },
-    {
-      "id": "044e35c25eb7",
-      "title": "Exploring Lumina",
-      "url": "https://www.reddit.com/r/midjourney/comments/1u2w9s8/exploring_lumina/",
-      "summary": "submitted by /u/Dropdeadlegs84 [link] [comments]",
-      "date": "2026-06-11T11:22:32+00:00",
-      "source": "r/midjourney",
-      "lang": "en",
-      "category": "ImageVideo",
       "priority": 2
     },
     {
@@ -351,83 +571,6 @@
       "date": "2026-06-11T11:00:00+00:00",
       "source": "Gigazine",
       "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "4f080c46f2ef",
-      "title": "白いゲーミングPC、最初から全部入り。RTX 5060＋メモリ32GB、美しさと冷却性能を兼ね備えてMSIのモニターまで付いてくる！",
-      "url": "https://ascii.jp/elem/000/004/409/4409958/?rss",
-      "summary": "メモリ32GB、SSD1TBを備え、ゲームはもちろん動画編集や配信、普段使いまで余裕を持ってこなせる構成。さらに、液晶付き簡易水冷やピラーレスケース、背面コネクター設計など、“魅せるPC”としての完成度も高い。",
-      "date": "2026-06-11T11:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "0e4a90cbde6c",
-      "title": "糖質ゼロ×本格ビールの味わい！ サントリー「PSB」24本がAmazonタイムセールで14％オフ",
-      "url": "https://ascii.jp/elem/000/004/409/4409818/?rss",
-      "summary": "サントリーの「パーフェクトサントリービール PSB 350ml×24本」が、Amazonタイムセールで14％オフ。",
-      "date": "2026-06-11T11:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "c3b8dc4af79b",
-      "title": "LTEやKVMを後から追加できるモジュール式8.8型モバイルPC「GPD Pocket 4」予約受付中",
-      "url": "https://ascii.jp/elem/000/004/409/4409095/?rss",
-      "summary": "GPDのモバイルPC「GPD Pocket 4」がAmazonで予約受付中。価格は248,000円。8.8型ディスプレイやRyzen 7 8840Uを搭載するほか、LTEやKVMなどに対応する交換モジュールを用意。",
-      "date": "2026-06-11T11:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "9d212641efae",
-      "title": "アニメ「Fate/strange Fake」見放題！ 成田良悟×TYPE-MOONが描く“偽りだらけの聖杯戦争”",
-      "url": "https://ascii.jp/elem/000/004/408/4408644/?rss",
-      "summary": "「Amazonプライム・ビデオ」で観られるおすすめ作品をご紹介！ 今回は人気アニメの見放題から「Fate/strange Fake」「死亡遊戯で飯を食う。」をピックアップ。この機会にお見逃しなく。",
-      "date": "2026-06-11T11:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "24bcd29c25c0",
-      "title": "El Río y la Cueva[OC]",
-      "url": "https://www.reddit.com/r/midjourney/comments/1u2v0xj/el_río_y_la_cuevaoc/",
-      "summary": "submitted by /u/Gold-Lengthiness-760 [link] [comments]",
-      "date": "2026-06-11T10:16:12+00:00",
-      "source": "r/midjourney",
-      "lang": "en",
-      "category": "ImageVideo",
-      "priority": 2
-    },
-    {
-      "id": "a5fd5f16dea4",
-      "title": "Microsoft continues global rollout of Copilot's smiley AI companion Mico, now available in 40 countries",
-      "url": "https://www.reddit.com/r/artificial/comments/1u2uzmm/microsoft_continues_global_rollout_of_copilots/",
-      "summary": "submitted by /u/Tiny-Independent273 [link] [comments]",
-      "date": "2026-06-11T10:14:14+00:00",
-      "source": "r/artificial",
-      "lang": "en",
-      "category": "Wow",
-      "priority": 2
-    },
-    {
-      "id": "1c0949fdc657",
-      "title": "YouTube is introducing DMs (again)",
-      "url": "https://www.theverge.com/streaming/948256/youtube-brings-back-private-messaging-feature-availability",
-      "summary": "YouTube is reintroducing private messaging after testing new ways for users to share videos and \"have conversations about them\" last year. In an announcement on its official blog, YouTube says it's now starting to expand the in-app video sharing and ",
-      "date": "2026-06-11T10:12:23+00:00",
-      "source": "The Verge",
-      "lang": "en",
       "category": "Tech",
       "priority": 2
     },
@@ -498,28 +641,6 @@
       "priority": 1
     },
     {
-      "id": "50e885b8b2a6",
-      "title": "「いつかは4K」じゃなくて今でしょ！ 27型4Kモニターが3万円切り、仕事も動画も広々快適",
-      "url": "https://ascii.jp/elem/000/004/409/4409945/?rss",
-      "summary": "ViewSonicの27型4Kモニター。広い作業領域、IPSの見やすさ、HDR10、複数入力、スピーカー内蔵で、仕事も動画も使いやすい実用派です。",
-      "date": "2026-06-11T10:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "d2ff48800bbc",
-      "title": "「iPad Air（M4）」快適なタブレットならこれ一択！ 512GB／Wi-Fiモデルは後悔しにくい選択肢",
-      "url": "https://ascii.jp/elem/000/004/409/4409943/?rss",
-      "summary": "Amazon.co.jpで「iPad Air（M4）」が売れています。M4チップとLiquid Retina ディスプレイを搭載したタブレット型端末で、ストレージ512GBのWi-Fi専用モデルとなっています。",
-      "date": "2026-06-11T10:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "028ca62bd1ec",
       "title": "NEC・アンソロピック、三井住友FGや明治安田など金融8社と連携 AI活用で新たな価値創出へ",
       "url": "https://www.itmedia.co.jp/news/articles/2606/11/news128.html",
@@ -539,17 +660,6 @@
       "source": "NHK テクノロジー",
       "lang": "ja",
       "category": "AI",
-      "priority": 2
-    },
-    {
-      "id": "cd4c84b2829d",
-      "title": "Ryanair is under investigation over charging parents to sit with their kids",
-      "url": "https://www.theverge.com/transportation/948244/ryanair-cma-probe-parents-child-seating-fee",
-      "summary": "European economy airline Ryanair is under investigation in the UK for charging parents mandatory fees to sit with their children. The Competition and Markets Authority (CMA) said it was looking into whether the seating fees, which may be charging par",
-      "date": "2026-06-11T09:31:30+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
       "priority": 2
     },
     {
@@ -586,17 +696,6 @@
       "priority": 2
     },
     {
-      "id": "20e2e60f03be",
-      "title": "Anthropic walks back policy on silent nerfing for AI/ML, will notify users [N]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1u2tk0i/anthropic_walks_back_policy_on_silent_nerfing_for/",
-      "summary": "From Wired: “We’re changing Fable 5’s safeguards for frontier LLM development to make them visible.” Anthropic said in a statement to WIRED. “We made the wrong tradeoff and we apologize for not getting the balance right.” Anthropic now says it’s chan",
-      "date": "2026-06-11T08:51:10+00:00",
-      "source": "r/MachineLearning",
-      "lang": "en",
-      "category": "Wow",
-      "priority": 2
-    },
-    {
       "id": "b7ab8f47ad3e",
       "title": "高速かつ高精度な視覚言語モデル「Zamba2-VL」が登場、Transformerより高速なアーキテクチャで開発",
       "url": "https://gigazine.net/news/20260611-zamba2-vl-zyphra/",
@@ -619,50 +718,6 @@
       "priority": 2
     },
     {
-      "id": "2e21186da2fc",
-      "title": "甘いアールグレイラテにマスカットの爽やかさが香るスターバックスのチルドカップ「アールグレイマスカットティーラテ」試飲レビュー",
-      "url": "https://gigazine.net/news/20260611-starbucks-earlgrey-muscat-tea-latte/",
-      "summary": "スターバックスのチルドカップシリーズの新商品として、初夏にぴったりなチルドカップ初のマスカットフレーバー「アールグレイマスカットティーラテ」が2026年6月9日に新登場しました。スターバックスからサンプルが送られてきたので、どんな味わいなのか実際に飲んでみました。続きを読む...",
-      "date": "2026-06-11T08:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "8099771abdfe",
-      "title": "ACL ARR May 2026 Reviewer paper distributions [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1u2soc6/acl_arr_may_2026_reviewer_paper_distributions_d/",
-      "summary": "ACL ARR May 2026 reviews are due on July 2. I do not see any reviewer assignement as of today. Will the review period be just 2 weeks in that case? Anyone got papers assigned for reviewing? submitted by /u/Impossible-Garden612 [link] [comments]",
-      "date": "2026-06-11T07:58:03+00:00",
-      "source": "r/MachineLearning",
-      "lang": "en",
-      "category": "Wow",
-      "priority": 2
-    },
-    {
-      "id": "bbb026c3d9e7",
-      "title": "XiaomiがClaude Code的なAIエージェント「MiMo Code」をオープンソースで公開、ブラインドテストでClaude Codeに勝利",
-      "url": "https://gigazine.net/news/20260611-xiaomi-mimo-code/",
-      "summary": "中国大手テクノロジー企業であるXiaomiがAIエージェントツール「MiMo Code」を2026年6月11日に公開しました。続きを読む...",
-      "date": "2026-06-11T07:56:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "3ecc857295f1",
-      "title": "YouTubeが動画の共有や1対1の会話ができる新しいアプリ内メッセージングシステムを展開、以前のメッセージ機能は2019年に廃止済み",
-      "url": "https://gigazine.net/news/20260611-youtube-messaging/",
-      "summary": "YouTubeがアプリ内で動画を共有したり1対1で会話したりできる新しいメッセージ機能の展開を開始しました。対象は18歳以上のユーザーで、アメリカなど複数の地域に提供範囲を広げています。続きを読む...",
-      "date": "2026-06-11T07:19:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "df05aef94e43",
       "title": "サッカーW杯、テレビ放送があっても「DAZN」を選ぶ理由 ただしサッカー専用プランは「要注意」",
       "url": "https://www.itmedia.co.jp/news/articles/2606/11/news112.html",
@@ -671,17 +726,6 @@
       "source": "ITmedia News",
       "lang": "ja",
       "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "d20bfa5768ae",
-      "title": "株価 荒い値動き 半導体関連銘柄など買い戻す動きも",
-      "url": "https://news.web.nhk/newsweb/na/na-k10015146761000",
-      "summary": "11日の東京株式市場、イラン情勢が再び悪化するとの懸念から日経平均株価は一時、1800円以上値下がりしました。しかし、その後は半導体関連など値下がりした銘柄を買い戻す動きも出て、荒い値動きとなりました…",
-      "date": "2026-06-11T07:12:03+00:00",
-      "source": "NHK テクノロジー",
-      "lang": "ja",
-      "category": "AI",
       "priority": 2
     },
     {
@@ -707,6 +751,17 @@
       "priority": 2
     },
     {
+      "id": "8cfea5afac2e",
+      "title": "asyncinject 0.7",
+      "url": "https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything",
+      "summary": "Release: asyncinject 0.7 I built this utility library to support an asyncio dependency injection pattern a few years ago. I was using it with Datasette and Claude Fable 5 spotted some bugs in the dependency which it then fixed for me. It's a very pro",
+      "date": "2026-06-11T06:28:09+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
+    {
       "id": "784debde85ca",
       "title": "Testing Bernini-R for video object removal",
       "url": "https://www.reddit.com/r/StableDiffusion/comments/1u2r0t1/testing_berninir_for_video_object_removal/",
@@ -715,50 +770,6 @@
       "source": "r/StableDiffusion",
       "lang": "en",
       "category": "ImageVideo",
-      "priority": 2
-    },
-    {
-      "id": "86be1fa08a55",
-      "title": "サッカーW杯、偽ライブ配信サイトに注意 生成AIで詐欺が巧妙化 Acronisが警告",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/11/news106.html",
-      "summary": "生成AI技術の発展により、偽のチケット販売サイトや偽のライブ配信サイトなどの手口は巧妙化しており、十分な注意が必要だ。",
-      "date": "2026-06-11T06:14:00+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "24081a9194a8",
-      "title": "Anthropic、「Fable 5」のガードレールの仕組みを説明 課金の仕組みや設定変更方法など",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/11/news104.html",
-      "summary": "Anthropicは、新AIモデル「Claude Fable 5」の過剰なブロックに対する挙動や管理方法を説明するヘルプ記事を公開した。セキュリティや生物学に関する質問を検知すると下位モデルへ自動で切り替わる機能の仕様、料金体系、設定オフの手順を明示。今後は誤検知を減らし、正当な研究や防衛作業の支援を目指す。",
-      "date": "2026-06-11T06:09:00+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "a959472ae2cc",
-      "title": "Ideogram 4 tests",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1u2qrbt/ideogram_4_tests/",
-      "summary": "In some cases it’s even better than NB pro! submitted by /u/LongjumpingGur7623 [link] [comments]",
-      "date": "2026-06-11T06:06:49+00:00",
-      "source": "r/StableDiffusion",
-      "lang": "en",
-      "category": "ImageVideo",
-      "priority": 2
-    },
-    {
-      "id": "6b9d45f93bc9",
-      "title": "Judge Learns Lawyers on Both Sides of Case Used AI, Cancels Trial, Kicks Everyone Off the Case",
-      "url": "https://www.reddit.com/r/artificial/comments/1u2onqz/judge_learns_lawyers_on_both_sides_of_case_used/",
-      "summary": "submitted by /u/ThereWas [link] [comments]",
-      "date": "2026-06-11T04:15:16+00:00",
-      "source": "r/artificial",
-      "lang": "en",
-      "category": "Wow",
       "priority": 2
     },
     {
@@ -776,7 +787,7 @@
       "id": "d461f5dc0d2f",
       "title": "Anthropic’s Dario Amodei has just one direct report",
       "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
-      "summary": "If you doubted his genius, doubt no more.",
+      "summary": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're going to be seriously envious now.",
       "date": "2026-06-11T03:53:06+00:00",
       "source": "TechCrunch AI",
       "lang": "en",
@@ -806,15 +817,15 @@
       "priority": 2
     },
     {
-      "id": "bf9e6a8a9356",
-      "title": "Land of Chaos #141",
-      "url": "https://www.reddit.com/r/midjourney/comments/1u2klzh/land_of_chaos_141/",
-      "summary": "submitted by /u/Slave_Human [link] [comments]",
-      "date": "2026-06-11T01:04:31+00:00",
-      "source": "r/midjourney",
+      "id": "9b77dce7b354",
+      "title": "OpenAI to acquire Ona",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "date": "2026-06-11T00:00:00+00:00",
+      "source": "OpenAI Blog",
       "lang": "en",
-      "category": "ImageVideo",
-      "priority": 2
+      "category": "Research",
+      "priority": 1
     },
     {
       "id": "bfbf641beda5",
@@ -832,6 +843,17 @@
       "title": "How an astrophysicist uses Codex to help simulate black holes",
       "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
       "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "date": "2026-06-11T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "8926e37d73b8",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
+      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
       "date": "2026-06-11T00:00:00+00:00",
       "source": "OpenAI Blog",
       "lang": "en",
@@ -861,17 +883,6 @@
       "priority": 1
     },
     {
-      "id": "3c785254bf1a",
-      "title": "Alduin 4B, an uncensored Vision LLm just released.",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1u2hegf/alduin_4b_an_uncensored_vision_llm_just_released/",
-      "summary": "Greetings. I'm happy to be back on track in terms of messing with different open models and try to create what I have in mind. Today, I am happy to announce that I was working on an uncensored local language model with vision capabilities, and it is ",
-      "date": "2026-06-10T22:43:21+00:00",
-      "source": "r/StableDiffusion",
-      "lang": "en",
-      "category": "ImageVideo",
-      "priority": 2
-    },
-    {
       "id": "6de145b73128",
       "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
       "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
@@ -881,61 +892,6 @@
       "lang": "en",
       "category": "Industry",
       "priority": 1
-    },
-    {
-      "id": "229609280bbc",
-      "title": "I upgraded the Ideogram 4 Prompt Builder node (KJNodes) using Claude Fable 5 - Freehand drawing, layers, bucket fill and more",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1u2gf4a/i_upgraded_the_ideogram_4_prompt_builder_node/",
-      "summary": "Hey everyone, I wanted to share a tool I've been working on for the past few days. I use the Ideogram 4 Prompt Builder node (part of the KJNodes pack) a lot, but I found it quite limiting to only be able to draw rectangles to define regions. Since I ",
-      "date": "2026-06-10T22:03:34+00:00",
-      "source": "r/StableDiffusion",
-      "lang": "en",
-      "category": "ImageVideo",
-      "priority": 2
-    },
-    {
-      "id": "ba3e3b15837b",
-      "title": "Ideogram 4 Character Reference Workflow",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1u2eb48/ideogram_4_character_reference_workflow/",
-      "summary": "Greetings everyone! My img2img workflow seemed to go over well so I decided to take on a bit of a more interesting task and it seems to be working, somewhat well. Ideogram 4 is a fantastic model. You give it one picture of your character. The workflo",
-      "date": "2026-06-10T20:43:00+00:00",
-      "source": "r/StableDiffusion",
-      "lang": "en",
-      "category": "ImageVideo",
-      "priority": 2
-    },
-    {
-      "id": "bb1470b66274",
-      "title": "The library rules (and so do library streaming services)",
-      "url": "https://www.theverge.com/tech/942657/library-ebook-borrowing-stream-tv-movies-hoopla-kanopy-overdrive",
-      "summary": "Summer is almost here, and that means getting outside, having fun in the sun, and touching grass. But if you need to cool down for a bit, allow me to sing the praises of the library. If your local library system is anything like mine, it probably off",
-      "date": "2026-06-10T20:41:17+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "6bbed14085f2",
-      "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
-      "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
-      "summary": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
-      "date": "2026-06-10T20:19:31+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "2e864a325ca0",
-      "title": "Oracle Falls Most in Six Months on Mounting Data Center Costs",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-10/oracle-reports-higher-than-expected-data-center-spending",
-      "summary": "Oracle Corp. shares declined by the most in six months after the company reported quarterly capital expenses that were higher than estimates, raising investor concerns about the profitability of the AI infrastructure business.",
-      "date": "2026-06-10T20:17:43+00:00",
-      "source": "Bloomberg Tech",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 2
     },
     {
       "id": "0fd3f676efe9",
@@ -960,72 +916,6 @@
       "priority": 1
     },
     {
-      "id": "096d985090a4",
-      "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
-      "url": "https://www.reddit.com/r/artificial/comments/1u2cwez/nobody_needs_ai_to_search_the_internet_court_says/",
-      "summary": "submitted by /u/Hot-Upstairs9603 [link] [comments]",
-      "date": "2026-06-10T19:51:27+00:00",
-      "source": "r/artificial",
-      "lang": "en",
-      "category": "Wow",
-      "priority": 2
-    },
-    {
-      "id": "e62b1c35a5b6",
-      "title": "Routing LLMs by task verifiability: a small experiment (n=120, 3 models) inspired by Karpathy's framework [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1u2c04u/routing_llms_by_task_verifiability_a_small/",
-      "summary": "Full disclosure: this is directional, not a paper. n=120 tasks, one internal evaluator, not peer reviewed. I work at an LLM infrastructure company. This experiment was done on my own time and is not a company claim. Karpathy's framework classifies ta",
-      "date": "2026-06-10T19:18:55+00:00",
-      "source": "r/MachineLearning",
-      "lang": "en",
-      "category": "Wow",
-      "priority": 2
-    },
-    {
-      "id": "32508d816f08",
-      "title": "templar drip v2",
-      "url": "https://www.reddit.com/r/midjourney/comments/1u29gsi/templar_drip_v2/",
-      "summary": "submitted by /u/danielwrbg [link] [comments]",
-      "date": "2026-06-10T17:48:55+00:00",
-      "source": "r/midjourney",
-      "lang": "en",
-      "category": "ImageVideo",
-      "priority": 2
-    },
-    {
-      "id": "d61050e4e72b",
-      "title": "I made a tool to turn any image into Ideogram JSON prompt",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1u28ram/i_made_a_tool_to_turn_any_image_into_ideogram/",
-      "summary": "Sometimes you may want to take inspiration from an image layout and build your own prompt from it. You could of course manually create boxes on your own using many of the already available open source tools, but I am too lazy and wanted even this to ",
-      "date": "2026-06-10T17:24:12+00:00",
-      "source": "r/StableDiffusion",
-      "lang": "en",
-      "category": "ImageVideo",
-      "priority": 2
-    },
-    {
-      "id": "aa30e73caa53",
-      "title": "I ran Fable 5 for half day and the guardrails are the real story",
-      "url": "https://www.reddit.com/r/artificial/comments/1u28c7d/i_ran_fable_5_for_half_day_and_the_guardrails_are/",
-      "summary": "Anthropic dropped Fable 5 and I immediately swapped it into our dev stack. We route everything through a single endpoint on zenmux, so the actual switch was changing one model string and watching the latency graphs. The good parts first because there",
-      "date": "2026-06-10T17:09:49+00:00",
-      "source": "r/artificial",
-      "lang": "en",
-      "category": "Wow",
-      "priority": 2
-    },
-    {
-      "id": "7282240d4a4e",
-      "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
-      "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
-      "summary": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
-      "date": "2026-06-10T17:07:35+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
       "id": "277040b31b6e",
       "title": "DiffusionGemma: 4x faster text generation",
       "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
@@ -1034,28 +924,6 @@
       "source": "Google DeepMind",
       "lang": "en",
       "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "9562e83254d9",
-      "title": "How memory tools can make AI models worse",
-      "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
-      "summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
-      "date": "2026-06-10T16:11:08+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "778e7a00c542",
-      "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
-      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-      "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
-      "date": "2026-06-10T15:41:22+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
       "priority": 1
     },
     {
@@ -1081,17 +949,6 @@
       "priority": 1
     },
     {
-      "id": "541f29aa37ca",
-      "title": "Anthropic's new model Fable will silently handicap work on LLMs [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1u23f8p/anthropics_new_model_fable_will_silently_handicap/",
-      "summary": "Seems like they have engineered some specific limitations that are widely cited as follows: In light of the ability of recent models to accelerate their own development, we’ve implemented new interventions that limit Claude’s effectiveness for reques",
-      "date": "2026-06-10T14:14:39+00:00",
-      "source": "r/MachineLearning",
-      "lang": "en",
-      "category": "Wow",
-      "priority": 2
-    },
-    {
       "id": "1076dadb61ed",
       "title": "The Download: the “steroid olympics” and a safer Mythos",
       "url": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
@@ -1112,17 +969,6 @@
       "lang": "en",
       "category": "Research",
       "priority": 1
-    },
-    {
-      "id": "299c4e7c772c",
-      "title": "The Courtyard.",
-      "url": "https://www.reddit.com/r/midjourney/comments/1u1zm5q/the_courtyard/",
-      "summary": "submitted by /u/Mordrat_The_Grey [link] [comments]",
-      "date": "2026-06-10T11:35:19+00:00",
-      "source": "r/midjourney",
-      "lang": "en",
-      "category": "ImageVideo",
-      "priority": 2
     },
     {
       "id": "d4285fc1570d",
@@ -1158,17 +1004,6 @@
       "priority": 1
     },
     {
-      "id": "e8c20ac0f03c",
-      "title": "Introducing Papers Without Code [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1u1wq0a/introducing_papers_without_code_p/",
-      "summary": "Hi, Niels here from the open-source team at Hugging Face. I've recently relaunched paperswithcode.co as a source for finding the state of the art (SOTA) across various AI domains, from 3D generation to AI agents. This is done by automatically parsing",
-      "date": "2026-06-10T08:58:36+00:00",
-      "source": "r/MachineLearning",
-      "lang": "en",
-      "category": "Wow",
-      "priority": 2
-    },
-    {
       "id": "7b4415883e48",
       "title": "If Claude Fable stops helping you, you'll never know",
       "url": "https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything",
@@ -1202,28 +1037,6 @@
       "priority": 1
     },
     {
-      "id": "dcfc1addd149",
-      "title": "llm 0.32a3",
-      "url": "https://simonwillison.net/2026/Jun/9/llm/#atom-everything",
-      "summary": "Release: llm 0.32a3 Almost entirely written by the new Claude Fable 5, see my write-up for more details. Tags: projects, ai, generative-ai, llms, llm, claude-mythos",
-      "date": "2026-06-09T22:27:03+00:00",
-      "source": "Simon Willison",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1
-    },
-    {
-      "id": "0f8a71af0ce8",
-      "title": "Setting a custom price for a model in AgentsView",
-      "url": "https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price/#atom-everything",
-      "summary": "TIL: Setting a custom price for a model in AgentsView I've been really enjoying AgentsView by Wes McKinney as a tool for exploring my token usage across different coding agents running on my laptop. Claude Fable 5 came out today and wasn't yet includ",
-      "date": "2026-06-09T21:35:31+00:00",
-      "source": "Simon Willison",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1
-    },
-    {
       "id": "7d1f3e342dc6",
       "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
       "url": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
@@ -1233,17 +1046,6 @@
       "lang": "en",
       "category": "Tech",
       "priority": 2
-    },
-    {
-      "id": "92ac31968c0b",
-      "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
-      "summary": "",
-      "date": "2026-06-09T19:38:28+00:00",
-      "source": "Hugging Face Blog",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1
     },
     {
       "id": "f640ca77226c",
@@ -1345,17 +1147,6 @@
       "priority": 1
     },
     {
-      "id": "fbb449340331",
-      "title": "What Codex unlocks for Notion",
-      "url": "https://openai.com/index/notion",
-      "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
-      "date": "2026-06-09T10:00:00+00:00",
-      "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
       "id": "4d25529a8f2d",
       "title": "生成AIの情報漏洩対策を解説！仕組みと事例から学ぶ企業の防衛策",
       "url": "https://ainow.ai/2026/06/09/278157/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e3%2581%25ae%25e6%2583%2585%25e5%25a0%25b1%25e6%25bc%258f%25e6%25b4%25a9%25e5%25af%25be%25e7%25ad%2596%25e3%2582%2592%25e8%25a7%25a3%25e8%25aa%25ac%25ef%25bc%2581%25e4%25bb%2595%25e7%25b5%2584%25e3%2581%25bf%25e3%2581%25a8%25e4%25ba%258b%25e4%25be%258b%25e3%2581%258b%25e3%2582%2589%25e5%25ad%25a6",
@@ -1375,17 +1166,6 @@
       "source": "AINOW",
       "lang": "ja",
       "category": "AI",
-      "priority": 1
-    },
-    {
-      "id": "65edefcb4544",
-      "title": "Industrial policy for the Intelligence Age",
-      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-      "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
-      "date": "2026-06-09T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
       "priority": 1
     },
     {
@@ -1554,6 +1334,17 @@
       "priority": 2
     },
     {
+      "id": "6e68da9f855d",
+      "title": "Direct Preference Optimization Beyond Chatbots",
+      "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+      "summary": "",
+      "date": "2026-06-03T12:55:11+00:00",
+      "source": "Hugging Face Blog",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
+    {
       "id": "59d00beb56a2",
       "title": "Announcing the ARC White-Box Estimation Challenge",
       "url": "https://www.alignmentforum.org/posts/Kben8CzS4awCwNw5c/announcing-the-arc-white-box-estimation-challenge",
@@ -1576,28 +1367,6 @@
       "priority": 1
     },
     {
-      "id": "c03edd487bad",
-      "title": "生成AIの保険業界での活用事例8選！メリットや導入手順も解説",
-      "url": "https://ainow.ai/2026/06/02/278125/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e3%2581%25ae%25e4%25bf%259d%25e9%2599%25ba%25e6%25a5%25ad%25e7%2595%258c%25e3%2581%25a7%25e3%2581%25ae%25e6%25b4%25bb%25e7%2594%25a8%25e4%25ba%258b%25e4%25be%258b8%25e9%2581%25b8%25ef%25bc%2581%25e3%2583%25a1%25e3%2583%25aa%25e3%2583%2583%25e3%2583%2588%25e3%2582%2584%25e5%25b0%258e",
-      "summary": "保険業界では、保険金の査定や顧客対応、営業支援といった幅広い業務で生成AIを取り入れる動きが、大手生保・損保を中心に急速に広がっています。 本記事では、保険業界で生成AIが使える6つの業務領域、実名企業の活用事例8選、導... The post 生成AIの保険業界での活用事例8選！メリットや導入手順も解説 first appeared on AI専門ニュースメディア AINOW.",
-      "date": "2026-06-02T14:59:12+00:00",
-      "source": "AINOW",
-      "lang": "ja",
-      "category": "AI",
-      "priority": 1
-    },
-    {
-      "id": "792203218589",
-      "title": "[D] Self-Promotion Thread",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1tudeio/d_selfpromotion_thread/",
-      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link shorteners, link aggregator websites , or auto-su",
-      "date": "2026-06-02T02:15:14+00:00",
-      "source": "r/MachineLearning",
-      "lang": "en",
-      "category": "Wow",
-      "priority": 2
-    },
-    {
       "id": "4e02f586f031",
       "title": "Dozens of Red Hat packages backdoored through its official NPM channel",
       "url": "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/",
@@ -1606,17 +1375,6 @@
       "source": "Ars Technica",
       "lang": "en",
       "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "b4bef8c77259",
-      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1tsipvv/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
-      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for jobs please use this template Want to be Hired: [Lo",
-      "date": "2026-05-31T02:30:27+00:00",
-      "source": "r/MachineLearning",
-      "lang": "en",
-      "category": "Wow",
       "priority": 2
     },
     {
@@ -1796,17 +1554,6 @@
       "priority": 2
     },
     {
-      "id": "8a8802489be7",
-      "title": "V8.1 Alpha is out!",
-      "url": "https://www.reddit.com/r/midjourney/comments/1slml6j/v81_alpha_is_out/",
-      "summary": "Thanks for testing our V8.0 model over the last month! Today we're releasing our next version of V8 - V8.1 What’s new in V8.1? V8.1 has a consistent and familiar aesthetic in the spirit of V7. Moodboards and srefs are now super stable and will be eve",
-      "date": "2026-04-14T21:44:04+00:00",
-      "source": "r/midjourney",
-      "lang": "en",
-      "category": "ImageVideo",
-      "priority": 2
-    },
-    {
       "id": "94b2ee34348d",
       "title": "LWiAI Podcast #238 - GPT 5.4 mini, OpenAI Pivot, Mamba 3, Attention Residuals",
       "url": "https://lastweekin.ai/p/lwiai-podcast-238-gpt-54-mini-openai",
@@ -1826,17 +1573,6 @@
       "source": "Last Week in AI",
       "lang": "en",
       "category": "Research",
-      "priority": 2
-    },
-    {
-      "id": "96000b722bab",
-      "title": "V8 alpha is here!",
-      "url": "https://www.reddit.com/r/midjourney/comments/1rwkcfu/v8_alpha_is_here/",
-      "summary": "Hey y'all! Today we’re letting the community test an early version of our V8 model on alpha.midjourney.com. We want your feedback and your help. Let’s explore what this new model can do! V8 is an incredible model. It’s much better at following detail",
-      "date": "2026-03-17T21:39:40+00:00",
-      "source": "r/midjourney",
-      "lang": "en",
-      "category": "ImageVideo",
       "priority": 2
     },
     {
@@ -2262,7 +1998,7 @@
       "title": "SNS広報を全4回の講座で習得！≪SNS広報担当養成講座 統合マスターコース≫2026年6月開講（61期生）オンライン講座",
       "url": "https://belove.doorkeeper.jp/events/189305",
       "summary": "📅 2026-06-17 · 📍 オンライン · 👥 参加 17人",
-      "date": "2026-06-11T14:27:43.399535+00:00",
+      "date": "2026-06-11T23:16:30.208327+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2276,7 +2012,7 @@
       "title": "【対面】 ２日間  マネジメント3.0 基礎ワークショップAI時代に求められる組織心理学に基づく、世界標準のよい組織づくり、週休3日のマネジメント（国際認定が取得可能）",
       "url": "https://management30-nuworks.doorkeeper.jp/events/195257",
       "summary": "📅 2026-07-31 · 📍 渋谷　ジェイフィール　ホール · 👥 参加 9/12人",
-      "date": "2026-06-11T14:27:43.399587+00:00",
+      "date": "2026-06-11T23:16:30.208383+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2290,7 +2026,7 @@
       "title": "SNS広報を全4回の講座で習得！≪SNS広報担当養成講座 統合マスターコース≫2026年9月開講（62期生）オンライン講座",
       "url": "https://belove.doorkeeper.jp/events/195545",
       "summary": "📅 2026-09-16 · 📍 オンライン · 👥 参加 2人",
-      "date": "2026-06-11T14:27:43.399614+00:00",
+      "date": "2026-06-11T23:16:30.208415+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2303,8 +2039,8 @@
       "id": "fa2e1233881f",
       "title": "The 4th Bayes-Duality Workshop 2026",
       "url": "https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/195619",
-      "summary": "📅 2026-06-24 · 📍 オンライン · 👥 参加 88人",
-      "date": "2026-06-11T14:27:43.399637+00:00",
+      "summary": "📅 2026-06-24 · 📍 オンライン · 👥 参加 89人",
+      "date": "2026-06-11T23:16:30.208442+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2318,7 +2054,7 @@
       "title": "10/6　AI×SNS 中小企業のためのSNS×AI活用術セミナー",
       "url": "https://belove.doorkeeper.jp/events/196182",
       "summary": "📅 2026-10-06 · 📍 オンライン · 👥 参加 0人",
-      "date": "2026-06-11T14:27:43.399662+00:00",
+      "date": "2026-06-11T23:16:30.208469+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2332,7 +2068,7 @@
       "title": "12/8 中小企業のためのSNS活用術セミナー ～DX初めの一歩～ 著者・西良旺子が語る！",
       "url": "https://belove.doorkeeper.jp/events/196183",
       "summary": "📅 2026-12-08 · 📍 オンライン · 👥 参加 0人",
-      "date": "2026-06-11T14:27:43.399685+00:00",
+      "date": "2026-06-11T23:16:30.208495+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2346,7 +2082,7 @@
       "title": "初年度2千万円のノウハウ。Web制作で食べる！WordPressでやるべきこと、Web制作ビジネスノウハウ全部盛りセミナー（大人気追加開催）",
       "url": "https://enterprise-wordpress.doorkeeper.jp/events/196195",
       "summary": "📅 2026-06-24 · 📍 オンライン · 👥 参加 45/100人",
-      "date": "2026-06-11T14:27:43.399708+00:00",
+      "date": "2026-06-11T23:16:30.208521+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2360,7 +2096,7 @@
       "title": "第6回（旧5回)CoderDojo 南会津（最寄駅：会津田島駅）",
       "url": "https://coderdojo-minamiaizu.doorkeeper.jp/events/196200",
       "summary": "📅 2026-07-26 · 📍 南会津町役場本庁舎多目的ホール（祇園祭のため場所が変更する場 · 👥 参加 0/10人",
-      "date": "2026-06-11T14:27:43.399732+00:00",
+      "date": "2026-06-11T23:16:30.208548+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2374,7 +2110,7 @@
       "title": "VoIP & Asterisk lounge extra Gen AI ハンズオン編",
       "url": "https://voip-lounge.doorkeeper.jp/events/196433",
       "summary": "📅 2026-06-18 · 📍 TOKYO L.O.C.A.L BASE · 👥 参加 4/30人",
-      "date": "2026-06-11T14:27:43.399754+00:00",
+      "date": "2026-06-11T23:16:30.208574+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2388,7 +2124,7 @@
       "title": "マーケティングテクノロジスト認定講座【WACA公式】（旧上級GA4講座）6月（2日間講座）",
       "url": "https://web-mining.doorkeeper.jp/events/196640",
       "summary": "📅 2026-06-16 · 📍 オンライン · 👥 参加 1/10人",
-      "date": "2026-06-11T14:27:43.399777+00:00",
+      "date": "2026-06-11T23:16:30.208600+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2402,7 +2138,7 @@
       "title": "SNS広報を全4回の講座で習得！≪SNS広報担当養成講座 統合マスターコース≫2026年11月開講（63期生）オンライン講座",
       "url": "https://belove.doorkeeper.jp/events/196703",
       "summary": "📅 2026-11-19 · 📍 オンライン · 👥 参加 2人",
-      "date": "2026-06-11T14:27:43.399803+00:00",
+      "date": "2026-06-11T23:16:30.208631+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2416,7 +2152,7 @@
       "title": "#朝までディレクション 3",
       "url": "https://cssnite.doorkeeper.jp/events/196798",
       "summary": "📅 2026-06-19 · 📍 オンライン · 👥 参加 298人",
-      "date": "2026-06-11T14:27:43.399826+00:00",
+      "date": "2026-06-11T23:16:30.208656+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2430,7 +2166,7 @@
       "title": "ふくいＤＸ経営塾【7月10日開講】＜参加者募集中＞",
       "url": "https://dxlab.doorkeeper.jp/events/196533",
       "summary": "📅 2026-07-10 · 📍 福井県産業情報センター · 👥 参加 19/19人",
-      "date": "2026-06-11T14:27:43.399849+00:00",
+      "date": "2026-06-11T23:16:30.208681+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2444,7 +2180,7 @@
       "title": "Hardening Designers Conference 2026",
       "url": "https://hardening.doorkeeper.jp/events/196978",
       "summary": "📅 2026-07-02 · 📍 オンライン · 👥 参加 52/170人",
-      "date": "2026-06-11T14:27:43.399871+00:00",
+      "date": "2026-06-11T23:16:30.208706+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2457,8 +2193,8 @@
       "id": "120f6631b855",
       "title": "【CeeBeeDee】InDesignで書籍を作るための制作ワークフロー入門／あかつき",
       "url": "https://dtptransit.doorkeeper.jp/events/197039",
-      "summary": "📅 2026-06-12 · 📍 オンライン · 👥 参加 398人",
-      "date": "2026-06-11T14:27:43.399894+00:00",
+      "summary": "📅 2026-06-12 · 📍 オンライン · 👥 参加 400人",
+      "date": "2026-06-11T23:16:30.208731+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2471,8 +2207,8 @@
       "id": "0181016871ed",
       "title": "ロイロノート働き方ウィーク④｜【若手の先生方向け】若手教員のためのICTを活用した働き方改革",
       "url": "https://loilonote.doorkeeper.jp/events/197046",
-      "summary": "📅 2026-06-22 · 📍 オンライン · 👥 参加 95/500人",
-      "date": "2026-06-11T14:27:43.399916+00:00",
+      "summary": "📅 2026-06-22 · 📍 オンライン · 👥 参加 96/500人",
+      "date": "2026-06-11T23:16:30.208756+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2486,7 +2222,7 @@
       "title": "【シーメンスエキスパートトーク 第3弾】AI時代、ローコード・ノーコードの価値はどう変わるのか ～「早い・簡単」から「信頼」へ、企業の責任に応えるAI開発プラットフォームとは～",
       "url": "https://majisemi-dev.doorkeeper.jp/events/196995",
       "summary": "📅 2026-06-17 · 📍 オンライン · 👥 参加 3/3人",
-      "date": "2026-06-11T14:27:43.399940+00:00",
+      "date": "2026-06-11T23:16:30.208780+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2500,7 +2236,7 @@
       "title": "チャットで聞けば顧客データが返ってくる世界 ～生成 AI × 業務システムの現実的な組み合わせ方～",
       "url": "https://majisemi-business.doorkeeper.jp/events/197057",
       "summary": "📅 2026-06-17 · 📍 オンライン · 👥 参加 0人",
-      "date": "2026-06-11T14:27:43.399963+00:00",
+      "date": "2026-06-11T23:16:30.208805+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2514,7 +2250,7 @@
       "title": "【ウェブ解析士会員向けオフィスアワー6月】第一線のプロが語る、実践に役立つウェブ解析",
       "url": "https://web-mining.doorkeeper.jp/events/197034",
       "summary": "📅 2026-06-23 · 📍 オンライン · 👥 参加 57人",
-      "date": "2026-06-11T14:27:43.399996+00:00",
+      "date": "2026-06-11T23:16:30.208831+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2528,7 +2264,7 @@
       "title": "AI時代、BtoBマーケティングにおける「人間の関与」をどう考えるか？ ～2026年、マーケティング担当者が考えるべき「顧客体験」設計12選～【申込者全員にアーカイブ動画をプレゼント】",
       "url": "https://majisemi-sales.doorkeeper.jp/events/197124",
       "summary": "📅 2026-06-16 · 📍 オンライン · 👥 参加 0人",
-      "date": "2026-06-11T14:27:43.400019+00:00",
+      "date": "2026-06-11T23:16:30.208855+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2542,7 +2278,7 @@
       "title": "北米レガシーを“日本から動かす” ―― AI×リモートで実現するモダナイゼーション最前線（無料オンラインセミナー）",
       "url": "https://systems.doorkeeper.jp/events/197102",
       "summary": "📅 2026-06-17 · 📍 オンライン · 👥 参加 1/50人",
-      "date": "2026-06-11T14:27:43.400044+00:00",
+      "date": "2026-06-11T23:16:30.208883+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2556,7 +2292,7 @@
       "title": "KUSANAGIサミット2026 WordPress編 Connect with WordPress ── つながろう、WordPressで",
       "url": "https://enterprise-wordpress.doorkeeper.jp/events/197104",
       "summary": "📅 2026-06-27 · 📍 オンライン · 👥 参加 17人",
-      "date": "2026-06-11T14:27:43.400067+00:00",
+      "date": "2026-06-11T23:16:30.208908+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2570,7 +2306,7 @@
       "title": "6/18 (木) 16:00-【業界別GX勉強会】デジタルが導く脱炭素ロードマップ　Green of IT & Green by ITで実現するIT・通信業界の持続可能な収益モデルへの転換",
       "url": "https://skillupgreen.doorkeeper.jp/events/197168",
       "summary": "📅 2026-06-18 · 📍 オンライン · 👥 参加 1/30人",
-      "date": "2026-06-11T14:27:43.400090+00:00",
+      "date": "2026-06-11T23:16:30.208957+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2584,7 +2320,7 @@
       "title": "生成AIは、なぜ「使いこなせない」のか？ ～ナレッジを育て、現場に根付かせる運用設計～",
       "url": "https://majisemi-technology.doorkeeper.jp/events/197179",
       "summary": "📅 2026-06-16 · 📍 オンライン · 👥 参加 4/4人",
-      "date": "2026-06-11T14:27:43.400112+00:00",
+      "date": "2026-06-11T23:16:30.208985+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2598,7 +2334,7 @@
       "title": "AIのハルシネーションは、人間の脳でも起きていた ── 最新脳科学が突きつける、不都合な「現実」 ──",
       "url": "https://enjoyscience.doorkeeper.jp/events/197182",
       "summary": "📅 2026-06-14 · 📍 オンライン · 👥 参加 90/120人",
-      "date": "2026-06-11T14:27:43.400135+00:00",
+      "date": "2026-06-11T23:16:30.209010+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",

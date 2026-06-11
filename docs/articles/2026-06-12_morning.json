@@ -1,0 +1,164 @@
+{
+  "id": "2026-06-12_morning-ai-news-summary",
+  "file_key": "2026-06-12_morning",
+  "date": "2026-06-12",
+  "generated_at": "2026-06-11T23:16:59.633343+00:00",
+  "title": "AIニュースまとめ：iPhone自由化、サッカーテク、イベント情報",
+  "slug": "ai-news-summary",
+  "summary": "iPhone向け代替アプリストア、サッカーのテクノロジー進化、AI開発ツールの更新など、AI関連のトップニュースをキッチュに紹介します。",
+  "tags": [
+    "iPhone",
+    "AI",
+    "テクノロジー",
+    "イベント",
+    "画像生成"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "今週は、iPhoneのアプリエコシステムに関する新たな動きや、サッカーのテクノロジー進化、開発者向けツールの更新など、AI関連の興味深いトピックがピックアップされました。特に、サードパーティ製アプリストア「AltStore PAL」の登場は、Appleの公式ストアに依存しないアプリ利用が広がる可能性を示しています。また、サッカーの判断技術や、イベント情報などが注目を集めています。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "iPhoneやiPadのアプリは通常、AppleのApp Storeからのみダウンロード可能ですが、サードパーティ製アプリストア「AltStore PAL」が登場し、公式外のアプリをインストールできるようになります。これにより、開発者やカスタムアプリを利用したいユーザーにとって選択の幅が広がります。ただし、セキュリティや保証の問題が伴うため、導入には注意が必要です。",
+      "source_title": "iPhoneにApp Storeで配布されていないアプリをインストールできるようにする代替アプリストア「AltStore PAL」の導入手順はこんな感じ",
+      "source_url": "https://gigazine.net/news/20260612-altstore-pal/"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "ComfyUI-PiDカスタムノードが更新され、NVIDIA PiDピクセル拡散デコーダーのネイティブモデルやFP8サポートが追加されました。これにより、画像生成の精度と速度が向上し、Stable Diffusionワークフローの柔軟性が広がります。開発者やクリエイターにとって便利なアップデートとなっています。",
+      "source_title": "ComfyUI-PiD update: native models, workflows, and FP8 support",
+      "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1u3cckr/comfyuipid_update_native_models_workflows_and_fp8/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "データ分析のためのDatasette活用",
+      "prompt_body": "Datasetteを用いて、CSVやSQLiteデータをWebインターフェースで簡単に可視化・クエリ実行します。例えば、カスタマーデータの分析や、CSVファイルをアップロードして即座にグラフ表示。PythonコードやカスタムSQLで高度な分析も可能。",
+      "prompt_usecase": "データサイエンティストやビジネスアナリストが、スプレッドシートよりも柔軟にデータを扱う際に活用できます。",
+      "prompt_source": "https://simonwillison.net/2026/Jun/11/datasette/#atom-everything"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "Hacker Newsで注目されたのは、AIと機械学習の基礎をわかりやすく説明する記事と、「AIという言葉を万物に当てるな」という機械学習の pioneerによる批判記事。後者は、AIの利用範囲が広すぎて本質が曖昧になるのを懸心する意見で、業界の議論を刺激しています。",
+      "source_title": "AI and Machine Learning – The Basics",
+      "source_url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "6月12日には、InDesignを用いた書籍制作ワークフロー入門セミナー。6月14日には、AIのハルシネーションと人間の脳科学の関連性をテーマにしたオンラインイベントが開催されます。いずれもオンラインで気軽に参加できるため、興味のある方はチェックしてみましょう。",
+      "event_list": [
+        {
+          "title": "InDesignで書籍を作るための制作ワークフロー入門",
+          "date": "2026-06-12",
+          "place": "オンライン",
+          "url": "https://dtptransit.doorkeeper.jp/events/197039"
+        },
+        {
+          "title": "AIのハルシネーションは、人間の脳でも起きていた",
+          "date": "2026-06-14",
+          "place": "オンライン",
+          "url": "https://enjoyscience.doorkeeper.jp/events/197182"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "AltStore PALのようなサードパーティ製アプリストアは、企業のカスタムアプリ配布や、市販版からの機能強化が必要な場面で活用できます。サッカーのテクノロジー（例：自動ビデオ判定システム）は、スポーツ業界だけでなく、医療や交通監視などの分野にも応用可能。ComfyUI-PiDのような画像生成ツールは、マーケティングや商品デザインの効率化に寄与します。",
+      "source_title": "サッカーとテクノロジーの16年 ― それはランパードの“幻のゴール”から始まった",
+      "source_url": "https://ascii.jp/elem/000/004/409/4409996/?rss"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "iPhoneのアプリストアの民主化や、スポーツテクノロジーの進化が牽引する産業トレンドを確認しましょう。一方で、AIの定義や利用範囲についての議論も重要。技術の進歩とともに、その倫理的・社会的影響も見過ごせません。今後の動向を追う価値があります。",
+      "source_title": "サッカーとテクノロジーの16年 ― それはランパードの“幻のゴール”から始まった",
+      "source_url": "https://ascii.jp/elem/000/004/409/4409996/?rss"
+    }
+  ],
+  "sources": [
+    {
+      "title": "iPhoneにApp Storeで配布されていないアプリをインストールできるようにする代替アプリストア「AltStore PAL」の導入手順はこんな感じ",
+      "url": "https://gigazine.net/news/20260612-altstore-pal/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "GALLERIA×ぶいすぽっ！コラボPC第2弾 新メンバー11人のデザイン＆ボイス追加",
+      "url": "https://ascii.jp/elem/000/004/410/4410013/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "サッカーとテクノロジーの16年 ― それはランパードの“幻のゴール”から始まった",
+      "url": "https://ascii.jp/elem/000/004/409/4409996/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "Scaffolding Company’s Data-Center Pivot Cuts Into Margins",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-11/scaffolding-company-s-data-center-pivot-cuts-into-margins",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "マクドナルド「チーチーダブチ」もうすぐ終売、今のうちに！",
+      "url": "https://ascii.jp/elem/000/004/409/4409992/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "datasette 1.0a33",
+      "url": "https://simonwillison.net/2026/Jun/11/datasette/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "ComfyUI-PiD update: native models, workflows, and FP8 support",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1u3cckr/comfyuipid_update_native_models_workflows_and_fp8/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "【CeeBeeDee】InDesignで書籍を作るための制作ワークフロー入門／あかつき",
+      "url": "https://dtptransit.doorkeeper.jp/events/197039",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "AIのハルシネーションは、人間の脳でも起きていた ── 最新脳科学が突きつける、不都合な「現実」 ──",
+      "url": "https://enjoyscience.doorkeeper.jp/events/197182",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
