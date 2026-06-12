@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "2026-06-13_morning-ai-industry-status-and-trending-topics",
+      "date": "2026-06-13",
+      "file_key": "2026-06-13_morning",
+      "title": "AI業界の現状と注目トピック",
+      "summary": "メタのAI部門内部の問題から、生成AIの実用化課題、AI教育イベントまで、AI技術の多角的な動向を解剖します。",
+      "tags": [
+        "AI",
+        "生成AI",
+        "プロンプト設計",
+        "ビジネス応用"
+      ],
+      "slug": "ai-industry-status-and-trending-topics"
+    },
+    {
       "id": "2026-06-12_morning-ai-news-summary",
       "date": "2026-06-12",
       "file_key": "2026-06-12_morning",
@@ -401,22 +415,7 @@
         "ゲームハードウェア"
       ],
       "slug": "ai-this-week"
-    },
-    {
-      "id": "2026-05-25_evening-ai-2026-weekly-insights",
-      "date": "2026-05-25",
-      "file_key": "2026-05-25_evening",
-      "title": "生成AIとビジネス変革：動画生成・セキュリティ・活用術を徹底解説",
-      "summary": "生成AIの最新動向とビジネス活用法を、動画生成技術・サイバーセキュリティ・実務定着支援イベント情報と合わせて解説。",
-      "tags": [
-        "生成AI",
-        "動画生成",
-        "サイバーセキュリティ",
-        "プロンプト",
-        "ビジネス活用"
-      ],
-      "slug": "ai-2026-weekly-insights"
     }
   ],
-  "updated_at": "2026-06-11T23:16:59.634074+00:00"
+  "updated_at": "2026-06-12T23:11:16.872344+00:00"
 }
