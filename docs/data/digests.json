@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-06-13_evening-english-slug",
+      "date": "2026-06-13",
+      "file_key": "2026-06-13_evening",
+      "title": "AIニュース最新解説",
+      "summary": "最新のAIニュースを分かりやすく解説。技術の進化と社会への影響をまとめ、読者に実践的な知力を提供します。",
+      "tags": [
+        "AI",
+        "技術",
+        "ビジネス"
+      ],
+      "slug": "english-slug"
+    },
+    {
       "id": "2026-06-13_morning-ai-industry-status-and-trending-topics",
       "date": "2026-06-13",
       "file_key": "2026-06-13_morning",
@@ -402,20 +415,7 @@
         "GPUISA"
       ],
       "slug": "ai-impact-daily-industry"
-    },
-    {
-      "id": "2026-05-25_evening-ai-this-week",
-      "date": "2026-05-25",
-      "file_key": "2026-05-25_evening",
-      "title": "AIの今週の注目：生成AIからゲームディスプレイまで",
-      "summary": "最新AI技術・イベント・プロンプトを解剖。生成AIの活用課題、ゲームディスプレイの進化、スタートアップ支援策を解説。",
-      "tags": [
-        "生成AI",
-        "スタートアップ支援",
-        "ゲームハードウェア"
-      ],
-      "slug": "ai-this-week"
     }
   ],
-  "updated_at": "2026-06-12T23:11:16.872344+00:00"
+  "updated_at": "2026-06-13T07:53:13.996682+00:00"
 }

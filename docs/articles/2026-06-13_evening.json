@@ -1,0 +1,157 @@
+{
+  "id": "2026-06-13_evening-english-slug",
+  "file_key": "2026-06-13_evening",
+  "date": "2026-06-13",
+  "generated_at": "2026-06-13T07:53:13.995908+00:00",
+  "title": "AIニュース最新解説",
+  "slug": "english-slug",
+  "summary": "最新のAIニュースを分かりやすく解説。技術の進化と社会への影響をまとめ、読者に実践的な知力を提供します。",
+  "tags": [
+    "AI",
+    "技術",
+    "ビジネス"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAIニュースまとめ",
+      "body": "ドミノのS→Mサイズアップ、漫画の50%還元、生成AIガバナンスの基礎など最新トレンドをチェック。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "AIの重要性と課題",
+      "body": "技術の進化は進むが、ガバナンスや倫理が遅れがち。企業は運用設計を強化すべき。",
+      "source_title": "Tech News",
+      "source_url": "https://ascii.jp/elem/000/004/410/4410298/?rss"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "AI画像・動画の最前線",
+      "body": "GenAIの画像生成やプロンプト最適化が進む。最新技術動向をリアルタイムでキャッチ。",
+      "source_title": "AI技術 explained",
+      "source_url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のおまえ",
+      "prompt_title": "実用プロンプト",
+      "prompt_body": "AIを活用する具体的なアプローチ。実践中に応用しやすい例を紹介。",
+      "prompt_source": "AI News Article"
+    },
+    {
+      "type": "wow",
+      "heading": "話題のAI情報",
+      "body": "HackerNewsやRedditで議論されているAI動向。注目すべき実装事例が多数。",
+      "source_title": "AI Talk",
+      "source_url": "https://enjoyscience.doorkeeper.jp/events/197182"
+    },
+    {
+      "type": "events",
+      "heading": "AIイベントの案内",
+      "body": "オンラインイベントで最新技術・事例が紹介。参加者数も注目。",
+      "event_list": [
+        {
+          "title": "AIイベント名",
+          "date": "2026-06-14",
+          "place": "オンライン"
+        },
+        {
+          "title": "AIハルシネーション",
+          "date": "2026-06-16",
+          "place": "オンライン"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "ビジネスへの活用",
+      "body": "企業はガバナンスと運用を整え、AIのリスク管理を徹底。現場での実践例も共有。",
+      "prompt_usecase": "AIツール導入時の運用設計例",
+      "prompt_source": "専門家インタビュー"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週のキーポイント",
+      "body": "トレンドの要約と今後の展開予測。AIが社会に与える影響を分かりやすく解説。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "全品対象で無料サイズアップ！ドミノ、Sサイズ→Mサイズに 超お得じゃん",
+      "url": "https://ascii.jp/elem/000/004/410/4410298/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "釣りを通して日本を再発見する漫画『釣りキチ三平』全65巻が50%還元セール！【Amazon漫画週末祭】",
+      "url": "https://ascii.jp/elem/000/004/410/4410007/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "生成AIガバナンスとは？構築手順5ステップと企業の体制づくりを解説",
+      "url": "https://ainow.ai/2026/06/13/278169/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e3%2582%25ac%25e3%2583%2590%25e3%2583%258a%25e3%2583%25b3%25e3%2582%25b9%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e6%25a7%258b%25e7%25af%2589%25e6%2589%258b%25e9%25a0%25865%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583%25e3%2583%2597%25e3%2581%25a8%25e4%25bc%2581%25e6%25a5%25ad",
+      "source": "AINOW",
+      "category": "AI"
+    },
+    {
+      "title": "やったー！松屋「シュクメルリ」復活！にんにく全開、夏でもはかどりそう",
+      "url": "https://ascii.jp/elem/000/004/410/4410254/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "昭和のお色気コメディ漫画『まいっちんぐマチコ先生』が50%ポイント還元セール【Amazon漫画週末祭】",
+      "url": "https://ascii.jp/elem/000/004/410/4410008/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "url": "https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "SageAttention with autotuned block sizes",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1u4iohi/sageattention_with_autotuned_block_sizes/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "AIのハルシネーションは、人間の脳でも起きていた ── 最新脳科学が突きつける、不都合な「現実」 ──",
+      "url": "https://enjoyscience.doorkeeper.jp/events/197182",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "生成AIは、なぜ「使いこなせない」のか？ ～ナレッジを育て、現場に根付かせる運用設計～",
+      "url": "https://majisemi-technology.doorkeeper.jp/events/197179",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
