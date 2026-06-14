@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-06-15_morning-ai-news-summary-june-15-2026",
+      "date": "2026-06-15",
+      "file_key": "2026-06-15_morning",
+      "title": "AIの戦術化・セキュリティ・SEO革命　2026年6月15日のAIニュース総まとめ",
+      "summary": "AIが戦略決定に関与するリスク、サイバーセキュリティの進化、AI時代のSEO戦略、そしてビジネス活用まで。6月15日のAIニュースを振り返る。",
+      "tags": [
+        "AI安全性",
+        "サイバーセキュリティ",
+        "SEO",
+        "生成AI",
+        "ビジネス活用"
+      ],
+      "slug": "ai-news-summary-june-15-2026"
+    },
+    {
       "id": "2026-06-14_evening-google-ai-reinvents-search",
       "date": "2026-06-14",
       "file_key": "2026-06-14_evening",
@@ -402,20 +417,7 @@
         "AIイベント"
       ],
       "slug": "ai-future-2026"
-    },
-    {
-      "id": "2026-05-27_morning-digest",
-      "date": "2026-05-27",
-      "file_key": "2026-05-27_morning",
-      "title": "AIの進化と課題",
-      "summary": "AI技術の急速な進展が社会に与える影響を指摘。",
-      "tags": [
-        "AI",
-        "倫理",
-        "未来"
-      ],
-      "slug": "digest"
     }
   ],
-  "updated_at": "2026-06-14T12:32:08.376026+00:00"
+  "updated_at": "2026-06-14T23:02:13.656268+00:00"
 }

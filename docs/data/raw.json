@@ -1,7 +1,370 @@
 {
-  "fetched_at": "2026-06-14T12:30:56.782269+00:00",
+  "fetched_at": "2026-06-14T23:01:43.491257+00:00",
   "total": 206,
   "items": [
+    {
+      "id": "fe8ded16b469",
+      "title": "ChatGPT・Claude・Geminiに「冷戦下の戦略会議」をさせたら核兵器を使用してしまったという研究結果",
+      "url": "https://gigazine.net/news/20260615-chatgpt-claude-gemini-nuclear/",
+      "summary": "AIの研究開発が急速に進む中で、AIを軍事的な戦略・戦術決定に活用する動きも見え始めています。キングス・カレッジ・ロンドンで政治心理学やAIについて研究するケネス・ペイン教授は「GPT-5.2」「Claude Sonnet 4」「Gemini 3 Flash」で核保有国同士の戦争戦略会議をシミュレーションさせる実験を行い、その結果を報告しています。続きを読む...",
+      "date": "2026-06-14T23:00:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "e4b3768738f6",
+      "title": "(Update) Okims Ideogram 4 - prompt builder V2",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1u5ywec/update_okims_ideogram_4_prompt_builder_v2/",
+      "summary": "Okims JSON Builder for ComfyUI A visual JSON prompt builder node for ComfyUI. Core features: Opens a fullscreen HTML builder from inside ComfyUI Outputs the final prompt as a ComfyUI STRING Clean node UI with only two buttons: Open Builder Copy JSON ",
+      "date": "2026-06-14T22:35:19+00:00",
+      "source": "r/StableDiffusion",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
+    {
+      "id": "6fc3f9fa0416",
+      "title": "キヤノンMJ、Interopブースで“セキュリティ専門家に守られる安心”を提案",
+      "url": "https://ascii.jp/elem/000/004/410/4410384/?rss",
+      "summary": "「Intero Tokyo 2026」のキヤノンマーケティングジャパン（キヤノンMJ）ブースでは、マネージドXDR（MDR）ソリューション「ESET PROTECT MDR」を中心に据え、同社が提供する各種セキュリティソリューションの紹介が行われていた。",
+      "date": "2026-06-14T22:30:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "7fae42e90650",
+      "title": "NY原油市場 80ドル台に下落 米イラン合意で供給回復に期待感",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015149981000",
+      "summary": "14日のニューヨーク原油市場では、国際的な取り引きの指標となるWTIの先物価格が一時、1バレル＝80ドル台まで下落しました。先週末と比べると5％あまり下落した形です。アメリカのトランプ大統領がイランと…",
+      "date": "2026-06-14T22:27:45+00:00",
+      "source": "NHK テクノロジー",
+      "lang": "ja",
+      "category": "AI",
+      "priority": 2
+    },
+    {
+      "id": "e59a93934a4b",
+      "title": "「Fable 5」停止から2日、MicrosoftのナデラCEOがXに「エコシステムなきフロンティアは不安定」と投稿",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/15/news055.html",
+      "summary": "Anthropicの「Claude Fable 5」が米政府の輸出管理指令により全世界で停止されてから2日後、MicrosoftのナデラCEOがXに「エコシステムなきフロンティアは不安定」と題した論考を投稿した。Fable 5には直接言及せず、企業が特定モデルに依存せず自社の「学習ループ」を構築することの重要性を訴えた。",
+      "date": "2026-06-14T22:21:00+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "53759ea6cdf8",
+      "title": "Training Underway for the New LTX Model",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1u5y34w/training_underway_for_the_new_ltx_model/",
+      "summary": "The New LTX Model is being trained. This news is sourced from the LTX Discord. I hope LTX will launch it soon. submitted by /u/Fresh_Sun_1017 [link] [comments]",
+      "date": "2026-06-14T22:00:32+00:00",
+      "source": "r/StableDiffusion",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
+    {
+      "id": "564491c35baf",
+      "title": "検索エンジンに「AIによる概要」が表示される状況で自社のウェブサイトを見てもらいやすくする方法とは？",
+      "url": "https://gigazine.net/news/20260615-make-your-website-discoverable-by-ai/",
+      "summary": "近年は検索エンジン各社がAIを導入しており、検索結果画面に「AIによる概要」が表示されたり、AIとチャットして情報を探すことが当たり前になったりしています。そんな状況下で、自社のウェブサイトがAIによる概要やAIの回答に表示されやすくするための4つのポイントについて、ホスティングブログサービスの「WordPress.com」を提供するAutomatticがまとめています。続きを読む...",
+      "date": "2026-06-14T22:00:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "c9d35812810f",
+      "title": "わずか3日で停止された新AI「Claude Fable 5」は何がすごかったのか",
+      "url": "https://ascii.jp/elem/000/004/410/4410414/?rss",
+      "summary": "Anthropicの新モデル「Claude Fable 5」は、公開直後に安全保障上の懸念で一時停止されましたが、3日間の使用で従来モデルを大きく超える性能を感じました。",
+      "date": "2026-06-14T22:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "4d6afc25caab",
+      "title": "「かんたんスマホ5」は他のスマホからリモート操作できるので親孝行が簡単！の巻：スマホ総研定例会382",
+      "url": "https://ascii.jp/elem/000/004/410/4410336/?rss",
+      "summary": "今回は「かんたんスマホ5」を紹介。リモート操作に対応しており、離れた場所に住んでいる家族が、通話しながら画面を共有して操作できることで親のスマホ利用をサポートしたり、代わりに設定してあげたりが可能なんです。",
+      "date": "2026-06-14T22:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "52429550ca38",
+      "title": "『今週のASCII.jp注目ニュース』生放送（6/13～6/19ぶん）",
+      "url": "https://ascii.jp/elem/000/004/410/4410320/?rss",
+      "summary": "アスキーのNEWSメディア『ASCII.jp』で注目を集めたこの1週間の記事をランキング形式でお届け！ ASCII.jp編集部のオカモト、ムラリン、MCつばさの3人が、自由におしゃべりします。",
+      "date": "2026-06-14T22:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "609a33ee7721",
+      "title": "「シュクメルリ祭り」始まる！松屋でも松のやでも！ニンニク好き歓喜",
+      "url": "https://ascii.jp/elem/000/004/410/4410283/?rss",
+      "summary": "松屋フーズはとんかつ業態「松のや」で6月16日10時より「シュクメルリジャンボチキンかつ定食」を始めとした「シュクメルリ」メニューを発売します。",
+      "date": "2026-06-14T22:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "12a69d89ed39",
+      "title": "「アスキーグルメNEWS」生放送（2026年6月19日号）",
+      "url": "https://ascii.jp/elem/000/004/410/4410152/?rss",
+      "summary": "巷で話題のおいしいグルメ情報を生放送でご紹介します。ぜひ、お昼ごはんを楽しみながらどうぞ！",
+      "date": "2026-06-14T22:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "f28c69d5e5c3",
+      "title": "アカツキAIテクノロジーズ、「フィジカルAIソリューション」提供開始 企業のロボット導入を構想から実装、運用まで支援",
+      "url": "https://ascii.jp/elem/000/004/410/4410151/?rss",
+      "summary": "株式会社アカツキAIテクノロジーズは6月5日に、企業におけるロボット導入を構想から実装、運用まで一貫して支援するサービス「フィジカルAIソリューション」の提供開始を発表した。ロボットの買い付けをはじめ、現場のタスクに合わせた学習・開発、実機データの収集といった機能を組み合わせるとともに、サブスクリプションモデルでロボットを安価に提供することで、PoC（概念実証）のハードルとコストを低減するという。",
+      "date": "2026-06-14T22:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "2985d79aeb8e",
+      "title": "GRIFFY、ソラコムと協業しクラウドカメラと生成AIを連携した「生成AI現場監視システム」のレンタル提供開始",
+      "url": "https://ascii.jp/elem/000/004/410/4410150/?rss",
+      "summary": "株式会社GRIFFYは6月9日に、株式会社ソラコムと協業して2026年7月1日から建設業界向けソリューション「生成AI現場監視システム」のレンタル提供を開始すると発表した。クラウド型カメラと生成AIを連携させ、人の目に頼っていた現場の監視業務などを自然言語の指示（プロンプト）で自動化を図るという。",
+      "date": "2026-06-14T22:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "25833dfebc35",
+      "title": "日本人の食事は4パターン、「休日朝食抜き」「間食多め」「夕食早め」……あなたはどれ？ 東大など論文発表",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/15/news027.html",
+      "summary": "東京大学などに所属する研究者らが国際学術誌British Journal of Nutritionで発表した論文「Identification of chrono-nutrition behavior patterns and their associations with sociodemographic characteristics, diet quality, and obesity」は、日本人の食事のタイミングや頻度といった食事リズムが大きく4つの型に分類されることを網羅的に明らかにし",
+      "date": "2026-06-14T22:00:00+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "d093ebbe5ad0",
+      "title": "AMDの自動更新ツールに見つかったリモートコード実行の脆弱性、報告から公開までに何が起きたのか",
+      "url": "https://gigazine.net/news/20260615-amd-auto-updater-vulnerability-rce/",
+      "summary": "AMDの自動更新ツールにリモートコード実行につながる可能性がある脆弱(ぜいじゃく)性が見つかりました。セキュリティ研究者のMrBruh氏はAMDに報告したものの、中間者攻撃を前提とするため報奨金制度の対象外と判断され、その対応を巡って議論が広がっています。続きを読む...",
+      "date": "2026-06-14T21:00:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "5eb9626d3510",
+      "title": "日銀 きょうから金融政策決定会合 利上げを最終判断へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015149881000",
+      "summary": "日銀は15日から2日間、金融政策決定会合を開きます。植田総裁が入院中のため欠席する異例の会合となりますが、イラン情勢の影響で原油高や円安傾向が続く中、物価上昇への対応を急ぐ必要があるとして、利上げに踏…",
+      "date": "2026-06-14T20:55:44+00:00",
+      "source": "NHK テクノロジー",
+      "lang": "ja",
+      "category": "AI",
+      "priority": 2
+    },
+    {
+      "id": "5b1e10495e80",
+      "title": "The FBI built a small town to simulate cyberattacks",
+      "url": "https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range",
+      "summary": "Last year, the FBI opened a Cyber Range in Huntsville, Alabama, for simulating cyberattacks. Think of it sort of like the famous Hogan's Alley, but for modern digital crime training. It's a massive 22,000 square-foot replica of an entire town, comple",
+      "date": "2026-06-14T20:35:41+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "49ef5cfce6ef",
+      "title": "Why Do Naive SFT Filters For Safety Properties Fail?",
+      "url": "https://www.alignmentforum.org/posts/wyZRNgpeiPeRXB6eT/why-do-naive-sft-filters-for-safety-properties-fail",
+      "summary": "This is the fourth in a series of informal research updates from the Google DeepMind Language Model Interpretability team, in interpretability and adjacent areas. The third post can be found here.Since SFT is the cause for many safety relevant proper",
+      "date": "2026-06-14T19:45:10+00:00",
+      "source": "Alignment Forum",
+      "lang": "en",
+      "category": "Safety",
+      "priority": 2
+    },
+    {
+      "id": "358918814398",
+      "title": "China may have accessed Mythos",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+      "summary": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to ",
+      "date": "2026-06-14T18:27:55+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "cfdbc43b2be2",
+      "title": "Carney Says Anthropic Ban Shows Risk of Relying on Big AI Models",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-14/carney-says-anthropic-ban-shows-risk-of-relying-on-big-ai-models",
+      "summary": "Prime Minister Mark Carney said the US export ban blocking all foreign access to Anthropic PBC’s latest artificial intelligence models underscores the risk of depending on just a handful of powerful AI tools.",
+      "date": "2026-06-14T17:02:00+00:00",
+      "source": "Bloomberg Tech",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 2
+    },
+    {
+      "id": "941f7e24b177",
+      "title": "[Papers] - Z Image Turbo ++ - High-Fidelity 2-Step Image Generation via Teacher-Aligned End-to-End Distillation",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1u5q6ta/papers_z_image_turbo_highfidelity_2step_image/",
+      "summary": "\"Few-step diffusion distillation has become increasingly mature for 4–8 step generation, yet pushing further to 2 steps remains challenging. In this work, we introduce Z-Image Turbo++, a high-quality 2-step image generation model distilled from the 8",
+      "date": "2026-06-14T16:49:27+00:00",
+      "source": "r/StableDiffusion",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
+    {
+      "id": "ba7f12545c7f",
+      "title": "As AI companies race to go public, who else is along for the ride?",
+      "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+      "summary": "Startups are trying to \"ride that SpaceX IPO wave.\"",
+      "date": "2026-06-14T16:38:09+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "2c09f2d5d162",
+      "title": "Conclave is the sound of a NYC summer block party",
+      "url": "https://www.theverge.com/entertainment/949621/conclave-nyc-summer-block-party-album-review",
+      "summary": "I have this vivid memory of walking to pick up my oldest from school in June of 2022. For a variety of reasons, I was in a very bad place mentally. And to make matters worse, it was brutally hot. I was depressed, angry with the world, sunburned, and ",
+      "date": "2026-06-14T16:25:05+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "bdc3b573544d",
+      "title": "Does this commit mean Comfy is spyware? Or what is the line?",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1u5pcxy/does_this_commit_mean_comfy_is_spyware_or_what_is/",
+      "summary": "submitted by /u/BobbyKristina [link] [comments]",
+      "date": "2026-06-14T16:16:40+00:00",
+      "source": "r/StableDiffusion",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
+    {
+      "id": "d8f3dde7ec28",
+      "title": "Ideogram 4.0 tests (48 steps)",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1u5ooy2/ideogram_40_tests_48_steps/",
+      "summary": "The workflow is a slight variation of this one: https://www.youtube.com/watch?v=mZxWWAh0QgE&t=6s submitted by /u/circlenline [link] [comments]",
+      "date": "2026-06-14T15:51:18+00:00",
+      "source": "r/StableDiffusion",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
+    {
+      "id": "13f6cb7164e3",
+      "title": "While i was pretty sure, at least now we know <3",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1u5me6d/while_i_was_pretty_sure_at_least_now_we_know_3/",
+      "summary": "submitted by /u/Brojakhoeman [link] [comments]",
+      "date": "2026-06-14T14:19:38+00:00",
+      "source": "r/StableDiffusion",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
+    {
+      "id": "05d65bcc4121",
+      "title": "🧱 TTS Audio Suite v5 - Higgs Audio v3, Runtime Isolation Transformers 5",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1u5m0t9/tts_audio_suite_v5_higgs_audio_v3_runtime/",
+      "summary": "The project went through a pretty big architecture change and I think this is the right moment to call it v5. The biggest new addition is Higgs Audio v3. It is now integrated as a TTS engine in the suite with zero-shot voice cloning, native inline pa",
+      "date": "2026-06-14T14:04:07+00:00",
+      "source": "r/StableDiffusion",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
+    {
+      "id": "418ecc7338cb",
+      "title": "Apple’s New Siri Is Just Good Enough to Ease Its AI Crisis",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-06-14/siri-ai-hands-on-review-ios-27-macos-27-details-iphone-fold-touch-macbook",
+      "summary": "The company prepares for the foldable iPhone and touch-screen MacBook.",
+      "date": "2026-06-14T14:00:01+00:00",
+      "source": "Bloomberg Tech",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 2
+    },
+    {
+      "id": "b2a2beb348e7",
+      "title": "The impossible dream of the universal remote",
+      "url": "https://www.theverge.com/podcast/949620/harmony-universal-remote-version-history",
+      "summary": "You don't really ever have to explain why a universal remote is a good idea. You have a bunch of stuff that needs controlling; this thing controls them all. Many companies have set out to build a product worthy of this idea, and one product came much",
+      "date": "2026-06-14T13:42:07+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "1c7babeea67c",
+      "title": "米FRBウォーシュ新議長のもと初会合へ 発言に関心集まる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015149831000",
+      "summary": "アメリカのFRB＝連邦準備制度理事会は、今週、16日からトランプ大統領に指名されたウォーシュ新議長のもとで初めてとなる、金融政策を決める会合を開きます。イラン情勢を背景とした物価の上昇を抑えるためFR…",
+      "date": "2026-06-14T13:29:29+00:00",
+      "source": "NHK テクノロジー",
+      "lang": "ja",
+      "category": "AI",
+      "priority": 2
+    },
+    {
+      "id": "332b2e1ee1a4",
+      "title": "Trained Ideogram4 LoRA of myself and feel oddly preserved.",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1u5ksl2/trained_ideogram4_lora_of_myself_and_feel_oddly/",
+      "summary": "How crazy is it that we can digitally preserve ourselves. This is the worst it will ever be. submitted by /u/JayoTree [link] [comments]",
+      "date": "2026-06-14T13:10:49+00:00",
+      "source": "r/StableDiffusion",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
+    {
+      "id": "4493b1f5d261",
+      "title": "Crypto Token’s 50% Wipeout Shows Magnitude of AI-Hacking Threat",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-14/crypto-token-s-50-wipeout-shows-magnitude-of-ai-hacking-threat",
+      "summary": "When Eli Ben-Sasson helped create the Zcash cryptocurrency nearly a decade ago, the cryptographer worried about human adversaries. He didn’t expect that machine intelligence would one day expose a flaw that had eluded years of expert human judgment.",
+      "date": "2026-06-14T13:00:00+00:00",
+      "source": "Bloomberg Tech",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 2
+    },
     {
       "id": "777010ec21a9",
       "title": "How Google Is Reinventing Search with AI",
@@ -25,17 +388,6 @@
       "priority": 2
     },
     {
-      "id": "f462690d36b5",
-      "title": "あの『鎧伝サムライトルーパー』が37年ぶりに復活！ 新作『鎧真伝』をプライムビデオで一気見",
-      "url": "https://ascii.jp/elem/000/004/408/4408690/?rss",
-      "summary": "「Amazonプライム・ビデオ」で観られるおすすめ作品をご紹介！ 今回は人気アニメの見放題から「鎧真伝サムライトルーパー」「異世界の沙汰は社畜次第」をピックアップ。この機会にお見逃しなく。",
-      "date": "2026-06-14T12:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "a41fc7ebb4aa",
       "title": "AI Turns Coders, Lawyers and Analysts Into Ghosts of London’s Past",
       "url": "https://www.bloomberg.com/news/articles/2026-06-14/ai-led-job-losses-bite-for-london-s-coders-lawyers-and-analysts",
@@ -44,50 +396,6 @@
       "source": "Bloomberg Tech",
       "lang": "en",
       "category": "Industry",
-      "priority": 2
-    },
-    {
-      "id": "d0e16fe4ba08",
-      "title": "【驚愕】遺体は法律上「物」扱い!? 霊柩車が普通免許で運転できる意外すぎる理由",
-      "url": "https://ascii.jp/elem/000/004/410/4410390/?rss",
-      "summary": "クラウンクロスオーバーをベースにした最新霊柩車から、ストレッチャーを積める寝台車、細い道に強い軽バン仕様まで、多様な霊柩車の世界を紹介します。ご遺体は法律上「物」扱いで普通免許でも運転可能といった豆知識や、ペットブームで需要が増している「移動火葬車」の仕組みも解説します。",
-      "date": "2026-06-14T10:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "c39dc9659918",
-      "title": "まさかの雪ロケも実現！ 「Lumi→A」の佐々木優佳里、可愛さも詰め込んだ季節感あふれる5th DVDリリース",
-      "url": "https://ascii.jp/elem/000/004/410/4410386/?rss",
-      "summary": "3月にデビューした新アイドルグループ「Lumi→A」で活躍中。「ゆかるん」こと佐々木優佳里さんが 5th DVD「雪、ほどける夜」の発売記念イベントをソフマップAKIBA アミューズメント館で開催した。",
-      "date": "2026-06-14T10:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "d403f5a78f1f",
-      "title": "Ideogram 4 is crazy good.",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1u5h3ag/ideogram_4_is_crazy_good/",
-      "summary": "Honestly, the best open-weight model runnable on consumer hardware. It is slow but it can even be used at 1 CFG though it is wonky and miserably fails at complex images. Images have workflow and prompt in them (comfyui). Using FP8 and 28 steps with 6",
-      "date": "2026-06-14T09:58:33+00:00",
-      "source": "r/StableDiffusion",
-      "lang": "en",
-      "category": "ImageVideo",
-      "priority": 2
-    },
-    {
-      "id": "3798e1c97733",
-      "title": "I made a nodepack to gradually apply IC-LoRA effects in LTX2.3",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1u5gxwf/i_made_a_nodepack_to_gradually_apply_iclora/",
-      "summary": "A while ago I started wondering what would happen if you could apply the effect of an IC-LoRA in LTX 2.3 gradually over the duration of a clip, rather than just having it static. Spent a good chunk of the last few days wrangling the code for this, an",
-      "date": "2026-06-14T09:49:33+00:00",
-      "source": "r/StableDiffusion",
-      "lang": "en",
-      "category": "ImageVideo",
       "priority": 2
     },
     {
@@ -124,28 +432,6 @@
       "priority": 2
     },
     {
-      "id": "cd3b7670e798",
-      "title": "【神マウス】手首が楽になる！ 握手するように持つLCD搭載「縦型マウス」が有能",
-      "url": "https://ascii.jp/elem/000/004/408/4408886/?rss",
-      "summary": "今回ご紹介するのは、エアリアから登場したワイヤレス型の縦型エルゴノミクスマウス「ErgoVerMouse（型番：SD-F26）」です。人間工学に基づき、腕を自然に机に置いたときと同じ「手のひらが内側を向く角度」で握れるように設計されています。",
-      "date": "2026-06-14T09:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "b70141687656",
-      "title": "PSA: Sage Attention with 256 header for ideogram avaiable",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1u5fntj/psa_sage_attention_with_256_header_for_ideogram/",
-      "summary": "You can get the wheels for windows here https://github.com/woct0rdho/SageAttention/releases I'm getting 25% speed increase over Flash Attention 2 using 5090. submitted by /u/Ashamed-Variety-8264 [link] [comments]",
-      "date": "2026-06-14T08:29:39+00:00",
-      "source": "r/StableDiffusion",
-      "lang": "en",
-      "category": "ImageVideo",
-      "priority": 2
-    },
-    {
       "id": "07a4cff5f777",
       "title": "最大6690万画素の「α7R VI」で猫を撮影しまくりレビュー、猫の瞳にズバッとピントが合いホワイトバランスも勝手にいい感じにしてくれてベストショットを量産可能",
       "url": "https://gigazine.net/news/20260614-sony-alpha7r-vi-photo-example/",
@@ -157,17 +443,6 @@
       "priority": 2
     },
     {
-      "id": "340d6880b56b",
-      "title": "The tendency to forget what 'good' actually looks like",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1u5fgsj/the_tendency_to_forget_what_good_actually_looks/",
-      "summary": "One sympton from spending large amounts of time generating videos, is how it's easy to lose a 'baseline of quality', meaning you might be happy with outputs, which then look awful when you revisit them 2 weeks later. Worse still is being stuck with t",
-      "date": "2026-06-14T08:17:32+00:00",
-      "source": "r/StableDiffusion",
-      "lang": "en",
-      "category": "ImageVideo",
-      "priority": 2
-    },
-    {
       "id": "84099d1a8ac3",
       "title": "Jack Ma-Backed Ant Group Set for High-Stakes Overhaul of Billion-User App",
       "url": "https://www.bloomberg.com/news/articles/2026-06-14/jack-ma-backed-ant-set-for-high-stakes-overhaul-of-billion-user-alipay-app",
@@ -176,50 +451,6 @@
       "source": "Bloomberg Tech",
       "lang": "en",
       "category": "Industry",
-      "priority": 2
-    },
-    {
-      "id": "56e68d6c9ee7",
-      "title": "【ランクル250と何が違う？】約500万円高いレクサス「GX550」に乗ってわかった“価格差の正体”",
-      "url": "https://ascii.jp/elem/000/004/410/4410383/?rss",
-      "summary": "ランドクルーザー250をベースにしたレクサスの本格オフローダー「GX550 OVERTRAIL+」の試乗レポートです。約1200万円という価格ながら、V6ツインターボによる怒涛の加速と、極上の乗り心地を実現。保冷機能付きドリンクホルダーや多彩な走行モードを備え、究極の安心感と所有欲を満たす一台です。",
-      "date": "2026-06-14T08:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "0853cfb9c97d",
-      "title": "【滑らかすぎ】みんな大好きトラックボールに新技術！ あのエレコムがやってくれた",
-      "url": "https://ascii.jp/elem/000/004/410/4410282/?rss",
-      "summary": "「手首が辛い」という人に人気があるのがトラックボールで。エレコムの「IST PLUS」ボールローラーは、滑らかさと使いやすさを両立した、新定番といえる1台でした！",
-      "date": "2026-06-14T08:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "2c35cbe624d3",
-      "title": "扇風機はぬるい、エアコンは寒い。THANKOの卓上冷風扇「せせらぎの涼しさ」",
-      "url": "https://ascii.jp/elem/000/004/410/4410225/?rss",
-      "summary": "THANKOの卓上冷風扇「せせらぎの涼しさ」がAmazonで8,980円で販売中。ミストを使わない気化式を採用し、USB Type-C給電や本体内部を乾かす乾燥モードを搭載。扇風機では物足りないが、エアコンの風は苦手という人はチェックしてみてほしい。",
-      "date": "2026-06-14T08:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "ca69c192cc42",
-      "title": "Ideogram 4 Can be Taught to Edit / Inpaint with a LoRA (and some tweaks)",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1u5f0he/ideogram_4_can_be_taught_to_edit_inpaint_with_a/",
-      "summary": "The good news: Ideogram 4 can be taught to edit / inpaint images. Out of curiosity, I started a proof of concept whether this could be done. Regional inpainting with the bboxes we already use for the prompting of Ideogram 4 instead of plain old masks",
-      "date": "2026-06-14T07:50:15+00:00",
-      "source": "r/StableDiffusion",
-      "lang": "en",
-      "category": "ImageVideo",
       "priority": 2
     },
     {
@@ -245,17 +476,6 @@
       "priority": 2
     },
     {
-      "id": "0c1911168bb2",
-      "title": "ナポリタンもミートソースも550円！人気スパゲッティ店が感謝祭",
-      "url": "https://ascii.jp/elem/000/004/410/4410249/?rss",
-      "summary": "和風スパゲッティなどを提供するレストラン「壁の穴」は、6月16日に「大感謝祭」を開催します。ナポリタンもミートソースも550円！月イチ「大感謝祭」が6月も開催",
-      "date": "2026-06-14T07:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "1390e89ab072",
       "title": "Metaによる中国発の注目AIスタートアップ・Manusの買収に中国政府が待った、買収解消に向け両社が準備中との報道",
       "url": "https://gigazine.net/news/20260614-meta-unwind-manus-deal-beijing-demand/",
@@ -267,25 +487,14 @@
       "priority": 2
     },
     {
-      "id": "304300370051",
-      "title": "SCAIL2's object consistency is great with mostly a single prompt",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1u5cuhm/scail2s_object_consistency_is_great_with_mostly_a/",
-      "summary": "Workflow I've been giving SCAIL2 a few challenges, mostly revolving around objects going in and out of frame. In all but one test the prompt \"full body view of a woman starting to move.\" was sufficient to transfer all movement and retain the context ",
-      "date": "2026-06-14T05:46:15+00:00",
-      "source": "r/StableDiffusion",
+      "id": "e986a65630fe",
+      "title": "Solid-state batteries still aren’t ready, but gels are",
+      "url": "https://www.theverge.com/column/948594/solid-state-batteries-semi-solid-state",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in f",
+      "date": "2026-06-14T05:48:21+00:00",
+      "source": "The Verge",
       "lang": "en",
-      "category": "ImageVideo",
-      "priority": 2
-    },
-    {
-      "id": "56105a23ec36",
-      "title": "Starmer to Meet Japan’s Takaichi as Fighter Jet Funding Sputters",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-14/starmer-to-meet-japan-s-takaichi-as-fighter-jet-funding-sputters",
-      "summary": "British Prime Minister Keir Starmer will meet his Japanese counterpart Sanae Takaichi on Sunday as uncertainty mounts over their joint fighter jet program with Italy because of doubts about the UK’s commitment.",
-      "date": "2026-06-14T05:02:00+00:00",
-      "source": "Bloomberg Tech",
-      "lang": "en",
-      "category": "Industry",
+      "category": "Tech",
       "priority": 2
     },
     {
@@ -300,17 +509,6 @@
       "priority": 1
     },
     {
-      "id": "9faa418cd30b",
-      "title": "AIのLLMアーキテクチャの新技法「KV共有」「mHC」「圧縮アテンション」とは何か？",
-      "url": "https://gigazine.net/news/20260614-recent-developments-in-llm-architectures/",
-      "summary": "オープンウェイトの大規模言語モデル(LLM)がプロンプト入力による質疑応答の枠を超え自律的かつ高精度な課題解決を行う方向に進化する上で、推論モデルやエージェントワークフローは欠かすことのできない手法となっていますが、より多くのトークンを長時間保持する必要があることからKey-Valueキャッシュ(KVキャッシュ)のサイズ・メモリ帯域幅・アテンションコストといったリソースが実行上の主要な制約となります。LLM開発者はリソースのコストを削減する目的でLLMアーキテクチャに様々な工夫を取り入れてきまし",
-      "date": "2026-06-14T03:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "ba520ee807e5",
       "title": "“パクリ疑惑”から2年半 やっと正式版になる「パルワールド」の完成度に感心したマンガ家が、だからこそ残念なこと",
       "url": "https://www.itmedia.co.jp/news/articles/2606/14/news013.html",
@@ -319,17 +517,6 @@
       "source": "ITmedia News",
       "lang": "ja",
       "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "88519da7f99f",
-      "title": "[SCAIL-2] Testing high resolutions (720x720 & 960x960) at 161 frames on an RTX 5090",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1u57bbf/scail2_testing_high_resolutions_720x720_960x960/",
-      "summary": "Hey everyone, Just wanted to share a quick test using the brand new SCAIL-2 model with Frieren. The reference video used was 10 seconds long, and I doubled the recommended frame count to 161 frames (~10 seconds). Reddit only lets me upload one video,",
-      "date": "2026-06-14T01:04:08+00:00",
-      "source": "r/StableDiffusion",
-      "lang": "en",
-      "category": "ImageVideo",
       "priority": 2
     },
     {
@@ -342,17 +529,6 @@
       "lang": "en",
       "category": "Industry",
       "priority": 1
-    },
-    {
-      "id": "9447f2fb53e1",
-      "title": "「単語の見た目」が意味をイメージさせるものだと脳はその単語をより速く正確に処理できる",
-      "url": "https://gigazine.net/news/20260614-words-look-like-meaning/",
-      "summary": "英語では26個のアルファベットを並べてさまざまな単語を構成しており、「bed(ベッド)」の両端にある縦線がベッドの柱のように見えたり、「Loop(輪、ループ)」という単語全体が一種のループのように見えたりと、その形状が意味をイメージさせるような単語も存在します。カナダのカールトン大学で心理学助教を務めるデヴィッド・シドゥ氏が、「単語の見た目が意味と似ている場合、人の脳はその単語をより速く正確に処理できる」という研究結果を発表しました。続きを読む...",
-      "date": "2026-06-14T00:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "b8d669d310a8",
@@ -388,17 +564,6 @@
       "priority": 1
     },
     {
-      "id": "0207f6de9cb4",
-      "title": "人間の睡眠はレム睡眠とノンレム睡眠の2種類だが魚は4種類もあることが判明",
-      "url": "https://gigazine.net/news/20260614-fish-sleep-stats/",
-      "summary": "人間をはじめとする哺乳類は、睡眠時に「レム睡眠」と「ノンレム睡眠」の2種類の睡眠段階を繰り返します。魚類にも睡眠の段階はあるのかどうかを調べた研究で、「ゼブラフィッシュ」という魚に4つの睡眠段階が存在することが分かりました。続きを読む...",
-      "date": "2026-06-13T23:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "258e5ef30730",
       "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
       "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
@@ -432,17 +597,6 @@
       "priority": 1
     },
     {
-      "id": "7f77192cb36d",
-      "title": "Sealed Super Mario Bros. sells for a record $3 million",
-      "url": "https://www.theverge.com/games/949593/super-mario-bros-3-million-auction",
-      "summary": "A copy of Super Mario Bros., still in the box and sealed with its original sticker, just sold at Heritage Auctions for $3 million. That absolutely crushes the previous record of $2 million, also for a copy of Super Mario Bros., in 2021. That sale als",
-      "date": "2026-06-13T18:37:21+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "748265de56e1",
       "title": "OpenAI faces investigation from state attorneys general",
       "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
@@ -452,17 +606,6 @@
       "lang": "en",
       "category": "Industry",
       "priority": 1
-    },
-    {
-      "id": "752f092ac1eb",
-      "title": "Microsoft hasn’t ruled out spinning off Xbox",
-      "url": "https://www.theverge.com/games/949584/microsoft-spinning-off-xbox",
-      "summary": "Microsoft is preparing to lay off a significant chunk of its Xbox division and is reevaluating the plans for its next-generation Project Helix console. It's apparently also considering dramatically restructuring its relationship with Xbox, and hasn't",
-      "date": "2026-06-13T16:29:47+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "4b2c7ccffe9d",
@@ -476,39 +619,6 @@
       "priority": 2
     },
     {
-      "id": "61cdaa1a85bd",
-      "title": "Now that Anima 1.0 has been out for a month, what are some prompting tips and tricks you guys learned on it?",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1u4t2lx/now_that_anima_10_has_been_out_for_a_month_what/",
-      "summary": "submitted by /u/ThirdWorldBoy21 [link] [comments]",
-      "date": "2026-06-13T14:56:41+00:00",
-      "source": "r/StableDiffusion",
-      "lang": "en",
-      "category": "ImageVideo",
-      "priority": 2
-    },
-    {
-      "id": "ea76ead43483",
-      "title": "Why the US Is Investing in Quantum Computing",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-13/why-the-us-is-investing-in-quantum-computing-video",
-      "summary": "The Trump administration is making another move into venture-style investing, taking equity stakes in nine quantum computing companies. IBM, the largest recipient of the investment, thinks that quantum systems could eventually solve problems involvin",
-      "date": "2026-06-13T14:05:21+00:00",
-      "source": "Bloomberg Tech",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 2
-    },
-    {
-      "id": "32a09a489ecb",
-      "title": "My first 24 hours with Siri AI on the Mac",
-      "url": "https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence",
-      "summary": "I turned off Siri on the Mac years ago and never looked back. Similarly, I found Apple Intelligence so fruitless I never engage with it. But the new Siri AI coming to macOS 27 Golden Gate has at least got me slightly rethinking things. I'm still earl",
-      "date": "2026-06-13T13:44:07+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "599bfb0218e2",
       "title": "DAZNが謝罪 年間契約のサッカープランに一部「月額プランと受け取れる記載」があったため 希望者は解約も",
       "url": "https://www.itmedia.co.jp/news/articles/2606/13/news031.html",
@@ -517,17 +627,6 @@
       "source": "ITmedia News",
       "lang": "ja",
       "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "f3ca4895abd1",
-      "title": "Global Capitalism Bets It All on AI Future Alarming Voters",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
-      "summary": "Days after filing confidentially to go public, Anthropic, the $965 billion artificial intelligence juggernaut that’s one of the fastest-growing startups of all time, dropped another bombshell.",
-      "date": "2026-06-13T11:00:00+00:00",
-      "source": "Bloomberg Tech",
-      "lang": "en",
-      "category": "Industry",
       "priority": 2
     },
     {
@@ -630,39 +729,6 @@
       "priority": 1
     },
     {
-      "id": "ead81c101920",
-      "title": "SpaceX IPO: Live updates on everything you need to know",
-      "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
-      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucke",
-      "date": "2026-06-12T23:15:14+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "9b106dc66a19",
-      "title": "My yard is dying, so I made an app for that",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
-      "summary": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. \"~ Channel is unrecoverably broken and will be disposed!\" Sounded bad! But right belo",
-      "date": "2026-06-12T22:14:50+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "21bd5cf86c1f",
-      "title": "SpaceX、NASDAQに上場――公開価格135ドル、初日終値は約19％高で約12兆円調達",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/13/news024.html",
-      "summary": "SpaceXは、ナスダック市場に新規株式公開した。公開価格ベースで約750億ドル（約12兆円）を調達し、初日の終値時点で時価総額は約2兆1000億ドルに達した。サウジアラムコを上回る史上最大規模の新規上場となった。",
-      "date": "2026-06-12T21:34:00+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "ac9b7ee2469e",
       "title": "X-Men ’97 has what Master of the Universe is missing",
       "url": "https://www.theverge.com/entertainment/947064/xmen-97-season-2-disney-plus-marvel-masters-of-the-universe-mattel",
@@ -674,11 +740,11 @@
       "priority": 2
     },
     {
-      "id": "fef29908818a",
-      "title": "Never Post’s Mike Rugnetta on the creative process and the value of reliable power",
-      "url": "https://www.theverge.com/report/949073/mike-rugnetta-youtube-never-post-podcast-questionnaire",
-      "summary": "Mike Rugnetta is a writer, podcast host, producer, audio engineer, educator, musician, sound designer, and father. In short, the man wears a lot of hats. He's the cocreator and host of the award-winning Never Post, an absolutely must-listen podcast a",
-      "date": "2026-06-12T19:43:02+00:00",
+      "id": "2df1dc04d5a4",
+      "title": "How to watch most of the World Cup matches with free trials",
+      "url": "https://www.theverge.com/gadgets/948871/world-cup-streaming-free-trial-deal-sale",
+      "summary": "Hoping to catch some World Cup matches while spending as little money as possible? You have a few options for finding a few days of free streaming, although you may choose to eventually pony up some money. That, or get creative by combining multiple ",
+      "date": "2026-06-12T19:40:02+00:00",
       "source": "The Verge",
       "lang": "en",
       "category": "Tech",
@@ -705,17 +771,6 @@
       "lang": "en",
       "category": "Prompts",
       "priority": 1
-    },
-    {
-      "id": "ce5d89c5f30d",
-      "title": "Bose’s latest QuietComfort Ultra are $70 off, marking a new low price",
-      "url": "https://www.theverge.com/gadgets/949190/bose-quietcomfort-ultra-headphones-deal-sale",
-      "summary": "If you’re planning on traveling anytime soon, Bose’s second-generation QuietComfort Ultra headphones are a great companion for long flights and train rides. Not only do they offer excellent noise cancellation, but they also retain the foldable design",
-      "date": "2026-06-12T17:26:43+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "ceb573131260",
@@ -749,17 +804,6 @@
       "lang": "en",
       "category": "Prompts",
       "priority": 1
-    },
-    {
-      "id": "e899525cd39f",
-      "title": "厚労省、Teamsチャット2年10カ月分が消失 東芝が作業ミス 一部は復元困難",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/12/news129.html",
-      "summary": "厚生労働省が2023年1月4日から25年10月29日年に送信された「Microsoft Teams」のチャットが消失したと発表した。原因はシステム運用を委託していた東芝の作業ミス。消えたデータのうち、行政文書が含まれる一部チャットは復元が困難という。",
-      "date": "2026-06-12T14:14:00+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "8f6082e36572",
@@ -850,17 +894,6 @@
       "priority": 2
     },
     {
-      "id": "8369ff6f64eb",
-      "title": "スーパーのコメ平均価格 5キロ 税込み3644円 3週連続値下がり",
-      "url": "https://news.web.nhk/newsweb/na/na-k10015148621000",
-      "summary": "全国のスーパーで6月7日までの1週間に販売されたコメの平均価格は、5キロ当たり税込み3644円と前の週より29円下がりました。値下がりは3週連続で、銘柄米の下げ幅が大きくなっています。",
-      "date": "2026-06-12T09:00:29+00:00",
-      "source": "NHK テクノロジー",
-      "lang": "ja",
-      "category": "AI",
-      "priority": 2
-    },
-    {
       "id": "3553f6a4a210",
       "title": "Why “reprogramming” is the buzziest approach to reversing aging right now",
       "url": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/",
@@ -881,28 +914,6 @@
       "lang": "en",
       "category": "Research",
       "priority": 1
-    },
-    {
-      "id": "6b363dbd426a",
-      "title": "生命保険の営業職員 新たな呼び名は「ソナエルジュ」に",
-      "url": "https://news.web.nhk/newsweb/na/na-k10015148651000",
-      "summary": "家庭や職場を訪れて保険を販売し、生保レディーとも呼ばれた営業職員について、生命保険協会は、新たな呼び名を「ソナエルジュ」にすると発表しました。性別にとらわれず、顧客に寄り添うという仕事内容が表現されて…",
-      "date": "2026-06-12T08:58:59+00:00",
-      "source": "NHK テクノロジー",
-      "lang": "ja",
-      "category": "AI",
-      "priority": 2
-    },
-    {
-      "id": "6ad15739ac98",
-      "title": "自民対策本部 南米EPA交渉なら“農業に配慮を”政府に申し入れ",
-      "url": "https://news.web.nhk/newsweb/na/na-k10015148541000",
-      "summary": "南米の関税同盟「メルコスール」と日本との間のEPA＝経済連携協定について、自民党の対策本部は仮に交渉を始める場合、国内農業への影響を避けるため、牛肉をはじめとした重要な品目に十分配慮することなどを政府…",
-      "date": "2026-06-12T08:12:31+00:00",
-      "source": "NHK テクノロジー",
-      "lang": "ja",
-      "category": "AI",
-      "priority": 2
     },
     {
       "id": "e5e9bd931104",
@@ -1026,6 +1037,17 @@
       "priority": 1
     },
     {
+      "id": "f5fdb80fa91a",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "date": "2026-06-11T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
       "id": "8926e37d73b8",
       "title": "BBVA puts AI at the core of banking with OpenAI",
       "url": "https://openai.com/index/bbva",
@@ -1041,17 +1063,6 @@
       "title": "OpenAI to acquire Ona",
       "url": "https://openai.com/index/openai-to-acquire-ona",
       "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-      "date": "2026-06-11T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "f5fdb80fa91a",
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
       "date": "2026-06-11T00:00:00+00:00",
       "source": "OpenAI Blog",
       "lang": "en",
@@ -1255,17 +1266,6 @@
       "lang": "en",
       "category": "Prompts",
       "priority": 1
-    },
-    {
-      "id": "ce7750bcd9e9",
-      "title": "Efficient tradeoffs and the safety-usefulness tradeoff model",
-      "url": "https://www.alignmentforum.org/posts/mBsZTZxtjgCdN4CDA/efficient-tradeoffs-and-the-safety-usefulness-tradeoff-model",
-      "summary": "I often use what I’ll call the “safety-usefulness tradeoff model”, which is: developers face a tradeoff between \"safety\" and \"usefulness\" of an AI deployment, and the developer has only limited willingness or ability to sacrifice usefulness for the s",
-      "date": "2026-06-08T20:28:17+00:00",
-      "source": "Alignment Forum",
-      "lang": "en",
-      "category": "Safety",
-      "priority": 2
     },
     {
       "id": "eeadef200858",
@@ -1998,7 +1998,7 @@
       "title": "SNS広報を全4回の講座で習得！≪SNS広報担当養成講座 統合マスターコース≫2026年6月開講（61期生）オンライン講座",
       "url": "https://belove.doorkeeper.jp/events/189305",
       "summary": "📅 2026-06-17 · 📍 オンライン · 👥 参加 17人",
-      "date": "2026-06-14T12:30:56.781365+00:00",
+      "date": "2026-06-14T23:01:43.490375+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2012,7 +2012,7 @@
       "title": "【対面】 ２日間  マネジメント3.0 基礎ワークショップAI時代に求められる組織心理学に基づく、世界標準のよい組織づくり、週休3日のマネジメント（国際認定が取得可能）",
       "url": "https://management30-nuworks.doorkeeper.jp/events/195257",
       "summary": "📅 2026-07-31 · 📍 渋谷　ジェイフィール　ホール · 👥 参加 9/12人",
-      "date": "2026-06-14T12:30:56.781422+00:00",
+      "date": "2026-06-14T23:01:43.490433+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2026,7 +2026,7 @@
       "title": "SNS広報を全4回の講座で習得！≪SNS広報担当養成講座 統合マスターコース≫2026年9月開講（62期生）オンライン講座",
       "url": "https://belove.doorkeeper.jp/events/195545",
       "summary": "📅 2026-09-16 · 📍 オンライン · 👥 参加 2人",
-      "date": "2026-06-14T12:30:56.781453+00:00",
+      "date": "2026-06-14T23:01:43.490466+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2040,7 +2040,7 @@
       "title": "The 4th Bayes-Duality Workshop 2026",
       "url": "https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/195619",
       "summary": "📅 2026-06-24 · 📍 オンライン · 👥 参加 90人",
-      "date": "2026-06-14T12:30:56.781482+00:00",
+      "date": "2026-06-14T23:01:43.490494+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2054,7 +2054,7 @@
       "title": "10/6　AI×SNS 中小企業のためのSNS×AI活用術セミナー",
       "url": "https://belove.doorkeeper.jp/events/196182",
       "summary": "📅 2026-10-06 · 📍 オンライン · 👥 参加 0人",
-      "date": "2026-06-14T12:30:56.781510+00:00",
+      "date": "2026-06-14T23:01:43.490521+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2068,7 +2068,7 @@
       "title": "12/8 中小企業のためのSNS活用術セミナー ～DX初めの一歩～ 著者・西良旺子が語る！",
       "url": "https://belove.doorkeeper.jp/events/196183",
       "summary": "📅 2026-12-08 · 📍 オンライン · 👥 参加 0人",
-      "date": "2026-06-14T12:30:56.781537+00:00",
+      "date": "2026-06-14T23:01:43.490546+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2082,7 +2082,7 @@
       "title": "初年度2千万円のノウハウ。Web制作で食べる！WordPressでやるべきこと、Web制作ビジネスノウハウ全部盛りセミナー（大人気追加開催）",
       "url": "https://enterprise-wordpress.doorkeeper.jp/events/196195",
       "summary": "📅 2026-06-24 · 📍 オンライン · 👥 参加 45/100人",
-      "date": "2026-06-14T12:30:56.781564+00:00",
+      "date": "2026-06-14T23:01:43.490571+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2096,7 +2096,7 @@
       "title": "第6回（旧5回)CoderDojo 南会津（最寄駅：会津田島駅）",
       "url": "https://coderdojo-minamiaizu.doorkeeper.jp/events/196200",
       "summary": "📅 2026-07-26 · 📍 南会津町役場本庁舎多目的ホール（祇園祭のため場所が変更する場 · 👥 参加 0/10人",
-      "date": "2026-06-14T12:30:56.781591+00:00",
+      "date": "2026-06-14T23:01:43.490597+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2110,7 +2110,7 @@
       "title": "VoIP & Asterisk lounge extra Gen AI ハンズオン編",
       "url": "https://voip-lounge.doorkeeper.jp/events/196433",
       "summary": "📅 2026-06-18 · 📍 TOKYO L.O.C.A.L BASE · 👥 参加 4/30人",
-      "date": "2026-06-14T12:30:56.781649+00:00",
+      "date": "2026-06-14T23:01:43.490629+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2124,7 +2124,7 @@
       "title": "マーケティングテクノロジスト認定講座【WACA公式】（旧上級GA4講座）6月（2日間講座）",
       "url": "https://web-mining.doorkeeper.jp/events/196640",
       "summary": "📅 2026-06-16 · 📍 オンライン · 👥 参加 1/10人",
-      "date": "2026-06-14T12:30:56.781679+00:00",
+      "date": "2026-06-14T23:01:43.490654+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2138,7 +2138,7 @@
       "title": "SNS広報を全4回の講座で習得！≪SNS広報担当養成講座 統合マスターコース≫2026年11月開講（63期生）オンライン講座",
       "url": "https://belove.doorkeeper.jp/events/196703",
       "summary": "📅 2026-11-19 · 📍 オンライン · 👥 参加 2人",
-      "date": "2026-06-14T12:30:56.781705+00:00",
+      "date": "2026-06-14T23:01:43.490679+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2152,7 +2152,7 @@
       "title": "#朝までディレクション 3",
       "url": "https://cssnite.doorkeeper.jp/events/196798",
       "summary": "📅 2026-06-19 · 📍 オンライン · 👥 参加 308人",
-      "date": "2026-06-14T12:30:56.781731+00:00",
+      "date": "2026-06-14T23:01:43.490704+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2166,7 +2166,7 @@
       "title": "ふくいＤＸ経営塾【7月10日開講】＜参加者募集中＞",
       "url": "https://dxlab.doorkeeper.jp/events/196533",
       "summary": "📅 2026-07-10 · 📍 福井県産業情報センター · 👥 参加 19/19人",
-      "date": "2026-06-14T12:30:56.781757+00:00",
+      "date": "2026-06-14T23:01:43.490729+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2179,8 +2179,8 @@
       "id": "84908c55cfbf",
       "title": "Hardening Designers Conference 2026",
       "url": "https://hardening.doorkeeper.jp/events/196978",
-      "summary": "📅 2026-07-02 · 📍 オンライン · 👥 参加 57/170人",
-      "date": "2026-06-14T12:30:56.781782+00:00",
+      "summary": "📅 2026-07-02 · 📍 オンライン · 👥 参加 59/170人",
+      "date": "2026-06-14T23:01:43.490754+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2194,7 +2194,7 @@
       "title": "ロイロノート働き方ウィーク④｜【若手の先生方向け】若手教員のためのICTを活用した働き方改革",
       "url": "https://loilonote.doorkeeper.jp/events/197046",
       "summary": "📅 2026-06-22 · 📍 オンライン · 👥 参加 101/500人",
-      "date": "2026-06-14T12:30:56.781807+00:00",
+      "date": "2026-06-14T23:01:43.490778+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2208,7 +2208,7 @@
       "title": "【シーメンスエキスパートトーク 第3弾】AI時代、ローコード・ノーコードの価値はどう変わるのか ～「早い・簡単」から「信頼」へ、企業の責任に応えるAI開発プラットフォームとは～",
       "url": "https://majisemi-dev.doorkeeper.jp/events/196995",
       "summary": "📅 2026-06-17 · 📍 オンライン · 👥 参加 3/3人",
-      "date": "2026-06-14T12:30:56.781832+00:00",
+      "date": "2026-06-14T23:01:43.490804+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2222,7 +2222,7 @@
       "title": "チャットで聞けば顧客データが返ってくる世界 ～生成 AI × 業務システムの現実的な組み合わせ方～",
       "url": "https://majisemi-business.doorkeeper.jp/events/197057",
       "summary": "📅 2026-06-17 · 📍 オンライン · 👥 参加 0人",
-      "date": "2026-06-14T12:30:56.781857+00:00",
+      "date": "2026-06-14T23:01:43.490828+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2236,7 +2236,7 @@
       "title": "【ウェブ解析士会員向けオフィスアワー6月】第一線のプロが語る、実践に役立つウェブ解析",
       "url": "https://web-mining.doorkeeper.jp/events/197034",
       "summary": "📅 2026-06-23 · 📍 オンライン · 👥 参加 59人",
-      "date": "2026-06-14T12:30:56.781881+00:00",
+      "date": "2026-06-14T23:01:43.490853+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2250,7 +2250,7 @@
       "title": "AI時代、BtoBマーケティングにおける「人間の関与」をどう考えるか？ ～2026年、マーケティング担当者が考えるべき「顧客体験」設計12選～【申込者全員にアーカイブ動画をプレゼント】",
       "url": "https://majisemi-sales.doorkeeper.jp/events/197124",
       "summary": "📅 2026-06-16 · 📍 オンライン · 👥 参加 1/1人",
-      "date": "2026-06-14T12:30:56.781912+00:00",
+      "date": "2026-06-14T23:01:43.490882+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2264,7 +2264,7 @@
       "title": "北米レガシーを“日本から動かす” ―― AI×リモートで実現するモダナイゼーション最前線（無料オンラインセミナー）",
       "url": "https://systems.doorkeeper.jp/events/197102",
       "summary": "📅 2026-06-17 · 📍 オンライン · 👥 参加 1/50人",
-      "date": "2026-06-14T12:30:56.781937+00:00",
+      "date": "2026-06-14T23:01:43.490906+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2278,7 +2278,7 @@
       "title": "KUSANAGIサミット2026 WordPress編 Connect with WordPress ── つながろう、WordPressで",
       "url": "https://enterprise-wordpress.doorkeeper.jp/events/197104",
       "summary": "📅 2026-06-27 · 📍 オンライン · 👥 参加 17人",
-      "date": "2026-06-14T12:30:56.781962+00:00",
+      "date": "2026-06-14T23:01:43.490930+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2292,7 +2292,7 @@
       "title": "6/18 (木) 16:00-【業界別GX勉強会】デジタルが導く脱炭素ロードマップ　Green of IT & Green by ITで実現するIT・通信業界の持続可能な収益モデルへの転換",
       "url": "https://skillupgreen.doorkeeper.jp/events/197168",
       "summary": "📅 2026-06-18 · 📍 オンライン · 👥 参加 1/30人",
-      "date": "2026-06-14T12:30:56.781986+00:00",
+      "date": "2026-06-14T23:01:43.490954+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2306,7 +2306,7 @@
       "title": "生成AIは、なぜ「使いこなせない」のか？ ～ナレッジを育て、現場に根付かせる運用設計～",
       "url": "https://majisemi-technology.doorkeeper.jp/events/197179",
       "summary": "📅 2026-06-16 · 📍 オンライン · 👥 参加 4/4人",
-      "date": "2026-06-14T12:30:56.782011+00:00",
+      "date": "2026-06-14T23:01:43.490979+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2320,7 +2320,7 @@
       "title": "外部公開IT資産を狙うランサムウェア、公開資産の放置が攻撃の入口になる　棚卸し・診断・継続監視の進め方 ～経済産業省の導入ガイダンス解説と、手軽に導入可能なASMツールのご紹介～",
       "url": "https://majisemi-security.doorkeeper.jp/events/197080",
       "summary": "📅 2026-06-23 · 📍 オンライン · 👥 参加 0人",
-      "date": "2026-06-14T12:30:56.782036+00:00",
+      "date": "2026-06-14T23:01:43.491004+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2334,7 +2334,7 @@
       "title": "【キヤノンITソリューションズ／共想共創フォーラム2026】 AIとヒトの力で加速するビジネスイノベーション　2026年6月16(火)～6月19日(金)",
       "url": "https://majisemi-technology.doorkeeper.jp/events/197190",
       "summary": "📅 2026-06-19 · 📍 Webセミナー（URLは主催企業からメールでお知らせします） · 👥 参加 10/12人",
-      "date": "2026-06-14T12:30:56.782061+00:00",
+      "date": "2026-06-14T23:01:43.491030+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
