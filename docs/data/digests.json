@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-06-14_evening-google-ai-reinvents-search",
+      "date": "2026-06-14",
+      "file_key": "2026-06-14_evening",
+      "title": "Google AIで検索の未来を変える",
+      "summary": "GoogleがAIを活用した検索技術の革新を発表。20年振りの大きな変化が予想されます。",
+      "tags": [
+        "AI",
+        "検索技術",
+        "画像生成",
+        "イベント",
+        "ビジネス応用"
+      ],
+      "slug": "google-ai-reinvents-search"
+    },
+    {
       "id": "2026-06-13_evening-english-slug",
       "date": "2026-06-13",
       "file_key": "2026-06-13_evening",
@@ -400,22 +415,7 @@
         "未来"
       ],
       "slug": "digest"
-    },
-    {
-      "id": "2026-05-26_evening-ai-impact-daily-industry",
-      "date": "2026-05-26",
-      "file_key": "2026-05-26_evening",
-      "title": "AIが変える日常と産業：音声ナレーションから軍事AI、ウェアラブルまで",
-      "summary": "音声配信、軍事利用、映像機材、健康管理、GPU自作まで、今週注目のAIニュースを横断的に解説します。",
-      "tags": [
-        "AI音声",
-        "自律兵器",
-        "画像生成",
-        "ウェアラブル",
-        "GPUISA"
-      ],
-      "slug": "ai-impact-daily-industry"
     }
   ],
-  "updated_at": "2026-06-13T07:53:13.996682+00:00"
+  "updated_at": "2026-06-14T12:32:08.376026+00:00"
 }

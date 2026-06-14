@@ -1,0 +1,162 @@
+{
+  "id": "2026-06-14_evening-google-ai-reinvents-search",
+  "file_key": "2026-06-14_evening",
+  "date": "2026-06-14",
+  "generated_at": "2026-06-14T12:32:08.375165+00:00",
+  "title": "Google AIで検索の未来を変える",
+  "slug": "google-ai-reinvents-search",
+  "summary": "GoogleがAIを活用した検索技術の革新を発表。20年振りの大きな変化が予想されます。",
+  "tags": [
+    "AI",
+    "検索技術",
+    "画像生成",
+    "イベント",
+    "ビジネス応用"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "GoogleはAIを統合し、検索体験を根本的に変革する動きを進めている。これまでのキーワード検索に加え、ユーザーの意図をAIが把握し、より自然な回答を提供する仕組みが導入される見込みだ。この変化は、従来の検索エンジンの枠組みを破壊し、ユーザーとの関わり方を変える可能性を秘めている。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "Googleの新技術は、従来の検索エンジンと異なるアプローチで、ユーザーの質問に直接的かつ包括的な回答を提供することを目指している。AIが質問の文脈を理解し、関連する情報を自動的に収集して統合することで、検索結果の信頼性と関連性が向上する。これにより、ユーザーは単純な情報収集だけでなく、複雑な意思決定にも役立つツールとなる。特にビジネス分野では、市場動向の把握や競合分析に新たなツールが登場する可能性がある。",
+      "source_title": "How Google Is Reinventing Search with AI",
+      "source_url": "https://www.bloomberg.com/news/videos/2026-06-14/how-google-is-reinventing-search-with-ai-video"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "画像生成AIの進化が加速。最近のモデルはより高解像度かつリアルな画像を生成可能に。特に動画生成分野では、短時間で高品質なコンテンツを作成できる技術が注目されている。",
+      "source_title": "Ideogram 4 is crazy good",
+      "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1u5h3ag/ideogram_4_is_crazy_good/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "検索意図分析プロンプト",
+      "prompt_body": "「ユーザーが検索する際に本当に求めるのは何か？」という観点から、質問文を分析し、背景にあるニーズを特定するプロンプト。例：\"この質問『○○をどうやって』の背景にあるユーザーのニーズは何か？\"",
+      "prompt_usecase": "マーケティングやカスタマーサポートにおいて、ユーザーの真のニーズを把握し、対応策を最適化するのに有効。",
+      "prompt_source": "https://www.bloomberg.com/news/videos/2026-06-14/how-google-is-reinventing-search-with-ai-video"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "画像生成AIモデル「Ideogram 4」がRedditで話題に。消費者向けハードウェア上でも動作可能とされるこのモデルは、高品質かつリアルな画像生成能力を備え、クリエイティブな用途に幅広く応用可能。",
+      "source_title": "Ideogram 4 is crazy good",
+      "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1u5h3ag/ideogram_4_is_crazy_good/"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "AI技術の最新動向を学ぶイベントがオンラインで開催される。参加者は実践的な知見を得られる機会。",
+      "event_list": [
+        {
+          "title": "生成AIは、なぜ「使いこなせない」のか？",
+          "date": "2026-06-16",
+          "place": "オンライン",
+          "url": "https://majisemi-technology.doorkeeper.jp/events/197179"
+        },
+        {
+          "title": "AI時代、BtoBマーケティングにおける「人間の関与」をどう考えるか？",
+          "date": "2026-06-16",
+          "place": "オンライン",
+          "url": "https://majisemi-sales.doorkeeper.jp/events/197124"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "Googleの新検索技術は、企業向けに市場調査や競合分析の効率化に活用可能。AIがリアルタイムでデータを収集・分析し、戦略立案に役立つツールとなる。また、顧客のニーズを精密に把握し、パーソナライズされたサービスを提供する可能性も開く。",
+      "source_title": "How Google Is Reinventing Search with AI",
+      "source_url": "https://www.bloomberg.com/news/videos/2026-06-14/how-google-is-reinventing-search-with-ai-video"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "Googleの検索技術革新と画像生成AIの進化が、AI業界の動向を牽引する。これらの動きは、従来の業務プロセスを根本的に変える可能性を秘めている。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "How Google Is Reinventing Search with AI",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-14/how-google-is-reinventing-search-with-ai-video",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "メモ書き機能付きAmazon純正電子書籍リーダー「Kindle Scribe」に初のカラー表示可能な「Kindle Scribe Colorsoft」を含む3モデルが新登場したので使ってみた",
+      "url": "https://gigazine.net/news/20260614-kindle-scribe-2026/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "あの『鎧伝サムライトルーパー』が37年ぶりに復活！ 新作『鎧真伝』をプライムビデオで一気見",
+      "url": "https://ascii.jp/elem/000/004/408/4408690/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "AI Turns Coders, Lawyers and Analysts Into Ghosts of London’s Past",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-14/ai-led-job-losses-bite-for-london-s-coders-lawyers-and-analysts",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "【驚愕】遺体は法律上「物」扱い!? 霊柩車が普通免許で運転できる意外すぎる理由",
+      "url": "https://ascii.jp/elem/000/004/410/4410390/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Publishing WASM wheels to PyPI for use with Pyodide",
+      "url": "https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "Ideogram 4 is crazy good.",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1u5h3ag/ideogram_4_is_crazy_good/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "生成AIは、なぜ「使いこなせない」のか？ ～ナレッジを育て、現場に根付かせる運用設計～",
+      "url": "https://majisemi-technology.doorkeeper.jp/events/197179",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "AI時代、BtoBマーケティングにおける「人間の関与」をどう考えるか？ ～2026年、マーケティング担当者が考えるべき「顧客体験」設計12選～【申込者全員にアーカイブ動画をプレゼント】",
+      "url": "https://majisemi-sales.doorkeeper.jp/events/197124",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
