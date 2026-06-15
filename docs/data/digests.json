@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "2026-06-16_morning-english-slug",
+      "date": "2026-06-16",
+      "file_key": "2026-06-16_morning",
+      "title": "AIニュースの要約と解説",
+      "summary": "この記事では、Robloxのセキュリティ対策、AIの活用状況、企業買収の動向など、最新のAIニュースをまとめました。技術の進化と社会への影響について考えさせる内容です。",
+      "tags": [],
+      "slug": "english-slug"
+    },
+    {
       "id": "2026-06-15_morning-ai-news-summary-june-15-2026",
       "date": "2026-06-15",
       "file_key": "2026-06-15_morning",
@@ -404,20 +413,7 @@
         "生成AI"
       ],
       "slug": "ai-benchmarking-and-definition-trends"
-    },
-    {
-      "id": "2026-05-27_evening-ai-future-2026",
-      "date": "2026-05-27",
-      "file_key": "2026-05-27_evening",
-      "title": "AIが切り拓く未来：機内Wi‑Fiから生成音楽まで",
-      "summary": "機内ギガビット通信、ジャンル切替音楽生成、画像生成AIの進化、イベント情報を網羅し、実務への応用を解説します。",
-      "tags": [
-        "航空インフラ",
-        "生成音楽",
-        "AIイベント"
-      ],
-      "slug": "ai-future-2026"
     }
   ],
-  "updated_at": "2026-06-14T23:02:13.656268+00:00"
+  "updated_at": "2026-06-15T16:12:00.541635+00:00"
 }
