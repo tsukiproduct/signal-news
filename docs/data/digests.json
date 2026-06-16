@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-06-17_morning-ai-demand-venture-trends-june-2026",
+      "date": "2026-06-17",
+      "file_key": "2026-06-17_morning",
+      "title": "AI需要拡大とベンチャー動向：2026年6月の注目ポイント",
+      "summary": "AI需要の急伸が半導体市場を牽引し、ベンチャー投資や生成AIの実装が活発化。注目イベントと実践活用法を解説。",
+      "tags": [
+        "AI需要",
+        "半導体",
+        "ベンチャー投資",
+        "生成AI",
+        "ローカルLLM"
+      ],
+      "slug": "ai-demand-venture-trends-june-2026"
+    },
+    {
       "id": "2026-06-16_morning-english-slug",
       "date": "2026-06-16",
       "file_key": "2026-06-16_morning",
@@ -399,21 +414,7 @@
         "応用"
       ],
       "slug": "digest"
-    },
-    {
-      "id": "2026-05-28_morning-ai-benchmarking-and-definition-trends",
-      "date": "2026-05-28",
-      "file_key": "2026-05-28_morning",
-      "title": "AI性能評価の厳格化と「AI呼称」への警鐘：真の能力を測る時代へ",
-      "summary": "コーディングAIの厳格なベンチマーク登場や、AI定義への議論など、AIの「実力」を正しく評価する動きが加速しています。",
-      "tags": [
-        "AIベンチマーク",
-        "LLM評価",
-        "AIエージェント",
-        "生成AI"
-      ],
-      "slug": "ai-benchmarking-and-definition-trends"
     }
   ],
-  "updated_at": "2026-06-15T16:12:00.541635+00:00"
+  "updated_at": "2026-06-16T23:20:09.238366+00:00"
 }
