@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-06-18_morning-meta-engineering-culture-collapse",
+      "date": "2026-06-18",
+      "file_key": "2026-06-18_morning",
+      "title": "Metaのエンジニア文化崩壊の真相",
+      "summary": "MetaのAI改革が自社のエンジニアリング文化を破壊した背景と影響。",
+      "tags": [
+        "AI改革",
+        "サイバーセキュリティ",
+        "生成AI",
+        "プロンプト",
+        "イベント"
+      ],
+      "slug": "meta-engineering-culture-collapse"
+    },
+    {
       "id": "2026-06-17_morning-ai-demand-venture-trends-june-2026",
       "date": "2026-06-17",
       "file_key": "2026-06-17_morning",
@@ -401,20 +416,7 @@
         "応用"
       ],
       "slug": "ai-trends-and-events"
-    },
-    {
-      "id": "2026-05-28_evening-digest",
-      "date": "2026-05-28",
-      "file_key": "2026-05-28_evening",
-      "title": "AIの進化と挑戦",
-      "summary": "AI技術が急速に進化し、社会に深刻な影響を与える一方で、倫理的課題や課題解決の可能性も浮上。データの質やバイアス、プライバシー問題が重要な焦点となる。",
-      "tags": [
-        "AI",
-        "倫理",
-        "応用"
-      ],
-      "slug": "digest"
     }
   ],
-  "updated_at": "2026-06-16T23:20:09.238366+00:00"
+  "updated_at": "2026-06-17T23:19:37.611512+00:00"
 }
