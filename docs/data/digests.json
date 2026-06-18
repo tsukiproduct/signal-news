@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "2026-06-18_evening-ai-safety-benchmarking-and-agentic-trends",
+      "date": "2026-06-18",
+      "file_key": "2026-06-18_evening",
+      "title": "AI安全性の新基準とエージェント能力の検証：最新トレンド解説",
+      "summary": "AnthropicのAI安全性への取り組みから、エージェント能力の検証手法まで、AIの信頼性と実用性の最新動向を分析します。",
+      "tags": [
+        "AI Safety",
+        "AI Agents",
+        "Ideogram 4",
+        "Benchmarking"
+      ],
+      "slug": "ai-safety-benchmarking-and-agentic-trends"
+    },
+    {
       "id": "2026-06-18_evening-english-slug",
       "date": "2026-06-18",
       "file_key": "2026-06-18_evening",
@@ -401,22 +415,7 @@
         "プログラミング教育"
       ],
       "slug": "ai-wave-2026"
-    },
-    {
-      "id": "2026-05-30_evening-ai-news-japan",
-      "date": "2026-05-30",
-      "file_key": "2026-05-30_evening",
-      "title": "AIの最新トレンドと実用ガイド",
-      "summary": "2026年のAI技術動向をモバイルルーターからオープンソースAIまでカバー。セキュリティ、イベント、プロンプトの実用例を解説。",
-      "tags": [
-        "AI技術",
-        "モバイルルーター",
-        "オープンソース",
-        "イベント",
-        "プロンプト"
-      ],
-      "slug": "ai-news-japan"
     }
   ],
-  "updated_at": "2026-06-18T08:51:41.917793+00:00"
+  "updated_at": "2026-06-18T13:55:14.156413+00:00"
 }
