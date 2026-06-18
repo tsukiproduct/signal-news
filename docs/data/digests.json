@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-06-18_evening-english-slug",
+      "date": "2026-06-18",
+      "file_key": "2026-06-18_evening",
+      "title": "AIの新たな風景と課題のバランス",
+      "summary": "多様なAI developmentsが急速に進む中、技術革新と社会的影響のバランスが問われる。今後のAI活用では技術実用性と倫理性が共通して考慮される必要がある。",
+      "tags": [
+        "AI",
+        "技術革新",
+        "倫理"
+      ],
+      "slug": "english-slug"
+    },
+    {
       "id": "2026-06-18_morning-meta-engineering-culture-collapse",
       "date": "2026-06-18",
       "file_key": "2026-06-18_morning",
@@ -403,20 +416,7 @@
         "プロンプト"
       ],
       "slug": "ai-news-japan"
-    },
-    {
-      "id": "2026-05-29_evening-ai-trends-and-events",
-      "date": "2026-05-29",
-      "file_key": "2026-05-29_evening",
-      "title": "AI技術の熱い動きと注目イベント",
-      "summary": "AI分野の最新動向、イベント情報、応用事例を解説。",
-      "tags": [
-        "AI技術",
-        "イベント",
-        "応用"
-      ],
-      "slug": "ai-trends-and-events"
     }
   ],
-  "updated_at": "2026-06-17T23:19:37.611512+00:00"
+  "updated_at": "2026-06-18T08:51:41.917793+00:00"
 }
