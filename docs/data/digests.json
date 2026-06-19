@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "2026-06-19_evening-ai-evolution-and-reality",
+      "date": "2026-06-19",
+      "file_key": "2026-06-19_evening",
+      "title": "AIの進化と現実：限界と可能性を探る",
+      "summary": "AI技術の進展とその社会的影響、画像生成や医療分野の具体例を紹介します。",
+      "tags": [
+        "AI技術",
+        "生成AI",
+        "イベント",
+        "教育"
+      ],
+      "slug": "ai-evolution-and-reality"
+    },
+    {
       "id": "2026-06-18_evening-ai-safety-benchmarking-and-agentic-trends",
       "date": "2026-06-18",
       "file_key": "2026-06-18_evening",
@@ -401,21 +415,7 @@
         "マーケティング"
       ],
       "slug": "ai-business-security-image-generation-trends"
-    },
-    {
-      "id": "2026-05-31_morning-ai-wave-2026",
-      "date": "2026-05-31",
-      "file_key": "2026-05-31_morning",
-      "title": "AIの波を乗りこなす：ガン対策からAI投資、生成AIの最新動向まで",
-      "summary": "カリフォルニアのガン追い出しプロジェクトやソフトバンクのフランス投資計画、生成AIのUI改良など、今週のAIニュースを解説。ビジネス応用やイベント情報も網羅。",
-      "tags": [
-        "AI投資",
-        "生成AI",
-        "環境AI",
-        "プログラミング教育"
-      ],
-      "slug": "ai-wave-2026"
     }
   ],
-  "updated_at": "2026-06-18T13:55:14.156413+00:00"
+  "updated_at": "2026-06-19T09:09:10.757342+00:00"
 }

@@ -1,0 +1,147 @@
+{
+  "id": "2026-06-19_evening-ai-evolution-and-reality",
+  "file_key": "2026-06-19_evening",
+  "date": "2026-06-19",
+  "generated_at": "2026-06-19T09:09:10.756552+00:00",
+  "title": "AIの進化と現実：限界と可能性を探る",
+  "slug": "ai-evolution-and-reality",
+  "summary": "AI技術の進展とその社会的影響、画像生成や医療分野の具体例を紹介します。",
+  "tags": [
+    "AI技術",
+    "生成AI",
+    "イベント",
+    "教育"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "AI技術は医療から教育までさまざまな分野で進化しています。本記事では、AIの限界や最前線技術、実用的な応用例を幅広くカバー。メトリクスの信用性や脳-コンピュータインターフェースの進展をはじめ、生成AIの最新トレンドまでを解説。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "脳-コンピュータインターフェースの実用化",
+      "body": "ALSなどの疾患を持つ患者が脳波を用いてデバイスを操作する技術が注目されています。Casey Harrell氏のケースは、この技術が日常生活にどのように貢献できるかを示しています。ただし、データの収集や解釈には技術的・倫理的な課題が伴います。",
+      "source_title": "Brain-computer interface trials are taking off",
+      "source_url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "Stable DiffusionやIdeogram LoRAを組み合わせた技術で、60秒間の自己撮影動画を生成する実験が注目を集めています。この技術は、個人向けコンテンツ制作や教育分野での活用が期待されています。",
+      "source_title": "60 seconds of me staring - SCAIL2 + Ideogram LoRA",
+      "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1u9vj9z/60_seconds_of_me_staring_scail2_ideogram_lora/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "カスタムアプリホスティング",
+      "prompt_body": "DatasetteプラットフォームでHTMLアプリを埋め込む方法。開発者がデータ可視化に特化したカスタムツールを簡単に作成可能。",
+      "prompt_usecase": "企業向けデータ分析ダッシュボードにカスタム機能を追加する際に有効。",
+      "prompt_source": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "Redditで話題を集める60秒動画生成技術は、個人の表現力を高める可能性があります。一方で、メトリクスに過度に依存するAI評価の問題も浮上しています。",
+      "source_title": "60 seconds of me staring - SCAIL2 + Ideogram LoRA",
+      "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1u9vj9z/60_seconds_of_me_staring_scail2_ideogram_lora/"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "Claude Code講座やICT活用ワークショップがオンライン・オフラインで開催。AI技術の最新情報を学び、実践的なスキルを習得する機会です。",
+      "event_list": [
+        {
+          "title": "ゼロから始めるClaude Code講座",
+          "date": "2026-06-20",
+          "place": "テックジム東京本校",
+          "url": "https://techgym.doorkeeper.jp/events/197355"
+        },
+        {
+          "title": "若手教員向けICT活用ワークショップ",
+          "date": "2026-06-22",
+          "place": "オンライン",
+          "url": "https://loilonote.doorkeeper.jp/events/197046"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "AIツールを活用したカスタムアプリ開発や、医療分野でのBCI技術の活用がビジネスモデルに新たな価値を生み出します。特に、データ分析プラットフォームのカスタマイズ機能は、カスタマーサポートや内部プロセス改善に活用可能です。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "AIメトリクスの限界に関する研究が進展し、医療や教育分野での具体的な応用が加速しています。生成AIの個人向けコンテンツ制作も近い将来、主流になる可能性が高まります。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "The inevitable weakness of metrics",
+      "url": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
+      "source": "MIT Tech Review",
+      "category": "Research"
+    },
+    {
+      "title": "Brain-computer interface trials are taking off",
+      "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
+      "source": "MIT Tech Review",
+      "category": "Research"
+    },
+    {
+      "title": "でっかいは正義！200mlの「でっかいプリンモナカ」、ファミマ限定で",
+      "url": "https://ascii.jp/elem/000/004/412/4412106/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "WD_BLACK SSDがお得に買える！ パソコン工房で最大2万円オフの期間限定セール",
+      "url": "https://ascii.jp/elem/000/004/412/4412105/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "コロナ禍で大会を失った世代のための再起の物語『チハヤリスタート！』50%還元【Amazon漫画週末祭】",
+      "url": "https://ascii.jp/elem/000/004/412/4412027/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "60 seconds of me staring - SCAIL2 + Ideogram LoRA",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1u9vj9z/60_seconds_of_me_staring_scail2_ideogram_lora/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "ゼロから始めるClaude Code講座",
+      "url": "https://techgym.doorkeeper.jp/events/197355",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "ロイロノート働き方ウィーク④｜【若手の先生方向け】若手教員のためのICTを活用した働き方改革",
+      "url": "https://loilonote.doorkeeper.jp/events/197046",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
