@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-06-19_evening-ai-trends-june-week3-2026",
+      "date": "2026-06-19",
+      "file_key": "2026-06-19_evening",
+      "title": "AIトレンド2026年6月第3週：規制から創業まで",
+      "summary": "今週のAIニュースを振り返り、規制情勢や企業動向、生成AIの進歩を網羅的に解説します。",
+      "tags": [
+        "AI規制",
+        "生成AI",
+        "動画生成",
+        "スタートアップ",
+        "イベント"
+      ],
+      "slug": "ai-trends-june-week3-2026"
+    },
+    {
       "id": "2026-06-19_evening-ai-evolution-and-reality",
       "date": "2026-06-19",
       "file_key": "2026-06-19_evening",
@@ -401,21 +416,7 @@
         "画像生成"
       ],
       "slug": "ai-news-summary-2026"
-    },
-    {
-      "id": "2026-05-31_evening-ai-business-security-image-generation-trends",
-      "date": "2026-05-31",
-      "file_key": "2026-05-31_evening",
-      "title": "AI活用の最前線：ビジネス戦略からセキュリティまで",
-      "summary": "AI技術のビジネス応用、セキュリティ対策、画像生成AI最新動向を解説",
-      "tags": [
-        "AIビジネス",
-        "セキュリティ",
-        "画像生成",
-        "マーケティング"
-      ],
-      "slug": "ai-business-security-image-generation-trends"
     }
   ],
-  "updated_at": "2026-06-19T09:09:10.757342+00:00"
+  "updated_at": "2026-06-19T13:58:41.488655+00:00"
 }
