@@ -1,0 +1,89 @@
+{
+  "id": "2026-06-20_morning-english-slug",
+  "file_key": "2026-06-20_morning",
+  "date": "2026-06-20",
+  "generated_at": "2026-06-19T22:48:29.601665+00:00",
+  "title": "AIの進展と課題",
+  "slug": "english-slug",
+  "summary": "AIの進展と課題が進む中、技術革新と社会的影響が注目。",
+  "tags": [],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "導入文（200字程度）"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "背景・意味・影響を解説（400字程度）"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
+      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+      "source": "TechCrunch AI",
+      "category": "Industry"
+    },
+    {
+      "title": "Nothing cancels this year’s CMF phone due to RAM prices",
+      "url": "https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "Trump Tells Axios He Doesn’t See Anthropic as US Security Threat",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-19/trump-tells-axios-he-doesn-t-see-anthropic-as-us-security-threat",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "生成AIを活用した商品開発とは？事例12選とメリットや進め方を解説",
+      "url": "https://ainow.ai/2026/06/20/278188/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e3%2582%2592%25e6%25b4%25bb%25e7%2594%25a8%25e3%2581%2597%25e3%2581%259f%25e5%2595%2586%25e5%2593%2581%25e9%2596%258b%25e7%2599%25ba%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e4%25ba%258b%25e4%25be%258b12%25e9%2581%25b8%25e3%2581%25a8%25e3%2583%25a1%25e3%2583%25aa%25e3%2583%2583",
+      "source": "AINOW",
+      "category": "AI"
+    },
+    {
+      "title": "生成AIを経営企画に活用する方法とメリット！事例とプロンプトも紹介",
+      "url": "https://ainow.ai/2026/06/20/278185/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e3%2582%2592%25e7%25b5%258c%25e5%2596%25b6%25e4%25bc%2581%25e7%2594%25bb%25e3%2581%25ab%25e6%25b4%25bb%25e7%2594%25a8%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595%25e3%2581%25a8%25e3%2583%25a1%25e3%2583%25aa%25e3%2583%2583%25e3%2583%2588%25ef%25bc%2581%25e4%25ba%258b%25e4%25be%258b",
+      "source": "AINOW",
+      "category": "AI"
+    },
+    {
+      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "Anima-Turbo Coming Soon",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uaejnd/animaturbo_coming_soon/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "ゼロから始めるClaude Code講座",
+      "url": "https://techgym.doorkeeper.jp/events/197355",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "ロイロノート働き方ウィーク④｜【若手の先生方向け】若手教員のためのICTを活用した働き方改革",
+      "url": "https://loilonote.doorkeeper.jp/events/197046",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

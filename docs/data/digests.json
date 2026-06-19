@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "2026-06-20_morning-english-slug",
+      "date": "2026-06-20",
+      "file_key": "2026-06-20_morning",
+      "title": "AIの進展と課題",
+      "summary": "AIの進展と課題が進む中、技術革新と社会的影響が注目。",
+      "tags": [],
+      "slug": "english-slug"
+    },
+    {
       "id": "2026-06-19_evening-ai-trends-june-week3-2026",
       "date": "2026-06-19",
       "file_key": "2026-06-19_evening",
@@ -401,22 +410,7 @@
         "生成AI"
       ],
       "slug": "ai-future-2026-06"
-    },
-    {
-      "id": "2026-05-31_evening-ai-news-summary-2026",
-      "date": "2026-05-31",
-      "file_key": "2026-05-31_evening",
-      "title": "AIの最新トレンドと実用案",
-      "summary": "2026年のAI動向は、創造性の向上から健康管理、ビジネス戦略まで幅広く影響しています。画像生成AIの進化や喫煙予測技術、B2BマーケティングのAI活用が注目されています。実用的なツールやイベントも増加傾向です。",
-      "tags": [
-        "AI",
-        "健康管理",
-        "創造性",
-        "ビジネス戦略",
-        "画像生成"
-      ],
-      "slug": "ai-news-summary-2026"
     }
   ],
-  "updated_at": "2026-06-19T13:58:41.488655+00:00"
+  "updated_at": "2026-06-19T22:48:29.602366+00:00"
 }
