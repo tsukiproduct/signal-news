@@ -1,0 +1,78 @@
+{
+  "id": "2026-06-21_morning-english-slug",
+  "file_key": "2026-06-21_morning",
+  "date": "2026-06-21",
+  "generated_at": "2026-06-20T23:00:56.262425+00:00",
+  "title": "AIニュースの要約と解説",
+  "slug": "english-slug",
+  "summary": "本記事では、人工知能の急速な進化とその社会への影響を多角的に解説。歴史的背景からセキュリティ対策、実用例まで、最新動向を分かりやすくまとめました。",
+  "tags": [],
+  "sections": [],
+  "sources": [
+    {
+      "title": "人類が利用した「サイコロ」の歴史",
+      "url": "https://gigazine.net/news/20260621-dice-history/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "DAZN「980円問題」の本質 何に謝って、何に沈黙したのか 長期ユーザーのマンガ家が考察",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/21/news015.html",
+      "source": "ITmedia News",
+      "category": "Tech"
+    },
+    {
+      "title": "氷の池に2時間半沈んだ8歳の子どもが体温7℃・心停止状態から生還、医師らは「人命救助の限界を大きく更新した」と報告",
+      "url": "https://gigazine.net/news/20260621-ice-water-drowning-survival/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "source": "TechCrunch AI",
+      "category": "Industry"
+    },
+    {
+      "title": "How Transparent Is DiffusionGemma (and why it matters)",
+      "url": "https://www.alignmentforum.org/posts/zoYXpdaMgFT43Wc24/how-transparent-is-diffusiongemma-and-why-it-matters",
+      "source": "Alignment Forum",
+      "category": "Safety"
+    },
+    {
+      "title": "Quoting Sean Lynch",
+      "url": "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "Testing some complex UI creation using Boogu Image Turbo it good and it is also good at following instructions (Using INT8 Quantization it is faster for RTX 30xx GPUs)",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1ub79gq/testing_some_complex_ui_creation_using_boogu/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "ロイロノート働き方ウィーク④｜【若手の先生方向け】若手教員のためのICTを活用した働き方改革",
+      "url": "https://loilonote.doorkeeper.jp/events/197046",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "多発するサイバー攻撃、複雑化するセキュリティ運用をどう強化するか？",
+      "url": "https://majisemi-security.doorkeeper.jp/events/197360",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

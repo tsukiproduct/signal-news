@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "2026-06-21_morning-english-slug",
+      "date": "2026-06-21",
+      "file_key": "2026-06-21_morning",
+      "title": "AIニュースの要約と解説",
+      "summary": "本記事では、人工知能の急速な進化とその社会への影響を多角的に解説。歴史的背景からセキュリティ対策、実用例まで、最新動向を分かりやすくまとめました。",
+      "tags": [],
+      "slug": "english-slug"
+    },
+    {
       "id": "2026-06-20_evening-mcp-auth-flow-and-hardware-supply-risk",
       "date": "2026-06-20",
       "file_key": "2026-06-20_evening",
@@ -396,22 +405,7 @@
         "イベント"
       ],
       "slug": "ai-investments-and-tech-innovation-this-week"
-    },
-    {
-      "id": "2026-06-01_evening-nvidia-rtx-spark-pc-chip-market-entry",
-      "date": "2026-06-01",
-      "file_key": "2026-06-01_evening",
-      "title": "NvidiaがPCチップ市場へ本格参入、ハードとAIの統合加速",
-      "summary": "Nvidiaが新チップ「RTX Spark」を発表しPC市場に参入。AIハードウェアの統合が加速します。",
-      "tags": [
-        "Nvidia",
-        "RTX Spark",
-        "AI PC",
-        "LLM",
-        "AI Security"
-      ],
-      "slug": "nvidia-rtx-spark-pc-chip-market-entry"
     }
   ],
-  "updated_at": "2026-06-20T07:55:22.152611+00:00"
+  "updated_at": "2026-06-20T23:00:56.263177+00:00"
 }
