@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "2026-06-20_evening-mcp-auth-flow-and-hardware-supply-risk",
+      "date": "2026-06-20",
+      "file_key": "2026-06-20_evening",
+      "title": "MCPによるAI認証の分離とハードウェア供給リスクの衝撃",
+      "summary": "AIエージェントの認証フローを改善するMCPの有用性と、メモリ高騰がもたらすハードウェア開発への影響を考察します。",
+      "tags": [
+        "MCP",
+        "StableDiffusion",
+        "ハードウェア不足",
+        "AIセキュリティ"
+      ],
+      "slug": "mcp-auth-flow-and-hardware-supply-risk"
+    },
+    {
       "id": "2026-06-20_morning-english-slug",
       "date": "2026-06-20",
       "file_key": "2026-06-20_morning",
@@ -397,20 +411,7 @@
         "AI Security"
       ],
       "slug": "nvidia-rtx-spark-pc-chip-market-entry"
-    },
-    {
-      "id": "2026-06-01_morning-ai-future-2026-06",
-      "date": "2026-06-01",
-      "file_key": "2026-06-01_morning",
-      "title": "AIと暮らす未来：ポイント還元から脳のリワイヤ、業務自動化まで",
-      "summary": "PayPayキャンペーン、AIデータセンター批判、父親の脳変化、業務設計AI、画像生成AIの動向をまとめ、実務への応用を解説。",
-      "tags": [
-        "AIインフラ",
-        "業務自動化",
-        "生成AI"
-      ],
-      "slug": "ai-future-2026-06"
     }
   ],
-  "updated_at": "2026-06-19T22:48:29.602366+00:00"
+  "updated_at": "2026-06-20T07:55:22.152611+00:00"
 }
