@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-06-21_evening-ai-news-june-2026",
+      "date": "2026-06-21",
+      "file_key": "2026-06-21_evening",
+      "title": "AI最前線2026/6/21：ノーベル賞氏Anthropicへ、リモート親支援から生成AIまで",
+      "summary": "ノーベル化学賞ジャンパー氏がAnthropicへ、リモート操作スマホや生成AIの最新トレンドを振り返る。",
+      "tags": [
+        "AIニュース",
+        "生成AI",
+        "ノーベル賞",
+        "Anthropic",
+        "親支援テクノロジー"
+      ],
+      "slug": "ai-news-june-2026"
+    },
+    {
       "id": "2026-06-21_morning-english-slug",
       "date": "2026-06-21",
       "file_key": "2026-06-21_morning",
@@ -390,22 +405,7 @@
         "ハードウェア"
       ],
       "slug": "ai-hardware-merge"
-    },
-    {
-      "id": "2026-06-02_morning-ai-investments-and-tech-innovation-this-week",
-      "date": "2026-06-02",
-      "file_key": "2026-06-02_morning",
-      "title": "AI 投資と技術革新の今週",
-      "summary": "SalesforceのAnthropic投資、NvidiaのAIチップ、画像生成AIの進展など、今週のAIニュースを解説。",
-      "tags": [
-        "AI投資",
-        "Nvidia",
-        "Anthropic",
-        "画像生成AI",
-        "イベント"
-      ],
-      "slug": "ai-investments-and-tech-innovation-this-week"
     }
   ],
-  "updated_at": "2026-06-20T23:00:56.263177+00:00"
+  "updated_at": "2026-06-21T08:38:57.922934+00:00"
 }
