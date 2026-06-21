@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-06-21_evening-ai-product-sales-and-innovation-now",
+      "date": "2026-06-21",
+      "file_key": "2026-06-21_evening",
+      "title": "AI製品割引とイノベーションの現在",
+      "summary": "LenovoやHPのノートPCがタイムセールで注目。Ubisoft共同創業者の死去とイベント情報。画像生成AIでトム・クルーズを再現するケースも。",
+      "tags": [
+        "AI製品",
+        "イベント",
+        "イメージ生成"
+      ],
+      "slug": "ai-product-sales-and-innovation-now"
+    },
+    {
       "id": "2026-06-21_evening-ai-news-june-2026",
       "date": "2026-06-21",
       "file_key": "2026-06-21_evening",
@@ -392,20 +405,7 @@
         "IoT"
       ],
       "slug": "ai-changing-travel-business-games"
-    },
-    {
-      "id": "2026-06-02_morning-ai-hardware-merge",
-      "date": "2026-06-02",
-      "file_key": "2026-06-02_morning",
-      "title": "AIとハードウェアの融合：ASRockとASUSの新戦略と生成AIの最前線",
-      "summary": "ASRockのワンクリックAI導入ツールとASUSのAI注力戦略を解説。画像生成AIの実例と今週の話題をまとめ、ビジネス応用例を提示。",
-      "tags": [
-        "AI導入",
-        "生成AI",
-        "ハードウェア"
-      ],
-      "slug": "ai-hardware-merge"
     }
   ],
-  "updated_at": "2026-06-21T08:38:57.922934+00:00"
+  "updated_at": "2026-06-21T13:00:46.108680+00:00"
 }
