@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-06-22_morning-ai-activation-weekly-2024-06-21",
+      "date": "2026-06-22",
+      "file_key": "2026-06-22_morning",
+      "title": "AI活用最前線：企業導入から画像生成まで今週注目の9情報",
+      "summary": "企業のChatGPT導入、ワークフロー自動化、画像生成ツールまで、今週のAI動向を横断的に解説します。",
+      "tags": [
+        "AI導入",
+        "業務自動化",
+        "画像生成",
+        "プロンプト",
+        "セキュリティ"
+      ],
+      "slug": "ai-activation-weekly-2024-06-21"
+    },
+    {
       "id": "2026-06-21_evening-ai-product-sales-and-innovation-now",
       "date": "2026-06-21",
       "file_key": "2026-06-21_evening",
@@ -392,20 +407,7 @@
         "テクノロジー"
       ],
       "slug": "english-slug"
-    },
-    {
-      "id": "2026-06-02_evening-ai-changing-travel-business-games",
-      "date": "2026-06-02",
-      "file_key": "2026-06-02_evening",
-      "title": "AIが変える旅・ビジネス・ゲーム：今日の最前線",
-      "summary": "Gemini Sparkの旅企画からPolandの技術主権、Lego Smart Play、AIで収益倍増など、AIが多様な分野で加速する姿勢を解説。",
-      "tags": [
-        "AI",
-        "旅行",
-        "IoT"
-      ],
-      "slug": "ai-changing-travel-business-games"
     }
   ],
-  "updated_at": "2026-06-21T13:00:46.108680+00:00"
+  "updated_at": "2026-06-21T23:05:22.126573+00:00"
 }
