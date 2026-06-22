@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-06-22_evening-ai-hardware-copyright-trends-june-2026",
+      "date": "2026-06-22",
+      "file_key": "2026-06-22_evening",
+      "title": "AIの進化は「ハードウェア」と「著作権」のフェーズへ：最新動向解説",
+      "summary": "x86拡張命令によるAI高速化の動きや、音楽学習データの可視化、進化する画像生成AIなど、技術・権利・インフラの三側面からAI業界の最新動向を読み解きます。",
+      "tags": [
+        "AIインフラ",
+        "生成AI",
+        "著作権"
+      ],
+      "slug": "ai-hardware-copyright-trends-june-2026"
+    },
+    {
       "id": "2026-06-22_morning-ai-activation-weekly-2024-06-21",
       "date": "2026-06-22",
       "file_key": "2026-06-22_morning",
@@ -394,20 +407,7 @@
         "AI Events"
       ],
       "slug": "ai-news-digest-private-credit-ml-events"
-    },
-    {
-      "id": "2026-06-04_morning-english-slug",
-      "date": "2026-06-04",
-      "file_key": "2026-06-04_morning",
-      "title": "AIニュースの最新トレンド解説",
-      "summary": "本記事では、セガやSpaceXなど注目企業のAI活用動向や、企業のAI投資増加、専門家の視点をまとめました。これらの動きが今後のビジネスや技術にどのような影響を与えるかを解説します。",
-      "tags": [
-        "AI",
-        "ビジネス",
-        "テクノロジー"
-      ],
-      "slug": "english-slug"
     }
   ],
-  "updated_at": "2026-06-21T23:05:22.126573+00:00"
+  "updated_at": "2026-06-22T09:52:40.936098+00:00"
 }
