@@ -1,0 +1,133 @@
+{
+  "id": "2026-06-24_morning-english-slug",
+  "file_key": "2026-06-24_morning",
+  "date": "2026-06-24",
+  "generated_at": "2026-06-23T23:02:34.301750+00:00",
+  "title": "AIの最新動向を徹底解説",
+  "slug": "english-slug",
+  "summary": "この記事では、AIの進化に注目する主要ニュースをまとめ、現在の技術動向や社会への影響を分かりやすく解説します。専門家視点から未来の可能性にも触れます。",
+  "tags": [],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "AIの最新動向概要",
+      "body": "エキサイティングな技術革新が続く中で、ビジネスや日常生活にどのように活用されるかをまとめました。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "主要ニュース詳細",
+      "body": "オオカミの再出現や量子安全暗号の期限が迫るなど、重要な事例を解説。社会全体の適応が問われています。"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "AI画像・動画トレンド",
+      "body": "画像生成AIが進化する姿や、実際の応用例が注目されています。技術の進化を視覚で捉えています。",
+      "source_title": "参照記事タイトル",
+      "source_url": "https://gigazine.net/news/20260624-wolves-reconquiring-europe-limits-coexistence/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日使うプロンプト",
+      "prompt_title": "個人名付きプロンプト",
+      "prompt_body": "AIに自分の名前をつけるプロンプトを試す。実用的な応用が期待されます。",
+      "prompt_source": "参照記事URL"
+    },
+    {
+      "type": "wow",
+      "heading": "話題のポイント",
+      "body": "AIの進化スピードが予想を超え、社会の変化を促しています。注目すべきは、データ活用の新たな潮流です。",
+      "source_title": "例文"
+    },
+    {
+      "type": "events",
+      "heading": "今週のイベント",
+      "body": "オンラインセミナーや勉強会が開催される予定。AI業界の動向を把握する絶好の機会です。",
+      "event_list": [
+        {
+          "title": "NVIDIAデータセンター建設",
+          "date": "2026-06-24",
+          "place": "Webセミナー",
+          "url": "https://majisemi-sales.doorkeeper.jp/events/197395"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "ビジネスへの応用",
+      "body": "企業がAIを活用する具体例を紹介します。効率化や新製品開発の可能性を広げます。",
+      "example": "カスタマーサポートの自動化や、カスタマイズされた広告が実現"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週のトレンド",
+      "body": "AIはまだ発展途中ですが、今後の社会変革を担う存在として注目されています。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "オオカミが絶滅寸前から復活したヨーロッパで家畜や人間の襲撃事件が増加、果たして共生は可能なのか？",
+      "url": "https://gigazine.net/news/20260624-wolves-reconquering-europe-limits-coexistence/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "Executive order bumps up deadline to move off quantum-vulnerable crypto",
+      "url": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
+      "source": "Ars Technica",
+      "category": "Tech"
+    },
+    {
+      "title": "直行便ゼロでも台湾へ。混雑を避ける“裏ルート”が快適だった",
+      "url": "https://ascii.jp/elem/000/004/412/4412601/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "Google Home will soon get better at recognizing you",
+      "url": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "German Rail Halted Nationwide Services After Radio System Outage",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/german-rail-halted-nationwide-services-after-radio-system-outage",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "OPFS + Pyodide test harness",
+      "url": "https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "Krea 2 workflow images are next level",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1udosq0/krea_2_workflow_images_are_next_level/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "【経営層向け】NVIDIA公認データセンターを建設したプロに学ぶ、 データセンタービジネスの参入方法",
+      "url": "https://majisemi-sales.doorkeeper.jp/events/197395",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "【WACA主催】【Felo it】monthly勉強会 vol.10",
+      "url": "https://web-mining.doorkeeper.jp/events/197313",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

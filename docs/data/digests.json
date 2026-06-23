@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "2026-06-24_morning-english-slug",
+      "date": "2026-06-24",
+      "file_key": "2026-06-24_morning",
+      "title": "AIの最新動向を徹底解説",
+      "summary": "この記事では、AIの進化に注目する主要ニュースをまとめ、現在の技術動向や社会への影響を分かりやすく解説します。専門家視点から未来の可能性にも触れます。",
+      "tags": [],
+      "slug": "english-slug"
+    },
+    {
       "id": "2026-06-22_evening-ai-hardware-copyright-trends-june-2026",
       "date": "2026-06-22",
       "file_key": "2026-06-22_evening",
@@ -394,20 +403,7 @@
         "ビジネス応用"
       ],
       "slug": "ai-psychological-support"
-    },
-    {
-      "id": "2026-06-04_evening-ai-news-digest-private-credit-ml-events",
-      "date": "2026-06-04",
-      "file_key": "2026-06-04_evening",
-      "title": "AIニュース・トレンドまとめ：プライベートクレジット、ML進歩、イベント情報",
-      "summary": "AI投資の動向や機械学習の技術進歩、生成AIの活用事例、そらすAI関連イベントの情報をわかりやすく解説します。",
-      "tags": [
-        "AI Finance",
-        "Machine Learning",
-        "AI Events"
-      ],
-      "slug": "ai-news-digest-private-credit-ml-events"
     }
   ],
-  "updated_at": "2026-06-22T09:52:40.936098+00:00"
+  "updated_at": "2026-06-23T23:02:34.302351+00:00"
 }
