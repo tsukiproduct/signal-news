@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-06-24_evening-ai-industry-trends-june-2024",
+      "date": "2026-06-24",
+      "file_key": "2026-06-24_evening",
+      "title": "AI産業と生成技術の最新動向 2024年Q2まとめ",
+      "summary": "Googleのスマートスピーカー、OpenAIのカスタムチップ、政府投資計画など、今週のAIニュースを解説。",
+      "tags": [
+        "AIハードウェア",
+        "生成AI",
+        "政策投資",
+        "プロンプト",
+        "イベント"
+      ],
+      "slug": "ai-industry-trends-june-2024"
+    },
+    {
       "id": "2026-06-24_morning-english-slug",
       "date": "2026-06-24",
       "file_key": "2026-06-24_morning",
@@ -390,20 +405,7 @@
         "セキュリity"
       ],
       "slug": "ai-news-june-5-2026"
-    },
-    {
-      "id": "2026-06-05_morning-ai-psychological-support",
-      "date": "2026-06-05",
-      "file_key": "2026-06-05_morning",
-      "title": "AIが心理的サポートを変える―実務と未来を読む",
-      "summary": "AI相談が普及し、ビジネスやイベントでの活用が期待される。本文では調査結果の解釈と実務への応用、画像生成AIの最前線、今週のバイラル情報を紹介。",
-      "tags": [
-        "AIサポート",
-        "対話型AI",
-        "ビジネス応用"
-      ],
-      "slug": "ai-psychological-support"
     }
   ],
-  "updated_at": "2026-06-23T23:02:34.302351+00:00"
+  "updated_at": "2026-06-24T13:11:10.851409+00:00"
 }
