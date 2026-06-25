@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-06-25_evening-apple-price-rise-ai-education",
+      "date": "2026-06-25",
+      "file_key": "2026-06-25_evening",
+      "title": "Apple価格上昇とAI教育の先端",
+      "summary": "Appleがメモリ不足で価格を上げ、AIがハンプトンズで子どもを指導。画像生成AIの最新トレンドとビジネス応用を解説",
+      "tags": [
+        "Apple",
+        "AI教育",
+        "画像生成",
+        "AI採用",
+        "ビジネスAI"
+      ],
+      "slug": "apple-price-rise-ai-education"
+    },
+    {
       "id": "2026-06-25_evening-ai-weekly-june-2026",
       "date": "2026-06-25",
       "file_key": "2026-06-25_evening",
@@ -389,21 +404,7 @@
         "トレンド"
       ],
       "slug": "ai解説"
-    },
-    {
-      "id": "2026-06-06_morning-ai-and-gaming-industry-trends",
-      "date": "2026-06-06",
-      "file_key": "2026-06-06_morning",
-      "title": "AIとゲーム業界の最新動向",
-      "summary": "AI技術がゲーム業界に与える影響と、関連イベントの概要を紹介します。",
-      "tags": [
-        "AI",
-        "ゲーム開発",
-        "データセンター",
-        "イベント"
-      ],
-      "slug": "ai-and-gaming-industry-trends"
     }
   ],
-  "updated_at": "2026-06-25T07:51:35.571747+00:00"
+  "updated_at": "2026-06-25T13:09:37.151862+00:00"
 }
