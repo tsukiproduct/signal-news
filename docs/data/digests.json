@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-06-25_evening-ai-weekly-june-2026",
+      "date": "2026-06-25",
+      "file_key": "2026-06-25_evening",
+      "title": "半導体とAIエージェントが牽引する今週の動向",
+      "summary": "マイクロン決算とSKハイニックスADR上場が半導体市場に影響。AIエージェントによるPC自動化や画像生成ツールも注目。",
+      "tags": [
+        "半導体",
+        "AIエージェント",
+        "画像生成"
+      ],
+      "slug": "ai-weekly-june-2026"
+    },
+    {
       "id": "2026-06-24_evening-ai-industry-trends-june-2024",
       "date": "2026-06-24",
       "file_key": "2026-06-24_evening",
@@ -390,22 +403,7 @@
         "イベント"
       ],
       "slug": "ai-and-gaming-industry-trends"
-    },
-    {
-      "id": "2026-06-05_evening-ai-news-june-5-2026",
-      "date": "2026-06-05",
-      "file_key": "2026-06-05_evening",
-      "title": "AIニュース2026年6月5日：エジプトIPO、インド大型データセンター",
-      "summary": "エジプトの国営資産IPO計画、インドでの大型AIデータセンター、ゲーミングデバイスの最新トレンドなどをキャッチアップ",
-      "tags": [
-        "AIインフラ",
-        "データセンター",
-        "グローバルAI",
-        "イベント",
-        "セキュリity"
-      ],
-      "slug": "ai-news-june-5-2026"
     }
   ],
-  "updated_at": "2026-06-24T13:11:10.851409+00:00"
+  "updated_at": "2026-06-25T07:51:35.571747+00:00"
 }

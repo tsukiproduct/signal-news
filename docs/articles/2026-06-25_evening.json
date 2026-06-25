@@ -1,0 +1,158 @@
+{
+  "id": "2026-06-25_evening-ai-weekly-june-2026",
+  "file_key": "2026-06-25_evening",
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T07:51:35.570990+00:00",
+  "title": "半導体とAIエージェントが牽引する今週の動向",
+  "slug": "ai-weekly-june-2026",
+  "summary": "マイクロン決算とSKハイニックスADR上場が半導体市場に影響。AIエージェントによるPC自動化や画像生成ツールも注目。",
+  "tags": [
+    "半導体",
+    "AIエージェント",
+    "画像生成"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "今週は半導体大手の決算と米国上場が市場の注目を集め、AI需要の伸びが再確認された。同時に、デスクトップ操作を自動化するAIエージェントツールや、漫画作成を支援する画像生成サービスが登場し、実務への適用が加速している。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "SKハイニックスは米NASDAQへのADR上場を2026年7月10日に予定し、これにより米国投資家へのアクセスが容易になる。Bloombergの分析では、マイクロンとの価格差が縮小する中で、SKハイニックスの株価が30％程度上振れる可能性が示唆されている。これはAI向けメモリ需要の高まりが半導体セグメント全体に波及し、企業の資金調達と成長戦略に影響を与えることを示している。",
+      "source_title": "SK Hynix ADR Seen Driving 30% Upside as Micron Gap Narrows",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-06-25/sk-hynix-adr-seen-driving-30-upside-as-micron-gap-narrows"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "Redditのr/StableDiffusionで紹介された「Krea 2 Comics」は、Krea2を用いて既存のキャラクターをベースにしたコミックカバーを簡単に作成できるワークフローを示す。プロンプトと Ideogram の組み合わせにより、ストーリーボードや宣伝ビジュアルの制作時間が大幅に短縮され、個人クリエイターからマーケティングチームまで幅広く活用が期待される。",
+      "source_title": "Krea 2 Comics",
+      "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1uf25ff/krea_2_comics/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "ブラウザ互換性チェックプロンプト",
+      "prompt_body": "以下のブラウザリスト（Chrome, Firefox, Safari, Edge）について、指定されたCSSプロパティのサポート状況を表形式でまとめてください。各ブラウザのバージョンは最新安定版とし、未サポートの場合は「×」、サポートの場合は「○」で示してください。",
+      "prompt_usecase": "ウェブ開発者が新しいCSS機能を導入前に互換性を素早く確認し、ポリフォールやフォールバックの判断材料に利用できる。",
+      "prompt_source": "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "Reddit r/artificialでの議論では、LLMに詳細な文章ガイドラインと複数のサンプルを与えることで、Claude、ChatGPT、Geminiの間での出力のトーンやスタイルの違いがほとんどなくなるという指摘があった。プロンプトエンジニアリングによる統一感が、マルチモデル環境での品質管理を容易にする可能性を示唆している。",
+      "source_title": "With proper writing instructions, voice and tone guide and cadence notes is there really a change between the LLM's at Claude, ChatGPT and Gemini?",
+      "source_url": "https://www.reddit.com/r/artificial/comments/1uf31qr/with_proper_writing_instructions_voice_and_tone/"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "製造業向けのシステム可視化ワークショップと、地域企業の伴走力をテーマにしたセミナーが開催される。いずれもオンラインまたは対面で参加可能で、AIエージェントやERPフレームワークの実践的活用事例が紹介される予定。",
+      "event_list": [
+        {
+          "title": "【西日本製造業向け】継ぎ足し開発された基幹システムをどう可視化し、再設計するか ～IBM Bobによる資産分析を起点に、AIエージェントとERPフレームワークで進める段階的刷新～",
+          "date": "2026-06-26",
+          "place": "オンライン",
+          "url": "https://majisemi-technology.doorkeeper.jp/events/197506"
+        },
+        {
+          "title": "【WACA中四国支部主催】地域で選ばれ続けるパートナーへ! クライアントにより添う「伴走力」とWeb実務のリアル事例",
+          "date": "2026-06-27",
+          "place": "サンポートホール高松 53会議室",
+          "url": "https://web-mining.doorkeeper.jp/events/197203"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "HoloDesktop CLIは、画面上のあらゆるデスクトップアプリをAIエージェントが観察し操作できるため、定型的なデータ入力やレポート生成などのバックオフィス業務をノーコードで自動化可能だ。例えば、営業担当が日次で行うCRMへの顧客情報入力を、エージェントに画面を見させてクリックとキーストロークを繰り返させることで、ヒューマンエラーを削減し、作業時間を30％以上短縮できる。さらに、APIが提供されないレガシーシステムでも同様の自動化が適用できるため、DX推進のコスト削減策として有効である。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "半導体市場ではマイクロンとSKハイニックスの需要供給バランスが注目され、AI向けメモリの価格動向が今後の設備投資に影響する。一方、AIエージェントによるGUI自動化と画像生成ツールの実用例が増え、業務フローへの組み込みが加速すると予想される。これらの技術を組み合わせたハイブリッドワークフローの実証実験が、来月にかけて複数の企業で始まる見込みだ。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Micron Earnings Inflate the AI Bubble: 3-Minutes MLIV",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-25/micron-earnings-inflate-the-ai-bubble-3-minutes-mliv-video",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "SKハイニックス、7月10日にNASDAQ上場へ 米国株口座で投資しやすく【海外報道】",
+      "url": "https://ascii.jp/elem/000/004/413/4413642/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "ステーキのどん食べ放題、肉の日は「和牛サーロイン」130g付きでヤバい！",
+      "url": "https://ascii.jp/elem/000/004/413/4413591/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "既存AIエージェントと連携してPC操作を自動化、APIなしのアプリも画面を見て操作する「HoloDesktop CLI」が登場",
+      "url": "https://gigazine.net/news/20260625-holodesktop-cli/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "SK Hynix ADR Seen Driving 30% Upside as Micron Gap Narrows",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/sk-hynix-adr-seen-driving-30-upside-as-micron-gap-narrows",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "With proper writing instructions, voice and tone guide and cadence notes is there really a change between the LLM's at Claude, ChatGPT and Gemini?",
+      "url": "https://www.reddit.com/r/artificial/comments/1uf31qr/with_proper_writing_instructions_voice_and_tone/",
+      "source": "r/artificial",
+      "category": "Wow"
+    },
+    {
+      "title": "Summary: Gemini Co-Lead on World Models, RL's Next Domains & Continual Learning",
+      "url": "https://www.reddit.com/r/artificial/comments/1uf2d3n/summary_gemini_colead_on_world_models_rls_next/",
+      "source": "r/artificial",
+      "category": "Wow"
+    },
+    {
+      "title": "simonw/browser-compat-db",
+      "url": "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "Krea 2 Comics",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uf25ff/krea_2_comics/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "【西日本製造業向け】継ぎ足し開発された基幹システムをどう可視化し、再設計するか  ～IBM Bobによる資産分析を起点に、AIエージェントとERPフレームワークで進める段階的刷新～",
+      "url": "https://majisemi-technology.doorkeeper.jp/events/197506",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "【WACA中四国支部主催】地域で選ばれ続けるパートナーへ! クライアントにより添う「伴走力」とWeb実務のリアル事例",
+      "url": "https://web-mining.doorkeeper.jp/events/197203",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
