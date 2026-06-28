@@ -1,0 +1,127 @@
+{
+  "id": "2026-06-28_evening-english-slug",
+  "file_key": "2026-06-28_evening",
+  "date": "2026-06-28",
+  "generated_at": "2026-06-28T12:12:27.341732+00:00",
+  "title": "AIの現状と課題",
+  "slug": "english-slug",
+  "summary": "iPhoneの制約とMacとの差が自由度の狭さから核心に。",
+  "tags": [
+    "AI",
+    "技術",
+    "課題"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "App Store制限の中、Macや自作アプリの活用が進む技術的課題が浮き彫り."
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "WebKit代替機能の要因と今後の展望を分析."
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "高速化と応用可能性の探索が注目."
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "プロンプトタイトル",
+      "prompt_body": "実用的なプロンプトの作成と活用方法",
+      "prompt_source": "参照記事URL"
+    },
+    {
+      "type": "wow",
+      "heading": "これすごい！今週のバイラル",
+      "body": "AI情報の急速な進化",
+      "source_title": "参照記事タイトル",
+      "source_url": "参照記事URL"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "主要なイベントの概要"
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "具体的な活用例と利点"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "トレンドと今後の見通し"
+    }
+  ],
+  "sources": [
+    {
+      "title": "iPhoneでFirefox用拡張機能を使えるウェブブラウザ「Reynard」のインストール手順、WebKitではなくGeckoを搭載した野良アプリ",
+      "url": "https://gigazine.net/news/20260628-reynard-ios-gecko-browser/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "Nest’s quest to fix your thermostat",
+      "url": "https://www.theverge.com/podcast/958735/nest-thermostat-version-history",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "脱獄不要＆Mac不要でiPhoneに野良アプリをインストールできる「SideStore」の導入手順まとめ",
+      "url": "https://gigazine.net/news/20260628-sidestore-sideloading-ios/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "Europe’s Hunt for AI Stocks Leads to Power Suppliers and Banks",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/europe-s-hunt-for-ai-stocks-leads-to-power-suppliers-and-banks",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "OpenAIのサム・アルトマンCEOとAnthropicのダリオ・アモデイCEOの間には10年にもわたる確執がある",
+      "url": "https://gigazine.net/news/20260628-dario-amodei-sam-altman/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "Quoting Dean W. Ball",
+      "url": "https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "I built a ComfyUI plugin that generates 1024px Qwen-Image in 0.9s on a 4090 — 11.7× faster than FP8 (Z-Image, Flux.2 too)",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uhucjl/i_built_a_comfyui_plugin_that_generates_1024px/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "【Flashセミナー Vol.148】地方高校生の放課後が、最近ちょっとおかしい。",
+      "url": "https://web-mining.doorkeeper.jp/events/197392",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "【オフライン】JJUGナイトセミナー「Java Community Process」6/29(月) 開催",
+      "url": "https://jjug.doorkeeper.jp/events/197257",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

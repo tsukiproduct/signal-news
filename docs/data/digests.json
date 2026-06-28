@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-06-28_evening-english-slug",
+      "date": "2026-06-28",
+      "file_key": "2026-06-28_evening",
+      "title": "AIの現状と課題",
+      "summary": "iPhoneの制約とMacとの差が自由度の狭さから核心に。",
+      "tags": [
+        "AI",
+        "技術",
+        "課題"
+      ],
+      "slug": "english-slug"
+    },
+    {
       "id": "2026-06-25_evening-apple-price-rise-ai-education",
       "date": "2026-06-25",
       "file_key": "2026-06-25_evening",
@@ -391,20 +404,7 @@
         "イベント"
       ],
       "slug": "ai-security-creative-trends-june-2026"
-    },
-    {
-      "id": "2026-06-06_evening-ai解説",
-      "date": "2026-06-06",
-      "file_key": "2026-06-06_evening",
-      "title": "AI技術の現状と活用",
-      "summary": "各AI技術の技術性・社会影響を客観的に解説。クラウド共有の課題や、VLPツールの活用、クラウド kaumの特性など重点を挙げ、実用的な応用例を提示。",
-      "tags": [
-        "AI技術",
-        "応用",
-        "トレンド"
-      ],
-      "slug": "ai解説"
     }
   ],
-  "updated_at": "2026-06-25T13:09:37.151862+00:00"
+  "updated_at": "2026-06-28T12:12:27.342415+00:00"
 }
