@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-06-29_evening-ai-tech-roundup-tools-events-trends",
+      "date": "2026-06-29",
+      "file_key": "2026-06-29_evening",
+      "title": "AI＆テック roundup：ツール、イベント、トレンド",
+      "summary": "HR戦略の見直しからAIエージェントサービス、StableDiffusionのINT8対応まで、今週の注目トピックを概観。",
+      "tags": [
+        "AIエージェント",
+        "StableDiffusion",
+        "イベント",
+        "生産性",
+        "エンタープライズAI"
+      ],
+      "slug": "ai-tech-roundup-tools-events-trends"
+    },
+    {
       "id": "2026-06-28_evening-english-slug",
       "date": "2026-06-28",
       "file_key": "2026-06-28_evening",
@@ -389,22 +404,7 @@
         "ビジネス"
       ],
       "slug": "english-slug"
-    },
-    {
-      "id": "2026-06-07_morning-ai-security-creative-trends-june-2026",
-      "date": "2026-06-07",
-      "file_key": "2026-06-07_morning",
-      "title": "AIセキュリティとクリエイティブ新潮流：ロックダウンモードからゲームAIまで",
-      "summary": "ChatGPTのロックダウンモード導入やゲームAIイベントなど、今週注目のAIニュースを解説し、実務活用まで展開します。",
-      "tags": [
-        "AIセキュリティ",
-        "プロンプトインジェクション",
-        "ゲームAI",
-        "画像生成",
-        "イベント"
-      ],
-      "slug": "ai-security-creative-trends-june-2026"
     }
   ],
-  "updated_at": "2026-06-28T12:12:27.342415+00:00"
+  "updated_at": "2026-06-29T09:06:10.671528+00:00"
 }
