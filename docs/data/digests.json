@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-06-29_evening-us-science-budget-crisis-ai-scouting-generative-ai-frontier",
+      "date": "2026-06-29",
+      "file_key": "2026-06-29_evening",
+      "title": "米科学予算危機とAIスカウト、生成AI最前線",
+      "summary": "米OMB規則変更で科学研究危機、ブラジルでAIサッカースカウト普及、画像生成AI新モデル進展",
+      "tags": [
+        "科学技術政策",
+        "生成AI",
+        "ビジネス応用"
+      ],
+      "slug": "us-science-budget-crisis-ai-scouting-generative-ai-frontier"
+    },
+    {
       "id": "2026-06-29_evening-ai-tech-roundup-tools-events-trends",
       "date": "2026-06-29",
       "file_key": "2026-06-29_evening",
@@ -391,20 +404,7 @@
         "データ自動化"
       ],
       "slug": "ai-infrastructure-research-tools-trends"
-    },
-    {
-      "id": "2026-06-07_evening-english-slug",
-      "date": "2026-06-07",
-      "file_key": "2026-06-07_evening",
-      "title": "AIニュースの要約と解説",
-      "summary": "本記事では最新AI技術の動向を解説。ディックオーバーの問題、ローカルAIの登場、コードレビューツールの進化、AIの歴史的記録など、注目すべきポイントをまとめました。技術的な詳細と社会的な影響をバランスよく取り、読者にお手本を提供します。",
-      "tags": [
-        "AI",
-        "テクノロジー",
-        "ビジネス"
-      ],
-      "slug": "english-slug"
     }
   ],
-  "updated_at": "2026-06-29T09:06:10.671528+00:00"
+  "updated_at": "2026-06-29T14:40:58.446805+00:00"
 }

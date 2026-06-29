@@ -1,112 +1,110 @@
 {
-  "id": "2026-06-29_evening-ai-tech-roundup-tools-events-trends",
+  "id": "2026-06-29_evening-us-science-budget-crisis-ai-scouting-generative-ai-frontier",
   "file_key": "2026-06-29_evening",
   "date": "2026-06-29",
-  "generated_at": "2026-06-29T09:06:10.670778+00:00",
-  "title": "AI＆テック roundup：ツール、イベント、トレンド",
-  "slug": "ai-tech-roundup-tools-events-trends",
-  "summary": "HR戦略の見直しからAIエージェントサービス、StableDiffusionのINT8対応まで、今週の注目トピックを概観。",
+  "generated_at": "2026-06-29T14:40:58.446058+00:00",
+  "title": "米科学予算危機とAIスカウト、生成AI最前線",
+  "slug": "us-science-budget-crisis-ai-scouting-generative-ai-frontier",
+  "summary": "米OMB規則変更で科学研究危機、ブラジルでAIサッカースカウト普及、画像生成AI新モデル進展",
   "tags": [
-    "AIエージェント",
-    "StableDiffusion",
-    "イベント",
-    "生産性",
-    "エンタープライズAI"
+    "科学技術政策",
+    "生成AI",
+    "ビジネス応用"
   ],
   "sections": [
     {
       "type": "overview",
       "heading": "今日のAI概観",
-      "body": "今週のAI関連ニュースは多岐にわたります。企業向けAIエージェントの導入サービスがスタートし、HR戦略の再設計に関する合同セミナーが開催されました。StableDiffusionの最新Comfyビルドでは、ネイティブなINT8サポートが追加され、パフォーマンスの向上が報告されています。一方で、スマートフォン用ゲームコントローラーやゲーミングクッションなどのハードウェア製品が割引販売され、イベント業界でも地方高校生の放課後活動やJavaコミュニティのオンラインセミナーが注目を集めています。これらの動きは、AIがエンタープライズシステムやクリエイティブツールに深く統合されつつあること、また人間中心の設計やコミュニティ活動が依然として重要であることを示しています。"
+      "body": "米国ではOMB（行政管理予算局）の規則変更により連邦研究助成金の運用が大きく変わり、基礎科学研究の資金基盤が揺らぐ懸念が浮上している。一方、実用面ではブラジルのサッカー界で動画解析AIによる選手発掘が進み、生成AI分野ではスマートフォン写真風リアリティを追求する新モデルの学習成果がコミュニティで共有されている。為替では円安が39年半ぶり水準に達し、AI関連企業の国際競争力にも影響を与えそうだ。"
     },
     {
       "type": "deep_dive",
-      "heading": "注目トピック詳説：Biz AI Worksが目指すエンタープライズAIエージェント",
-      "body": "Biz Architectsが提供する「Biz AI Works」は、既存の企業システム基盤を最大限に活用するAIエージェント導入サービスです。事実関係として、このサービスは2026年6月時点で提供開始されており、企業が保有するデータやワークフローを分析し、自動化された対応を可能にします。Biz AI Worksの仕組みは、内部システムとの連携を前提としており、チャットボット型エージェントが日常業務（例：問い合わせ対応、文書作成）を支援します。影響としては、中小企業を含む組織が専門的なAIエンジニアリングチームを擁せずに、既存のIT投資を「賢く」活用できるようになる点が挙げられます。市場への影響は大きく、AIエージェントの導入コストが低下し、従来のRPAから認知AIへの移行が加速すると予想されます。ただし、事実と考察を明確に区別する必要があります。Biz AI Worksの長期的なROIは、企業のデータ品質やガバナンスに依存すると考えられます。人間が監視するプロセス設計が不可欠であり、「ヒューマン・イン・ザ・ループ」の重要性が改めて浮き彫りになるでしょう。",
-      "source_title": "Biz Architects、既存のエンタープライズシステム基盤を最大活用する企業向けAI Agent導入サービス「Biz AI Works」を提供開始",
-      "source_url": "https://ascii.jp/elem/000/004/414/4414479/?rss"
+      "heading": "注目トピック詳説：米科学予算の構造的危機",
+      "body": "The Vergeの報道によると、OMBが研究助成金の間接費（オーバーヘッド）上限を15%に制限する方針を打ち出した。これは大学等の研究機関が設備維持・管理費を賄う重要な財源を大幅に圧迫する。従来50-60%程度だった間接費率が一律15%になれば、設備投資や技術職員の確保が困難になり、長期的な基礎研究能力の低下を招く恐れがある。政治的意図を持った予算操作が、米国の科学技術優位性を内側から蝕む構造だ。日本の研究機関にとっても、国際共同研究のパートナーとしての米国の信頼性を見極める必要が出てくる。",
+      "source_title": "The war against 'woke' could end US science as we know it",
+      "source_url": "https://www.theverge.com/science/957630/omb-killing-science-budget-grants-research"
     },
     {
       "type": "imagevideo",
-      "heading": "画像・動画生成AIの最前線：INT8-ConvRotがStableDiffusionを加速",
-      "body": "Comfyの最新stableブランチでは、ネイティブなINT8（8ビット量子化）サポートが追加されました。事実として、この更新により、多くのユーザーが生成速度の向上を報告しています。特にINT8-ConvRotアーキテクチャを採用したモデルは、メモリ使用量を削減しつつ、画質をほとんど劣化させることなく、より高速な推論を実現します。この技術は、リアルタイムの画像生成や動画合成を必要とするプロフェッショナルなクリエイターにとって魅力的な選択肢となり得ます。影響としては、クラウドベースのAPIだけでなくローカルでのStableDiffusion実行がより現実的になり、ゲーミングやAR/VRコンテンツ制作への応用が期待されます。ただし、高精度な生成を求める場合、FP16やFP32とのトレードオフを考慮する必要があります。",
-      "source_title": "So is INT8-ConvRot the new hot thing?",
-      "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1uimp1j/so_is_int8convrot_the_new_hot_thing/"
+      "heading": "画像・動画生成AIの最前線：スマホ写真リアリティの追求",
+      "body": "RedditのStableDiffusionコミュニティで、Krea2（学習50%時点）とIdeogram4（学習完了だが設定不十分）による「スマートフォン スナップショット フォト リアリティ」の初期成果が公開された。スマホ撮影特有のノイズ、色収差、被写界深度の浅さ、フラッシュ光の質感などを再現する試みで、従来の「綺麗すぎるAI画像」とは異なる、あえて不完全さを模倣する方向性が注目される。実用面では、マーケティング素材やUIモックアップで「本物のユーザー投稿写真」に見せる用途に適している。",
+      "source_title": "Early training results for Smartphone Snapshot Photo Reality for Krea2 and Ideogram4",
+      "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1uintiv/early_training_results_for_smartphone_snapshot/"
     },
     {
       "type": "prompt_of_day",
-      "heading": "今日のプロンプト：ヒューマン・イン・ザ・ループ設計",
-      "prompt_title": "人間とAIの協業プロンプト",
-      "prompt_body": "プロンプト：\n「タスクを分割し、各ステップで人間のレビューを必須とするAIワークフローを設計してください。AIの出力結果を人間が検証・修正するプロセスを含め、バイアスや倫理的リスクを軽減する方法を説明してください。完了基準と改善サイクルを定義してください。\"\n\nこのプロンプトの使い方：\nプロジェクトマネージャーがAIベースのドキュメントレビューシステムを導入する際、このプロンプトをチームブレインストーミングのガイドとして使用します。これにより、AIの自動生成と人間の最終承認がバランスよく組み込まれ、品質と倫理基準を満たすプロセスが構築されます。",
-      "prompt_usecase": "AIシステムの設計や導入プロジェクトにおいて、人間とAIの役割分担を明確にし、ガバナンスを構築するのに役立ちます。",
+      "heading": "今日のプロンプト",
+      "prompt_title": "人間中心のAI協働フレーム",
+      "prompt_body": "「あなたは私の思考パートナーです。私の指示をただ実行するのではなく、前提を問い直し、代替案を提示し、リスクを指摘してください。最終判断は私が行います」",
+      "prompt_usecase": "戦略立案や設計レビューなど、判断責任を人間が保持しつつAIの分析力を最大化したい場面で冒頭に宣言として入れる。",
       "prompt_source": "https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything"
     },
     {
       "type": "wow",
-      "heading": "これはすごい！今週のバイラル：スマートフォンを伸縮可能なゲームコントローラーが大幅割引",
-      "body": "Amazon.co.jpで、アローンの「ALG-MOGPADB」が通常価格4,950円から9%オフの4,500円で販売されています。このコントローラーは、スマートフォンのサイズに合わせて伸縮可能で、背面ボタンや連射機能を搭載しています。注目点は、その価格の安さと多機能性で、ゲームプレイをより快適にするハードウェアとして注目を集めています。低価格で入手できるため、バランス型ゲームやモバイルゲーミングを試したいユーザーにとって良い機会と言えます。ただし、事実として割引は期間限定であり、在庫状況により購入できない場合もあります。",
-      "source_title": "スマホのサイズに合わせて伸縮できるゲームコントローラーが9％オフ！ 背面ボタンや連射機能なども搭載",
-      "source_url": "https://ascii.jp/elem/000/004/414/4414367/?rss"
+      "heading": "これはすごい！今週のバイラル",
+      "body": "ロボットハンド開発のProceptionが、テスラとのトレードシークレット訴訟を和解し、1100万ドル（約17億円）の資金調達を発表。同社は「人間の手の動きを大量収集して模倣学習させる」独自アプローチで、汎用的な巧緻作業を目指す。訴訟リスクを早期に解消し、データ収集インフラ拡充へ舵を切った点で、フィジカルAI分野の資金調達モデルケースとなり得る。",
+      "source_title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+      "source_url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/"
     },
     {
       "type": "events",
       "heading": "今週のAIイベント",
-      "body": "今週注目すべきイベントが2つあります。まず、Doorkeeperで開催される「【Flashセミナー Vol.148】地方高校生の放課後が、最近ちょっとおかしい。」は、2026年6月29日にオンラインで開催され、参加者は約72名（定員250名）です。もう一つは、JJUGナイトセミナー「Java Community Process」で、6月29日（月）に日本マイクロソフト株式会社でオフライン開催され、参加者は約22名（定員90名）です。両イベントとも、コミュニティの交流や最新技術動向の把握に役立つ内容が期待されます。",
+      "body": "6月30日（月）に2件のオンラインイベントが開催予定。エンタープライズ検索基盤Gleanの活用戦略セミナーと、生成AI時代のリード獲得手法比較ウェビナー。いずれも参加費無料で、実務への即応性が高い内容。",
       "event_list": [
         {
-          "title": "【Flashセミナー Vol.148】地方高校生の放課後が、最近ちょっとおかしい。",
-          "date": "2026-06-29",
+          "title": "生成AI時代のエンタープライズ検索基盤『Glean』とは 〜全社データを”使える知識”に変えるGlean活用戦略〜",
+          "date": "2026-06-30",
           "place": "オンライン",
-          "url": "https://web-mining.doorkeeper.jp/events/197392"
+          "url": "https://cloudace.doorkeeper.jp/events/197467"
         },
         {
-          "title": "JJUGナイトセミナー「Java Community Process」",
-          "date": "2026-06-29",
-          "place": "日本マイクロソフト株式会社（オフライン）",
-          "url": "https://jjug.doorkeeper.jp/events/197257"
+          "title": "【再放送】2026年度版、リード獲得方法の比較 ～生成AI時代、展示会、カンファレンス、比較広告、ウェビナーなどを徹底比較～",
+          "date": "2026-06-30",
+          "place": "オンライン",
+          "url": "https://majisemi-sales.doorkeeper.jp/events/197508"
         }
       ]
     },
     {
       "type": "practical",
       "heading": "実践：ビジネスへの応用",
-      "body": "企業がBiz AI WorksのようなAIエージェントサービスを導入する際、まずは既存のワークフローやデータソースをマッピングし、AIが効率的に支援できる領域を特定します。事実として、Biz AI Worksは内部システムとシームレスに連携するため、RPAツールの導入と比較して設定コストが低く済みます。具体的な活用例としては、顧客問い合わせの自動分類と一次回答、経費精算データの自動入力、プロジェクト進捗レポートの生成などがあります。併せて、ヒューマン・イン・ザ・ループの原則を取り入れることで、AIの出力結果を人間が最終確認し、バイアスや誤りを修正できます。これにより、従業員はより創造的な業務に集中できるようになり、生産性の向上が見込めます。"
+      "body": "ブラジルのAIスカウト事例（Gigazine報道）は、非構造化動画データから構造化評価指標を抽出し、人的バイアスを減らす典型例だ。同様のアプローチは、製造現場の作業動画から熟練技能を形式知化する、営業商談の録画から成約パターンを抽出する、カスタマーサポートの通話録音から顧客不満の兆候を検知する等、あらゆる「暗黙知の可視化」に転用可能。まずは社内に眠る動画・音声アーカイブの棚卸しから始め、アノテーション対象を絞ってPoCを回すのが現実的。円安進行（NHK報道：1ドル161円台）を踏まえ、海外SaaS導入コスト上昇を見越して、オンプレミスや国内クラウドでのモデル運用オプションも併せて検討すべき。"
     },
     {
       "type": "weekly_watch",
       "heading": "今週注目すべきこと",
-      "body": "今週の主なトレンドは3つあります。第一に、AIエージェントがエンタープライズシステムに深く統合されつつあることで、従来のRPAからより知的な自動化への移行が加速しています。第二に、StableDiffusionにおける量子化技術（INT8）の進展により、リアルタイムの画像生成が可能になり、クリエイティブ業界への応用範囲が広がっています。第三に、コミュニティイベントやセミナーが活発化し、特に地方高校生の活動やJavaコミュニティの動向が注目を集めています。これらの動きは、AIがビジネスやクリエイティブ、コミュニティの場でも重要な役割を果たすようになっていることを示しており、今後の技術戦略を考える上で重要なポイントとなります。"
+      "body": "米OMB規則の施行スケジュールと議会・学会の反応、バイドゥの人材戦略（Bloomberg報道）が示す中国フルスタックAI企業の自前主義の行方、Proception型の「データ収集インフラ＋模倣学習」モデルがロボティクス以外に広がるか。為替変動がGPU調達・クラウド費用に与えるインパクトも継続監視。"
     }
   ],
   "sources": [
     {
-      "title": "【4社合同 人材戦略セミナー】企業が見直すべき「人材戦略の全体設計」とは",
-      "url": "https://ascii.jp/elem/000/004/414/4414473/?rss",
-      "source": "ASCII.jp",
+      "title": "The war against ‘woke’ could end US science as we know it",
+      "url": "https://www.theverge.com/science/957630/omb-killing-science-budget-grants-research",
+      "source": "The Verge",
       "category": "Tech"
     },
     {
-      "title": "Biz Architects、既存のエンタープライズシステム基盤を最大活用する企業向けAI Agent導入サービス「Biz AI Works」を提供開始",
-      "url": "https://ascii.jp/elem/000/004/414/4414479/?rss",
-      "source": "ASCII.jp",
-      "category": "Tech"
+      "title": "Baidu’s CFO on the Company’s Approach to Recruiting Young Talent",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-29/baidu-s-cfo-on-the-company-s-approach-to-recruiting-young-talent",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
     },
     {
-      "title": "【Word】“なんとなく”から“実務で使える”にレベルアップ！PECのeラーニング「全12回で体系的に学ぶ実務で差がつくWord講座」",
-      "url": "https://ascii.jp/elem/000/004/414/4414492/?rss",
-      "source": "ASCII.jp",
-      "category": "Tech"
+      "title": "外国為替市場で39年半ぶり円安水準 1ドル＝161円90銭台後半",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015164231000",
+      "source": "NHK テクノロジー",
+      "category": "AI"
     },
     {
-      "title": "スマホのサイズに合わせて伸縮できるゲームコントローラーが9％オフ！ 背面ボタンや連射機能なども搭載",
-      "url": "https://ascii.jp/elem/000/004/414/4414367/?rss",
-      "source": "ASCII.jp",
-      "category": "Tech"
+      "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+      "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+      "source": "TechCrunch AI",
+      "category": "Industry"
     },
     {
-      "title": "ゲームやデスクワークなどに最適！ REJECT監修のゲーミングクッションで快適な座り心地を味わってみては？",
-      "url": "https://ascii.jp/elem/000/004/414/4414357/?rss",
-      "source": "ASCII.jp",
+      "title": "サッカーの才能の宝庫ブラジルでは動画を分析して選手のスカウトを行うAIスカウトアプリが普及しつつある",
+      "url": "https://gigazine.net/news/20260629-brazil-next-big-soccer-star-scouted-ai/",
+      "source": "Gigazine",
       "category": "Tech"
     },
     {
@@ -116,20 +114,20 @@
       "category": "Prompts"
     },
     {
-      "title": "So is INT8-ConvRot the new hot thing?",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uimp1j/so_is_int8convrot_the_new_hot_thing/",
+      "title": "Early training results for Smartphone Snapshot Photo Reality for Krea2 and Ideogram4",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uintiv/early_training_results_for_smartphone_snapshot/",
       "source": "r/StableDiffusion",
       "category": "ImageVideo"
     },
     {
-      "title": "【Flashセミナー Vol.148】地方高校生の放課後が、最近ちょっとおかしい。",
-      "url": "https://web-mining.doorkeeper.jp/events/197392",
+      "title": "生成AI時代のエンタープライズ検索基盤『Glean』とは 〜全社データを”使える知識”に変えるGlean活用戦略〜",
+      "url": "https://cloudace.doorkeeper.jp/events/197467",
       "source": "Doorkeeper",
       "category": "Events"
     },
     {
-      "title": "【オフライン】JJUGナイトセミナー「Java Community Process」6/29(月) 開催",
-      "url": "https://jjug.doorkeeper.jp/events/197257",
+      "title": "【再放送】2026年度版、リード獲得方法の比較 ～生成AI時代、展示会、カンファレンス、比較広告、ウェビナーなどを徹底比較～",
+      "url": "https://majisemi-sales.doorkeeper.jp/events/197508",
       "source": "Doorkeeper",
       "category": "Events"
     }
