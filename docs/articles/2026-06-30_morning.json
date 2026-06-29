@@ -1,0 +1,152 @@
+{
+  "id": "2026-06-30_morning-ai-news-digest-tech-trends-and-events",
+  "file_key": "2026-06-30_morning",
+  "date": "2026-06-30",
+  "generated_at": "2026-06-29T22:50:29.871832+00:00",
+  "title": "AIニュースまとめ：テクノロジー動向とイベント情報",
+  "slug": "ai-news-digest-tech-trends-and-events",
+  "summary": "本稿では、AI業界の新動向や企業戦略、画像生成技術、イベント情報をキャッチアップ。",
+  "tags": [
+    "AI",
+    "Technology",
+    "Business",
+    "Image Generation",
+    "Events"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "AI業界は企業の戦略動向や技術革新に活発な動きが見られている。コンcastのNBCスピンオフ、韓国の半導体・AI投資、ローカルとクラウドAIの自動切り替えツールなど、業種を超う鍵となるトピックが注目を集めている。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "コンcastのNBCユニバーサルのスピンオフは、ワーナー・ブラザーズ・ディスカバリーとの統合計画失敗後の戦略見直し。一方、韓国政府は半導体、フィジカルAI、AIデータセンターへの3大メガプロジェクトを発表。サムスンとSKが総額数兆円を投じるなど、国家戦略としてのAI投資が加速している。",
+      "source_title": "Comcast’s NBC Spinoff Raises Questions About Businesses’ Future",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-06-29/comcast-s-nbc-spin-off-raises-questions-about-businesses-future"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "スタビルディッシュンのコミュニティで話題の「Krea2FilterBypass」Loraモデルが注目。これにより、フィルター回避を通じてより自由な画像生成が可能になる。AIアートのプライバシーと倫理的利用への影響が期待される。",
+      "source_title": "Is there a better 'adult enabler' for Krea2 than Krea2FilterBypass ?",
+      "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1uj52qu/is_there_a_better_adult_enabler_for_krea2_than/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "Safariタブ数カウント",
+      "prompt_body": "AppleScriptを使用してSafariの開いているタブ数をカウントするコマンド：osascript -e 'tell application \"Safari\" to count of windows'",
+      "prompt_usecase": "ブラウジング効率を分析するためにタブ数を監視する際に活用。",
+      "prompt_source": "https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "「Wayfinder Router」は、タスクの難易度に応じてローカルAIとクラウドAIを自動切り替えるオープンソースツール。AIコストを削減しつつ、パフォーマンスを最適化。開発者間で注目のロジック技術。",
+      "source_title": "タスクの難易度でローカルAIとクラウドAIを自動切り替えする「Wayfinder」",
+      "source_url": "https://gigazine.net/news/20260630-wayfinder/"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "6月30日には2つのオンラインイベントが開催。Gleanの企業検索戦略セミナーと、生成AI時代のリード獲得方法比較セミナー。いずれも参加枠があり、AI活用のノウハウを学べる。",
+      "event_list": [
+        {
+          "title": "生成AI時代のエンタープライズ検索基盤『Glean』とは",
+          "date": "2026-06-30",
+          "place": "オンライン",
+          "url": "https://cloudace.doorkeeper.jp/events/197467"
+        },
+        {
+          "title": "リード獲得方法の比較  generative AI時代",
+          "date": "2026-06-30",
+          "place": "オンライン",
+          "url": "https://majisemi-sales.doorkeeper.jp/events/197508"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "「Wayfinder Router」を活用することで、企業はコストを抑えつつもAIのパフォーマンスを最適化できる。例えば、簡単な要約作業にはローカルAI、複雑な分析にはクラウドAIを自動割り当て。画像生成AIには「Krea2FilterBypass」のようなツールを導入することで、クリエイティブワークの生産性を向上できる。",
+      "source_title": "タスクの難易度でローカルAIとクラウドAIを自動切り替えする「Wayfinder」",
+      "source_url": "https://gigazine.net/news/20260630-wayfinder/"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "韓国のAI投資拡大やコンcastの戦略転換は、グローバルAI市場の動向を示す指標。企業は生成AIの利活用を加速させつつ、倫理的なガイダンスを確立する必要がある。画像生成技術の進化とイベント情報を踏まえ、今後のAIトレンドを注視する価値がある。",
+      "source_title": "韓国政府、半導体・フィジカルAI・AIデータセンターの3大メガプロジェクト発表",
+      "source_url": "https://www.itmedia.co.jp/news/articles/2606/30/news083.html"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Comcast’s NBC Spinoff Raises Questions About Businesses’ Future",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-29/comcast-s-nbc-spin-off-raises-questions-about-businesses-future",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "韓国政府、半導体・フィジカルAI・AIデータセンターの3大メガプロジェクト発表 SamsungとSKが巨額投資",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/30/news083.html",
+      "source": "ITmedia News",
+      "category": "Tech"
+    },
+    {
+      "title": "タスクの難易度でローカルAIとクラウドAIを自動切り替えする「Wayfinder」、切り替え判断にAIを使わずコストを削減",
+      "url": "https://gigazine.net/news/20260630-wayfinder/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "【本日】チョコクロ9個が3割引き！サンマルクカフェの日",
+      "url": "https://ascii.jp/elem/000/004/414/4414494/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "iPhone値上げ前に、少しでも安く買う方法まとめ",
+      "url": "https://ascii.jp/elem/000/004/414/4414454/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "Count the number of Safari tabs",
+      "url": "https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "Is there a better \"adult enabler\" for Krea2 than Krea2FilterBypass ?",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uj52qu/is_there_a_better_adult_enabler_for_krea2_than/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "生成AI時代のエンタープライズ検索基盤『Glean』とは 〜全社データを”使える知識”に変えるGlean活用戦略〜",
+      "url": "https://cloudace.doorkeeper.jp/events/197467",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "【再放送】2026年度版、リード獲得方法の比較 ～生成AI時代、展示会、カンファレンス、比較広告、ウェビナーなどを徹底比較～",
+      "url": "https://majisemi-sales.doorkeeper.jp/events/197508",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

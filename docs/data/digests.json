@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-06-30_morning-ai-news-digest-tech-trends-and-events",
+      "date": "2026-06-30",
+      "file_key": "2026-06-30_morning",
+      "title": "AIニュースまとめ：テクノロジー動向とイベント情報",
+      "summary": "本稿では、AI業界の新動向や企業戦略、画像生成技術、イベント情報をキャッチアップ。",
+      "tags": [
+        "AI",
+        "Technology",
+        "Business",
+        "Image Generation",
+        "Events"
+      ],
+      "slug": "ai-news-digest-tech-trends-and-events"
+    },
+    {
       "id": "2026-06-29_evening-us-science-budget-crisis-ai-scouting-generative-ai-frontier",
       "date": "2026-06-29",
       "file_key": "2026-06-29_evening",
@@ -390,21 +405,7 @@
         "クラウドエッジ"
       ],
       "slug": "ai-latest-trends-practical-guide"
-    },
-    {
-      "id": "2026-06-08_evening-ai-infrastructure-research-tools-trends",
-      "date": "2026-06-08",
-      "file_key": "2026-06-08_evening",
-      "title": "AIインフラの拡大とリサーチツールの信頼性：最新AIトレンド解説",
-      "summary": "Starlinkのインフラ拡張と、ChatGPT vs Perplexityの信頼性論争など、AIを支える基盤と活用の最前線を解説します。",
-      "tags": [
-        "AIインフラ",
-        "リサーチAI",
-        "Starlink",
-        "データ自動化"
-      ],
-      "slug": "ai-infrastructure-research-tools-trends"
     }
   ],
-  "updated_at": "2026-06-29T14:40:58.446805+00:00"
+  "updated_at": "2026-06-29T22:50:29.872571+00:00"
 }
