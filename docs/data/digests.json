@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-07-01_morning-english-slug",
+      "date": "2026-07-01",
+      "file_key": "2026-07-01_morning",
+      "title": "AI業界の動向と今後の展望",
+      "summary": "最新のAIニュースを簡潔にまとめ、技術動向や市場影響を解説。多角的な視点で読者が理解しやすい内容を提供。",
+      "tags": [
+        "AI",
+        "ビジネス",
+        "技術"
+      ],
+      "slug": "english-slug"
+    },
+    {
       "id": "2026-06-30_evening-ai-agents-memory-and-japan-robot-strategy",
       "date": "2026-06-30",
       "file_key": "2026-06-30_evening",
@@ -392,22 +405,7 @@
         "実用応用"
       ],
       "slug": "ai-technology-frontiers-and-applications"
-    },
-    {
-      "id": "2026-06-09_evening-ai-trends-weekly-june-2026",
-      "date": "2026-06-09",
-      "file_key": "2026-06-09_evening",
-      "title": "AI活用と市場動向、今週注目の技術とイベントまとめ",
-      "summary": "AI技術の最新動向、生成系AIの進展、フリーランス市場拡大、今週の注目イベントを解説します。",
-      "tags": [
-        "生成AI",
-        "ネットワークAI",
-        "フリーランス市場",
-        "AI安全性",
-        "イベント情報"
-      ],
-      "slug": "ai-trends-weekly-june-2026"
     }
   ],
-  "updated_at": "2026-06-30T07:58:53.632061+00:00"
+  "updated_at": "2026-06-30T23:04:42.382040+00:00"
 }

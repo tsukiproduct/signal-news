@@ -1,0 +1,125 @@
+{
+  "id": "2026-07-01_morning-english-slug",
+  "file_key": "2026-07-01_morning",
+  "date": "2026-07-01",
+  "generated_at": "2026-06-30T23:04:42.381353+00:00",
+  "title": "AI業界の動向と今後の展望",
+  "slug": "english-slug",
+  "summary": "最新のAIニュースを簡潔にまとめ、技術動向や市場影響を解説。多角的な視点で読者が理解しやすい内容を提供。",
+  "tags": [
+    "AI",
+    "ビジネス",
+    "技術"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "AI業界は急速に進化し、企業や消費者の両方に新たな可能性をもたらしています。 bankruptや新製品の登場が、技術の変革を加速させています。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "参照ニュースから、バンキー企業の破産や新製品の発売が注目されます。AIの発展とその社会的影響を詳しく分析しました。"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "最新の画像生成AI「Nano Banana 2 Lite」や動画編集モデル「Gemini Omni Flash」が発表され、技術革新が続いています。"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "実用的",
+      "prompt_body": "AIを活用して効率化するためのプロンプトの例を紹介します。企業や個人の活用方法を考えてみましょう。",
+      "prompt_source": "参照記事URL"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "AIに関する情報がSNSで急増。最新技術の理解が重要です。"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "オンラインで開催されるGX勉強会や認定資格紹介が予定され、専門家との交流が期待されます。"
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "企業はAIツールを活用し、コスト削減やサービス向上を目指すべきです。具体的な活用例を紹介します。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "AIの進化が経済や日常生活に与える影響を、今週のトレンドから見つけてください。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dish files for bankruptcy, but not shutting down",
+      "url": "https://www.theverge.com/tech/959894/dish-chapter-11-bankruptcy",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "【本日】丸亀製麺「釜揚げ」半額デー！390円→190円に",
+      "url": "https://ascii.jp/elem/000/004/414/4414962/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "過去最高益なのに炎上、なぜ？ ANAで何が起きているのか",
+      "url": "https://ascii.jp/elem/000/004/414/4414529/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "【今日から】最大3万7500円分お得な「PayPay商品券」キャンペーン 2026年7月受付開始分",
+      "url": "https://ascii.jp/elem/000/004/414/4414033/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "お金を扱うソフトウェアで「1円のズレ」も起こさないための設計原則をまとめた「Fintech Engineering Handbook」とは？",
+      "url": "https://gigazine.net/news/20260701-fintech-engineering-handbook/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "Nano Banana 2 Lite",
+      "url": "https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "Google、高速で低価格な画像生成AI「Nano Banana 2 Lite」と動画生成モデル「Gemini Omni Flash」公開",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/01/news060.html",
+      "source": "ITmedia News",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "WACA主催【WACA認定マーケティングテクノロジスト認定講座オープンセミナー（旧上級GA4講座）】事前ガイダンス＆認定資格説明会7月",
+      "url": "https://web-mining.doorkeeper.jp/events/197339",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "7/2 (木) 12:00-【業界別GX勉強会】100年後も「美味しい」を届けるために　リスクを強靭な供給網へ変える食品・飲料業界の攻めのGX戦略",
+      "url": "https://skillupgreen.doorkeeper.jp/events/197536",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
