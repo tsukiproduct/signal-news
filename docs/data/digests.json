@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-06-30_evening-ai-agents-memory-and-japan-robot-strategy",
+      "date": "2026-06-30",
+      "file_key": "2026-06-30_evening",
+      "title": "AIエージェントの記憶革命と国産ロボット1000万台計画の衝撃",
+      "summary": "MSの長期記憶アーキテクチャや政府のAIロボット導入目標など、AIの社会実装が加速。",
+      "tags": [
+        "AIエージェント",
+        "AIロボット",
+        "Microsoft",
+        "画像生成AI",
+        "DX"
+      ],
+      "slug": "ai-agents-memory-and-japan-robot-strategy"
+    },
+    {
       "id": "2026-06-30_morning-ai-news-digest-tech-trends-and-events",
       "date": "2026-06-30",
       "file_key": "2026-06-30_morning",
@@ -392,20 +407,7 @@
         "イベント情報"
       ],
       "slug": "ai-trends-weekly-june-2026"
-    },
-    {
-      "id": "2026-06-09_morning-ai-latest-trends-practical-guide",
-      "date": "2026-06-09",
-      "file_key": "2026-06-09_morning",
-      "title": "AIと日常を結ぶ最新トレンドと実践ガイド",
-      "summary": "今週のAIニュースを掘り下げ、画像生成AIの進化、エッジデバイスでのAI活用、イベント情報まで網羅した解説記事。",
-      "tags": [
-        "AI導入",
-        "生成AI",
-        "クラウドエッジ"
-      ],
-      "slug": "ai-latest-trends-practical-guide"
     }
   ],
-  "updated_at": "2026-06-29T22:50:29.872571+00:00"
+  "updated_at": "2026-06-30T07:58:53.632061+00:00"
 }
