@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-07-01_evening-ai-and-everyday-2026-07-01",
+      "date": "2026-07-01",
+      "file_key": "2026-07-01_evening",
+      "title": "AIと日常を結ぶ今週のトレンド",
+      "summary": "最新AI技術と日々の暮らしを結びつけるニュースを解説。Claude Fable 5の輸出規制緩和、Boogu Image Turbo Editの登場、AIと食品業界のGX戦略など、多角的に掘り下げます。",
+      "tags": [
+        "AI規制",
+        "画像生成",
+        "ビジネスAI"
+      ],
+      "slug": "ai-and-everyday-2026-07-01"
+    },
+    {
       "id": "2026-07-01_morning-english-slug",
       "date": "2026-07-01",
       "file_key": "2026-07-01_morning",
@@ -390,22 +403,7 @@
         "画像生成"
       ],
       "slug": "ai-news-summary"
-    },
-    {
-      "id": "2026-06-11_morning-ai-technology-frontiers-and-applications",
-      "date": "2026-06-11",
-      "file_key": "2026-06-11_morning",
-      "title": "AI技術の最前線と実用応用",
-      "summary": "最新のAI研究から実用ツールまで、11本のニュースを元に技術の進展とビジネス応用を解説します。画像生成AIやLLMの課題からイベント情報まで幅広くカバー。",
-      "tags": [
-        "AI研究",
-        "画像生成",
-        "仮想通貨",
-        "イベント",
-        "実用応用"
-      ],
-      "slug": "ai-technology-frontiers-and-applications"
     }
   ],
-  "updated_at": "2026-06-30T23:04:42.382040+00:00"
+  "updated_at": "2026-07-01T08:18:53.509637+00:00"
 }
