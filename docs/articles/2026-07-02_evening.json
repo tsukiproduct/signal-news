@@ -1,0 +1,151 @@
+{
+  "id": "2026-07-02_evening-ai-news-review",
+  "file_key": "2026-07-02_evening",
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T12:53:40.159845+00:00",
+  "title": "AIニュースを振り返る：企業展開からクリエイティブまで",
+  "slug": "ai-news-review",
+  "summary": "AI業界の動向、ビジネス活用、クリエイティブまで。今週の主要ニュースをわかりやすく解説します。",
+  "tags": [
+    "AI",
+    "ビジネス",
+    "クリエイティブ",
+    "投資"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "今週のAIニュースは、企業の戦略拡大、投資市場の動き、クリエイティブ技術の進歩に焦点を当てています。ロビンフッドやサウス・コリアの投資動向、LLMのグループシンク問題の解決策、そしてBlenderを活用したアニメーションワークフローなど、多様なトピックが注目されています。これらは、AI技術がどのようにビジネスや日常に絡みつくようになっているかを示しています。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "MIT Tech Reviewが報じる、AIの「グループシンク」問題の解決策として、スタートアップがLLMの多様性を高める新しいアプローチを提案しています。グループシンクとは、AIモデルが同じ見解に陥りやすい問題です。このスタートアップは、異なるトレーニングデータやアルゴリズムを組み合わせることで、より多角的な回答を可能にしています。これは、AIの信頼性向上や、創造的なタスクでの活用促進につながる可能性があります。",
+      "source_title": "The Download: a startup has a solution for AI’s groupthink problem",
+      "source_url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "Redditのコミュニティで、BlenderとComfyUIを組み合わせたAIアニメーションワークフローが話題になっています。ユーザーは、3Dソフトウェアの出力を用いて、Stable DiffusionやLTX Videoなどのモデルでアニメーションを生成しており、効率的なクリエイティブプロセスを実現しています。また、Hugging FaceとCerebrasがGemma 4モデルを活用したリアルタイム音声AIを発表、音声合成や対話システムの可能性が広がっています。",
+      "source_title": "Trying LTX 2.3 IC-Lora Workflow for R2V along with FF and LF | Blender to Video Workflow",
+      "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1ulebaw/trying_ltx_23_iclora_workflow_for_r2v_along_with/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "Gemma 4 Voice AIの活用",
+      "prompt_body": "「Gemma 4を使用したリアルタイム音声生成タスクで、ユーザーの入力に応じて自然な話し方で応答してください。会話履歴を考慮した上で、簡潔かつ親切な説明を行ってください。」",
+      "prompt_usecase": "音声ベースのカスタマーサービスや、対話型学習アシスタントとして利用できます。",
+      "prompt_source": "https://huggingface.co/blog/cerebras-gemma4-voice-ai"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "TechCrunchが報じる、AIを活用したマッチングサービス「OpenClaw」が注目されています。このサービスは、ユーザーのプロフィールや嗜好に基づいて相手を提案するだけでなく、自動でメッセージを送信する機能もあり、デートのマッチングプロセスを効率化しています。ただし、プライバシーや倫理の問題も指摘されており、AIの社会活用における注意点を浮き彫りにしています。",
+      "source_title": "Yep, we’re using OpenClaw to date now",
+      "source_url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "7月3日には、Acompanyのセキュアチャット「AISecure」をテーマにしたオンラインイベントが開催されます。企業がAIに機密データを渡さずに活用できる方法を学ぶことができます。7月7日には、ToyBox主催の無料イベント「EC診断『ECいんぷる』」がオンラインで行われ、AIを用いたEC診断サービスの最新動向を確認できます。",
+      "event_list": [
+        {
+          "title": "AISecure：機密データ活用のためのセキュリティ基盤",
+          "date": "2026-07-03",
+          "place": "オンライン",
+          "url": "https://majisemi-technology.doorkeeper.jp/events/197557"
+        },
+        {
+          "title": "【ToyBox】Vol.63 EC診断『ECいんぷる』",
+          "date": "2026-07-07",
+          "place": "オンライン",
+          "url": "https://web-mining.doorkeeper.jp/events/197636"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "AI技術は企業の競争力向上に直接つながります。例えば、AISecureのようなセキュリティソリューションを導入することで、社内の機密情報を外部のAIサービスに渡すことなく分析や活用できます。EC診断サービスを活用すれば、顧客の購買意欲を予測し、ターゲット広告や商品開発に役立てられます。さらに、BlenderやComfyUIを用いたワークフローは、映像制作業界においてコスト削減と創業期のイメージ制作を可能にします。",
+      "source_title": "そのデータ、AIに渡せませんを終わらせる",
+      "source_url": "https://majisemi-technology.doorkeeper.jp/events/197557"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "AI業界は投資動向や新技術の進歩により急速に進化しています。サウス・コリアの株価下落は、チップ業界の不確定性が投資家の神経を刺激している一方、ロビンフッドのヨーロッパ進出はフンダンメントの安定性を示しています。クリエイティブ分野におけるBlenderや音声AIの活用は、創作の民主化を進める重要なトレンドです。今後の動向には、AIの倫理問題解決や、業種を超うつ切り込む応用が注目されます。",
+      "source_title": "South Korean AI Rout Drags Emerging Stocks to Three-Week Low",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-07-02/south-korean-ai-rout-drags-emerging-stocks-to-three-week-low"
+    }
+  ],
+  "sources": [
+    {
+      "title": "これは「趣味にできる」ゲーミングキーボード。「MAKR PRO 75 ホールエフェクトDIYキーボード」が楽しい！",
+      "url": "https://ascii.jp/elem/000/004/415/4415657/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "South Korean AI Rout Drags Emerging Stocks to Three-Week Low",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/south-korean-ai-rout-drags-emerging-stocks-to-three-week-low",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "Robinhood CEO on AI, Expansion & Trump Accounts",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-02/robinhood-ceo-on-ai-expansion-trump-accounts-video",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "The Download: a startup has a solution for AI’s groupthink problem",
+      "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
+      "source": "MIT Tech Review",
+      "category": "Research"
+    },
+    {
+      "title": "Yep, we’re using OpenClaw to date now",
+      "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+      "source": "TechCrunch AI",
+      "category": "Industry"
+    },
+    {
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "source": "Hugging Face Blog",
+      "category": "Prompts"
+    },
+    {
+      "title": "Trying LTX 2.3 IC-Lora Workflow for R2V along with FF and LF | Blender to Video Workflow",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1ulebaw/trying_ltx_23_iclora_workflow_for_r2v_along_with/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "「そのデータ、AIに渡せません」を終わらせる 〜AI推進担当が知っておくべき、Acompany セキュアチャットで実現する機密データ活用〜",
+      "url": "https://majisemi-technology.doorkeeper.jp/events/197557",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "【ToyBox】Vol.63 【無料】なぜ買わないか\"をAIが言語化するEC診断『ECいんぷる』",
+      "url": "https://web-mining.doorkeeper.jp/events/197636",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

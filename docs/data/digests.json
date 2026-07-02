@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "2026-07-02_evening-ai-news-review",
+      "date": "2026-07-02",
+      "file_key": "2026-07-02_evening",
+      "title": "AIニュースを振り返る：企業展開からクリエイティブまで",
+      "summary": "AI業界の動向、ビジネス活用、クリエイティブまで。今週の主要ニュースをわかりやすく解説します。",
+      "tags": [
+        "AI",
+        "ビジネス",
+        "クリエイティブ",
+        "投資"
+      ],
+      "slug": "ai-news-review"
+    },
+    {
       "id": "2026-07-01_evening-gaming-industry-shift-ai-policy-update",
       "date": "2026-07-01",
       "file_key": "2026-07-01_evening",
@@ -388,21 +402,7 @@
         "ビジネス"
       ],
       "slug": "english-slug"
-    },
-    {
-      "id": "2026-06-13_morning-ai-industry-status-and-trending-topics",
-      "date": "2026-06-13",
-      "file_key": "2026-06-13_morning",
-      "title": "AI業界の現状と注目トピック",
-      "summary": "メタのAI部門内部の問題から、生成AIの実用化課題、AI教育イベントまで、AI技術の多角的な動向を解剖します。",
-      "tags": [
-        "AI",
-        "生成AI",
-        "プロンプト設計",
-        "ビジネス応用"
-      ],
-      "slug": "ai-industry-status-and-trending-topics"
     }
   ],
-  "updated_at": "2026-07-01T13:30:19.608986+00:00"
+  "updated_at": "2026-07-02T12:53:40.160560+00:00"
 }
