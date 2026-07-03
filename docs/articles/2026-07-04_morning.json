@@ -1,0 +1,148 @@
+{
+  "id": "2026-07-04_morning-ai-latest-developments-and-applications",
+  "file_key": "2026-07-04_morning",
+  "date": "2026-07-04",
+  "generated_at": "2026-07-03T22:57:52.706078+00:00",
+  "title": "AIの最新動向と応用事例",
+  "slug": "ai-latest-developments-and-applications",
+  "summary": "AI技術の進展がアクションカメラや業務自動化、画像生成など多方面で影響を与えている。GoProの復活やClaude Codeの活用が注目され、実用的な応用例も増加している。",
+  "tags": [
+    "AI",
+    "技術",
+    "自動化",
+    "画像生成",
+    "イベント"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "2026年7月はAI技術が急速に進化する時期。アクションカメラのシネマ化、AIエージェントによる業務自動化、画像生成AIの進化など、さまざまな分野で革新が見られる。特に、技術的な進歩と実用性のバランスが注目され、企業や個人がAIを活用する方法も多様化している。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "GoProの「MISSION 1 PRO」は、シネマカメラ化のトレンドと競争環境の変化を象徴する。過去の課題（リコールやリストラ）を乗り越え、高品質な映像機能を搭載した新製品で市場に復帰。一方、Claude Codeはコード知識がなくてもボットアカウントを作成可能にし、バイブコーディングの新しい可能性を示唆している。この技術は、開発コスト削減や迅速な実装に貢献する可能性がある。",
+      "source_title": "GoPro復活ののろしか “シネマ”を打ち出した「MISSION 1 PRO」レビュー",
+      "source_url": "https://www.itmedia.co.jp/news/articles/2607/04/news019.html"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "Ideogram V4のLORAトレーニング技術が注目される。高速な学習と高品質な画像生成が可能になり、クリエイティブな活用が広がっている。この技術は、個人や企業が独自のビジュアルコンテンツを効率的に制作する手段として注目されている。",
+      "source_title": "Bad Idea - My journey into Ideogram V4 lora training and image gen",
+      "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1umr2k6/bad_idea_my_journey_into_ideogram_v4_lora/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "ボットアカウント作成プロンプト",
+      "prompt_body": "Claude Codeを使用して、Xのボットアカウントを作成するためのプロンプト例。'以下のルールでボットアカウントを作成：1. 100文字以内の名前、2. 自動投稿スケジュールを設定、3. 特定のハッシュタグを常に含める'という指示を明確にする。",
+      "prompt_usecase": "SNSマーケティングにおける自動投稿の効率化や、特定のトピックに焦点を当てたコンテンツ配信の実現に活用可能。",
+      "prompt_source": "https://ascii.jp/elem/000/004/414/4414533/?rss"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "Open Source AI Gap Mapプロジェクトが注目されている。これは、公的なAI開発を推進するグローバルパートナーシップを示し、オープンソース技術の進展を可視化している。この取り組みは、AIの民主化とコスト削減に寄与する可能性がある。",
+      "source_title": "Open Source AI Gap Map",
+      "source_url": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "2026年7月7日には2つのオンラインイベントが開催される。EC診断ツール『ECいんぷる』の無料セミナーと、ノーコードデータ連携基盤を活用したAI活用モデルの講演が行われる。これらのイベントは、AIを活用したビジネスモデルの構築に役立つ実践的知見を提供する。",
+      "event_list": [
+        {
+          "title": "無料 EC診断『ECいんぷる』",
+          "date": "2026-07-07",
+          "place": "オンライン",
+          "url": "https://web-mining.doorkeeper.jp/events/197636"
+        },
+        {
+          "title": "AI活用による継続収益モデル",
+          "date": "2026-07-07",
+          "place": "オンライン",
+          "url": "https://majisemi-business.doorkeeper.jp/events/197596"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "AIエージェントは、問い合わせ対応や経費精算などの定型業務を自動化することで、社内効率化に寄与する。画像生成AIは、マーケティング資料の作成やカスタマーサービスのビジュアル化に活用可能。さらに、オープンソースAIの活用により、中小企業でも高品質な技術を低コストで導入できる可能性がある。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "ブラウザ戦争が検索機能を超えて進化し、代替ブラウザの注目度が高まっている。また、オープンソースAIの開発が加速し、企業や個人が技術を自由に利用・カスタマイズできる環境が整う。AIエージェントの実用化は、業務プロセスの根本的な変革をもたらす可能性がある。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "GoPro復活ののろしか “シネマ”を打ち出した「MISSION 1 PRO」レビュー",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/04/news019.html",
+      "source": "ITmedia News",
+      "category": "Tech"
+    },
+    {
+      "title": "コードが書けなくてもbotアカウントは作れる？ Claude Codeでバイブコーディングしてみた",
+      "url": "https://ascii.jp/elem/000/004/414/4414533/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "The only AI glossary you’ll need this year",
+      "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch AI",
+      "category": "Industry"
+    },
+    {
+      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+      "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "source": "TechCrunch AI",
+      "category": "Industry"
+    },
+    {
+      "title": "AIエージェントで業務自動化する方法とは？できることや事例を解説",
+      "url": "https://ainow.ai/2026/07/04/278229/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e6%25a5%25ad%25e5%258b%2599%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b",
+      "source": "AINOW",
+      "category": "AI"
+    },
+    {
+      "title": "Open Source AI Gap Map",
+      "url": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "Bad Idea - My journey into Ideogram V4 lora training and image gen",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1umr2k6/bad_idea_my_journey_into_ideogram_v4_lora/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "【ToyBox】Vol.63 【無料】なぜ買わないか\"をAIが言語化するEC診断『ECいんぷる』",
+      "url": "https://web-mining.doorkeeper.jp/events/197636",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "AI時代に選ばれるシステム開発会社とは～ノーコード型データ連携基盤×AI活用による継続収益モデル～",
+      "url": "https://majisemi-business.doorkeeper.jp/events/197596",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-07-04_morning-ai-latest-developments-and-applications",
+      "date": "2026-07-04",
+      "file_key": "2026-07-04_morning",
+      "title": "AIの最新動向と応用事例",
+      "summary": "AI技術の進展がアクションカメラや業務自動化、画像生成など多方面で影響を与えている。GoProの復活やClaude Codeの活用が注目され、実用的な応用例も増加している。",
+      "tags": [
+        "AI",
+        "技術",
+        "自動化",
+        "画像生成",
+        "イベント"
+      ],
+      "slug": "ai-latest-developments-and-applications"
+    },
+    {
       "id": "2026-07-03_evening-ai-news-summary-july-2026",
       "date": "2026-07-03",
       "file_key": "2026-07-03_evening",
@@ -388,22 +403,7 @@
       "summary": "この記事では、Robloxのセキュリティ対策、AIの活用状況、企業買収の動向など、最新のAIニュースをまとめました。技術の進化と社会への影響について考えさせる内容です。",
       "tags": [],
       "slug": "english-slug"
-    },
-    {
-      "id": "2026-06-15_morning-ai-news-summary-june-15-2026",
-      "date": "2026-06-15",
-      "file_key": "2026-06-15_morning",
-      "title": "AIの戦術化・セキュリティ・SEO革命　2026年6月15日のAIニュース総まとめ",
-      "summary": "AIが戦略決定に関与するリスク、サイバーセキュリティの進化、AI時代のSEO戦略、そしてビジネス活用まで。6月15日のAIニュースを振り返る。",
-      "tags": [
-        "AI安全性",
-        "サイバーセキュリティ",
-        "SEO",
-        "生成AI",
-        "ビジネス活用"
-      ],
-      "slug": "ai-news-summary-june-15-2026"
     }
   ],
-  "updated_at": "2026-07-03T12:54:23.598361+00:00"
+  "updated_at": "2026-07-03T22:57:52.706766+00:00"
 }
