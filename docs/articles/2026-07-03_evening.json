@@ -1,0 +1,148 @@
+{
+  "id": "2026-07-03_evening-ai-news-summary-july-2026",
+  "file_key": "2026-07-03_evening",
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T12:54:23.597669+00:00",
+  "title": "量子技術の躍進とAI商戦　2026年7月のAIニュース総まとめ",
+  "slug": "ai-news-summary-july-2026",
+  "summary": "量子ドローン企業の評価額80億ドル、医療AIの倫理問題、そしてビジネスへの応用まで。7月のAIトレンドを振り返る。",
+  "tags": [
+    "AIトレンド",
+    "量子技術",
+    "医療AI",
+    "EC最適化",
+    "開発ツール"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "7月になってもAI業界は活発に動いている。量子技術を操るスタートアップが資金調達で印象的な評価額に到達した。一方、医療関連のAI生成コンテンツが社会的にもたらす影響を巡り議論を呼んでいる。また、EC業務やシステム開発におけるAIの活用が本格化しつつあり、ビジネスシーンでのAIの役割が拡大しつつある。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "Quantum Systemsがドローン技術に投資することで、量子技術時代の到来を感じさせる。同社の評価額80億ドルは、単なる資金面の成果にとどまらない、国家戦略的産業に対する投資のマーケット信号でもある。一方、医療AIの倫理的な側面として、Midjourneyの超音波スキャナーの件では生成AIの信頼性や医療秩序への影響が問われている。",
+      "source_title": "Quantum Systems Doubles Valuation to $8B in New Round",
+      "source_url": "https://www.bloomberg.com/news/videos/2026-07-03/quantum-systems-doubles-valuation-to-8b-in-new-round-video"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "Midjourneyが医療スキャナーを題材にしたAIビジュアルを公開した。しかし、その正確性や医療現場での採用可能性について多くの疑問が提起された。AIが医療診断支援への応用を模索する中、信頼性と規制のバランスが課題として浮上している。",
+      "source_title": "A behind-the-scenes look at Midjourney's medical scanner leaves many questions unanswered",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "EC診断プロンプト",
+      "prompt_body": "あなたはECマーケティングの専門家です。次の商品について、なぜ購入しないかを3つの視点から分析してください：価格、機能、ブランド。簡潔かつ具体的にお願いします。",
+      "prompt_usecase": "ECサイトやショップ運営者が商品ページのストーリー作成やカスタマーサポートを強化する際に活用できます。",
+      "prompt_source": "https://web-mining.doorkeeper.jp/events/197636"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "llm-coding-agent 0.1a0がリリースされた。Fable 5実験の一環として開発されたこのツールは、LLMを活用したコード生成やリファクタリングを効率化。開発者のワークフローを劇的にスピードアップする可能性を秘めている。",
+      "source_title": "llm-coding-agent 0.1a0",
+      "source_url": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "7月7日には2つのオンラインイベントが同時開催された。「ToyBox」ではEC診断ツールのデモが行われ、システム開発会社向けのノーコードAI活用セミナーが実施された。",
+      "event_list": [
+        {
+          "title": "【ToyBox】Vol.63 「なぜ買わないか\"をAIが言語化するEC診断『ECいんぷる』",
+          "date": "2026-07-07",
+          "place": "オンライン",
+          "url": "https://web-mining.doorkeeper.jp/events/197636"
+        },
+        {
+          "title": "AI時代に選ばれるシステム開発会社とは～ノーコード型データ連携基盤×AI活用による継続収益モデル～",
+          "date": "2026-07-07",
+          "place": "オンライン",
+          "url": "https://majisemi-business.doorkeeper.jp/events/197596"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "body": "ビジネスにおけるAI活用を具体化するため、EC業務では商品の欠点をAI分析し、的確なアピールポイントを見出すことができる。システム開発では、llm-coding-agentのようなコード支援ツールを導入することで開発サイクルを短縮。量子技術を巡る投資動向を参考に、将来の技術トレンドを予測する手法も研究されている。",
+      "heading": "実践：ビジネスへの応用"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "量子技術、医療AI、EC最適化、そして開発ツールまで、AIはますます多岐にわたって進化している。今後の鍵は、技術の進歩とともに、その社会的受け入れや規制のあり方に注目したい。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Quantum Systems Doubles Valuation to $8B in New Round",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-03/quantum-systems-doubles-valuation-to-8b-in-new-round-video",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "関西財界代表団 10月に中国訪問で調整 日中関係悪化する中",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015168381000",
+      "source": "NHK テクノロジー",
+      "category": "AI"
+    },
+    {
+      "title": "期間限定！ デスクトップPC購入で最大3万ポイント還元。ドスパラ大決算キャンペーン開催中",
+      "url": "https://ascii.jp/elem/000/004/416/4416211/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "約1万円のハンコンとして満点でしょ！ HORI「マリオカート レーシングホイール for Nintendo Switch 2」がすごく使いやすいよ！",
+      "url": "https://ascii.jp/elem/000/004/416/4416062/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "講談社、「はたらく細胞」著者に謝罪 監修体制や作画環境「適切に履行できず」 本人のX投稿受け",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/03/news139.html",
+      "source": "ITmedia News",
+      "category": "Tech"
+    },
+    {
+      "title": "llm-coding-agent 0.1a0",
+      "url": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+      "source": "The Verge",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "【ToyBox】Vol.63 【無料】なぜ買わないか\"をAIが言語化するEC診断『ECいんぷる』",
+      "url": "https://web-mining.doorkeeper.jp/events/197636",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "AI時代に選ばれるシステム開発会社とは～ノーコード型データ連携基盤×AI活用による継続収益モデル～",
+      "url": "https://majisemi-business.doorkeeper.jp/events/197596",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

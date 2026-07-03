@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-07-03_evening-ai-news-summary-july-2026",
+      "date": "2026-07-03",
+      "file_key": "2026-07-03_evening",
+      "title": "量子技術の躍進とAI商戦　2026年7月のAIニュース総まとめ",
+      "summary": "量子ドローン企業の評価額80億ドル、医療AIの倫理問題、そしてビジネスへの応用まで。7月のAIトレンドを振り返る。",
+      "tags": [
+        "AIトレンド",
+        "量子技術",
+        "医療AI",
+        "EC最適化",
+        "開発ツール"
+      ],
+      "slug": "ai-news-summary-july-2026"
+    },
+    {
       "id": "2026-07-03_morning-ai-technology-latest-developments-challenges",
       "date": "2026-07-03",
       "file_key": "2026-07-03_morning",
@@ -388,22 +403,7 @@
         "ビジネス活用"
       ],
       "slug": "ai-news-summary-june-15-2026"
-    },
-    {
-      "id": "2026-06-14_evening-google-ai-reinvents-search",
-      "date": "2026-06-14",
-      "file_key": "2026-06-14_evening",
-      "title": "Google AIで検索の未来を変える",
-      "summary": "GoogleがAIを活用した検索技術の革新を発表。20年振りの大きな変化が予想されます。",
-      "tags": [
-        "AI",
-        "検索技術",
-        "画像生成",
-        "イベント",
-        "ビジネス応用"
-      ],
-      "slug": "google-ai-reinvents-search"
     }
   ],
-  "updated_at": "2026-07-02T22:59:44.593125+00:00"
+  "updated_at": "2026-07-03T12:54:23.598361+00:00"
 }
