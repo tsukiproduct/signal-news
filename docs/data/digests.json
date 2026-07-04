@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-07-04_afternoon-english-slug",
+      "date": "2026-07-04",
+      "file_key": "2026-07-04_afternoon",
+      "title": "AIの進化と社会への影響",
+      "summary": "9つのAI関連ニュースを基に、技術的進展と社会的課題を分析。AIの可能性と課題を客観的に考察し、今後の展望を提示。",
+      "tags": [
+        "AI",
+        "技術",
+        "社会的影響"
+      ],
+      "slug": "english-slug"
+    },
+    {
       "id": "2026-07-04_morning-ai-latest-developments-and-applications",
       "date": "2026-07-04",
       "file_key": "2026-07-04_morning",
@@ -394,16 +407,7 @@
         "ローカルLLM"
       ],
       "slug": "ai-demand-venture-trends-june-2026"
-    },
-    {
-      "id": "2026-06-16_morning-english-slug",
-      "date": "2026-06-16",
-      "file_key": "2026-06-16_morning",
-      "title": "AIニュースの要約と解説",
-      "summary": "この記事では、Robloxのセキュリティ対策、AIの活用状況、企業買収の動向など、最新のAIニュースをまとめました。技術の進化と社会への影響について考えさせる内容です。",
-      "tags": [],
-      "slug": "english-slug"
     }
   ],
-  "updated_at": "2026-07-03T22:57:52.706766+00:00"
+  "updated_at": "2026-07-04T06:53:17.788737+00:00"
 }

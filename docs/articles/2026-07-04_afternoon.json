@@ -1,0 +1,143 @@
+{
+  "id": "2026-07-04_afternoon-english-slug",
+  "file_key": "2026-07-04_afternoon",
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T06:53:17.788033+00:00",
+  "title": "AIの進化と社会への影響",
+  "slug": "english-slug",
+  "summary": "9つのAI関連ニュースを基に、技術的進展と社会的課題を分析。AIの可能性と課題を客観的に考察し、今後の展望を提示。",
+  "tags": [
+    "AI",
+    "技術",
+    "社会的影響"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "AI技術の急速な進化とその課題が社会に及ぶ状況を整理。既存の技術動向と新たな期待が交差する中、専門家の見解を踏まえた総合的な観点が重要だ。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "カメラ付きAirPodsとカメラ付きiOS開発者ベータ版のコード分析。技術的実用性と市場反応の関係性を深掘り。",
+      "source_title": "カテゴリ: Tech | タイトル: カメラ付きAirPodsの登場を示唆するコードがiOS 27開発者向けベータ版の中で見つかる",
+      "source_url": "https://gigazine.net/news/20260704-ios-27-developer-beta-code-hints-airpods-cameras"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "Open Source AIの進展とその応用可能性。技術的実用性と信頼性に関する課題も指摘。",
+      "source_title": "【ImageVideo | タイトル: I built a RunPod alternative for ComfyUI. One click, about a minute to deploy...",
+      "source_url": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "プロンプトタイトル（20字以内）",
+      "prompt_body": "実用的なプロンプト（150字程度）",
+      "prompt_source": "参照記事URL（参照記事URL）"
+    },
+    {
+      "type": "wow",
+      "heading": "これすごい！今週のバイラル",
+      "body": "HackerNews・Redditで話題のAI情報（200字程度）",
+      "source_title": "【Prompts | タイトル: Open Source AI Gap Map",
+      "source_url": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "注目のオンライン・オフラインイベント情報。技術や社会への影響を把握するための整理が求められる。",
+      "event_list": [
+        {
+          "title": "イベント名",
+          "date": "日程",
+          "place": "会場/オンライン",
+          "url": "URL"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "AIを活用した具体的なビジネスケースとIts実装方法。技術的可能性と現実的応用を結びつける。",
+      "source_title": "【Events | タイトル: AI時代に選ばれるシステム開発会社とは～ノーコード型データ連携基盤×AI活用による継続収益モデル～",
+      "source_url": "https://majisemi-business.doorkeeper.jp/events/197596"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "トレンド・展望（200字程度）",
+      "source_title": "【タグ:タグ1、タグ2、タグ3】",
+      "source_url": "参照記事URL（参照記事URL）"
+    }
+  ],
+  "sources": [
+    {
+      "title": "China Envisions AI, Karaoke and Coffee at Cinemas",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-04/china-envisions-ai-karaoke-and-coffee-at-cinemas",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "カメラ付きAirPodsの登場を示唆するコードがiOS 27開発者向けベータ版の中で見つかる",
+      "url": "https://gigazine.net/news/20260704-ios-27-developer-beta-code-hints-airpods-cameras/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "【鼻血レベルの完成度】GRヤリスが「26式」へ進化！ ステアリングとタイヤだけのためにここまでやる!?",
+      "url": "https://ascii.jp/elem/000/004/416/4416257/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "肉最大450gの衝撃！大阪王将の\"暴走メシ\"全国へ",
+      "url": "https://ascii.jp/elem/000/004/416/4416183/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "秋葉原でオレたちと会おう！ アスキー主催イベント「TOKYO Gaming-PC STREET 8（GPS）」本日開催中！",
+      "url": "https://ascii.jp/elem/000/004/416/4416289/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "Open Source AI Gap Map",
+      "url": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "I built a RunPod alternative for ComfyUI. One click, about a minute to deploy, and you can list your own idle GPU on it too. Feedback welcome.",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1un0sle/i_built_a_runpod_alternative_for_comfyui_one/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "【ToyBox】Vol.63 【無料】なぜ買わないか\"をAIが言語化するEC診断『ECいんぷる』",
+      "url": "https://web-mining.doorkeeper.jp/events/197636",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "AI時代に選ばれるシステム開発会社とは～ノーコード型データ連携基盤×AI活用による継続収益モデル～",
+      "url": "https://majisemi-business.doorkeeper.jp/events/197596",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
