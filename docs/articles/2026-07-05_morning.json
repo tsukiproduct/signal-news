@@ -1,0 +1,146 @@
+{
+  "id": "2026-07-05_morning-ai-weekly-trends",
+  "file_key": "2026-07-05_morning",
+  "date": "2026-07-05",
+  "generated_at": "2026-07-04T22:52:01.871611+00:00",
+  "title": "AIニュースで読み解く今週の動向",
+  "slug": "ai-weekly-trends",
+  "summary": "ホラーゲームの炎上、NASAの救援ミッション、GoogleのAI広告まで。AIニュースで捉える今週のキーポイントを解説します。",
+  "tags": [
+    "AIニュース",
+    "テクノロジー",
+    "イベント"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "8月に発売予定だったホラーゲーム「日本事故物件監視協会3」の発売中止や、NASAが軌道衛星を救う緊急ミッション、Googleが独立宣言をAIで書き改める広告など、AI関連のニュースがホットな動きを見せている。一方、オープンソースAIの動きや、画像生成AIの新トレンドも注目されている。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "Googleの新広告は、250年前の独立宣言を AI が書き改めるというストーリー。これは単なる広告ではなく、AI技術が歴史的な文書にどのように貢献できるかを示す試み。生成AIは創作だけでなく、過去の文化遺産の再解釈や教育ツールとしての可能性を広げている。一方、ホラーゲームの炎上は、ゲームコンテンツが社会的感度にどのように響くかを浮き彫りにした。",
+      "source_title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "source_url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "Redditのr/StableDiffusionでは、Krea2 ComfyUIのテストが盛んに行われている。「現実を拒否せよ」というテーマの画像生成が注目され、AI-generated アートの可能性を広く示している。",
+      "source_title": "Krea2 comfyui testing: Strange prompts #6",
+      "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1uniz1k/krea2_comfyui_testing_strange_prompts_6/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "歴史的文書の再解釈",
+      "prompt_body": "「Declaration of Independence」を2024年の視点で書き直してください。AIがどのように歴史的な文章を現代化できるかを示すため、元のテキストと比較してください。",
+      "prompt_usecase": "創作、教育、歴史研究に活用。",
+      "prompt_source": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "1880年代の「真珠ボタン」産業と、地元の二枚貝絶滅の歴史が再評価されている。AI技術が過去の産業活動をデータ分析し、環境影響を明らかにした例。",
+      "source_title": "「真珠ボタン」がアメリカ中西部のボタン産業を築いた一方で地元の二枚貝を絶滅寸前まで追い込んだ歴史",
+      "source_url": "https://gigazine.net/news/20260705-button-maker-searche-shell/"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "7月7日にオンラインで開催された2つのイベントが注目された。",
+      "event_list": [
+        {
+          "title": "【ToyBox】Vol.63 「無料」なぜ買わないかをAIが言語化するEC診断『ECいんぷる』",
+          "date": "2026-07-07",
+          "place": "オンライン",
+          "url": "https://web-mining.doorkeeper.jp/events/197636"
+        },
+        {
+          "title": "AI時代に選ばれるシステム開発会社とは～ノーコード型データ連携基盤×AI活用による継続収益モデル～",
+          "date": "2026-07-07",
+          "place": "オンライン",
+          "url": "https://majisemi-business.doorkeeper.jp/events/197596"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "AI広告やコンテンツ生成を活用するには、まずビジネス目標に合ったプロンプトを開発することが重要。例えば、商品紹介文は「カスタマーのペインポイントを3つ挙げ、その解決策をAIで生成」する方法。また、ホラーゲームのようにコンテンツが社会的に通じない場合、事前にAIによるコンテンツレビューを導入することも有効。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "AI技術が歴史や環境問題にアプリチェーンする動きが進んでいる。次週には、NASAの衛星救助ミッションや、オープンソースAIの「_gap map」の正式リリースが注目ポイント。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "人気ホラーゲームの新作が発売中止？ 告知投稿を見たマンガ家が感じた“モキュメンタリーの難しさ”",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/05/news009.html",
+      "source": "ITmedia News",
+      "category": "Tech"
+    },
+    {
+      "title": "「真珠ボタン」がアメリカ中西部のボタン産業を築いた一方で地元の二枚貝を絶滅寸前まで追い込んだ歴史",
+      "url": "https://gigazine.net/news/20260705-button-maker-searche-shell/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "source": "TechCrunch AI",
+      "category": "Industry"
+    },
+    {
+      "title": "NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth",
+      "url": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "White House deletes thousands of web pages about energy conservation as heatwave slams US",
+      "url": "https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "Open Source AI Gap Map",
+      "url": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "Krea2 comfyui testing: Strange prompts #6",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uniz1k/krea2_comfyui_testing_strange_prompts_6/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "【ToyBox】Vol.63 【無料】なぜ買わないか\"をAIが言語化するEC診断『ECいんぷる』",
+      "url": "https://web-mining.doorkeeper.jp/events/197636",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "AI時代に選ばれるシステム開発会社とは～ノーコード型データ連携基盤×AI活用による継続収益モデル～",
+      "url": "https://majisemi-business.doorkeeper.jp/events/197596",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-07-05_morning-ai-weekly-trends",
+      "date": "2026-07-05",
+      "file_key": "2026-07-05_morning",
+      "title": "AIニュースで読み解く今週の動向",
+      "summary": "ホラーゲームの炎上、NASAの救援ミッション、GoogleのAI広告まで。AIニュースで捉える今週のキーポイントを解説します。",
+      "tags": [
+        "AIニュース",
+        "テクノロジー",
+        "イベント"
+      ],
+      "slug": "ai-weekly-trends"
+    },
+    {
       "id": "2026-07-04_afternoon-english-slug",
       "date": "2026-07-04",
       "file_key": "2026-07-04_afternoon",
@@ -392,22 +405,7 @@
         "イベント"
       ],
       "slug": "meta-engineering-culture-collapse"
-    },
-    {
-      "id": "2026-06-17_morning-ai-demand-venture-trends-june-2026",
-      "date": "2026-06-17",
-      "file_key": "2026-06-17_morning",
-      "title": "AI需要拡大とベンチャー動向：2026年6月の注目ポイント",
-      "summary": "AI需要の急伸が半導体市場を牽引し、ベンチャー投資や生成AIの実装が活発化。注目イベントと実践活用法を解説。",
-      "tags": [
-        "AI需要",
-        "半導体",
-        "ベンチャー投資",
-        "生成AI",
-        "ローカルLLM"
-      ],
-      "slug": "ai-demand-venture-trends-june-2026"
     }
   ],
-  "updated_at": "2026-07-04T06:53:17.788737+00:00"
+  "updated_at": "2026-07-04T22:52:01.872331+00:00"
 }
