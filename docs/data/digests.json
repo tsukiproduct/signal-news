@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-07-06_morning-ai-education-team-limits-mechanical-turk-end",
+      "date": "2026-07-06",
+      "file_key": "2026-07-06_morning",
+      "title": "富裕層のAI教育・チーム限界30人・MTurk終了",
+      "summary": "AI教育格差と組織運営の限界、クラウドソーシング終了が示すAI時代の労働変容",
+      "tags": [
+        "AI教育",
+        "組織設計",
+        "労働市場",
+        "生成AI開発",
+        "ナレッジマネジメント"
+      ],
+      "slug": "ai-education-team-limits-mechanical-turk-end"
+    },
+    {
       "id": "2026-07-05_evening-ai-tech-trends-2026",
       "date": "2026-07-05",
       "file_key": "2026-07-05_evening",
@@ -393,21 +408,7 @@
         "教育"
       ],
       "slug": "ai-evolution-and-reality"
-    },
-    {
-      "id": "2026-06-18_evening-ai-safety-benchmarking-and-agentic-trends",
-      "date": "2026-06-18",
-      "file_key": "2026-06-18_evening",
-      "title": "AI安全性の新基準とエージェント能力の検証：最新トレンド解説",
-      "summary": "AnthropicのAI安全性への取り組みから、エージェント能力の検証手法まで、AIの信頼性と実用性の最新動向を分析します。",
-      "tags": [
-        "AI Safety",
-        "AI Agents",
-        "Ideogram 4",
-        "Benchmarking"
-      ],
-      "slug": "ai-safety-benchmarking-and-agentic-trends"
     }
   ],
-  "updated_at": "2026-07-05T12:08:36.953702+00:00"
+  "updated_at": "2026-07-05T22:59:42.693976+00:00"
 }
