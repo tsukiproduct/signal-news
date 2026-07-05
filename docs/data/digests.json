@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-07-05_evening-ai-weekly-report-2026",
+      "date": "2026-07-05",
+      "file_key": "2026-07-05_evening",
+      "title": "AIニュースと技術トレンドの週次レポート",
+      "summary": "2026年7月7日から8日のAIニュースと技術トレンドを解説。ケーキ販売、スマホ値上げ、EC診断イベントなどを網羅。",
+      "tags": [
+        "AI技術",
+        "スマホ市場",
+        "EC診断",
+        "生成AI",
+        "イベント"
+      ],
+      "slug": "ai-weekly-report-2026"
+    },
+    {
       "id": "2026-07-05_morning-ai-weekly-trends",
       "date": "2026-07-05",
       "file_key": "2026-07-05_morning",
@@ -390,22 +405,7 @@
         "倫理"
       ],
       "slug": "english-slug"
-    },
-    {
-      "id": "2026-06-18_morning-meta-engineering-culture-collapse",
-      "date": "2026-06-18",
-      "file_key": "2026-06-18_morning",
-      "title": "Metaのエンジニア文化崩壊の真相",
-      "summary": "MetaのAI改革が自社のエンジニアリング文化を破壊した背景と影響。",
-      "tags": [
-        "AI改革",
-        "サイバーセキュリティ",
-        "生成AI",
-        "プロンプト",
-        "イベント"
-      ],
-      "slug": "meta-engineering-culture-collapse"
     }
   ],
-  "updated_at": "2026-07-04T22:52:01.872331+00:00"
+  "updated_at": "2026-07-05T07:34:13.808439+00:00"
 }

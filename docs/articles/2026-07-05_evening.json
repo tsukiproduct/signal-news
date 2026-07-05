@@ -1,0 +1,150 @@
+{
+  "id": "2026-07-05_evening-ai-weekly-report-2026",
+  "file_key": "2026-07-05_evening",
+  "date": "2026-07-05",
+  "generated_at": "2026-07-05T07:34:13.807742+00:00",
+  "title": "AIニュースと技術トレンドの週次レポート",
+  "slug": "ai-weekly-report-2026",
+  "summary": "2026年7月7日から8日のAIニュースと技術トレンドを解説。ケーキ販売、スマホ値上げ、EC診断イベントなどを網羅。",
+  "tags": [
+    "AI技術",
+    "スマホ市場",
+    "EC診断",
+    "生成AI",
+    "イベント"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "2026年7月7日から8日のAI関連ニュースをまとめます。コメダの限定ケーキ、Amazonプライムデーのスマホ値上げ、クリスピードーナツの食べ放題キャンペーン、AIアニメの新作、卵価格操作事件、AIツール開発、画像生成ソフトの評価、オンラインイベントなど多岐にわたるトピックが観察されました。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "Amazonプライムデーではスマホ市場の値上げ傾向が加速。シャオミのミドルクラスモデルが大幅割引される一方、GalaxyやiPhoneのハイエンド機種も注目。一方で、卵生産者の価格操作で30億ドルの利益が生まれたが、制裁金は300万ドルにとどまるなど、AIを活用した価格戦略の倫理問題が浮上。さらに、AI技術の進化によりEC診断ツールや生成AIの実用化が加速。",
+      "source_title": "Amazonプライムデー：値上げ傾向進むスマホをオトクに買えるラストチャンス!?",
+      "source_url": "https://ascii.jp/elem/000/004/416/4416314/?rss"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "Kreaの画像生成ツールが投稿処理やレンズ効果で注目。Redditのユーザーがその使いやすさを評価し、AI生成コンテンツの拡散が加速。特に、ユーザーのニーズに即した高品質な画像生成が可能に。",
+      "source_title": "Krea is so nice with the post processing/lens effects",
+      "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1uns3op/krea_is_so_nice_with_the_post_processinglens/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "AI画像生成プロンプト",
+      "prompt_body": "「高品質な食品写真を生成するためのプロンプト」\n例: 「新鮮なケーキのクローズアップ、柔らかな照明、食感のディテールを強調」\nこれにより、ECサイトの商品画像作成が効率化可能。",
+      "prompt_usecase": "食品業界のマーケティング資料作成やSNS投稿の画像生成に活用可能。",
+      "prompt_source": "https://ascii.jp/elem/000/004/415/4415744/?rss"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "AIアニメ『レベルロボチカ』のティザーPVが公開され、2050年の渋谷を舞台にした近未来SFの世界観が話題に。梶浦由記の楽曲や大沼心の総監督としての評価が高まり、AI技術を活用したエンタメ業界の変化が注目。",
+      "source_title": "2050年の渋谷を舞台にした近未来SFアニメ『レベルロボチカ』ティザーPV公開",
+      "source_url": "https://gigazine.net/news/20260705-rebel-robotica/"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "2026年7月7日に開催されるオンラインイベント『ECいんぷる』や『AI時代に選ばれるシステム開発会社』が注目。前者はAIによるEC診断ツールの実践的活用法を紹介、後者はノーコード型データ連携基盤とAI活用による継続収益モデルの考察をテーマに。",
+      "event_list": [
+        {
+          "title": "ECいんぷる",
+          "date": "2026-07-07",
+          "place": "オンライン",
+          "url": "https://web-mining.doorkeeper.jp/events/197636"
+        },
+        {
+          "title": "AI時代に選ばれるシステム開発会社",
+          "date": "2026-07-07",
+          "place": "オンライン",
+          "url": "https://majisemi-business.doorkeeper.jp/events/197596"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "Amazonプライムデーのスマホ割引を活用した在庫管理や、AIツールの導入で業務効率化を図る方法が有効。特に、ノーコード型データ連携基盤を活用することで、AI技術の導入障壁を低減。また、EC診断ツールを活用することで、顧客ニーズの把握が可能に。",
+      "source_title": "AI時代に選ばれるシステム開発会社",
+      "source_url": "https://majisemi-business.doorkeeper.jp/events/197596"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "AI技術の進化がECや飲食業界に与える影響、価格戦略の倫理問題、生成AIの実用化が加速。今後の技術トレンドとして、AIを活用したサービスの多様化や、ユーザー体験の向上が予想されます。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "コメダ夏限定ケーキ3種！「氷点下ショコラ」今年も、「ご褒美レアチーズ」も気になる",
+      "url": "https://ascii.jp/elem/000/004/415/4415744/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "間もなく開始のAmazonプライムデー 値上げ傾向進むスマホをオトクに買えるラストチャンス!?",
+      "url": "https://ascii.jp/elem/000/004/416/4416314/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "クリスピーの“ドーナツ食べ放題”45分1760円、参加は事前抽選",
+      "url": "https://ascii.jp/elem/000/004/416/4416186/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "2050年の渋谷を舞台にした近未来SFアニメ『レベルロボチカ』ティザーPV公開、総監督：大沼心＆シリーズ構成：吉上亮＆テーマ・挿入歌：梶浦由記らメインスタッフ情報も解禁",
+      "url": "https://gigazine.net/news/20260705-rebel-robotica/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "アメリカの卵生産者は価格操作で30億ドル稼いだが制裁金はわずか300万ドルで儲けの方が1000倍多い",
+      "url": "https://gigazine.net/news/20260705-egg-price-us/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "Krea is so nice with the post processing/lens effects",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uns3op/krea_is_so_nice_with_the_post_processinglens/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "【ToyBox】Vol.63 【無料】なぜ買わないか\"をAIが言語化するEC診断『ECいんぷる』",
+      "url": "https://web-mining.doorkeeper.jp/events/197636",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "AI時代に選ばれるシステム開発会社とは～ノーコード型データ連携基盤×AI活用による継続収益モデル～",
+      "url": "https://majisemi-business.doorkeeper.jp/events/197596",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
