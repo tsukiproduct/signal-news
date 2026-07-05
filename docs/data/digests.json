@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-07-05_evening-ai-tech-trends-2026",
+      "date": "2026-07-05",
+      "file_key": "2026-07-05_evening",
+      "title": "2026年のAI技術革新と主要イベントを解説",
+      "summary": "2026年のAI技術革新と主要イベントを解説。チップ税、予測市場、画像生成AIなどの動向を紹介。",
+      "tags": [
+        "AI技術",
+        "予測市場",
+        "画像生成AI",
+        "イベント",
+        "ビジネス応用"
+      ],
+      "slug": "ai-tech-trends-2026"
+    },
+    {
       "id": "2026-07-05_evening-ai-weekly-report-2026",
       "date": "2026-07-05",
       "file_key": "2026-07-05_evening",
@@ -392,20 +407,7 @@
         "Benchmarking"
       ],
       "slug": "ai-safety-benchmarking-and-agentic-trends"
-    },
-    {
-      "id": "2026-06-18_evening-english-slug",
-      "date": "2026-06-18",
-      "file_key": "2026-06-18_evening",
-      "title": "AIの新たな風景と課題のバランス",
-      "summary": "多様なAI developmentsが急速に進む中、技術革新と社会的影響のバランスが問われる。今後のAI活用では技術実用性と倫理性が共通して考慮される必要がある。",
-      "tags": [
-        "AI",
-        "技術革新",
-        "倫理"
-      ],
-      "slug": "english-slug"
     }
   ],
-  "updated_at": "2026-07-05T07:34:13.808439+00:00"
+  "updated_at": "2026-07-05T12:08:36.953702+00:00"
 }
