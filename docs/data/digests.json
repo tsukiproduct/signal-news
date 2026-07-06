@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "2026-07-07_morning-ai-semiconductor-boom-research-trends-20260707",
+      "date": "2026-07-07",
+      "file_key": "2026-07-07_morning",
+      "title": "AI半導体好調と最新研究・ツール動向",
+      "summary": "サムスン決算好調、ブロードコム・アップル契約延長、最新AI研究・ツール動向を解説",
+      "tags": [
+        "AI半導体",
+        "生成AI",
+        "機械学習",
+        "ビジネス活用"
+      ],
+      "slug": "ai-semiconductor-boom-research-trends-20260707"
+    },
+    {
       "id": "2026-07-06_morning-ai-education-team-limits-mechanical-turk-end",
       "date": "2026-07-06",
       "file_key": "2026-07-06_morning",
@@ -394,21 +408,7 @@
         "イベント"
       ],
       "slug": "ai-trends-june-week3-2026"
-    },
-    {
-      "id": "2026-06-19_evening-ai-evolution-and-reality",
-      "date": "2026-06-19",
-      "file_key": "2026-06-19_evening",
-      "title": "AIの進化と現実：限界と可能性を探る",
-      "summary": "AI技術の進展とその社会的影響、画像生成や医療分野の具体例を紹介します。",
-      "tags": [
-        "AI技術",
-        "生成AI",
-        "イベント",
-        "教育"
-      ],
-      "slug": "ai-evolution-and-reality"
     }
   ],
-  "updated_at": "2026-07-05T22:59:42.693976+00:00"
+  "updated_at": "2026-07-06T23:03:09.916039+00:00"
 }

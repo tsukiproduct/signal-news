@@ -1,0 +1,159 @@
+{
+  "id": "2026-07-07_morning-ai-semiconductor-boom-research-trends-20260707",
+  "file_key": "2026-07-07_morning",
+  "date": "2026-07-07",
+  "generated_at": "2026-07-06T23:03:09.915230+00:00",
+  "title": "AI半導体好調と最新研究・ツール動向",
+  "slug": "ai-semiconductor-boom-research-trends-20260707",
+  "summary": "サムスン決算好調、ブロードコム・アップル契約延長、最新AI研究・ツール動向を解説",
+  "tags": [
+    "AI半導体",
+    "生成AI",
+    "機械学習",
+    "ビジネス活用"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "AI半導体需要の爆発的増加が半導体業界の業績を大きく押し上げています。サムスン電子の四半期利益が19倍に跳ね上がったほか、ブロードコムはアップルとのカスタムASIC供給契約を2031年まで延長。インテル出資のSyntiantも上場申請を行うなど、AIハードウェア層の活況が鮮明です。一方で、自己教師あり学習やロボティクス基盤、画像生成制御などソフトウェア・研究面でも着実な進展が見られます。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説：AI半導体サプライチェーンの構造変化",
+      "body": "サムスン電子の決算は、HBM（高帯域幅メモリ）を中心としたAI向けメモリ需要が供給を大きく上回っている実態を示しています。ブロードコムとアップルの長期契約延長は、汎用GPU依存から自社設計ASICへのシフトが大手テック企業の標準戦略になりつつあることを裏付けます。SyntiantのIPO申請は、エッジAI向け超低消費電力チップへの投資家関心の高まりを反映しています。これらは単なる需要増ではなく、AIインフラのアーキテクチャそのものが「メモリ中心」「カスタムシリコン中心」「エッジ分散型」へ再編されていることを意味し、今後の調達戦略やコスト構造に大きな影響を与えます。",
+      "source_title": "Samsung Scores Profit Beat Due to Runaway Demand for AI Memory",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-07-06/samsung-scores-profit-beat-due-to-runaway-demand-for-ai-memory"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "Wan SCAIL-2のセグメンテーション制御アップデートでは、Image Analyzer LoRAによる画像解析機能が追加され、領域指定による細かな生成制御が可能になりました。またHugging FaceからリリースされたLeRobot v0.6.0は、「想像・評価・改善」のサイクルを組み込み、ロボットタスクのデータ収集からポリシー学習までを一気通貫で支援します。画像生成の空間制御と実世界ロボティクスのデータフローが同時に成熟しつつあり、マルチモーダル・物理世界連携の基盤が整いつつあります。",
+      "source_title": "Wan SCAIL-2 Segmentation Control (Update)",
+      "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1upbu5e/wan_scail2_segmentation_control_update/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "多クラス分類のターゲット/特徴量エンコーディング設計",
+      "prompt_body": "XGBoostで多クラス分類を行う際、ターゲット変数はLabelEncoderで整数化し、カテゴリ特徴量はTarget Encoding（平滑化付き）またはCatBoostエンコーダを適用してください。数値特徴量はスケーリング不要ですが、欠損値は-999等の別値で埋め、欠損フラグ列を追加します。パイプライン化してリーク防止を徹底してください。",
+      "prompt_usecase": "表形式データの多クラス分類コンペや業務モデル構築で、前処理のベストプラクティスを即適用したいときに有効です。",
+      "prompt_source": "https://www.reddit.com/r/MachineLearning/comments/1upa8yc/how_should_i_encode_both_target_and_feature/"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "LingBot-Visionが提案する「マスク境界モデリング」は、ランダムマスクではなく教師モデルが境界を予測してマスク領域を決める手法で、NYUv2線形プローブRMSE 0.296（1.1Bパラメータ）を達成し、DINOv3-7B（0.309）を少ないパラメータで上回りました。境界構造を明示的に学ばせる発想の転換が、自己教師あり学習の効率を飛躍的に高める可能性を示しています。",
+      "source_title": "LingBot-Vision: masked boundary modeling for self-supervised pretraining",
+      "source_url": "https://www.reddit.com/r/MachineLearning/comments/1up4cjh/lingbotvision_masked_boundary_modeling_for/"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "7月7日に2つのオンラインイベントが開催されます。EC事業者向けにはAIが「なぜ買わないか」を言語化する診断ツールの紹介、システム開発会社向けにはノーコードデータ連携基盤×AIで継続収益モデルを構築する手法が語られます。いずれも実務直結の内容で、参加費無料です。",
+      "event_list": [
+        {
+          "title": "【ToyBox】Vol.63 【無料】なぜ買わないか\"をAIが言語化するEC診断『ECいんぷる』",
+          "date": "2026-07-07",
+          "place": "オンライン",
+          "url": "https://web-mining.doorkeeper.jp/events/197636"
+        },
+        {
+          "title": "AI時代に選ばれるシステム開発会社とは～ノーコード型データ連携基盤×AI活用による継続収益モデル～",
+          "date": "2026-07-07",
+          "place": "オンライン",
+          "url": "https://majisemi-business.doorkeeper.jp/events/197596"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "AI半導体サプライチェーンの変化は、ハードウェア調達だけでなくソフトウェア戦略にも波及します。自社サービスでGPUコストが課題なら、エッジ向け低消費電力チップ（Syntiant類）への部分移行や、ASIC設計パートナーとの早期協議を検討すべきです。画像生成ではWan SCAIL-2類のセグメンテーション制御をEC商品画像のバリエーション生成や広告クリエイティブの局所修正に即応用できます。LeRobotのパイプラインは、倉庫ロボットや検査自動化など実ロボット導入のデータ収集・学習サイクルを大幅に短縮します。多クラス分類の前処理プラクティスは、顧客セグメント分類や需要予測など表形式データ案件で即戦力になります。まずは小規模PoCで「境界モデリング」型自己教師あり学習を画像検査データに適用し、ラベルコスト削減効果を検証するのが現実的な第一歩です。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "半導体大手の決算発表シーズンが本格化し、AI需要の実需規模がより鮮明になります。HBM供給逼迫の緩和時期、カスタムASIC採用企業の拡大、エッジAIチップの量産立ち上がりが今後のコスト曲線を決めます。研究面では境界モデリング類の「構造を意識したマスク戦略」が他タスク（動画、点群、言語）へどう波及するか、LeRobot類の実ロボットデータセット拡充が汎用ポリシー学習にどこまで寄与するかが焦点です。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Samsung Scores Profit Beat Due to Runaway Demand for AI Memory",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-06/samsung-scores-profit-beat-due-to-runaway-demand-for-ai-memory",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "Broadcom、Appleとの半導体契約を2031年まで延長 複数世代のApple製品にカスタムASICを供給へ",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/07/news078.html",
+      "source": "ITmedia News",
+      "category": "Tech"
+    },
+    {
+      "title": "日本発！ 「IPS」って何の略？ “iPS細胞”は20周年ですが、30周年のアレの方です",
+      "url": "https://ascii.jp/elem/000/004/414/4414163/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "Intel-Backed AI Chip and Software Maker Syntiant Files for IPO",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-06/intel-backed-ai-chip-and-software-maker-syntiant-files-for-ipo",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "Chip Stocks Rally in AI Trade Revival | The Close 7/6/2026",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-06/the-close-7-6-2026-video",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "How should I encode both target and feature variable for a multiclass classification? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1upa8yc/how_should_i_encode_both_target_and_feature/",
+      "source": "r/MachineLearning",
+      "category": "Wow"
+    },
+    {
+      "title": "LingBot-Vision: masked boundary modeling for self-supervised pretraining (0.296 NYUv2 linear-probe RMSE at 1.1B vs 0.309 for DINOv3-7B, trails on ImageNet); weights in 4 sizes[R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1up4cjh/lingbotvision_masked_boundary_modeling_for/",
+      "source": "r/MachineLearning",
+      "category": "Wow"
+    },
+    {
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "source": "Hugging Face Blog",
+      "category": "Prompts"
+    },
+    {
+      "title": "Wan SCAIL-2 Segmentation Control (Update)",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1upbu5e/wan_scail2_segmentation_control_update/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "【ToyBox】Vol.63 【無料】なぜ買わないか\"をAIが言語化するEC診断『ECいんぷる』",
+      "url": "https://web-mining.doorkeeper.jp/events/197636",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "AI時代に選ばれるシステム開発会社とは～ノーコード型データ連携基盤×AI活用による継続収益モデル～",
+      "url": "https://majisemi-business.doorkeeper.jp/events/197596",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
