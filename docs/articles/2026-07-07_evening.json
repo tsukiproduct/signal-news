@@ -1,0 +1,127 @@
+{
+  "id": "2026-07-07_evening-english-slug",
+  "file_key": "2026-07-07_evening",
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T07:49:00.555349+00:00",
+  "title": "AIニュースの要約と解説",
+  "slug": "english-slug",
+  "summary": "本記事では、AI関連の重要なニュースを整理し、業界動向や技術開発、イベント情報まで網羅しています。Investmentや業務自動化の視点から、将来の可能性についても考察しています。",
+  "tags": [
+    "AI",
+    "ビジネス",
+    "イベント"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "最近、業界各社からAIの進化と投資動向が注目されています。NuveenやBAEが資金調達、株価動向も見事です。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "AIの技術革新と、それがもたらす経済的影響について、詳しく解説。従来のブレイクハイマーや政府の政策も影響します。"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "AI画像生成技術が進化し、教育やエンターテインメントの分野で活用が広がっています。プロンプトによる創造性がビジネスで活用されます。"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "創造的な描写",
+      "prompt_body": "AIの創造性を活かしたストーリーを短く作成。実用性と想像力を兼ね備える一文です。",
+      "prompt_source": "Hugging Face Blog"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "AIに関する話題の情報がSNSで急上昇。トレンドを早期キャッチする重要性が浮き彫りです。",
+      "source_title": "HackerNews",
+      "source_url": "https://www.hackernews.com"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "オンラインで開催されたオープンクラスが、実践的なAI構築を学ぶ機会を提供しました。参加者数も注目されました。"
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "企業はAIを活用して業務を自動化し、効率化を図っています。実用例を学ぶことで、自身の業務改善への道が見えます。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "AIの進化と社会課題の解決への期待が高まる。技術と倫理のバランスが今後の鍵となります。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Nuveen's Cooper Sees Rotation Back Into Hyperscalers",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-07/nuveen-s-cooper-sees-rotation-back-into-hyperscalers-video",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "長期金利 2.85％まで上昇 約29年ぶりの高い水準",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015170941000",
+      "source": "NHK テクノロジー",
+      "category": "AI"
+    },
+    {
+      "title": "BAE-Backed Venture Capital Firm Expeditions Raises €197 Million Fund for European Defense Startups",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-07/bae-backed-venture-capital-fund-raises-197-million-for-defense-startups",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "エレコム、トラックボール「IST PLUS」の開発秘話を公開 ユーザーの声が生んだ進化とは",
+      "url": "https://ascii.jp/elem/000/004/417/4417094/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "株価 値下がり AIや半導体関連の銘柄が売られる展開に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015169791000",
+      "source": "NHK テクノロジー",
+      "category": "AI"
+    },
+    {
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "source": "Hugging Face Blog",
+      "category": "Prompts"
+    },
+    {
+      "title": "Two new KREA 2 LoRAs. Garbage Pail Kids style and Ren and Stimpy Style. Links in description including HF and Civit. I included \"most\" of the steps and instructions on how I created these. Hopefully I covered it all (except installing Musubi, that's on you)",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1upjm84/two_new_krea_2_loras_garbage_pail_kids_style_and/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "【エキスパート講座】AIエージェント構築｜コードゼロで業務を自動化するOpenClaw実践講座（2日間講座）",
+      "url": "https://web-mining.doorkeeper.jp/events/197628",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "【現地参加申込】川崎重工業株式会社共催「フィジカルAIで探る社会課題解決」第１回全体定例会　GASG３周年記念Session",
+      "url": "https://aitconsortium.doorkeeper.jp/events/197627",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

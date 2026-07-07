@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-07-07_evening-english-slug",
+      "date": "2026-07-07",
+      "file_key": "2026-07-07_evening",
+      "title": "AIニュースの要約と解説",
+      "summary": "本記事では、AI関連の重要なニュースを整理し、業界動向や技術開発、イベント情報まで網羅しています。Investmentや業務自動化の視点から、将来の可能性についても考察しています。",
+      "tags": [
+        "AI",
+        "ビジネス",
+        "イベント"
+      ],
+      "slug": "english-slug"
+    },
+    {
       "id": "2026-07-07_morning-ai-semiconductor-boom-research-trends-20260707",
       "date": "2026-07-07",
       "file_key": "2026-07-07_morning",
@@ -393,22 +406,7 @@
       "summary": "AIの進展と課題が進む中、技術革新と社会的影響が注目。",
       "tags": [],
       "slug": "english-slug"
-    },
-    {
-      "id": "2026-06-19_evening-ai-trends-june-week3-2026",
-      "date": "2026-06-19",
-      "file_key": "2026-06-19_evening",
-      "title": "AIトレンド2026年6月第3週：規制から創業まで",
-      "summary": "今週のAIニュースを振り返り、規制情勢や企業動向、生成AIの進歩を網羅的に解説します。",
-      "tags": [
-        "AI規制",
-        "生成AI",
-        "動画生成",
-        "スタートアップ",
-        "イベント"
-      ],
-      "slug": "ai-trends-june-week3-2026"
     }
   ],
-  "updated_at": "2026-07-06T23:03:09.916039+00:00"
+  "updated_at": "2026-07-07T07:49:00.556075+00:00"
 }
