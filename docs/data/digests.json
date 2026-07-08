@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-07-09_morning-ai-industry-movement-lovable-meta",
+      "date": "2026-07-09",
+      "file_key": "2026-07-09_morning",
+      "title": "AI產業動向：Lovable資本調達とMeta次世代ウェアラブルが注目",
+      "summary": "AI企業の資金調達とウェアラブル技術の進化を解説。画像生成AIと中小企業向けイベント情報も掲載。",
+      "tags": [
+        "AI資本調達",
+        "ウェアラブル技術",
+        "画像生成AI",
+        "イベント",
+        "中小企業DX"
+      ],
+      "slug": "ai-industry-movement-lovable-meta"
+    },
+    {
       "id": "2026-07-07_evening-english-slug",
       "date": "2026-07-07",
       "file_key": "2026-07-07_evening",
@@ -397,16 +412,7 @@
         "AIセキュリティ"
       ],
       "slug": "mcp-auth-flow-and-hardware-supply-risk"
-    },
-    {
-      "id": "2026-06-20_morning-english-slug",
-      "date": "2026-06-20",
-      "file_key": "2026-06-20_morning",
-      "title": "AIの進展と課題",
-      "summary": "AIの進展と課題が進む中、技術革新と社会的影響が注目。",
-      "tags": [],
-      "slug": "english-slug"
     }
   ],
-  "updated_at": "2026-07-07T07:49:00.556075+00:00"
+  "updated_at": "2026-07-08T22:58:22.815586+00:00"
 }
