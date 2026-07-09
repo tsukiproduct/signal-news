@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-07-09_evening-ai-prime-day-image-events",
+      "date": "2026-07-09",
+      "file_key": "2026-07-09_evening",
+      "title": "AIとプライムデーの最新動向：画像生成とイベント総括",
+      "summary": "プライムデーで注目のAIガジェットと画像生成技術、週末イベントを紹介。",
+      "tags": [
+        "AI",
+        "画像生成",
+        "イベント"
+      ],
+      "slug": "ai-prime-day-image-events"
+    },
+    {
       "id": "2026-07-09_morning-ai-industry-movement-lovable-meta",
       "date": "2026-07-09",
       "file_key": "2026-07-09_morning",
@@ -398,21 +411,7 @@
       "summary": "本記事では、人工知能の急速な進化とその社会への影響を多角的に解説。歴史的背景からセキュリティ対策、実用例まで、最新動向を分かりやすくまとめました。",
       "tags": [],
       "slug": "english-slug"
-    },
-    {
-      "id": "2026-06-20_evening-mcp-auth-flow-and-hardware-supply-risk",
-      "date": "2026-06-20",
-      "file_key": "2026-06-20_evening",
-      "title": "MCPによるAI認証の分離とハードウェア供給リスクの衝撃",
-      "summary": "AIエージェントの認証フローを改善するMCPの有用性と、メモリ高騰がもたらすハードウェア開発への影響を考察します。",
-      "tags": [
-        "MCP",
-        "StableDiffusion",
-        "ハードウェア不足",
-        "AIセキュリティ"
-      ],
-      "slug": "mcp-auth-flow-and-hardware-supply-risk"
     }
   ],
-  "updated_at": "2026-07-08T22:58:22.815586+00:00"
+  "updated_at": "2026-07-09T07:45:32.994715+00:00"
 }
