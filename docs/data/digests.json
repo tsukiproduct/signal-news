@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "id": "2026-07-09_evening-ai-weekly-roundup-july2026",
+      "date": "2026-07-09",
+      "file_key": "2026-07-09_evening",
+      "title": "AI年次振り返りから音楽制作まで、多角化が進む週間まとめ",
+      "summary": "Claude Wrapped、Character.AIの縦動画、FL StudioのAIアシスタントなど、AIサービスの多角化と実用化が加速",
+      "tags": [
+        "AI",
+        "Claude",
+        "Character.AI",
+        "音楽制作",
+        "半導体",
+        "画像生成"
+      ],
+      "slug": "ai-weekly-roundup-july2026"
+    },
+    {
       "id": "2026-07-09_evening-ai-prime-day-image-events",
       "date": "2026-07-09",
       "file_key": "2026-07-09_evening",
@@ -402,16 +418,7 @@
         "親支援テクノロジー"
       ],
       "slug": "ai-news-june-2026"
-    },
-    {
-      "id": "2026-06-21_morning-english-slug",
-      "date": "2026-06-21",
-      "file_key": "2026-06-21_morning",
-      "title": "AIニュースの要約と解説",
-      "summary": "本記事では、人工知能の急速な進化とその社会への影響を多角的に解説。歴史的背景からセキュリティ対策、実用例まで、最新動向を分かりやすくまとめました。",
-      "tags": [],
-      "slug": "english-slug"
     }
   ],
-  "updated_at": "2026-07-09T07:45:32.994715+00:00"
+  "updated_at": "2026-07-09T13:40:58.365901+00:00"
 }
