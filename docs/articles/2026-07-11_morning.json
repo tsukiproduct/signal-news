@@ -1,0 +1,160 @@
+{
+  "id": "2026-07-11_morning-apple-sues-openai-fcc-dji-crackdown",
+  "file_key": "2026-07-11_morning",
+  "date": "2026-07-11",
+  "generated_at": "2026-07-10T22:54:58.865376+00:00",
+  "title": "AppleがOpenAI提訴、FCCはDJI規制強化",
+  "slug": "apple-sues-openai-fcc-dji-crackdown",
+  "summary": "AppleがOpenAIを企業秘密窃盗で提訴。FCCはDJIのフロント企業を追及。SKハイニックス上場でAI半導体需要を確信。",
+  "tags": [
+    "Apple",
+    "OpenAI",
+    "訴訟",
+    "半導体",
+    "規制"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "2026年7月10日、AI業界を揺るがす大型訴訟が勃発した。AppleがOpenAIを相手取り、ハードウェア関連の企業秘密を盗まれたと主張して提訴。同時にFCCは中国ドローン大手DJIがフロント企業を通じて米国規制を回避していたとして、複数の関連企業への調査を強化している。半導体分野ではSKハイニックスの大型IPOが成功し、AI需要が従来のシリコンサイクルを打ち破るとの楽観論が市場に広がっている。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説：Apple vs OpenAIの衝撃",
+      "body": "AppleがOpenAIを提訴した背景には、両社の複雑な関係性がある。Appleは自社デバイスへのAI統合でOpenAI技術を活用する一方で、独自のAIハードウェア開発も進めている。今回の訴訟は「エンジニアがAppleの秘密を持ち出し、OpenAIのハードウェア開発に流用した」とするもので、AIチップ競争の激化を象徴する出来事だ。事実関係は法廷で争われるが、生成AIブームの主役たちがインフラ層で衝突し始めたことは、業界構造の転換点を示唆している。FCCのDJI追及も同様に、AI・ロボティクス分野での地政学的緊張が表面化したものと言える。",
+      "source_title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+      "source_url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "RedditのStableDiffusionコミュニティで、Lingbot-World-2を用いたインタラクティブなゲームデモが話題だ。「ニワトリで撃つ」というユニークなコンセプトのこの作品は、ワールドモデル系生成AIが静止画生成からリアルタイムインタラクションへ進化しつつあることを示唆している。物理シミュレーションと生成の融合が、ゲーム開発やシミュレーション分野への応用を加速させる可能性がある。",
+      "source_title": "Used Lingbot-World-2 to build a game where you shoot with a chicken",
+      "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1ut0gay/used_lingbotworld2_to_build_a_game_where_you/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "ARグラス開発の要件整理",
+      "prompt_body": "あなたはARグラスのプロダクトマネージャーです。ユーザーの目にカメラを配置する際の技術的課題（視野角、遅延、バッテリー、熱、プライバシー、社会的受容性）を優先度順に整理し、各課題へのアプローチ案を3つずつ提示してください。出力はマークダウンテーブル形式で。",
+      "prompt_usecase": "ハードウェア企画・要件定義の初期段階で、多角的な課題洗い出しに活用可能。Simon Willison氏のAR考察を踏まえた実践的プロンプト。",
+      "prompt_source": "https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "HackerNewsで「すべてをAIと呼ぶのをやめろ」との機械学習パイオニアの発言が223ポイントを獲得し、活発な議論を呼んでいる。また「AIと機械学習の基礎」という入門記事も193ポイントで上位に。生成AIブームの中で、用語の乱用への反発と基礎への回帰ニーズが同時に高まっている様子が窺える。実務者の間では「LLM＝AI」ではないという認識の再共有が進んでいる。",
+      "source_title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "source_url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "WACA主催の2イベントが7月11日に開催予定。出雲での地域DX実践講座と、オンラインのマーケティングテクノロジスト認定講座だ。前者は定員満了、後者は募集中。地域でのAI活用と、データ分析人材の体系的育成という、日本市場の現在地を映す二つのアプローチが並ぶ。",
+      "event_list": [
+        {
+          "title": "AIは地域の味方になる？成果につなげるデータの使い方in出雲",
+          "date": "2026-07-11",
+          "place": "いずもデジタルスタジオ（出雲科学館2F）",
+          "url": "https://web-mining.doorkeeper.jp/events/197549"
+        },
+        {
+          "title": "マーケティングテクノロジスト認定講座【WACA公式】",
+          "date": "2026-07-11",
+          "place": "オンライン",
+          "url": "https://web-mining.doorkeeper.jp/events/197337"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "Apple-OpenAI訴訟は、自社でAIインフラを内製化するか、外部APIに依存するかの戦略的判断に影響する。機密データを扱う企業は、ベンダーロックインとIPリスクの両面から、オンプレミスやプライベートクラウドでのモデル運用を検討すべきだ。同時に、SKハイニックスのIPO成功が示す通り、AI推論需要の拡大はハードウェアコスト低下をもたらす可能性がある。中長期では、自社専用の小型モデルを自社インフラで回すアーキテクチャが現実的になる。まずは「どの業務にどのレベルの知能が必要か」を分類し、機密度とコスト感度に応じたモデル配置戦略を策定することから始めたい。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "Apple-OpenAI訴訟の初期動向（差し止め請求の有無、証拠開示の範囲）、FCCのDJI関連企業への具体的制裁内容、SKハイニックス株価の需給動向の三点だ。また、来週にかけて主要テック企業の決算発表が集中するため、AIインフラ投資の実態（CapEx、データセンター建設、チップ調達）の数値が出そろう。これらは「AIバブルか実需か」の判断材料になる。用語の定義見直しの流れも、ベンダー選定時の評価基準策定に役立てたい。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "The FCC is cracking down on DJI tech that dodged the foreign drone ban",
+      "url": "https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+      "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "Hedge Fund Elliott Builds Stake in Software Firm CCC",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-10/hedge-fund-elliott-builds-stake-in-software-firm-ccc",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "「普通に動いて、普通に直せる」が強い。Dellの15型が81,980円 【Amazonプライムデー】",
+      "url": "https://ascii.jp/elem/000/004/417/4417990/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "SK Hynix Debut Is a Bet That AI Breaks Boom-and-Bust Chip Cycle",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-debut-is-a-bet-that-ai-breaks-boom-and-bust-chip-cycle",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Quoting Nilay Patel",
+      "url": "https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "Used Lingbot-World-2 to build a game where you shoot with a chicken",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1ut0gay/used_lingbotworld2_to_build_a_game_where_you/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "【WACA主催】AIは地域の味方になる？成果につなげるデータの使い方in出雲 ～いずもデジタルスタジオコラボ～",
+      "url": "https://web-mining.doorkeeper.jp/events/197549",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "マーケティングテクノロジスト認定講座【WACA公式】（旧上級GA4講座）7月（2日間講座）",
+      "url": "https://web-mining.doorkeeper.jp/events/197337",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

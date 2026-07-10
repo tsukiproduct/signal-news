@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-07-11_morning-apple-sues-openai-fcc-dji-crackdown",
+      "date": "2026-07-11",
+      "file_key": "2026-07-11_morning",
+      "title": "AppleがOpenAI提訴、FCCはDJI規制強化",
+      "summary": "AppleがOpenAIを企業秘密窃盗で提訴。FCCはDJIのフロント企業を追及。SKハイニックス上場でAI半導体需要を確信。",
+      "tags": [
+        "Apple",
+        "OpenAI",
+        "訴訟",
+        "半導体",
+        "規制"
+      ],
+      "slug": "apple-sues-openai-fcc-dji-crackdown"
+    },
+    {
       "id": "2026-07-10_evening-ai-senzyaku-to-katsuyo-tsukutsu",
       "date": "2026-07-10",
       "file_key": "2026-07-10_evening",
@@ -405,20 +420,7 @@
         "セキュリティ"
       ],
       "slug": "ai-activation-weekly-2024-06-21"
-    },
-    {
-      "id": "2026-06-21_evening-ai-product-sales-and-innovation-now",
-      "date": "2026-06-21",
-      "file_key": "2026-06-21_evening",
-      "title": "AI製品割引とイノベーションの現在",
-      "summary": "LenovoやHPのノートPCがタイムセールで注目。Ubisoft共同創業者の死去とイベント情報。画像生成AIでトム・クルーズを再現するケースも。",
-      "tags": [
-        "AI製品",
-        "イベント",
-        "イメージ生成"
-      ],
-      "slug": "ai-product-sales-and-innovation-now"
     }
   ],
-  "updated_at": "2026-07-10T07:43:56.234693+00:00"
+  "updated_at": "2026-07-10T22:54:58.866145+00:00"
 }
