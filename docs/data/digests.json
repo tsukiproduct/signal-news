@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-07-10_evening-ai-senzyaku-to-katsuyo-tsukutsu",
+      "date": "2026-07-10",
+      "file_key": "2026-07-10_evening",
+      "title": "AIの最新動向と活用術",
+      "summary": "2026年7月のAI関連動向を解説。セキュリティツールの割引、クリエイティブAI活用、イベント情報を中心に、実用的な活用法を解説。",
+      "tags": [
+        "AIセキュリティ",
+        "クリエイティブAI",
+        "イベント",
+        "プロンプト",
+        "業界トレンド"
+      ],
+      "slug": "ai-senzyaku-to-katsuyo-tsukutsu"
+    },
+    {
       "id": "2026-07-09_evening-ai-weekly-roundup-july2026",
       "date": "2026-07-09",
       "file_key": "2026-07-09_evening",
@@ -403,22 +418,7 @@
         "イメージ生成"
       ],
       "slug": "ai-product-sales-and-innovation-now"
-    },
-    {
-      "id": "2026-06-21_evening-ai-news-june-2026",
-      "date": "2026-06-21",
-      "file_key": "2026-06-21_evening",
-      "title": "AI最前線2026/6/21：ノーベル賞氏Anthropicへ、リモート親支援から生成AIまで",
-      "summary": "ノーベル化学賞ジャンパー氏がAnthropicへ、リモート操作スマホや生成AIの最新トレンドを振り返る。",
-      "tags": [
-        "AIニュース",
-        "生成AI",
-        "ノーベル賞",
-        "Anthropic",
-        "親支援テクノロジー"
-      ],
-      "slug": "ai-news-june-2026"
     }
   ],
-  "updated_at": "2026-07-09T13:40:58.365901+00:00"
+  "updated_at": "2026-07-10T07:43:56.234693+00:00"
 }

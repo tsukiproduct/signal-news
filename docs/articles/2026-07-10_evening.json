@@ -1,0 +1,160 @@
+{
+  "id": "2026-07-10_evening-ai-senzyaku-to-katsuyo-tsukutsu",
+  "file_key": "2026-07-10_evening",
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T07:43:56.233918+00:00",
+  "title": "AIの最新動向と活用術",
+  "slug": "ai-senzyaku-to-katsuyo-tsukutsu",
+  "summary": "2026年7月のAI関連動向を解説。セキュリティツールの割引、クリエイティブAI活用、イベント情報を中心に、実用的な活用法を解説。",
+  "tags": [
+    "AIセキュリティ",
+    "クリエイティブAI",
+    "イベント",
+    "プロンプト",
+    "業界トレンド"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "2026年7月はAI技術の実用化が進む時期。セキュリティ分野ではクラウド型ウイルス対策が注目され、クリエイティブ分野ではFirefly搭載のデザインソフトが注目。また、AIの定義や用語の使い方についての議論も活発化しており、技術の進展と社会認識のバランスが重要なテーマです。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "クラウド型セキュリティの重要性",
+      "body": "トレンドマイクロのウイルスバスター クラウドが15％オフで提供される中、個人・家庭向けのセキュリティ対策が注目されています。PC・スマホ・タブレットを最大3台まで保護できる点や、サポート体制の強化が強みです。特に、多デバイス環境を持つ家庭や、個人情報漏えいに気を配るユーザーにとって有効です。ただし、クラウド依存型のセキュリティは、ネットワーク環境の信頼性に依存する点に注意が必要です（出典：ASCII.jp）",
+      "source_title": "PCもスマホも3台まで守れる、ウイルスバスターが1020円引き【Amazonプライムデー2026】",
+      "source_url": "https://ascii.jp/elem/000/004/418/4418496/?rss"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "アドビのIllustratorがFireflyを搭載し、AIによるイラストやレイアウト制作が可能に。Mac/Windows対応で、2台まで利用可能という柔軟性が特徴。この技術により、デザイン業界でのAI活用が加速しており、個人クリエイターにも門戸が開かれています（出典：ASCII.jp）",
+      "source_title": "Illustrator始めるチャンス 12ヵ月版が今なら半額【Amazonプライムデー2026】",
+      "source_url": "https://ascii.jp/elem/000/004/418/4418489/?rss"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "ローカルファイル活用プロンプト",
+      "prompt_body": "「ローカルファイルを使用して、デスクトップアプリで画像編集履歴をバックアップするスクリプトを作成してください」というプロンプト。ユーザーがオフラインで作業しつつ、クラウド同期と組み合わせる方法を具体化します（出典：Simon Willison）",
+      "prompt_usecase": "開発者やデザイナーが頻繁にローカルファイルを扱う際に、クラウド同期との併用でデータ管理効率を向上させるケースです。",
+      "prompt_source": "https://simonwillison.net/2026/Jul/10/openai/#atom-everything"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "HackerNewsでは「すべての技術をAIと呼ぶのをやめるべき」という議論が盛り上がっています。機械学習の専門家が強調するように、AIという用語の過剰使用は技術の本質を希薄化させる可能性があると指摘されています。これは、AIの定義や評価において慎重さが必要であることを示しています（出典：HackerNews）",
+      "source_title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "source_url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "7月10日に福岡県で開催されるe-ZUKA Tech Nightでは、AIとブロックチェーンの関係性を議論。オンラインイベントでは「日本遺産」を通じた地域の文化とAIの活用法を探究するプログラムが予定されています。両イベントはAI技術の多様な応用分野を網羅しています（出典：Doorkeeper）",
+      "event_list": [
+        {
+          "title": "e-ZUKA Tech Night vol.63",
+          "date": "2026-07-10",
+          "place": "福岡県立飯塚研究開発センター",
+          "url": "https://ezukatechnight.doorkeeper.jp/events/197584"
+        },
+        {
+          "title": "AI時代に、なぜ「日本遺産」なのか",
+          "date": "2026-07-10",
+          "place": "オンライン",
+          "url": "https://sustainableq.doorkeeper.jp/events/197483"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "企業はセキュリティツールの割引を活用して顧客データ保護を強化し、IllustratorのFirefly機能で迅速なマーケティング資料制作が可能です。また、AIイベントへの参加で業界トレンドを把握し、ブロックチェーンとの連携を検討する方法も有効です。具体的には、サイバーセキュリティの強化や、AIによるデザインの効率化が推奨されます。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "AI分野では、セキュリティツールのクラウド化が進む一方、用語の正確な使用が重要視されています。また、AIとブロックチェーンの連携や地域文化との融合が注目されるトレンドです。今後の発展は、技術の実用化と社会的理解のバランスに左右されると予想されます。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "PCもスマホも3台まで守れる、ウイルスバスターが1020円引き【Amazonプライムデー2026】",
+      "url": "https://ascii.jp/elem/000/004/418/4418496/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "家族のPCもスマホもまとめて守る。カスペルスキー3年10台版が1万円ちょい【Amazonプライムデー2026】",
+      "url": "https://ascii.jp/elem/000/004/418/4418495/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "SoftBank Names Ex-Goldman Sachs Trader Agne to Lead Vision Fund Finances",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-10/softbank-names-ex-goldman-sachs-trader-agne-to-lead-vision-fund-finances",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "映画もアニメも30日間見放題！ U-NEXTギフトコードが30％オフ【Amazonプライムデー2026】",
+      "url": "https://ascii.jp/elem/000/004/418/4418493/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "介護施設向け「ぷよぷよトレーナー」10月提供開始 演出は控えめ、詰将棋モードも",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/10/news123.html",
+      "source": "ITmedia News",
+      "category": "Tech"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Quoting OpenAI",
+      "url": "https://simonwillison.net/2026/Jul/10/openai/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "Illustrator始めるチャンス 12ヵ月版が今なら半額【Amazonプライムデー2026】",
+      "url": "https://ascii.jp/elem/000/004/418/4418489/?rss",
+      "source": "ASCII.jp",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "e-ZUKA Tech Night vol.63 - AI全盛期に、なぜブロックチェーンなのか？-",
+      "url": "https://ezukatechnight.doorkeeper.jp/events/197584",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "[無料] AI時代に、なぜ「日本遺産」なのか 〜地域の物語から読み解く、私たちのルーツと未来〜",
+      "url": "https://sustainableq.doorkeeper.jp/events/197483",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
