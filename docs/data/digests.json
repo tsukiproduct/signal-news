@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-07-11_afternoon-ai-and-lifestyle-sim-and-events",
+      "date": "2026-07-11",
+      "file_key": "2026-07-11_afternoon",
+      "title": "AIと暮らし：格安SIM＆AIイベント",
+      "summary": "格安SIMでお得に通信を楽しみつつ、最新AIニュースとイベントを紹介。AI基礎から生成AI、ビジネス活用まで網羅的に解説。",
+      "tags": [
+        "AI",
+        "テクノロジー",
+        "ビジネス"
+      ],
+      "slug": "ai-and-lifestyle-sim-and-events"
+    },
+    {
       "id": "2026-07-11_morning-apple-sues-openai-fcc-dji-crackdown",
       "date": "2026-07-11",
       "file_key": "2026-07-11_morning",
@@ -405,22 +418,7 @@
         "著作権"
       ],
       "slug": "ai-hardware-copyright-trends-june-2026"
-    },
-    {
-      "id": "2026-06-22_morning-ai-activation-weekly-2024-06-21",
-      "date": "2026-06-22",
-      "file_key": "2026-06-22_morning",
-      "title": "AI活用最前線：企業導入から画像生成まで今週注目の9情報",
-      "summary": "企業のChatGPT導入、ワークフロー自動化、画像生成ツールまで、今週のAI動向を横断的に解説します。",
-      "tags": [
-        "AI導入",
-        "業務自動化",
-        "画像生成",
-        "プロンプト",
-        "セキュリティ"
-      ],
-      "slug": "ai-activation-weekly-2024-06-21"
     }
   ],
-  "updated_at": "2026-07-10T22:54:58.866145+00:00"
+  "updated_at": "2026-07-11T06:20:57.037288+00:00"
 }
