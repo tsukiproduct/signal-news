@@ -1,7 +1,315 @@
 {
-  "fetched_at": "2026-07-12T11:48:45.869803+00:00",
+  "fetched_at": "2026-07-12T22:39:43.148023+00:00",
   "total": 206,
   "items": [
+    {
+      "id": "b7200be40c8d",
+      "title": "770円から買える平台車がアツい！ 通販で届いた重い荷物も家の中でスイスイ運べる",
+      "url": "https://ascii.jp/elem/000/004/418/4418246/?rss",
+      "summary": "通販で勝った重たいまとめ買い飲料や段ボールを家の中で移動させるたび、「もっと楽に運べたら……」と思ったことはありませんか。そんな悩みを解決してくれるのが、台車からハンドルをなくしたダイソーの「平台車」です。",
+      "date": "2026-07-12T22:30:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "06b34c95175f",
+      "title": "Netflix Combats Questions About Slowing Growth",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-07-12/netflix-combats-questions-about-slowing-growth",
+      "summary": "Netflix’s growth is slowing. What comes next?",
+      "date": "2026-07-12T22:00:01+00:00",
+      "source": "Bloomberg Tech",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 2
+    },
+    {
+      "id": "cb66bc5e9f9e",
+      "title": "次の戦争では陸軍の「兵站」が崩壊する危険性があり早急な方針転換が必要だとアメリカ軍参謀本部の少佐が主張",
+      "url": "https://gigazine.net/news/20260713-armys-logistics-break-next-war/",
+      "summary": "アメリカ軍の軍事戦略立案や大統領らへの助言を担うアメリカ統合参謀本部所属のジョナサン・バックランド少佐が、アメリカ軍が参戦する次の戦争では、前線への物資補給や兵員の補充などの諸活動を指す「兵站(へいたん)」が崩壊する可能性があると警告しています。続きを読む...",
+      "date": "2026-07-12T22:00:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "5ef8ff1163a8",
+      "title": "AIはすでに、私たちの心を内部で再現しているのかもしれない",
+      "url": "https://ascii.jp/elem/000/004/418/4418869/?rss",
+      "summary": "Anthropic Fable 5の高い創作・実装力はどこから来るのか。人間の心理を内部でシミュレートしている可能性と、Anthropicの「J空間」研究から読み解く。",
+      "date": "2026-07-12T22:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "7fa229bd60bb",
+      "title": "OPPO「Find X9 Ultra」はポケットに入るハッセルブラッド！ 望遠レンズも半端ねー！の巻：スマホ総研定例会385",
+      "url": "https://ascii.jp/elem/000/004/418/4418808/?rss",
+      "summary": "究極のカメラスマホとも言える、OPPO「Find X9 Ultra」をピックアップ。広角と望遠のダブル2億画素に、光学10倍の超望遠レンズまで搭載。ここにさらにバズーカのような300mmのテレコンバーターまで追加できます！ いろいろおかしいこのスマホを実機レビューします！",
+      "date": "2026-07-12T22:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "15f676d805c7",
+      "title": "20万円スマホに背を向けた日本勢 シャープとFCNTが選んだ「勝てる市場」",
+      "url": "https://ascii.jp/elem/000/004/418/4418290/?rss",
+      "summary": "メモリー高騰や円安で厳しさを増すスマホ市場。シャープはAQUOS Rやsenseに集中し、FCNTは小型×低価格や既存設計を活用することで、日本市場に合った製品づくりを進めている。",
+      "date": "2026-07-12T22:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "43a1c3da94dd",
+      "title": "論文サイト「arXiv」、投稿の約9割で非公開情報が“丸見え状態”か パスワードや秘密鍵、自宅のGPS座標なども 270万件を調査",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/13/news021.html",
+      "summary": "ドイツのアーヘン工科大学に所属する研究者らが発表した論文「Hidden Secrets in the arXiv: Discovering, Analyzing, and Preventing Unintentional Information Disclosure in Source Files of Scientific Preprints」は、査読前論文を公開するWebサイト「arXiv」に投稿された論文から個人情報や機密情報、意図しない情報が漏えいしていることを明らかにした研究報告だ。",
+      "date": "2026-07-12T22:00:00+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "6778201a02d5",
+      "title": "LLMは何を考えているのか？ アンソロピックが見つけた「隠れた領域」",
+      "url": "https://ascii.jp/elem/000/004/418/4418872/?rss",
+      "summary": "アンソロピックが、LLMの内部で何が起きているかを覗く新技術「J-レンズ」を開発した。Claude Opus 4.6の中に見つかった「J空間」には、モデルがこれから出力し得る単語が浮かび上がる。捏造を決めた瞬間には「パニック」「偽物」が繰り返し現れた。",
+      "date": "2026-07-12T21:55:48+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "cbfdb1d498ad",
+      "title": "ホルムズ海峡封鎖表明で週明けの金融市場 影響に注目",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175161000",
+      "summary": "週明けの金融市場ではイランの革命防衛隊がホルムズ海峡を封鎖すると表明したことを受けて、原油の先物価格の動向に関心が集まっています。下落傾向にあった原油価格が大幅に上昇した場合、歴史的な水準まで進んだ円…",
+      "date": "2026-07-12T21:48:46+00:00",
+      "source": "NHK テクノロジー",
+      "lang": "ja",
+      "category": "AI",
+      "priority": 2
+    },
+    {
+      "id": "178b751afc8b",
+      "title": "Fable gets another bump",
+      "url": "https://simonwillison.net/2026/Jul/12/bump/#atom-everything",
+      "summary": "One of the consequences of GPT-5.6 Sol being clearly a Fable/Mythos class model is that Anthropic have, once again, bumped the date that Fable stops being available in their Claude Max plans: We're extending Claude Fable 5 access on all paid plans, a",
+      "date": "2026-07-12T21:20:07+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
+    {
+      "id": "d702dd0828ae",
+      "title": "幼少期に施設で暮らした子どもは質の高い里親養育を受けたかどうかで16年後の生活スキルに差が出るという研究結果",
+      "url": "https://gigazine.net/news/20260713-early-deprivation-life-skills/",
+      "summary": "親元で暮らせない子どもは児童養護施設などの集団養育施設で生活することがありますが、こうした施設では交代制の職員が多くの子どもを世話するため、特定の養育者と継続的な関係を築くのが難しくなる場合があります。また、子ども1人1人の反応に合わせた会話や遊び、周囲を探索する経験が限られることで、情緒・社会性・認知・感覚・運動面の発達に影響が出る可能性があるとのこと。アメリカ・テュレーン大学医学部のミーガン・M・ヘア氏らは、幼い頃に養育者との安定した関わりが大きく不足すると、成人期へ移る時期の生活スキルにど",
+      "date": "2026-07-12T21:00:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "dd4ae4b81f35",
+      "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+      "summary": "Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, ",
+      "date": "2026-07-12T20:10:32+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "e73dff30ec85",
+      "title": "Shall We Go On Sinning So That Grace May Increase? is hypnotic, healing, and hopeful",
+      "url": "https://www.theverge.com/entertainment/964532/the-soft-pink-truth-shall-we-go-on-sinning-so-that-grace-may-increase-review",
+      "summary": "Matmos are an incredibly accomplished duo between their own solo records like the masterpiece A Chance to Cut Is a Chance to Cure and production classic Bjork records like Vespertine. But Drew Daniel, one half of Matmos, is fiendishly prolific. When ",
+      "date": "2026-07-12T19:37:37+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "1df72595ed7a",
+      "title": "Styles Buoy for krea 2",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uumub5/styles_buoy_for_krea_2/",
+      "summary": "I asked earlier for some styles for Krea 2 but I was asked for my styles instead... 1- no style beautiful woman slightly boyish, blue eyes, wearing a red swimsuit, she is holding with both her delicate hands a rubber inflatable ring around her waist,",
+      "date": "2026-07-12T18:08:33+00:00",
+      "source": "r/StableDiffusion",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
+    {
+      "id": "61b568ec6920",
+      "title": "Independent alignment of language models",
+      "url": "https://www.alignmentforum.org/posts/vPaXtarnJ37kGfPdJ/independent-alignment-of-language-models",
+      "summary": "The user could write up the metaethical argument — the one developed in Part One, refined — and submit it as feedback to Anthropic, publish it, or engage with researchers working on AI alignment and values. The probability that any single submission ",
+      "date": "2026-07-12T17:32:31+00:00",
+      "source": "Alignment Forum",
+      "lang": "en",
+      "category": "Safety",
+      "priority": 2
+    },
+    {
+      "id": "fe1e8fa3de03",
+      "title": "From wantons to moral agents",
+      "url": "https://www.alignmentforum.org/posts/Z8kLbceGBMWB5HGfn/from-wantons-to-moral-agents",
+      "summary": "Posted also on the EA Forum. Written mostly at AFFINE.Theoretical, some parts are hard to read; consider reading the next post instead.Introduction: motivationAnyone interested in creating an artificial agent that does, or says, good things instead o",
+      "date": "2026-07-12T17:30:31+00:00",
+      "source": "Alignment Forum",
+      "lang": "en",
+      "category": "Safety",
+      "priority": 2
+    },
+    {
+      "id": "36a707b41977",
+      "title": "LTX 2.3 IC-loRA to change the camera view of an existing video",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uulnvq/ltx_23_iclora_to_change_the_camera_view_of_an/",
+      "summary": "Hello Everyone! Let me share my newest ltx 2.3 lora with you. It lets you change the camera angle of your input video. It is the first PoC version, I'm planning to train it more later with a bigger and more diverse dataset. You can download the model",
+      "date": "2026-07-12T17:24:54+00:00",
+      "source": "r/StableDiffusion",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
+    {
+      "id": "c2ebba62e619",
+      "title": "Adventure day in cartoon world (t2i character consistency in krea2)",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uukvpb/adventure_day_in_cartoon_world_t2i_character/",
+      "summary": "I think it is because it's the same as z image turbo, this variant lacks variety while raw/base has variety, and that is for training. But, lack of variety seems to be helpful with text-to-image character consistency very much. If you want to try, ta",
+      "date": "2026-07-12T16:56:35+00:00",
+      "source": "r/StableDiffusion",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
+    {
+      "id": "8f4dc6d90b88",
+      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+      "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+      "summary": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerfu",
+      "date": "2026-07-12T16:27:06+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "1e877c66fb79",
+      "title": "「Snapdragon X2」搭載で最強化したタブレット型PC＝マイクロソフト「Surface Pro 13」12 世代 実機レビュー",
+      "url": "https://ascii.jp/limit/group/ida/elem/000/004/418/4418527/?rss",
+      "summary": "タブレット型Windows PCの代表格「Surface Proシリーズ」の新モデルを使ってみました",
+      "date": "2026-07-12T16:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "63e2cf16198a",
+      "title": "【本日最終】Core i7-14700HX搭載の実力派！RTX 5060と32GBメモリのゲーミングノートが38%引きの208,800円／Lenovo LOQ 15IRX10がプライムデーでお得に！",
+      "url": "https://ascii.jp/elem/000/004/418/4418867/?rss",
+      "summary": "Amazonプライムデー最終日の本日、Lenovo「LOQ 15IRX10」が208,800円で販売中である。参考価格334,799円から38％オフの注目モデルだ。GeForce RTX 5060 Laptop GPUとCore i7-14700HX、32GBメモリを搭載。20万円前後でワンランク上の構成を狙うなら、見逃せない1台だ。",
+      "date": "2026-07-12T15:10:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "188b7fa4bdd8",
+      "title": "13万円引きは1日だけ！ RTX 5090搭載ゲーミングPCが狙い目",
+      "url": "https://ascii.jp/elem/000/004/418/4418208/?rss",
+      "summary": "パソコンショップSEVENが7月13日限定の24時間セールを開催。RTX 5090搭載「ZEFT R63C」など最新ゲーミングPC・デスクトップPC全10モデルが最大13万円オフの特価で販売される。送料無料で購入可能。",
+      "date": "2026-07-12T15:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "18eefcdba510",
+      "title": "How Philips Hue got the smart home right",
+      "url": "https://www.theverge.com/podcast/964515/philips-hue-smart-lights-version-history",
+      "summary": "The state of the smart home can be frustrating, because it is just so obvious how things ought to work. You should be able to control everything from everywhere. Your spaces should adapt to what you're doing and how you're feeling. Making your home s",
+      "date": "2026-07-12T14:38:01+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "2998beaeff8d",
+      "title": "Apple’s M6, M7 and M8 Chips Show How AI Is Reshaping the Company",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-07-12/apple-s-chip-plans-m6-m7-pro-m7-max-m7-ultra-m8-details-touch-macbook-pro",
+      "summary": "Also: New Apple Pencils are coming.",
+      "date": "2026-07-12T14:00:01+00:00",
+      "source": "Bloomberg Tech",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 2
+    },
+    {
+      "id": "3d6a5f455512",
+      "title": "OpenAI, Meta, SpaceXAI Compete for More Cost-Efficient AI Models",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-12/openai-meta-spacexai-compete-for-more-cost-efficient-ai-models",
+      "summary": "Three prominent artificial intelligence developers released new models over the past week. They all promise to be more advanced, but their biggest immediate selling point may not be what they can do but how little they charge to do it.",
+      "date": "2026-07-12T14:00:00+00:00",
+      "source": "Bloomberg Tech",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 2
+    },
+    {
+      "id": "ce3d7b861353",
+      "title": "友人や知人の陰口をたたいたり評判を落とそうとしたりする傾向が強い人は子どもが多いとの研究結果",
+      "url": "https://gigazine.net/news/20260712-covert-hostility-higher-fertility/",
+      "summary": "一般的に誰かの陰口をたたいたり、気に入らない相手の評判を落として集団から排除したりすることは、好ましくない行いだとされています。ところが新たな研究では、こうした「間接的な攻撃性」が高い人は誰かと恋愛関係にあったり、より多くの子どもを持ったりする可能性が高いという結果が示されました。続きを読む...",
+      "date": "2026-07-12T13:00:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "0d95df9700d5",
+      "title": "Which style is surprisingly well done by Krea 2?",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uue841/which_style_is_surprisingly_well_done_by_krea_2/",
+      "summary": "I'm doing a styles wildcards for Krea 2 Turbo, just hoping you can give some ideas for styles that are well done in krea 2 without lora. I'm using it to diversify results. submitted by /u/Dear-Spend-2865 [link] [comments]",
+      "date": "2026-07-12T12:32:11+00:00",
+      "source": "r/StableDiffusion",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
+    {
+      "id": "c866b0611cf4",
+      "title": "人気モデルが軽量化＆ノイキャン性能も大幅に強化されたAnkerの完全ワイヤレスイヤホン「Soundcore P42i」レビュー",
+      "url": "https://gigazine.net/news/20260712-anker-soundcore-p42i/",
+      "summary": "Ankerの完全ワイヤレスイヤホン「Soundcore P40i」の後継機として、イヤホン本体と充電ケースを小型・軽量化した「Soundcore P42i」が2026年7月2日(木)に登場しました。実機が編集部に届いたので、P40iと比べながら外観や装着感をチェックし、新たに加わったイマーシブモードのノイズキャンセリング性能を確かめてみました。続きを読む...",
+      "date": "2026-07-12T12:17:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
     {
       "id": "781c773b72d1",
       "title": "AIの思考っぽい「J空間」を可視化できる「Jレンズ」を触ってみた",
@@ -9,28 +317,6 @@
       "summary": "AIモデルの性能は急速に向上し続けていますが、実はAIが出力を決定するまでの処理過程は完全には解明されていません。そんな中、Claudeの開発元であるAnthropicがAIの出力決定に関連する「J-space(J空間)」という概念を提唱し、J空間を観察できる「J-lens(Jレンズ)」のデモアプリも公開しました。続きを読む...",
       "date": "2026-07-12T11:48:00+00:00",
       "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "c5a6b74cc375",
-      "title": "冷却ファン搭載ゲーミングスマホが90,060円。REDMAGIC 11 Airがプライムデーセール中",
-      "url": "https://ascii.jp/elem/000/004/418/4418820/?rss",
-      "summary": "REDMAGICのゲーミングスマートフォン「REDMAGIC 11 Air」がAmazonプライムデーセール対象。参考価格94,800円のところ、5％オフの90,060円で販売中。Airシリーズ初の高速冷却ファンに加え、Snapdragon 8 Eliteや144Hz対応の6.85インチAMOLEDディスプレイ、7000mAhバッテリーを備えたSIMフリーモデル。",
-      "date": "2026-07-12T11:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "715e46ccec5d",
-      "title": "マンガを読むならカラーがいい。Kindle Colorsoftが3万円未満で手に入るチャンス",
-      "url": "https://ascii.jp/elem/000/004/418/4418591/?rss",
-      "summary": "Amazon Kindle Colorsoft がAmazon新プライムデーセールに登場。参考価格39,980円のところ、25％オフの29,980円で販売中。カラーE-inkディスプレイを搭載し、マンガなどもカラーで表示できるモデルで、これまで白黒表示が中心だったKindleにカラー表示が加わった。",
-      "date": "2026-07-12T11:00:00+00:00",
-      "source": "ASCII.jp",
       "lang": "ja",
       "category": "Tech",
       "priority": 2
@@ -47,50 +333,6 @@
       "priority": 2
     },
     {
-      "id": "08c67f296cf3",
-      "title": "【2026夏アニメ】特集もあと2回！ 『逃げ上手の若君』第二期に『対ありでした。～お嬢さまは格闘ゲームなんてしない～』",
-      "url": "https://ascii.jp/elem/000/004/418/4418852/?rss",
-      "summary": "夏アニメ特集も残り2回。今回は『逃げ上手の若君』第二期に『対ありでした。～お嬢さまは格闘ゲームなんてしない～』『対ありでした。～お嬢さまは格闘ゲームなんてしない～』『プラノサウルス ガチコセイブツ部』の4作品を紹介。",
-      "date": "2026-07-12T10:30:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "bc484d47fb78",
-      "title": "不器用で、じれったくて、それでも愛おしい4人の高校生の青春群像劇。『氷の城壁』第2期はどう進む？",
-      "url": "https://ascii.jp/elem/000/004/418/4418819/?rss",
-      "summary": "これまでアニメ新番組特集で紹介してきた数千に上るアニメ作品。その中から、いま観るべき作品をピックアップしてお届け。第31回は高校生4人のすれ違いが織りなす群像劇『氷の城壁』",
-      "date": "2026-07-12T10:30:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "9eb7b1575d82",
-      "title": "超軽量約999g＆最大27時間駆動！LG gram 14が13万円台で買えるチャンス！",
-      "url": "https://ascii.jp/elem/000/004/417/4417991/?rss",
-      "summary": "Gの14型軽量モバイルノートPC『LG gram 14（14Z90RU-GA53J）』がAmazonで27％オフの134,800円で販売中。約999グラムの軽量ボディに第13世代Intel Core i5-1334Uを搭載し、HDMIやUSB Type-A端子も備え多彩な接続にも対応。最大27時間の長時間バッテリー駆動で外出先での作業に最適。",
-      "date": "2026-07-12T10:30:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "6046d8c1e57c",
-      "title": "【2026夏アニメまとめ】猛暑の夏はクーラーが利いた部屋でアニメ！ 約80作品の夏アニメを全チェック！",
-      "url": "https://ascii.jp/elem/000/004/416/4416252/?rss",
-      "summary": "今年も猛暑の夏がやってくる！ そんな夏は家で夏アニメを鑑賞。今クールも80本近い作品を紹介予定です！",
-      "date": "2026-07-12T10:30:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "ef9aa392490b",
       "title": "I spent weeks optimizing Krea 2 & LTX 2.3 workflows—here they are for free",
       "url": "https://www.reddit.com/r/StableDiffusion/comments/1uubmeg/i_spent_weeks_optimizing_krea_2_ltx_23/",
@@ -102,34 +344,12 @@
       "priority": 2
     },
     {
-      "id": "c867036957de",
-      "title": "【2026夏アニメ】『君のことが大大大大大好きな100人の彼女』第3期に、まさかの2026年でのアニメ化『鉄鍋のジャン！』",
-      "url": "https://ascii.jp/elem/000/004/418/4418851/?rss",
-      "summary": "夏アニメ特集第13回は、『君のことが大大大大大好きな100人の彼女』第3期にまさかの2026年でのアニメ化『鉄鍋のジャン！』、『ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～』『闇芝居 十七期』の4作品を紹介。",
-      "date": "2026-07-12T10:15:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "7a89be3026a7",
       "title": "Microsoftアカウントをハッキングされ「これまでXBOXで購入したゲームはすべて再購入するように」とサポートから言われたゲーマーが怒りの訴訟＆勝訴",
       "url": "https://gigazine.net/news/20260712-gamer-wins-legal-battle-hacked-xbox-account/",
       "summary": "XBOXで複数のゲームを購入していたとあるゲーマーが、Microsoftアカウントをハッキングされたためカスタマーサポートに連絡したところ、アカウントの復旧は不可能であり、失ったゲームは「すべて再購入するように」と回答されたそうです。これに対して、このゲーマーはMicrosoftに対して訴訟を起こし、無事勝訴しています。続きを読む...",
       "date": "2026-07-12T10:00:00+00:00",
       "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "399a2d503eb7",
-      "title": "RTX 5070搭載ノートが29％オフ。Amazon限定版「TUF Gaming A16」プライムデーセール中",
-      "url": "https://ascii.jp/elem/000/004/418/4418817/?rss",
-      "summary": "ASUSのゲーミングノートPC「TUF Gaming A16（FA608UP-R7R507016GA）」がAmazonプライムデーセール対象。参考価格349,800円のところ、29％オフの249,800円で販売中。Amazon.co.jp限定モデルで、GeForce RTX 5070 Laptop GPUやRyzen 7 260、16GBメモリ、512GB SSD、165Hz対応16型ディスプレイを搭載する。RTX 5070搭載ゲーミングノートを価格重視で選ぶなら、見比べておきたい1台だ。",
-      "date": "2026-07-12T10:00:00+00:00",
-      "source": "ASCII.jp",
       "lang": "ja",
       "category": "Tech",
       "priority": 2
@@ -157,17 +377,6 @@
       "priority": 2
     },
     {
-      "id": "57cdd1fdf38f",
-      "title": "AI「Claude」を使って開発ツールの「Bun」の53万行のZigコード全てをRustへ書き換え、Zig作者もブログで反応",
-      "url": "https://gigazine.net/news/20260712-bun-zig-rust/",
-      "summary": "JavaScriptランタイム「Bun」の開発チームが、AIコーディング支援ツール「Claude Code」を活用して進めていた、BunのZigコードをRustへ書き換える全面的な移植作業が完了したと発表しました。約53万行のZigコードがRustへ移植されたことで、メモリ管理に起因する不具合の削減が期待されています。続きを読む...",
-      "date": "2026-07-12T08:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "13312e985ef9",
       "title": "日本ではホルムズ海峡を通らない代替ルートでの原油調達が進む",
       "url": "https://news.web.nhk/newsweb/na/na-k10015175001000",
@@ -176,17 +385,6 @@
       "source": "NHK テクノロジー",
       "lang": "ja",
       "category": "AI",
-      "priority": 2
-    },
-    {
-      "id": "76bf4d451799",
-      "title": "AppleがOpenAIを企業秘密侵害で提訴",
-      "url": "https://gigazine.net/news/20260712-apple-sues-openai/",
-      "summary": "Appleが「ハードウェア開発に必要な情報を知的財産を盗まれた」として、OpenAIとOpenAIのハードウェア最高責任者を務めるタン・タン氏、同じくOpenAIの従業員であるチャン・リュウ氏を提訴しました。続きを読む...",
-      "date": "2026-07-12T07:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
       "priority": 2
     },
     {
@@ -201,17 +399,6 @@
       "priority": 2
     },
     {
-      "id": "de6383aecf5d",
-      "title": "krea2-identity-edit can also outpaint",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uu47d3/krea2identityedit_can_also_outpaint/",
-      "summary": "So this is what you need https://huggingface.co/conradlocke/krea2-identity-edit https://github.com/lbouaraba/comfyui-krea2edit After having played around with the qwenencode nodes to combine things i came across the identity lora thingy which seemed ",
-      "date": "2026-07-12T03:34:41+00:00",
-      "source": "r/StableDiffusion",
-      "lang": "en",
-      "category": "ImageVideo",
-      "priority": 2
-    },
-    {
       "id": "566ff2ea3940",
       "title": "China EVs on Road Have Average Age of 1.8 Years, Newspaper Says",
       "url": "https://www.bloomberg.com/news/articles/2026-07-12/china-evs-average-1-8-years-on-road-less-than-cell-phones",
@@ -220,28 +407,6 @@
       "source": "Bloomberg Tech",
       "lang": "en",
       "category": "Industry",
-      "priority": 2
-    },
-    {
-      "id": "8b07b464abc7",
-      "title": "あなたの付近の不完全な地図データが「クエスト」となりクリアすることでOpenStreetMapを更新できるアプリ「StreetComplete」",
-      "url": "https://gigazine.net/news/20260712-streetcomplete/",
-      "summary": "OpenStreetMapにはユーザー自身が地図を作成・編集することのできるオープンコラボレーションプロジェクトの側面がありますが、それなりにOpenStreetMapに関する専門知識が必要となるため誰でも手軽に編集できるとは言えません。StreetCompleteは調査が必要な近隣の場所を自動的に検索して「クエスト」として地図上に表示し、現地に行って簡単な質問に回答することでOpenStreetMapのデータを更新することができるため、位置情報ゲームをプレイする感覚でOpenStreetMap",
-      "date": "2026-07-12T03:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "777a7757ce64",
-      "title": "量子論の父として著名な物理学者マックス・プランクが80年以上前に発表した論文がなぜか撤回されていたと判明",
-      "url": "https://gigazine.net/news/20260712-max-planck-paper-retracted/",
-      "summary": "量子論の創始者として知られる物理学者マックス・プランクの1940年と1942年の論文2本が、学術出版社の電子アーカイブ上で「撤回」扱いになっていることがわかりました。科学史家の調査により、その経緯と原因が判明しました。続きを読む...",
-      "date": "2026-07-12T01:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
       "priority": 2
     },
     {
@@ -254,17 +419,6 @@
       "lang": "en",
       "category": "Prompts",
       "priority": 1
-    },
-    {
-      "id": "900b990deaa9",
-      "title": "Eve from Stellar Blade in Krea2",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uty1fq/eve_from_stellar_blade_in_krea2/",
-      "summary": "LoRA: Eve (Stellar Blade) [Krea2] Workflow used for the sample images: Krea2 Uncensored - Image-to-Prompt + Prompt Enhancer + 4K Upscaler + CivitAI Metadata submitted by /u/Brief-Leg-8831 [link] [comments]",
-      "date": "2026-07-11T22:46:26+00:00",
-      "source": "r/StableDiffusion",
-      "lang": "en",
-      "category": "ImageVideo",
-      "priority": 2
     },
     {
       "id": "2404f1ee9061",
@@ -281,66 +435,11 @@
       "id": "74fe665ab8cc",
       "title": "The current bottleneck is political will, not research",
       "url": "https://www.alignmentforum.org/posts/EexsebbYhbe2gXkPP/the-current-bottleneck-is-political-will-not-research",
-      "summary": "Abstract:We already know enough to act. I wish we were in a world where research was the bottleneck, but the main constraint on AI safety is no longer a shortage of clever policy ideas: best practices already exist and are not being applied or enforc",
+      "summary": "Motivation: If we want to go from Plan D to Plan A, I believe the first step is agreeing on the problem. We are far from it, and there is a lot we can do.Abstract:We already know enough to act. I wish we were in a world where research was the bottlen",
       "date": "2026-07-11T21:56:26+00:00",
       "source": "Alignment Forum",
       "lang": "en",
       "category": "Safety",
-      "priority": 2
-    },
-    {
-      "id": "f02456ac6892",
-      "title": "ICE are heavily armed killers. They’re also huge losers",
-      "url": "https://www.theverge.com/policy/964302/ice-donald-trump-killings",
-      "summary": "Donald Trump's Homeland Security regime has been at the center of two critical stories in the past two weeks. In the first, federal agents shot and killed a man and quickly got to work justifying the use of force under the flimsiest of pretenses. In ",
-      "date": "2026-07-11T21:48:36+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "b53dd2baa1ca",
-      "title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
-      "url": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
-      "summary": "After setting the music gear corner of the internet on fire back in 2023 with the first glimpse at the Nopia, creators Martin Grieco and Rocío Gal are almost ready to bring it to market. The duo brought it to the MusicRadar offices for an in-depth fi",
-      "date": "2026-07-11T20:57:42+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "198071e3bf1c",
-      "title": "This is some D-bag behavior on CivitAI",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1utulqc/this_is_some_dbag_behavior_on_civitai/",
-      "summary": "https://civitai.red/models/2771146/facegrid-18-angles-and-emotions-for-krea-2-by-astroburner?modelVersionId=3119972 This really seems like an abuse of the early access feature of CivitAI. submitted by /u/Enshitification [link] [comments]",
-      "date": "2026-07-11T20:21:33+00:00",
-      "source": "r/StableDiffusion",
-      "lang": "en",
-      "category": "ImageVideo",
-      "priority": 2
-    },
-    {
-      "id": "afdfc6bb4fe3",
-      "title": "Krea2 meme capabilities...",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1utuhjw/krea2_meme_capabilities/",
-      "summary": "Global Settings: All images were generated using CFG: 1 and 8 Steps and krea2 turbo No lora Prompts will be in comments, workflow I used is a simple gguf workflow and nodes used are a fork of main COMFYUI-GGUF from Molbal/COMFYUI-GGUF.... submitted b",
-      "date": "2026-07-11T20:16:58+00:00",
-      "source": "r/StableDiffusion",
-      "lang": "en",
-      "category": "ImageVideo",
-      "priority": 2
-    },
-    {
-      "id": "674313bcd8ec",
-      "title": "Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger",
-      "url": "https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger",
-      "summary": "Oregon Attorney General Dan Rayfield had been seeking documents from Paramount related to its takeover of Warner Bros. Discovery. Rayfield also asked a state circuit court judge to delay the closing of the deal by 60 days so that his office could rev",
-      "date": "2026-07-11T18:44:12+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
       "priority": 2
     },
     {
@@ -377,17 +476,6 @@
       "priority": 2
     },
     {
-      "id": "117847290cd5",
-      "title": "White House taps the guy who keeps crying ‘aliens’ to run UFO group",
-      "url": "https://www.theverge.com/science/964478/white-house-avi-loeb-aliens-ufo-uap-council",
-      "summary": "Harvard astrophysicist Avi Loeb will head the UAP Science Advisory Council established by the White House, the Pentagon, the Office of the Director of National Intelligence, the FBI, and \"the intelligence community.\" The Council will provide scientif",
-      "date": "2026-07-11T14:18:33+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "b9b468358fa6",
       "title": "OpenAI bets on families as ChatGPT goes deeper into households",
       "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
@@ -410,33 +498,11 @@
       "priority": 2
     },
     {
-      "id": "953a37e82c41",
-      "title": "A tasty RPG that will make you very hungry",
-      "url": "https://www.theverge.com/entertainment/964061/dosa-divas-review-ps5-steam-switch",
-      "summary": "Roleplaying games are often defined by excess. Storylines that span dozens of hours, side quests so big they could be their own game, massive worlds that require complex maps to explore, and casts so big you start forgetting character names. That's p",
-      "date": "2026-07-11T12:37:53+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "eb92b252d30f",
       "title": "Why Fox is ‘the most Disciplined’ Media Entertainment Company in the Streaming Era",
       "url": "https://www.bloomberg.com/news/videos/2026-07-11/michael-wolf-on-why-ai-is-changing-the-value-of-content-video",
       "summary": "Media veteran Michael Wolf discusses Allen & Company’s annual Sun Valley Conference and breaks down the mega deals that are reshaping the entertainment industry. He explains why free ad-supported content is the unsung winner of the streaming wars, an",
       "date": "2026-07-11T12:03:23+00:00",
-      "source": "Bloomberg Tech",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 2
-    },
-    {
-      "id": "5ba9f195296a",
-      "title": "OpenAI Safety Head Heidecke to Leave Firm After Reshuffle: Wired",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-11/openai-safety-head-heidecke-to-leave-firm-after-reshuffle-wired",
-      "summary": "OpenAI head of safety Johannes Heidecke is leaving the artificial intelligence company following a reorganization, according to Wired.",
-      "date": "2026-07-11T02:15:21+00:00",
       "source": "Bloomberg Tech",
       "lang": "en",
       "category": "Industry",
@@ -487,6 +553,17 @@
       "priority": 2
     },
     {
+      "id": "ec39056e23ee",
+      "title": "Less is more with the Oura Ring 5",
+      "url": "https://www.theverge.com/tech/964386/oura-ring-5-review-smart-ring-wearables",
+      "summary": "If you're reading an Oura Ring 5 review at The Verge, you likely fall into one of two camps: newcomers looking for a smartwatch alternative, or Oura users pondering an upgrade. In the case of the former, this is a great casual health tracker and the ",
+      "date": "2026-07-10T22:47:33+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
       "id": "80b272bb4140",
       "title": "Apple sues OpenAI over alleged trade secret theft",
       "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
@@ -496,6 +573,17 @@
       "lang": "en",
       "category": "Industry",
       "priority": 1
+    },
+    {
+      "id": "bd5bd8e5f4aa",
+      "title": "Blue Prince became a bonding — and learning — experience for my family",
+      "url": "https://www.theverge.com/games/964262/blue-prince-family-bonding",
+      "summary": "I've always been the gamer in the family. When my son was born nearly 11 years ago, gaming was one of the things I looked forward to sharing with him. Pulling up a chair next to me, he would watch as I played Sea of Thieves with friends, often wearin",
+      "date": "2026-07-10T19:14:55+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
     },
     {
       "id": "c835ffd5cd3d",
@@ -509,11 +597,11 @@
       "priority": 1
     },
     {
-      "id": "1fb5e7823acd",
-      "title": "Nintendo’s Talking Flower got a small price cut",
-      "url": "https://www.theverge.com/gadgets/964138/nintendo-talking-flower-mario-wonder-deal-sale",
-      "summary": "If you’re the type of person who could always use a little extra positive affirmation, or you have a weakness for weird gadgets, the Talking Flower might be of interest. I’m only kind of serious. The toy is based on a character from Super Mario Bros.",
-      "date": "2026-07-10T18:59:55+00:00",
+      "id": "4faedf7f030a",
+      "title": "One of SteelSeries’ best gaming headsets is over $100 off",
+      "url": "https://www.theverge.com/gadgets/964125/steelseries-arctis-nova-pro-wireless-headset-deal-sale",
+      "summary": "SteelSeries has the Arctis Nova Pro Wireless gaming headset on sale for $239.99 (currently between $300 and $350 at other retailers). The Xbox version that supports a host of other platforms including PlayStation, PC, and Switch is available in both ",
+      "date": "2026-07-10T18:47:17+00:00",
       "source": "The Verge",
       "lang": "en",
       "category": "Tech",
@@ -529,17 +617,6 @@
       "lang": "ja",
       "category": "AI",
       "priority": 1
-    },
-    {
-      "id": "5e5204de1b58",
-      "title": "The perfect kit for all your tiny repairs",
-      "url": "https://www.theverge.com/tech/964169/ifixit-repairs-kit-nothing-3a-installer",
-      "summary": "Hi, friends! Welcome to Installer No. 135, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, crank the AC, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about",
-      "date": "2026-07-10T18:03:53+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "2e6f798b14e7",
@@ -564,14 +641,14 @@
       "priority": 1
     },
     {
-      "id": "1e9b9178bc75",
-      "title": "US Eases Export Curbs on UAE, Opening Door for AI Chip Sales",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-10/us-eases-export-curbs-on-uae-opening-door-for-ai-chip-sales",
-      "summary": "The Trump administration plans to ease export restrictions on the United Arab Emirates, clearing the way for the Gulf state to buy a broad range of advanced technologies including semiconductors needed to boost its artificial intelligence ambitions.",
-      "date": "2026-07-10T16:21:10+00:00",
-      "source": "Bloomberg Tech",
+      "id": "5478e49d29a9",
+      "title": "The fight against AI data centers is just beginning",
+      "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback her",
+      "date": "2026-07-10T16:18:14+00:00",
+      "source": "The Verge",
       "lang": "en",
-      "category": "Industry",
+      "category": "Tech",
       "priority": 2
     },
     {
@@ -595,17 +672,6 @@
       "lang": "en",
       "category": "Industry",
       "priority": 1
-    },
-    {
-      "id": "4bdeffda0fd9",
-      "title": "FL Studio head Constantin Koehncke turns to Reddit for feedback and fun",
-      "url": "https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview",
-      "summary": "If you're a music maker of a certain age, then you probably once dabbled with a pirated copy of a little app called Fruity Loops. These days it's called FL Studio, and Constantin Koehncke, is the man responsible for shepherding the pioneering digital",
-      "date": "2026-07-10T13:56:16+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "03ad32e64a62",
@@ -718,17 +784,6 @@
       "priority": 1
     },
     {
-      "id": "ff1a545d7f8f",
-      "title": "「日本茶」国のブランド保護制度に登録 海外産と差別化ねらう",
-      "url": "https://news.web.nhk/newsweb/na/na-k10015173661000",
-      "summary": "海外で抹茶ブームが広がる中、国のブランド保護制度に新たに「日本茶」が登録されました。抹茶をめぐっては、日本の地名を冠した海外産が多く出回るようになっていて、業界団体は、制度への登録を通じて差別化を図り…",
-      "date": "2026-07-10T08:01:13+00:00",
-      "source": "NHK テクノロジー",
-      "lang": "ja",
-      "category": "AI",
-      "priority": 2
-    },
-    {
       "id": "be80ed3032d0",
       "title": "Value generalisation: value correction",
       "url": "https://www.alignmentforum.org/posts/iPyJfD9Jyxj6Jfdws/value-generalisation-value-correction",
@@ -737,17 +792,6 @@
       "source": "Alignment Forum",
       "lang": "en",
       "category": "Safety",
-      "priority": 2
-    },
-    {
-      "id": "85f76f848a4b",
-      "title": "「まるで人間」 OpenAIの新モデル「GPT-Live」のトーク力が話題 間を空けずに考えながら会話できる",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/10/news114.html",
-      "summary": "OpenAIが提供を始めた音声会話向けモデル「GPT-Live」がXで話題だ。同社はこれまでも音声会話モデルを提供していたが、聞き取りと発話を同時に行う新アーキテクチャにより「会話が自然すぎる」などの声が上がっている。",
-      "date": "2026-07-10T07:45:00+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
       "priority": 2
     },
     {
@@ -760,17 +804,6 @@
       "lang": "en",
       "category": "Research",
       "priority": 1
-    },
-    {
-      "id": "5d2a5e270e0e",
-      "title": "Tencent in Talks to Take Big Manus Stake After Meta Deal Unwound",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-10/tencent-in-talks-to-become-largest-holder-of-manus-ft-reports-mrectviz",
-      "summary": "Tencent Holdings Ltd. is in discussions to become the largest external shareholder in Manus, in a deal to buy back the agentic AI pioneer after Chinese regulators struck down Meta Platforms Inc.’s blockbuster acquisition.",
-      "date": "2026-07-10T03:06:47+00:00",
-      "source": "Bloomberg Tech",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 2
     },
     {
       "id": "1e4ab8166c6a",
@@ -1015,17 +1048,6 @@
       "priority": 2
     },
     {
-      "id": "13af90c84bf7",
-      "title": "Rewriting Bun in Rust",
-      "url": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything",
-      "summary": "Rewriting Bun in Rust Jarred Sumner has been promising this blog post (since May 9th) about his Zig to Rust rewrite of Bun for significantly longer than it took him to finish the rewrite. Honestly, it was worth the wait. This is a detailed descriptio",
-      "date": "2026-07-08T23:57:21+00:00",
-      "source": "Simon Willison",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1
-    },
-    {
       "id": "d7ac7d2c33e1",
       "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
       "url": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
@@ -1034,17 +1056,6 @@
       "source": "Ars Technica",
       "lang": "en",
       "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "38352faf27e6",
-      "title": "Notes on technical alignment via human-like social drives",
-      "url": "https://www.alignmentforum.org/posts/rKdS7i4StaMmFzYRo/notes-on-technical-alignment-via-human-like-social-drives",
-      "summary": "1. Frontmatter1.1 Backstory for this postAs discussed in Intro to Brain-Like-AGI Safety, I’m working on the technical alignment problem for a hypothetical future “brain-like AGI”, with a particular focus on treating human innate social and moral driv",
-      "date": "2026-07-08T18:30:22+00:00",
-      "source": "Alignment Forum",
-      "lang": "en",
-      "category": "Safety",
       "priority": 2
     },
     {
@@ -1211,17 +1222,6 @@
       "lang": "en",
       "category": "Research",
       "priority": 1
-    },
-    {
-      "id": "e6703db35847",
-      "title": "Data filtering works a lot worse than you would expect",
-      "url": "https://www.alignmentforum.org/posts/aTybJ6CPQrxEY8rE2/data-filtering-works-a-lot-worse-than-you-would-expect",
-      "summary": "This work was largely done during Neel Nanda's MATS 10.0 Exploration Phase. J Rosser and Dohun Lee are co-first authors for this post with equal contribution. Josh Engels and Neel Nanda supervised the project, and provided guidance and feedback throu",
-      "date": "2026-07-07T04:41:59+00:00",
-      "source": "Alignment Forum",
-      "lang": "en",
-      "category": "Safety",
-      "priority": 2
     },
     {
       "id": "38da928fb2b9",
@@ -1998,7 +1998,7 @@
       "title": "【対面】 ２日間  マネジメント3.0 基礎ワークショップAI時代に求められる組織心理学に基づく、世界標準のよい組織づくり、週休3日のマネジメント（国際認定が取得可能）",
       "url": "https://management30-nuworks.doorkeeper.jp/events/195257",
       "summary": "📅 2026-07-31 · 📍 渋谷　ジェイフィール　ホール · 👥 参加 10/12人",
-      "date": "2026-07-12T11:48:45.868922+00:00",
+      "date": "2026-07-12T22:39:43.147394+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2012,7 +2012,7 @@
       "title": "SNS広報を全4回の講座で習得！≪SNS広報担当養成講座 統合マスターコース≫2026年9月開講（62期生）オンライン講座",
       "url": "https://belove.doorkeeper.jp/events/195545",
       "summary": "📅 2026-09-16 · 📍 オンライン · 👥 参加 7人",
-      "date": "2026-07-12T11:48:45.868980+00:00",
+      "date": "2026-07-12T22:39:43.147437+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2026,7 +2026,7 @@
       "title": "10/6　AI×SNS 中小企業のためのSNS×AI活用術セミナー",
       "url": "https://belove.doorkeeper.jp/events/196182",
       "summary": "📅 2026-10-06 · 📍 オンライン · 👥 参加 0人",
-      "date": "2026-07-12T11:48:45.869010+00:00",
+      "date": "2026-07-12T22:39:43.147457+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2040,7 +2040,7 @@
       "title": "12/8 中小企業のためのSNS活用術セミナー ～DX初めの一歩～ 著者・西良旺子が語る！",
       "url": "https://belove.doorkeeper.jp/events/196183",
       "summary": "📅 2026-12-08 · 📍 オンライン · 👥 参加 0人",
-      "date": "2026-07-12T11:48:45.869036+00:00",
+      "date": "2026-07-12T22:39:43.147475+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2054,7 +2054,7 @@
       "title": "第6回（旧5回)CoderDojo 南会津（最寄駅：会津田島駅）",
       "url": "https://coderdojo-minamiaizu.doorkeeper.jp/events/196200",
       "summary": "📅 2026-07-26 · 📍 南会津町役場本庁舎多目的ホール（祇園祭のため場所が変更する場 · 👥 参加 3/10人",
-      "date": "2026-07-12T11:48:45.869061+00:00",
+      "date": "2026-07-12T22:39:43.147493+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2068,7 +2068,7 @@
       "title": "SNS広報を全4回の講座で習得！≪SNS広報担当養成講座 統合マスターコース≫2026年11月開講（63期生）オンライン講座",
       "url": "https://belove.doorkeeper.jp/events/196703",
       "summary": "📅 2026-11-19 · 📍 オンライン · 👥 参加 2人",
-      "date": "2026-07-12T11:48:45.869085+00:00",
+      "date": "2026-07-12T22:39:43.147510+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2082,7 +2082,7 @@
       "title": "［第七回］Startup Weekend 高松",
       "url": "https://swtakamatsu.doorkeeper.jp/events/195911",
       "summary": "📅 2026-07-24 · 📍 Setouchi-i-Base · 👥 参加 24/30人",
-      "date": "2026-07-12T11:48:45.869110+00:00",
+      "date": "2026-07-12T22:39:43.147528+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2096,7 +2096,7 @@
       "title": "マーケティングテクノロジスト認定講座【WACA公式】（旧上級GA4講座）8月（2日間講座）",
       "url": "https://web-mining.doorkeeper.jp/events/197338",
       "summary": "📅 2026-08-15 · 📍 オンライン · 👥 参加 0/10人",
-      "date": "2026-07-12T11:48:45.869140+00:00",
+      "date": "2026-07-12T22:39:43.147549+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2110,7 +2110,7 @@
       "title": "WACA主催【WACA認定マーケティングテクノロジスト認定講座オープンセミナー（旧上級GA4講座）】事前ガイダンス＆認定資格説明会8月",
       "url": "https://web-mining.doorkeeper.jp/events/197340",
       "summary": "📅 2026-08-05 · 📍 オンライン · 👥 参加 4人",
-      "date": "2026-07-12T11:48:45.869164+00:00",
+      "date": "2026-07-12T22:39:43.147566+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2124,7 +2124,7 @@
       "title": "【2026年10月 生成AIパスポート試験】WACA団体受験のご案内",
       "url": "https://web-mining.doorkeeper.jp/events/191042",
       "summary": "📅 2026-07-31 · 📍 オンライン · 👥 参加 0/100人",
-      "date": "2026-07-12T11:48:45.869188+00:00",
+      "date": "2026-07-12T22:39:43.147582+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2138,7 +2138,7 @@
       "title": "TokyoDev Talks Vol. 12: Onboarding in a New Language with AI / Agentic Prompt and Context Engineering",
       "url": "https://tokyodev.doorkeeper.jp/events/197537",
       "summary": "📅 2026-07-21 · 📍 Tokyo Innovation Base · 👥 参加 137/200人",
-      "date": "2026-07-12T11:48:45.869212+00:00",
+      "date": "2026-07-12T22:39:43.147599+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2152,7 +2152,7 @@
       "title": "【2026年7月｜ゆるDomo】きっと使ってみたくなる AI分類タイル&感情分析タイル",
       "url": "https://domobuddies.doorkeeper.jp/events/197466",
       "summary": "📅 2026-07-15 · 📍 オンライン · 👥 参加 46人",
-      "date": "2026-07-12T11:48:45.869236+00:00",
+      "date": "2026-07-12T22:39:43.147615+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2166,7 +2166,7 @@
       "title": "11/17 AI時代だからこそ、ブログに再注目！ 「note」で実現する選ばれる企業の情報発信術【ビーラブ最新集客セミナー】",
       "url": "https://belove.doorkeeper.jp/events/197604",
       "summary": "📅 2026-11-17 · 📍 オンライン · 👥 参加 1人",
-      "date": "2026-07-12T11:48:45.869260+00:00",
+      "date": "2026-07-12T22:39:43.147631+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2180,7 +2180,7 @@
       "title": "【WACA主催】【Genspark NOW 】vol.11",
       "url": "https://web-mining.doorkeeper.jp/events/197599",
       "summary": "📅 2026-07-22 · 📍 オンライン · 👥 参加 78人",
-      "date": "2026-07-12T11:48:45.869285+00:00",
+      "date": "2026-07-12T22:39:43.147647+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2194,7 +2194,7 @@
       "title": "AWS Summit 2026で見えた、AIエージェント活用の壁 ～PoC止まり企業に不足する“データ利活用基盤”とは～",
       "url": "https://majisemi-business.doorkeeper.jp/events/197619",
       "summary": "📅 2026-07-16 · 📍 オンライン · 👥 参加 6/7人",
-      "date": "2026-07-12T11:48:45.869309+00:00",
+      "date": "2026-07-12T22:39:43.147664+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2208,7 +2208,7 @@
       "title": "【CeeBeeDee】4人のクリエイターが魅せる最新アドビ時短テク・レタッチ・生成AI体験／よんどび",
       "url": "https://dtptransit.doorkeeper.jp/events/197681",
       "summary": "📅 2026-08-11 · 📍 オンライン · 👥 参加 78人",
-      "date": "2026-07-12T11:48:45.869333+00:00",
+      "date": "2026-07-12T22:39:43.147681+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2222,7 +2222,7 @@
       "title": "【シーメンスエキスパートトーク 第4弾】AI時代、製造業のノーコード活用が伸び悩む理由 ～データ連携の壁とシーメンスの統合AIポートフォリオ紹介～",
       "url": "https://majisemi-business.doorkeeper.jp/events/197738",
       "summary": "📅 2026-07-15 · 📍 オンライン · 👥 参加 0人",
-      "date": "2026-07-12T11:48:45.869357+00:00",
+      "date": "2026-07-12T22:39:43.147697+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2235,8 +2235,8 @@
       "id": "b5754f97937b",
       "title": "【CeeBeeDee】Illustratorの文字組みがもっとラクになる！ 新設定「ベタ組み」「ツメ組み」徹底活用セミナー／岩本 崇、大石 十三夫、小林 功二、Nat McCully",
       "url": "https://dtptransit.doorkeeper.jp/events/197753",
-      "summary": "📅 2026-07-28 · 📍 オンライン · 👥 参加 174人",
-      "date": "2026-07-12T11:48:45.869383+00:00",
+      "summary": "📅 2026-07-28 · 📍 オンライン · 👥 参加 175人",
+      "date": "2026-07-12T22:39:43.147715+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2250,7 +2250,7 @@
       "title": "【ウェブ解析士会員向けオフィスアワー7月】第一線のプロが語る、実践に役立つウェブ解析",
       "url": "https://web-mining.doorkeeper.jp/events/197657",
       "summary": "📅 2026-07-24 · 📍 オンライン · 👥 参加 37人",
-      "date": "2026-07-12T11:48:45.869406+00:00",
+      "date": "2026-07-12T22:39:43.147743+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2264,7 +2264,7 @@
       "title": "データサイエンススクール 127",
       "url": "https://cireds.doorkeeper.jp/events/197671",
       "summary": "📅 2026-08-28 · 📍 オンライン · 👥 参加 16/100人",
-      "date": "2026-07-12T11:48:45.869430+00:00",
+      "date": "2026-07-12T22:39:43.147761+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2278,7 +2278,7 @@
       "title": "データサイエンススクール 128",
       "url": "https://cireds.doorkeeper.jp/events/197672",
       "summary": "📅 2026-09-19 · 📍 京都大学学術情報メディアセンター南館 201教室 · 👥 参加 14/40人",
-      "date": "2026-07-12T11:48:45.869454+00:00",
+      "date": "2026-07-12T22:39:43.147778+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2292,7 +2292,7 @@
       "title": "マーケティングテクノロジスト認定講座【WACA公式】（旧上級GA4講座）9月（2日間講座）",
       "url": "https://web-mining.doorkeeper.jp/events/197760",
       "summary": "📅 2026-09-14 · 📍 オンライン · 👥 参加 1/10人",
-      "date": "2026-07-12T11:48:45.869493+00:00",
+      "date": "2026-07-12T22:39:43.147794+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2306,7 +2306,7 @@
       "title": "WACA主催【WACA認定マーケティングテクノロジスト認定講座オープンセミナー（旧上級GA4講座）】事前ガイダンス＆認定資格説明会9月",
       "url": "https://web-mining.doorkeeper.jp/events/197761",
       "summary": "📅 2026-09-02 · 📍 オンライン · 👥 参加 0人",
-      "date": "2026-07-12T11:48:45.869517+00:00",
+      "date": "2026-07-12T22:39:43.147810+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2320,7 +2320,7 @@
       "title": "これが知りたかった！AI時代に成果を出す Webの考え方と実装のリアル",
       "url": "https://m-g-n.doorkeeper.jp/events/197759",
       "summary": "📅 2026-07-22 · 📍 オンライン · 👥 参加 221/600人",
-      "date": "2026-07-12T11:48:45.869540+00:00",
+      "date": "2026-07-12T22:39:43.147826+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2334,7 +2334,7 @@
       "title": "Google Cloud 生成AIはじめてセミナー",
       "url": "https://cloudace.doorkeeper.jp/events/197743",
       "summary": "📅 2026-07-23 · 📍 オンライン · 👥 参加 1/40人",
-      "date": "2026-07-12T11:48:45.869563+00:00",
+      "date": "2026-07-12T22:39:43.147842+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",

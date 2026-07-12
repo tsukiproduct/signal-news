@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-07-13_morning-ai-daily-convenience-logistics-future",
+      "date": "2026-07-13",
+      "file_key": "2026-07-13_morning",
+      "title": "AIと日常の便利術、物流・未来展望",
+      "summary": "AI技術が身近な生活や物流、製造業に活用され、今後の戦略やイノベーションが注目される。",
+      "tags": [
+        "AI",
+        "ロジスティクス",
+        "イノベーション"
+      ],
+      "slug": "ai-daily-convenience-logistics-future"
+    },
+    {
       "id": "2026-07-11_afternoon-ai-and-lifestyle-sim-and-events",
       "date": "2026-07-11",
       "file_key": "2026-07-11_afternoon",
@@ -405,20 +418,7 @@
       "summary": "この記事では、AIの進化に注目する主要ニュースをまとめ、現在の技術動向や社会への影響を分かりやすく解説します。専門家視点から未来の可能性にも触れます。",
       "tags": [],
       "slug": "english-slug"
-    },
-    {
-      "id": "2026-06-22_evening-ai-hardware-copyright-trends-june-2026",
-      "date": "2026-06-22",
-      "file_key": "2026-06-22_evening",
-      "title": "AIの進化は「ハードウェア」と「著作権」のフェーズへ：最新動向解説",
-      "summary": "x86拡張命令によるAI高速化の動きや、音楽学習データの可視化、進化する画像生成AIなど、技術・権利・インフラの三側面からAI業界の最新動向を読み解きます。",
-      "tags": [
-        "AIインフラ",
-        "生成AI",
-        "著作権"
-      ],
-      "slug": "ai-hardware-copyright-trends-june-2026"
     }
   ],
-  "updated_at": "2026-07-11T06:20:57.037288+00:00"
+  "updated_at": "2026-07-12T22:40:20.985180+00:00"
 }
