@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-07-13_evening-ai-landscape-legal-battles-speed-gains-no-code-growth",
+      "date": "2026-07-13",
+      "file_key": "2026-07-13_evening",
+      "title": "AIの動向：訴訟、速度向上、ノーコード活用の行方",
+      "summary": "アップルがOpenAIを特許侵害で提訴し、韓国の株式市場が急落。生成AIの処理速度が向上する一方、製造業でのノーコードAI導入は伸び悩み。イベントも活発。",
+      "tags": [
+        "AI",
+        "Legal",
+        "Performance",
+        "No-Code",
+        "Business"
+      ],
+      "slug": "ai-landscape-legal-battles-speed-gains-no-code-growth"
+    },
+    {
       "id": "2026-07-13_morning-ai-daily-convenience-logistics-future",
       "date": "2026-07-13",
       "file_key": "2026-07-13_morning",
@@ -409,16 +424,7 @@
         "イベント"
       ],
       "slug": "ai-industry-trends-june-2024"
-    },
-    {
-      "id": "2026-06-24_morning-english-slug",
-      "date": "2026-06-24",
-      "file_key": "2026-06-24_morning",
-      "title": "AIの最新動向を徹底解説",
-      "summary": "この記事では、AIの進化に注目する主要ニュースをまとめ、現在の技術動向や社会への影響を分かりやすく解説します。専門家視点から未来の可能性にも触れます。",
-      "tags": [],
-      "slug": "english-slug"
     }
   ],
-  "updated_at": "2026-07-12T22:40:20.985180+00:00"
+  "updated_at": "2026-07-13T13:11:17.428204+00:00"
 }

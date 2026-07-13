@@ -1,0 +1,160 @@
+{
+  "id": "2026-07-13_evening-ai-landscape-legal-battles-speed-gains-no-code-growth",
+  "file_key": "2026-07-13_evening",
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T13:11:17.427459+00:00",
+  "title": "AIの動向：訴訟、速度向上、ノーコード活用の行方",
+  "slug": "ai-landscape-legal-battles-speed-gains-no-code-growth",
+  "summary": "アップルがOpenAIを特許侵害で提訴し、韓国の株式市場が急落。生成AIの処理速度が向上する一方、製造業でのノーコードAI導入は伸び悩み。イベントも活発。",
+  "tags": [
+    "AI",
+    "Legal",
+    "Performance",
+    "No-Code",
+    "Business"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "韓国市場の急落、アップルによるOpenAIへの法的措置、最新生成AIモデルが高速化を実現するベンチマーク結果など、多彩なニュースが飛び交う。AIの技術進展は目覚ましいが、法規制や市場の反応、実際のビジネスへの適用には依然として課題が残る。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説：アップルがOpenAIを提訴した法的争い",
+      "body": "アップルはOpenAIが自社の知的財産を組織的に侵害したとして訴訟を起こした。この提訴は、OpenAIがiPhoneに並ぶスマートフォン向けAIサービスを提供하려는戦略に大きな障害となる可能性がある。法的争いが長期化すれば、業界全体の資金調達や開発ロードマップに影響が出る恐れがあり、AI競争のルール形成にも影響を与えるだろう。",
+      "source_title": "Apple’s Lawsuit Threatens to Disrupt OpenAI’s Bid to Rival the iPhone",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-07-13/how-apple-s-lawsuit-threatens-to-disrupt-openai-s-bid-to-rival-the-iphone"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "Krea 2 TurboがComfyUI上で8つのモデル形式をベンチマーク。int8_convrot形式が1024×1024解像度で2.424秒の平均処理時間（約24.75枚/分）を達成し、BF16を1.37倍上回る速度を記録。リアルタイム生成の可能性を広げる結果となった。",
+      "source_title": "Krea 2 Turbo ComfyUI speed benchmark: 8 model formats on RTX PRO 6000 Blackwell",
+      "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1uva117/krea_2_turbo_comfyui_speed_benchmark_8_model/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "DRI定義プロンプト",
+      "prompt_body": "AIプロジェクトにおいて、各意思決定と結果の責任を明確にするために、関係者を「直接責任者（DRI）」として定義し、役割と報告経路を明確にする方法を示してください。",
+      "prompt_usecase": "チーム内の責任所在を明確にし、プロジェクトの意思決定プロセスを効率化。",
+      "prompt_source": "https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "機械学習の先駆者が「AIという言葉の乱用」に警鐘。AIというラベルが技術的革新を隠蔽し、過剰な期待を生むリスクを指摘し、業界の Hype Cycle 見直しを呼びかけ。HackerNewsで223ポイント、高く議論を呼んだ。",
+      "source_title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "source_url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "オンラインイベントが多数開催。シーメンスの専門家トークでは、AI時代における製造業のノーコード活用の現状とデータ連携の課題、シーメンスの統合AIポートフォリオが紹介される。また、Domoの「ゆるDomo」では、AI分類タイルと感情分析タイルの実践例が紹介され、参加がすでに46名に達している。",
+      "event_list": [
+        {
+          "title": "【シーメンスエキスパートトーク】AI時代、製造業のノーコード活用が伸び悩む理由",
+          "date": "2026-07-15",
+          "place": "オンライン",
+          "url": "https://majisemi-business.doorkeeper.jp/events/197738"
+        },
+        {
+          "title": "【ゆるDomo】きっと使ってみたくなる AI分類タイル&感情分析タイル",
+          "date": "2026-07-15",
+          "place": "オンライン",
+          "url": "https://domobuddies.doorkeeper.jp/events/197466"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "AI分類タイルと感情分析タイルを活用し、顧客フィードバックをリアルタイムで可視化することで、製品開発やマーケティングの意思決定を迅速化。製造業では、シーメンスの統合AIポートフォリオを活用し、データ連携の壁を乗り越えることで、ノーコード環境でも高度な予測保守を実現。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "法的紛争がAI開発の商業的側面に与える影響が鮮明化。技術面では、モデル処理速度の向上で実用性の限界が拡大。ビジネス面では、ノーコードAIの導入がデータ統合の課題に直面。市場は不確実性と機会の両方を抱えている。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "韓国株価8％超の大幅な下落 売買を一時的に中断する措置も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175941000",
+      "source": "NHK テクノロジー",
+      "category": "AI"
+    },
+    {
+      "title": "SK Hynix Selloff Is Not a Huge Problem, Kunst Says",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-13/sk-hynix-selloff-is-not-a-huge-problem-kunst-says-video",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "Apple’s Lawsuit Threatens to Disrupt OpenAI’s Bid to Rival the iPhone",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-13/how-apple-s-lawsuit-threatens-to-disrupt-openai-s-bid-to-rival-the-iphone",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "The Download: a donor conception cap and world models for AI",
+      "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
+      "source": "MIT Tech Review",
+      "category": "Research"
+    },
+    {
+      "title": "This free Mac app reveals the truth about your mystery USB-C cables",
+      "url": "https://www.theverge.com/gadgets/963759/whatcable-usb-c-cable-tester-app-mac",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Directly Responsible Individuals (DRI)",
+      "url": "https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "Krea 2 Turbo ComfyUI speed benchmark: 8 model formats on RTX PRO 6000 Blackwell",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uva117/krea_2_turbo_comfyui_speed_benchmark_8_model/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "【シーメンスエキスパートトーク 第4弾】AI時代、製造業のノーコード活用が伸び悩む理由 ～データ連携の壁とシーメンスの統合AIポートフォリオ紹介～",
+      "url": "https://majisemi-business.doorkeeper.jp/events/197738",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "【2026年7月｜ゆるDomo】きっと使ってみたくなる AI分類タイル&感情分析タイル",
+      "url": "https://domobuddies.doorkeeper.jp/events/197466",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
