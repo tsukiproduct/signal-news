@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-07-14_morning-ai-technology-trends-2024",
+      "date": "2026-07-14",
+      "file_key": "2026-07-14_morning",
+      "title": "AI技術の最前線：画像生成からビジネス応用まで",
+      "summary": "AIニュースを徹底分析。画像生成AIやビジネス応用、イベント情報を解説",
+      "tags": [
+        "AI",
+        "画像生成",
+        "ビジネス応用",
+        "イベント",
+        "トレンド"
+      ],
+      "slug": "ai-technology-trends-2024"
+    },
+    {
       "id": "2026-07-13_evening-ai-landscape-legal-battles-speed-gains-no-code-growth",
       "date": "2026-07-13",
       "file_key": "2026-07-13_evening",
@@ -409,22 +424,7 @@
         "画像生成"
       ],
       "slug": "ai-weekly-june-2026"
-    },
-    {
-      "id": "2026-06-24_evening-ai-industry-trends-june-2024",
-      "date": "2026-06-24",
-      "file_key": "2026-06-24_evening",
-      "title": "AI産業と生成技術の最新動向 2024年Q2まとめ",
-      "summary": "Googleのスマートスピーカー、OpenAIのカスタムチップ、政府投資計画など、今週のAIニュースを解説。",
-      "tags": [
-        "AIハードウェア",
-        "生成AI",
-        "政策投資",
-        "プロンプト",
-        "イベント"
-      ],
-      "slug": "ai-industry-trends-june-2024"
     }
   ],
-  "updated_at": "2026-07-13T13:11:17.428204+00:00"
+  "updated_at": "2026-07-13T22:51:08.623537+00:00"
 }

@@ -1,0 +1,160 @@
+{
+  "id": "2026-07-14_morning-ai-technology-trends-2024",
+  "file_key": "2026-07-14_morning",
+  "date": "2026-07-14",
+  "generated_at": "2026-07-13T22:51:08.622755+00:00",
+  "title": "AI技術の最前線：画像生成からビジネス応用まで",
+  "slug": "ai-technology-trends-2024",
+  "summary": "AIニュースを徹底分析。画像生成AIやビジネス応用、イベント情報を解説",
+  "tags": [
+    "AI",
+    "画像生成",
+    "ビジネス応用",
+    "イベント",
+    "トレンド"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "AI技術の発展は一進一退なく、画像生成AIの性能向上やビジネスへの応用、市場動向など多岐にわたります。本稿では、画像生成AIの最新動向からビジネス現場での実践的な活用方法、注目イベントまでを網羡し、読者が最新情報を把握できるよう支援します。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "「アスペクト比」は、画像や動画の幅と高さの比率を指します。16:9や4:3など、SNSや動画配信で一般的に使用される比例により、コンテンツの表示方法やデザインに影響を与えます。一方、NHKの報じるビール市場の縮小は、人口減少や消費者行動の変化によるもので、メーカーは海外市場への展開を強化しています。株式市場では、半導体関連株の下落がナスダック指数を押し下げ、ハイテク株全体の調整局面を示しています。",
+      "source_title": "「アスペクト比」は“アス＋ペクト＋比”。アスって何？ ペクトって……？",
+      "source_url": "https://ascii.jp/elem/000/004/418/4418870/?rss"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "画像生成AI「Ideogram V4」がFalからリリースされ、高速処理と即時生成が実現しました。Hugging Face上でモデルが公開されており、開発者やクリエイターが手軽に利用可能です。画像生成技術の進化は、デザイン業務やコンテンツ制作に大きなインパクトを与えています。",
+      "source_title": "Ideogram V4 instant and fast released by Fal",
+      "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1uvm6y8/ideogram_v4_instant_and_fast_released_by_fal/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "DOOMQLプロンプト",
+      "prompt_body": "GPT-5.6 Solを活用したDOOMQLは、ゲーム内クエリを自然言語から生成する技術です。例えば「 demons in the castle with red eyes」のように、ゲーム内オブジェクトを指示するだけで、適切なクエリを自動生成します。",
+      "prompt_usecase": "ゲーム開発やAIアシスタントの実装に応用可能。自然言語インターフェースの向上に貢献します。",
+      "prompt_source": "https://simonwillison.net/2026/Jul/13/doomql/#atom-everything"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "HackerNewsで話題の「AI and Machine Learning – The Basics」では、AIと機械学習の関係や基本概念がわかりやすく解説されています。「Stop Calling Everything AI」という記事では、擬似的にAIと称される技術への過剰なローマン化を批判し、技術用語の正確な使い分けを呼びかけています。",
+      "source_title": "AI and Machine Learning – The Basics",
+      "source_url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "シーメンスエキスパートトークでは、AI時代の製造業におけるノーコード活用の課題と解決策をテーマにした講演が予定されています。AI分類タイルと感情分析タイルを活用する「ゆるDomo」イベントでは、実践的なAIツールの活用方法を学べます。",
+      "event_list": [
+        {
+          "title": "シーメンスエキスパートトーク 第4弾",
+          "date": "2026-07-15",
+          "place": "オンライン",
+          "url": "https://majisemi-business.doorkeeper.jp/events/197738"
+        },
+        {
+          "title": "【2026年7月｜ゆるDomo】AI分類タイル&感情分析タイル",
+          "date": "2026-07-15",
+          "place": "オンライン",
+          "url": "https://domobuddies.doorkeeper.jp/events/197466"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "画像生成AIはマーケティング素材の作成やパッケージデザインの高速化に活用できます。一方、AI分類タイルや感情分析タイルは、データの自動分類や顧客感情の可視化に役立ち、意思決定のスピードと正確性を向上させます。また、ビールメーカーのような産業界では、海外市場への展開を支えるAIニュースレターや市場分析ツールの導入が重要です。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "画像生成AIの性能向上とノーコードツールの普及が進み、個人でも専門知識なしでAIを活用できる環境が整いつつあります。一方、市場の波乱や倫理的課題への関心も高まり、持続可能なAI活用のためのガバナンス整備が求められています。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "「アスペクト比」は“アス＋ペクト＋比”。アスって何？ ペクトって……？",
+      "url": "https://ascii.jp/elem/000/004/418/4418870/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "国内市場縮小の中 ビール各社で海外事業強化の動き",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015176051000",
+      "source": "NHK テクノロジー",
+      "category": "AI"
+    },
+    {
+      "title": "ナスダック株価指数1.5％超の下落 日韓ハイテク株安や原油高で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015176201000",
+      "source": "NHK テクノロジー",
+      "category": "AI"
+    },
+    {
+      "title": "「ドコモの銀行」は改悪なのか？ 初年度最大4.5％還元の条件と懸念点をまとめた",
+      "url": "https://ascii.jp/elem/000/004/419/4419277/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "日本も他人事ではない？ ロンドンがパランティアを拒否した本当の理由",
+      "url": "https://ascii.jp/limit/group/ida/elem/000/004/419/4419041/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "DOOMQL",
+      "url": "https://simonwillison.net/2026/Jul/13/doomql/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "Ideogram V4 instant and fast released by Fal",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uvm6y8/ideogram_v4_instant_and_fast_released_by_fal/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "【シーメンスエキスパートトーク 第4弾】AI時代、製造業のノーコード活用が伸び悩む理由 ～データ連携の壁とシーメンスの統合AIポートフォリオ紹介～",
+      "url": "https://majisemi-business.doorkeeper.jp/events/197738",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "【2026年7月｜ゆるDomo】きっと使ってみたくなる AI分類タイル&感情分析タイル",
+      "url": "https://domobuddies.doorkeeper.jp/events/197466",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
