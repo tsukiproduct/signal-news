@@ -1,0 +1,158 @@
+{
+  "id": "2026-07-14_evening-ai-investment-race-infrastructure-risk",
+  "file_key": "2026-07-14_evening",
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14T12:04:24.148784+00:00",
+  "title": "AI投資競争とインフラ拡充のリスク",
+  "slug": "ai-investment-race-infrastructure-risk",
+  "summary": "AIインフラへの投資熱が高まる中、デットファイナンスのリスクとインフラ拡充の必要性が浮き彫りになる。",
+  "tags": [
+    "AI投資",
+    "インフラ",
+    "AIエージェント"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "近年、AIインフラへのкогが急速に加速している。主要国の中央銀行はAIバブルの可能性を警戒しつつ、 wase 産業界は自律的エージェントの実用化を加速させようとしている。国内では、AI学習を視覚化した無料コンテンツや、AIを活用したノーコード製造業の試みが進行中である。これらの動きは、AI技術の社会浸透と同時に、インフラに対する需要と投資リスクの両面を示している。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "Bloomberg Techの報道によれば、AIインフラ構築競争は過去のテ grille 競争を上回る規模に成長しつつある。英国銀行や日本銀行はAI株式のバブルが崩壊した際の金融安定への影響を懸念し、監視機能の強化を検討している。ソフトバンクの孫正義氏は、2040年に自律的AIエージェントが普及する見込みを示し、電力・データセンターへの投資を拡大する方針を明らかにした。AI推進に伴うエネルギー需要とインフラ整備のコストは、投資リスクと高いリターンを両立させる鍵となる。",
+      "source_title": "AI Investment Race Could Turn Debt-Fueled Boom to Bust, BIS Says",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-07-14/ai-investment-race-could-turn-debt-fueled-boom-to-bust-bis-says"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "StableDiffusionコミュニティでは、Civitaiプラットフォームへのサポートが熱烈に議論されているが、広告の増加が利用者の不満を呼んでいる。広告の増加は、生成AIのオープンソース性と商用化のバランスを問う_tab 重要な議題となっている。",
+      "source_title": "I want to support Civitai, but the f'in ads are getting insane",
+      "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1uw29pm/i_want_to_support_civitai_but_the_fin_ads_are/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "GitHub Actionsでuvxキャッシュを最適化",
+      "prompt_body": "Create a GitHub Actions workflow that sets up uvx, installs dependencies from a requirements.txt file, caches the uvx environment, and runs a Python test suite. Include steps to restore cache, install uvx if missing, and use uvx to run tests.",
+      "prompt_usecase": "Use this workflow to speed up CI runs in projects that use uvx for dependency management, reducing redundant installations and saving CI minutes.",
+      "prompt_source": "https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "RedditのStableDiffusionコミュニティで「Civitaiの広告が増えすぎ」という声が拡散。生成AIのオープンソースコミュニティと商用広告の摩擦が光る話題で、参加者は広告とプラットフォームの価値提供の.chk について熱く議論している。",
+      "source_title": "I want to support Civitai, but the f'in ads are getting insane",
+      "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1uw29pm/i_want_to_support_civitai_but_the_fin_ads_are/"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "本週はオンラインで continuum を実施するイベントが2つ。シーメンスのノーコードAI活用講座ではデータ連携課題と統合AIポートフォリオを解説し、ゆるDomoではAI分類タイルと感情分析タイルのデモが行われる。",
+      "event_list": [
+        {
+          "title": "【シーメンスエキスパートトーク 第4弾】AI時代、製造業のノーコード活用が伸び悩む理由 ～データ連携の壁とシーメンスの統合AIポートフォリオ紹介～",
+          "date": "2026-07-15",
+          "place": "オンライン",
+          "url": "https://majisemi-business.doorkeeper.jp/events/197738"
+        },
+        {
+          "title": "【2026年7月｜ゆるDomo】きっと使ってみたくなる AI分類タイル&感情分析タイル",
+          "date": "2026-07-15",
+          "place": "オンライン",
+          "url": "https://domobuddies.doorkeeper.jp/events/197466"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "AIエージェントは、単なるチャットボットを超え、業務プロセスの自律化を可能にする。企業は、顧客サポート、販売予測、在庫最適化などでAIエージェントを導入し、人的リソースを高付加価値業務へシフトできる。インフラ投資の観点では、データセンターのエネルギー効率化とAI学習用GPUのスケールアウトが重要。投資リスクを低減するため、ハイブリッドクラウド構成とAIサービスのサブスク化モデルを検討することが推奨される。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "世界的にAI監視機関の設立が議論され、GoogleのDemis Hassabisは国際的なAI規制を呼びかけている。英国銀行のアンドリュー・ベイリーはAIバブル崩壊時の金融リスクを警告し、インフラへの投資は慎重に行うべきだと指摘。国内外のAIインフラ競争は加速しつつあるが、エネルギー・データ管理の課題は解決を待つ。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "AI Investment Race Could Turn Debt-Fueled Boom to Bust, BIS Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-14/ai-investment-race-could-turn-debt-fueled-boom-to-bust-bis-says",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "ループ状のコースを走って街が流れていくのを眺める「densha」、Lo-Fi音楽をBGMに日本語認定試験目安N5の文章を読み上げ",
+      "url": "https://gigazine.net/news/20260714-densha/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "ソフトバンクG 孫社長 “AIエージェント普及で景色変わる”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015176631000",
+      "source": "NHK テクノロジー",
+      "category": "AI"
+    },
+    {
+      "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
+      "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "Bailey Says BOE Might Need to Respond If an AI Bubble Bursts",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-14/bailey-boe-might-need-to-respond-if-an-ai-bubble-bursts-video",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Using uvx in GitHub Actions in a cache-friendly way",
+      "url": "https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "I want to support Civitai, but the f'in ads are getting insane",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uw29pm/i_want_to_support_civitai_but_the_fin_ads_are/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "【シーメンスエキスパートトーク 第4弾】AI時代、製造業のノーコード活用が伸び悩む理由 ～データ連携の壁とシーメンスの統合AIポートフォリオ紹介～",
+      "url": "https://majisemi-business.doorkeeper.jp/events/197738",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "【2026年7月｜ゆるDomo】きっと使ってみたくなる AI分類タイル&感情分析タイル",
+      "url": "https://domobuddies.doorkeeper.jp/events/197466",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

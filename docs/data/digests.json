@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-07-14_evening-ai-investment-race-infrastructure-risk",
+      "date": "2026-07-14",
+      "file_key": "2026-07-14_evening",
+      "title": "AI投資競争とインフラ拡充のリスク",
+      "summary": "AIインフラへの投資熱が高まる中、デットファイナンスのリスクとインフラ拡充の必要性が浮き彫りになる。",
+      "tags": [
+        "AI投資",
+        "インフラ",
+        "AIエージェント"
+      ],
+      "slug": "ai-investment-race-infrastructure-risk"
+    },
+    {
       "id": "2026-07-14_afternoon-ai-trend-weekly-financial-defense-security",
       "date": "2026-07-14",
       "file_key": "2026-07-14_afternoon",
@@ -411,22 +424,7 @@
         "課題"
       ],
       "slug": "english-slug"
-    },
-    {
-      "id": "2026-06-25_evening-apple-price-rise-ai-education",
-      "date": "2026-06-25",
-      "file_key": "2026-06-25_evening",
-      "title": "Apple価格上昇とAI教育の先端",
-      "summary": "Appleがメモリ不足で価格を上げ、AIがハンプトンズで子どもを指導。画像生成AIの最新トレンドとビジネス応用を解説",
-      "tags": [
-        "Apple",
-        "AI教育",
-        "画像生成",
-        "AI採用",
-        "ビジネスAI"
-      ],
-      "slug": "apple-price-rise-ai-education"
     }
   ],
-  "updated_at": "2026-07-14T06:18:10.902010+00:00"
+  "updated_at": "2026-07-14T12:04:24.149579+00:00"
 }
