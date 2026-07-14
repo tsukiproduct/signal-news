@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-07-14_afternoon-ai-trend-weekly-financial-defense-security",
+      "date": "2026-07-14",
+      "file_key": "2026-07-14_afternoon",
+      "title": "AIトレンド総まとめ：金融・防衛・セキュリティの最新動向",
+      "summary": "GPIFの運用方針から欧州防衛AI、サイバーセキュリティ脅威まで、今週のAIニュースを解説",
+      "tags": [
+        "AIトレンド",
+        "金融AI",
+        "セキュリティ",
+        "防衛AI",
+        "生成AI"
+      ],
+      "slug": "ai-trend-weekly-financial-defense-security"
+    },
+    {
       "id": "2026-07-14_morning-ai-technology-trends-2024",
       "date": "2026-07-14",
       "file_key": "2026-07-14_morning",
@@ -411,20 +426,7 @@
         "ビジネスAI"
       ],
       "slug": "apple-price-rise-ai-education"
-    },
-    {
-      "id": "2026-06-25_evening-ai-weekly-june-2026",
-      "date": "2026-06-25",
-      "file_key": "2026-06-25_evening",
-      "title": "半導体とAIエージェントが牽引する今週の動向",
-      "summary": "マイクロン決算とSKハイニックスADR上場が半導体市場に影響。AIエージェントによるPC自動化や画像生成ツールも注目。",
-      "tags": [
-        "半導体",
-        "AIエージェント",
-        "画像生成"
-      ],
-      "slug": "ai-weekly-june-2026"
     }
   ],
-  "updated_at": "2026-07-13T22:51:08.623537+00:00"
+  "updated_at": "2026-07-14T06:18:10.902010+00:00"
 }
