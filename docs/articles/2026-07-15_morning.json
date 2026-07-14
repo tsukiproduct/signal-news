@@ -1,0 +1,160 @@
+{
+  "id": "2026-07-15_morning-ai-latest-trends-and-practical-application",
+  "file_key": "2026-07-15_morning",
+  "date": "2026-07-15",
+  "generated_at": "2026-07-14T22:52:09.564685+00:00",
+  "title": "AIの最新動向と実用活用",
+  "slug": "ai-latest-trends-and-practical-application",
+  "summary": "Starlinkの機内Wi-Fi進化から画像生成AIの進展、セキュリティ脆弱性の再評価まで。AI技術の多角的な動向と実用的な活用法を解説します。",
+  "tags": [
+    "AI",
+    "技術",
+    "セキュリティ",
+    "画像生成"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "2026年7月、AI技術は機内通信の高速化（Starlink）、セキュリティの脆弱性（Microsoft Secure Boot）、画像生成AIの進化（Krea 2）など、多様な分野で進展を遂げています。注目は機能性の向上と安全性の確保に向けた技術的挑戦です。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "Starlinkによる機内Wi-Fiの飛躍",
+      "body": "ZIPAIRがStarlinkを導入し、300Mbpsを超える超高速通信を実現。機内での動画視聴やオンライン会議が可能に。これは衛星通信技術の進化と、乗客体験向上への応用例です。セキュリティ面では既存のシステムとの連携が課題となる可能性も",
+      "source_title": "機内の無料Wi-Fiがここまで進化！ Starlinkで300Mbps超、動画も仕事も快適だった",
+      "source_url": "https://ascii.jp/elem/000/004/419/4419436/?rss"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "Krea 2の新機能で高品質なスタイル付き画像生成が可能に。特に「Styles Buoy」機能により、ユーザーの創造性を高める可能性が期待されています。これはAIがアートやデザイン分野で持つ実用性の拡大を示しています。",
+      "source_title": "Krea 2 : Styles Buoy part 2",
+      "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1uwktbt/krea_2_styles_buoy_part_2/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "Dependency管理プロンプト",
+      "prompt_body": "GitHubのDependabotを活用し、新リリース待機期間を3日間に設定するプロンプト。これにより依存関係の更新をより安全に管理可能です。",
+      "prompt_usecase": "開発者がセキュリティ脆弱性を迅速に対応する際、リリースの安定性を確保しつつ更新を調整するのに適しています。",
+      "prompt_source": "https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "HackerNewsで「AI」という言葉の過剰使用を批判する記事が話題に。AI技術の定義の明確化が重要であると指摘され、技術の真の意味を理解するための議論が高まっています。",
+      "source_title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "source_url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "7月15日に2つのオンラインイベントが開催されます。シーメンスの統合AIポートフォリオや、AI分類・感情分析の実用ツールが紹介されます。参加者数が多いため、業界の関心が高まっていることを反映しています。",
+      "event_list": [
+        {
+          "title": "シーメンスエキスパートトーク",
+          "date": "2026-07-15",
+          "place": "オンライン",
+          "url": "https://majisemi-business.doorkeeper.jp/events/197738"
+        },
+        {
+          "title": "ゆるDomo AI分類セミナー",
+          "date": "2026-07-15",
+          "place": "オンライン",
+          "url": "https://domobuddies.doorkeeper.jp/events/197466"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "製造業ではAIを活用したノーコードツールの活用が進展していますが、データ連携の壁が課題です。医療や金融分野では、Starlinkの高速通信を活かしたリモート診断やリアルタイム取引処理が可能になり、新たなビジネスモデルが生まれる可能性があります。",
+      "source_title": "AI時代、製造業のノーコード活用が伸び悩む理由 ～データ連携の壁とシーメンスの統合AIポートフォリオ紹介～"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "AIセキュリティの脆弱性再評価や、画像生成AIの進化が注目されています。また、AI用語の正確な定義が技術発展にとって不可欠であることが指摘されています。今後は実用性と倫理性のバランスが重要な課題となるでしょう。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "機内の無料Wi-Fiがここまで進化！ Starlinkで300Mbps超、動画も仕事も快適だった",
+      "url": "https://ascii.jp/elem/000/004/419/4419436/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "Nothing’s good-looking Watch 3 Pro smartwatch is just $69",
+      "url": "https://www.theverge.com/gadgets/965565/cmf-nothing-watch-3-pro-smartwatch-ios-android-deal-sale",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "source": "TechCrunch AI",
+      "category": "Industry"
+    },
+    {
+      "title": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
+      "url": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
+      "source": "Ars Technica",
+      "category": "Tech"
+    },
+    {
+      "title": "租税特別措置 廃止の方向性は1件にとどまる 各省庁の自己点検",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015176961000",
+      "source": "NHK テクノロジー",
+      "category": "AI"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Quoting GitHub Changeling",
+      "url": "https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "Krea 2 : Styles Buoy part 2",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uwktbt/krea_2_styles_buoy_part_2/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "【シーメンスエキスパートトーク 第4弾】AI時代、製造業のノーコード活用が伸び悩む理由 ～データ連携の壁とシーメンスの統合AIポートフォリオ紹介～",
+      "url": "https://majisemi-business.doorkeeper.jp/events/197738",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "【2026年7月｜ゆるDomo】きっと使ってみたくなる AI分類タイル&感情分析タイル",
+      "url": "https://domobuddies.doorkeeper.jp/events/197466",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

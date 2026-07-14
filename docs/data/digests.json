@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "2026-07-15_morning-ai-latest-trends-and-practical-application",
+      "date": "2026-07-15",
+      "file_key": "2026-07-15_morning",
+      "title": "AIの最新動向と実用活用",
+      "summary": "Starlinkの機内Wi-Fi進化から画像生成AIの進展、セキュリティ脆弱性の再評価まで。AI技術の多角的な動向と実用的な活用法を解説します。",
+      "tags": [
+        "AI",
+        "技術",
+        "セキュリティ",
+        "画像生成"
+      ],
+      "slug": "ai-latest-trends-and-practical-application"
+    },
+    {
       "id": "2026-07-14_evening-ai-investment-race-infrastructure-risk",
       "date": "2026-07-14",
       "file_key": "2026-07-14_evening",
@@ -411,20 +425,7 @@
         "エンタープライズAI"
       ],
       "slug": "ai-tech-roundup-tools-events-trends"
-    },
-    {
-      "id": "2026-06-28_evening-english-slug",
-      "date": "2026-06-28",
-      "file_key": "2026-06-28_evening",
-      "title": "AIの現状と課題",
-      "summary": "iPhoneの制約とMacとの差が自由度の狭さから核心に。",
-      "tags": [
-        "AI",
-        "技術",
-        "課題"
-      ],
-      "slug": "english-slug"
     }
   ],
-  "updated_at": "2026-07-14T12:04:24.149579+00:00"
+  "updated_at": "2026-07-14T22:52:09.565527+00:00"
 }
