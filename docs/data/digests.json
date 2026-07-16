@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "id": "2026-07-16_evening-eu-google-android-ai-competition",
+      "date": "2026-07-16",
+      "file_key": "2026-07-16_evening",
+      "title": "EUがGoogleにAndroid開放指令、AI市場競争激化へ",
+      "summary": "EUがGoogleにAndroidとSearchの競合AIへのアクセスを義務化、ノーベル化学賞受賞者が中国へ移籠り、画像生成AIの新ベンチマークが注目される",
+      "tags": [
+        "EU",
+        "Google",
+        "Android",
+        "AI規制",
+        "Stable Diffusion",
+        "TokyoDev"
+      ],
+      "slug": "eu-google-android-ai-competition"
+    },
+    {
       "id": "2026-07-15_morning-ai-latest-trends-and-practical-application",
       "date": "2026-07-15",
       "file_key": "2026-07-15_morning",
@@ -410,22 +426,7 @@
         "ビジネス応用"
       ],
       "slug": "us-science-budget-crisis-ai-scouting-generative-ai-frontier"
-    },
-    {
-      "id": "2026-06-29_evening-ai-tech-roundup-tools-events-trends",
-      "date": "2026-06-29",
-      "file_key": "2026-06-29_evening",
-      "title": "AI＆テック roundup：ツール、イベント、トレンド",
-      "summary": "HR戦略の見直しからAIエージェントサービス、StableDiffusionのINT8対応まで、今週の注目トピックを概観。",
-      "tags": [
-        "AIエージェント",
-        "StableDiffusion",
-        "イベント",
-        "生産性",
-        "エンタープライズAI"
-      ],
-      "slug": "ai-tech-roundup-tools-events-trends"
     }
   ],
-  "updated_at": "2026-07-14T22:52:09.565527+00:00"
+  "updated_at": "2026-07-16T12:13:29.026002+00:00"
 }
