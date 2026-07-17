@@ -1,0 +1,160 @@
+{
+  "id": "2026-07-18_morning-ai-weekly-databricks-mlb-ban-apple-price-hike",
+  "file_key": "2026-07-18_morning",
+  "date": "2026-07-18",
+  "generated_at": "2026-07-17T22:42:09.488831+00:00",
+  "title": "AI業界動向まとめ：Databricks高値評価、MLBがAI使用を禁止",
+  "slug": "ai-weekly-databricks-mlb-ban-apple-price-hike",
+  "summary": "Databricksの高評価、MLBのAI規制、Appleサブスク値上げなどAI業界の最新動向を解説",
+  "tags": [
+    "AI",
+    "ビジネス",
+    "スポーツ",
+    "画像生成",
+    "イベント"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "AI技術がビジネスやスポーツ、エンターテイメントなど様々な分野に浸透する中、規制や倫理的な問題が浮き上がってきています。特に注目すべきは、データ分析プラットフォーム大手Databricksの企業価値が1880億ドルに上昇したことや、メジャーリーグベースボールが試合中のiPadを使った生成AI利用を禁止した措置です。また、Appleのサブスクリプションサービス価格改定や、オンライン会議ツールZoomのプライバシー問題なども、AI技術がもたらす可能性と課題を同時に考えさせられる出来事です。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "DatabricksがAI企業としての地位を確固たるものにしたことは、データ分析と機械学習がビジネスに与える影響を示しています。彼らの研究によると、AI導入によりコスト削減や業務効率化が期待できるとのことで、企業投資を意味ます。一方、MLBがベンチでのiPad利用を通じた生成AIアクセスを禁止したのは、スポーツにおけるフェアプレー維持と技術の適切な活用判断に関するものです。これらの動向は、AI規制の必要性と利活用のバランスについて我々に考える機会を与えています。",
+      "source_title": "Databricks hits $188B valuation, extending its run as AI's favorite second act",
+      "source_url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "NVIDIAとHugging Faceの協業によるNeMo AutomodelとDiffusersを使った大規模な画像・動画モデルのファインチューニング手法が紹介されました。これにより、開発者や研究者は高精度なビジュアルAIモデルをより簡単にカスタマイズできるようになります。また、Stable DiffusionコミュニティではKrea 2のスタイルワイルドカードが話題となっており、クリエイターたちが多様なビジュアル表現を探求しています。",
+      "source_title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "source_url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "ビジネス資料デザイン生成",
+      "prompt_body": "Create a professional business presentation slide about quarterly sales performance. Include clean charts, minimal text, corporate color scheme, and data visualization best practices. Style should be modern and executive-friendly.",
+      "prompt_usecase": "このプロンプトをDALL-EやMidjourneyに入力して、ビジネスプレゼンテーション用のデザインテンプレートを生成します。特にデータ重視のスライド作成に役立ち、デザイン初心者でもプロレベルのビジュアルが作成可能です。",
+      "prompt_source": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "Hacker Newsで話題となったのは、AIと機械学習の基本概念を分かりやすく説明するコンテンツと、「なんでもかんでもAIと呼ぶのをやめよう」という機械学習の先駆者の意見です。前者は初学者にとって入門として役立つ一方、後者はAIブームに伴う用語の濫用について問題提起を行っており、技術コミュニティ内で活発な議論を引き起こしています。",
+      "source_title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "source_url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "7月21日に東京インナーシティベースで開催されるTokyoDev Talks Vol.12では、AIを活用した新言語オンボーディングとエージェントプロンプトエンジニアリングがテーマです。また、7月22日にはオンラインでプレゼンテーションデザインのワークショップが開催され、AIを活かしたコンテンツ作成方法が学べます。どちらもAIとクリエイティビティの融合をテーマとしており、実務者にとって有益な内容となっています。",
+      "event_list": [
+        {
+          "title": "TokyoDev Talks Vol. 12",
+          "date": "2026-07-21",
+          "place": "Tokyo Innovation Base",
+          "url": "https://tokyodev.doorkeeper.jp/events/197537"
+        },
+        {
+          "title": "価値を高めるプレゼンデザインの基本",
+          "date": "2026-07-22",
+          "place": "オンライン",
+          "url": "https://dtptransit.doorkeeper.jp/events/197796"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "企業はDatabricksのようなAIプラットフォームを活用して、データドリブンな意思決定を行うことができます。具体的には、顧客データ分析によるマーケティング最適化、生産工程の自動化、またはリスク管理の精度向上などが可能です。しかし、MLBのケースのように、AI活用には透明性と規制のルールを設けることが重要です。特にスポーツや公正な競争が関わる分野では、技術の利用範囲を明確に定める必要があります。また、Appleの価格改定のように、AIを組み込んだサービスは競争優位性を高める一方で、ユーザー価値とのバランスも考慮する必要があります。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "AI技術の急速な発展に伴い、規制や倫理的な議論が活発化しています。特に、スポーツジャンルでのAI利用禁止措置は、他の産業への影響を考える上で重要なケースです。また、企業のAI投資拡大とユーザーへのサービス価格設定のバランスも、今後の市場形成に影響を与えるでしょう。画像・動画生成AIの進化はクリエイター業界に新たな可能性をもたらしながら、同時に著作権やプライバシー問題も浮かび上がってくることが予想されます。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak",
+      "url": "https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "source": "TechCrunch AI",
+      "category": "Industry"
+    },
+    {
+      "title": "「Apple Music」と「Apple One」、日本を含む世界で値上げ",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/18/news017.html",
+      "source": "ITmedia News",
+      "category": "Tech"
+    },
+    {
+      "title": "メジャーリーグで「ベンチ内でiPadを使って生成AIにアクセスする行為」が禁止に",
+      "url": "https://gigazine.net/news/20260718-mlb-dugout-ipad-ai/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "The Zoom hack that says, ‘Don’t record me’",
+      "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+      "source": "TechCrunch AI",
+      "category": "Industry"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "source": "Hugging Face Blog",
+      "category": "Prompts"
+    },
+    {
+      "title": "Krea 2 : styles (wildcards txt)",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uzdj7o/krea_2_styles_wildcards_txt/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "TokyoDev Talks Vol. 12: Onboarding in a New Language with AI / Agentic Prompt and Context Engineering",
+      "url": "https://tokyodev.doorkeeper.jp/events/197537",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "【CeeBeeDee】価値を高めるプレゼンデザインの基本 ／堀 裕紀（HORI）",
+      "url": "https://dtptransit.doorkeeper.jp/events/197796",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

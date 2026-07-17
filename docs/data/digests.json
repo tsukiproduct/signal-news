@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-07-18_morning-ai-weekly-databricks-mlb-ban-apple-price-hike",
+      "date": "2026-07-18",
+      "file_key": "2026-07-18_morning",
+      "title": "AI業界動向まとめ：Databricks高値評価、MLBがAI使用を禁止",
+      "summary": "Databricksの高評価、MLBのAI規制、Appleサブスク値上げなどAI業界の最新動向を解説",
+      "tags": [
+        "AI",
+        "ビジネス",
+        "スポーツ",
+        "画像生成",
+        "イベント"
+      ],
+      "slug": "ai-weekly-databricks-mlb-ban-apple-price-hike"
+    },
+    {
       "id": "2026-07-16_evening-eu-google-android-ai-competition",
       "date": "2026-07-16",
       "file_key": "2026-07-16_evening",
@@ -413,20 +428,7 @@
         "Events"
       ],
       "slug": "ai-news-digest-tech-trends-and-events"
-    },
-    {
-      "id": "2026-06-29_evening-us-science-budget-crisis-ai-scouting-generative-ai-frontier",
-      "date": "2026-06-29",
-      "file_key": "2026-06-29_evening",
-      "title": "米科学予算危機とAIスカウト、生成AI最前線",
-      "summary": "米OMB規則変更で科学研究危機、ブラジルでAIサッカースカウト普及、画像生成AI新モデル進展",
-      "tags": [
-        "科学技術政策",
-        "生成AI",
-        "ビジネス応用"
-      ],
-      "slug": "us-science-budget-crisis-ai-scouting-generative-ai-frontier"
     }
   ],
-  "updated_at": "2026-07-16T12:13:29.026002+00:00"
+  "updated_at": "2026-07-17T22:42:09.489661+00:00"
 }
