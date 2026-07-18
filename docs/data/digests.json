@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-07-19_morning-ai-zaisei-douyou-tekikou-wa-soshikigyou-no-eikyou-wo-saguru",
+      "date": "2026-07-19",
+      "file_key": "2026-07-19_morning",
+      "title": "AIの最新動向：技術革新と社会的影響を探る",
+      "summary": "AI技術の急速な進展が業界や社会に与える影響を分析。生成AIの可能性と倫理的課題、実用応用事例をわかりやすく解説。",
+      "tags": [
+        "AI技術",
+        "生成AI",
+        "イベント",
+        "実用応用",
+        "エティクス"
+      ],
+      "slug": "ai-zaisei-douyou-tekikou-wa-soshikigyou-no-eikyou-wo-saguru"
+    },
+    {
       "id": "2026-07-18_morning-ai-weekly-databricks-mlb-ban-apple-price-hike",
       "date": "2026-07-18",
       "file_key": "2026-07-18_morning",
@@ -413,22 +428,7 @@
         "DX"
       ],
       "slug": "ai-agents-memory-and-japan-robot-strategy"
-    },
-    {
-      "id": "2026-06-30_morning-ai-news-digest-tech-trends-and-events",
-      "date": "2026-06-30",
-      "file_key": "2026-06-30_morning",
-      "title": "AIニュースまとめ：テクノロジー動向とイベント情報",
-      "summary": "本稿では、AI業界の新動向や企業戦略、画像生成技術、イベント情報をキャッチアップ。",
-      "tags": [
-        "AI",
-        "Technology",
-        "Business",
-        "Image Generation",
-        "Events"
-      ],
-      "slug": "ai-news-digest-tech-trends-and-events"
     }
   ],
-  "updated_at": "2026-07-17T22:42:09.489661+00:00"
+  "updated_at": "2026-07-18T22:42:16.571481+00:00"
 }
