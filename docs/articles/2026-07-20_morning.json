@@ -1,0 +1,160 @@
+{
+  "id": "2026-07-20_morning-ai-blender-mcp-and-ai-trends",
+  "file_key": "2026-07-20_morning",
+  "date": "2026-07-20",
+  "generated_at": "2026-07-19T22:44:06.202088+00:00",
+  "title": "AIでBlender操作が自動化、3D制作が身近に",
+  "slug": "ai-blender-mcp-and-ai-trends",
+  "summary": "AIエージェントによるBlender自動操作や画像生成、イベント情報など、今週のAI動向を専門視点で解説します。",
+  "tags": [
+    "AIエージェント",
+    "Blender",
+    "画像生成",
+    "イベント",
+    "プロンプト"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "今回のニュース群からは、AIがクリエイティブ制作の現場に深く入り込み始めたことが分かる。ClaudeやCodexといったエージェントがBlenderを直接操作し、3Dプリビズを自動生成する手法が登場した。また、画像生成ツールKreaへの支持や「AIと呼ぶな」とする専門家の警鐘、AI活用イベントの活発化など、技術とリテラシーの両面で動きが見られる。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "ASCII.jpの記事によれば、Claude Fable 5やCodexといったAIエージェントをMCP（Model Context Protocol）経由でBlenderと連携させ、人間の指示だけで3Dプリビズ制作と動画化を完了する手法が紹介されている。事実として、これによりコードやGUI操作の知識がなくても3D制作の初期段階が可能になる。考察として、制作ハードルは下がるが、細部調整や表現の意図決定は依然人間の役割であり、AIは補助に留まる。今後、小規模スタジオや個人制作の門戸が広がる可能性がある。",
+      "source_title": "AIがBlenderを勝手に操作 3D制作のハードルが一気に下がった",
+      "source_url": "https://ascii.jp/elem/000/004/420/4420739/?rss"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "RedditのStableDiffusionコミュニティでは、Kreaという画像生成ツールへの熱い支持が投稿されている。投稿者は以前ZITを使っていたが不満があり、Kreaの操作感や出力品質に満足しているようだ。事実として、Kreaはリアルタイム生成や編集に強みを持つとされる。考察として、 such ツールの評価はユーザー体験の良し悪しに大きく依存し、実用段階での選択肢が広がっている。",
+      "source_title": "Oh man I love Krea",
+      "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1v12nvv/oh_man_i_love_krea/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "Blenderプリビズ自動生成",
+      "prompt_body": "MCPでBlenderに接続し、次のシーンを作って：森の中に小さな家、夕暮れ、カメラは緩やかに横移動。プリビズ用の簡易モデルで構わないのでジオメトリとライトを配置し、短い動画を書き出して。",
+      "prompt_usecase": "Claude等のエージェントとBlender連携環境で、3D案の迅速な視覚化や打ち合わせ用ムービー作成に使える。",
+      "prompt_source": "https://ascii.jp/elem/000/004/420/4420739/?rss"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "HackerNewsで機械学習の基礎解説（Steve Blank氏）が193ポイント、一方IEEEの「何もかもAIと呼ぶな」という先駆者批判が223ポイントと話題に。またSimon Willison経由で「AIマニアが世界的意思決定を損なっている」との論説が共有された。事実として、用語の乱用や過度な期待への懸念が専門家層で広がっている。",
+      "source_title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "source_url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "7月21日にTokyoDev Talks Vol.12が東京で開催され、AIを用いた新言語でのオンボーディングやコンテキストエンジニアリングを議論。22日にはオンラインでプレゼンデザイン講座が実施される。いずれもAI実務や表現に役立つ内容。",
+      "event_list": [
+        {
+          "title": "TokyoDev Talks Vol. 12",
+          "date": "2026-07-21",
+          "place": "Tokyo Innovation Base",
+          "url": "https://tokyodev.doorkeeper.jp/events/197537"
+        },
+        {
+          "title": "価値を高めるプレゼンデザインの基本",
+          "date": "2026-07-22",
+          "place": "オンライン",
+          "url": "https://dtptransit.doorkeeper.jp/events/197796"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "企業のプロモーション部門は、AIエージェントとBlenderの連携を試すべきだ。具体的には、商品を置く簡易3D空間をAIで数分で生成し、社内確認用プリビズ動画を作成する。これにより外注費を抑え、企画段階のイテレーションを早められる。また、Kreaのような画像ツールでSNS用ビジュアルを迅速に作り、A/Bテストに回す運用も現実的。イベントで得たプロンプト設計知見を社内ドキュメント化し、再現性を高めることが推奨される。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "AIエージェントの制作ツール統合が本格化する一方、専門家からは「AI」という言葉の濫用への警鐘が出ている。読者は新ツールを試す際、能力と限界を冷静に見極め、用語の正確な理解を心掛けるべきだ。次週のスマホ総研（7/27）も含め、実践的知見の蓄積を推奨する。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "AIがBlenderを勝手に操作 3D制作のハードルが一気に下がった",
+      "url": "https://ascii.jp/elem/000/004/420/4420739/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "次回のスマホ総研定例会は2026年7月27日（月）を予定しております！",
+      "url": "https://ascii.jp/elem/000/004/420/4420738/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "「アスキーグルメNEWS」生放送（2026年7月24日号）",
+      "url": "https://ascii.jp/elem/000/004/420/4420618/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "「ドコモの銀行」で何が変わる？ ポイント最大4.5％還元、金融経済圏のメリットと課題",
+      "url": "https://ascii.jp/elem/000/004/420/4420599/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "自作PCトーク『ジサトラKTU』生放送～AM4が10周年＆AM5は2029年までサポート！Ryzen 7 7700X3D & 5800X3D Anniversary Editonの性能を検証～",
+      "url": "https://ascii.jp/elem/000/004/420/4420321/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "AI Mania Is Eviscerating Global Decision-Making",
+      "url": "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "Oh man I love Krea",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v12nvv/oh_man_i_love_krea/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "TokyoDev Talks Vol. 12: Onboarding in a New Language with AI / Agentic Prompt and Context Engineering",
+      "url": "https://tokyodev.doorkeeper.jp/events/197537",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "【CeeBeeDee】価値を高めるプレゼンデザインの基本 ／堀 裕紀（HORI）",
+      "url": "https://dtptransit.doorkeeper.jp/events/197796",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

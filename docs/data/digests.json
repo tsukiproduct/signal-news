@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-07-20_morning-ai-blender-mcp-and-ai-trends",
+      "date": "2026-07-20",
+      "file_key": "2026-07-20_morning",
+      "title": "AIでBlender操作が自動化、3D制作が身近に",
+      "summary": "AIエージェントによるBlender自動操作や画像生成、イベント情報など、今週のAI動向を専門視点で解説します。",
+      "tags": [
+        "AIエージェント",
+        "Blender",
+        "画像生成",
+        "イベント",
+        "プロンプト"
+      ],
+      "slug": "ai-blender-mcp-and-ai-trends"
+    },
+    {
       "id": "2026-07-19_morning-ai-zaisei-douyou-tekikou-wa-soshikigyou-no-eikyou-wo-saguru",
       "date": "2026-07-19",
       "file_key": "2026-07-19_morning",
@@ -413,22 +428,7 @@
         "技術"
       ],
       "slug": "english-slug"
-    },
-    {
-      "id": "2026-06-30_evening-ai-agents-memory-and-japan-robot-strategy",
-      "date": "2026-06-30",
-      "file_key": "2026-06-30_evening",
-      "title": "AIエージェントの記憶革命と国産ロボット1000万台計画の衝撃",
-      "summary": "MSの長期記憶アーキテクチャや政府のAIロボット導入目標など、AIの社会実装が加速。",
-      "tags": [
-        "AIエージェント",
-        "AIロボット",
-        "Microsoft",
-        "画像生成AI",
-        "DX"
-      ],
-      "slug": "ai-agents-memory-and-japan-robot-strategy"
     }
   ],
-  "updated_at": "2026-07-18T22:42:16.571481+00:00"
+  "updated_at": "2026-07-19T22:44:06.202814+00:00"
 }
