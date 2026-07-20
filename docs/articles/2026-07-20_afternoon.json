@@ -1,0 +1,160 @@
+{
+  "id": "2026-07-20_afternoon-ai-now-5-things-to-watch",
+  "file_key": "2026-07-20_afternoon",
+  "date": "2026-07-20",
+  "generated_at": "2026-07-20T06:55:27.310654+00:00",
+  "title": "AIの今、注目すべき5つ",
+  "slug": "ai-now-5-things-to-watch",
+  "summary": "2026年のAI動向を5つの視点で解説。消費者向け製品から企業技術、イベントまでカバー。中国と米国のAI競争、メモリ技術の重要性、過剰なAI呼称の批判が浮上。",
+  "tags": [
+    "AI技術",
+    "企業イノベーション",
+    "消費者製品",
+    "データインフラ",
+    "イベント"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "2026年はAI技術が実用化段階に突入した年。食品業界のAI活用（QTTAシビレ酸辣湯麺）や高性能PCの登場、企業間の大規模パートナーシップが目立ちます。一方で、AIの定義についての議論が活発化し、技術の限界や倫理的課題への関心が高まっています。消費者向けの便利性と企業向けのインフラ強化が二面性を持つ今のAIシーンを紹介します。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "中国と米国のAI競争では、モンスター社のKimi K3がメモリ技術に重点を置いていると報じられています。これはNVIDIAのチップ優位性を脅かす可能性があります。また、PrysmianがMolexと63億ドル規模のデータセンター機材契約を結んだことは、AIインフラ需要の高まりを示しています。これらの動向は、AI開発の地理的・技術的拡大を示唆しています。",
+      "source_title": "Can Kimi K3 Help China Beat US for AI Dominance?: Live Q&A",
+      "source_url": "https://www.bloomberg.com/sessions/2026-07-20/live-q-amp-a-can-moonshot-s-kimi-help-china-break-the-us-s-ai-lead"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "Redditのコミュニティが開発した「MemoryWorks: VHS V1.1」は、AIを活用したノスタルジックなコンテンツ生成ツールとして注目されています。このツールは、VHSのノスタルジーとAIの創造性を融合させ、ユーザーが独自のスタイルで動画を作成できるようにしています。この技術は、AI生成コンテンツの多様化を促進する可能性があります。",
+      "source_title": "authentic VHS nostalgia -MemoryWorks: VHS v1.1",
+      "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1v1cjzf/authentic_vhs_nostalgia_memoryworks_vhs_v11/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "ビジネスプラン生成",
+      "prompt_body": "「AIを活用した中小企業向けの5年間の成長戦略を立ててください。ターゲット市場、競合分析、マーケティング計画を含めて具体的な数値目標を設定してください。」このプロンプトは、起業家やマネージャーがAIツールで戦略立案を効率化する際に役立ちます。",
+      "prompt_usecase": "AIを活用して、迅速に包括的なビジネスプランを作成し、意思決定の基盤とすることが可能です。特にリソースが限られた中小企業に有効です。",
+      "prompt_source": "https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "ASUSが搭載したRTX 5090を搭えたゲームノートPCが、性能の飛躍で注目を集めています。一方で、HackerNewsでは「AI」という言葉の過剰使用についての議論が活発化しています。これらのニュースは、技術の進化とその周囲の文化的な会話が密接に関係していることを示しています。",
+      "source_title": "100万円超えのバケモノゲーミングノートPC！RTX 5090搭載",
+      "source_url": "https://ascii.jp/elem/000/004/418/4418365/?rss"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "7月21日のTokyoDev Talksでは、AIを活用した言語学習の最新技術が紹介されます。22日のCeeBeeDeeイベントでは、プレゼンデザインにおけるAIの活用法が議論されます。これらのイベントは、技術者やビジネスリーダーが直接AIの実用化に向けた知見を得る機会です。",
+      "event_list": [
+        {
+          "title": "TokyoDev Talks Vol. 12",
+          "date": "2026-07-21",
+          "place": "Tokyo Innovation Base",
+          "url": "https://tokyodev.doorkeeper.jp/events/197537"
+        },
+        {
+          "title": "CeeBeeDee Presen Design Basics",
+          "date": "2026-07-22",
+          "place": "オンライン",
+          "url": "https://dtptransit.doorkeeper.jp/events/197796"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "QTTAシビレ酸辣湯麺のようなAI活用製品は、消費者向けサービスのパーソナライズ化を可能にします。企業は、AIを活用したデータ分析で顧客ニーズの予測や在庫管理を最適化できます。さらに、Prysmian-Molexの契約は、企業がAIインフラを構築する際のパートナー選定の重要性を示しています。具体的な応用としては、顧客行動データを分析してマーケティング戦略を立案する方法があります。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "2026年のAI動向では、メモリ技術への注力が増加しています。MoonshotのKimi K3は、計算能力よりもデータの効率的な処理を重視しています。また、AI用語の誤用に関する議論が活発化し、技術者と一般ユーザーのコミュニケーションの課題が浮上しています。来週の注目イベントや製品リリースに注目してください。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "10年目の「QTTA」に新作！シビレ酸辣湯麺が本日発売",
+      "url": "https://ascii.jp/elem/000/004/419/4419143/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "100万円超えのバケモノゲーミングノートPC！RTX 5090搭載、性能が異次元すぎてロマンが爆発した",
+      "url": "https://ascii.jp/elem/000/004/418/4418365/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "Can Kimi K3 Help China Beat US for AI Dominance?: Live Q&A",
+      "url": "https://www.bloomberg.com/sessions/2026-07-20/live-q-amp-a-can-moonshot-s-kimi-help-china-break-the-us-s-ai-lead",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "Prysmian Signs $6.3 Billion Molex Deal for Data-Center Gear",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-20/prysmian-inks-6-3-billion-deal-with-molex-for-data-center-gear",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "Moonshot’s Kimi K3 May Be More About Memory Than Compute",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-20/moonshot-s-kimi-k3-may-be-more-about-memory-than-compute",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Quoting Sam Altman",
+      "url": "https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "authentic VHS nostalgia -MemoryWorks: VHS v1.1",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v1cjzf/authentic_vhs_nostalgia_memoryworks_vhs_v11/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "TokyoDev Talks Vol. 12: Onboarding in a New Language with AI / Agentic Prompt and Context Engineering",
+      "url": "https://tokyodev.doorkeeper.jp/events/197537",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "【CeeBeeDee】価値を高めるプレゼンデザインの基本 ／堀 裕紀（HORI）",
+      "url": "https://dtptransit.doorkeeper.jp/events/197796",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

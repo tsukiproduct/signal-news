@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-07-20_afternoon-ai-now-5-things-to-watch",
+      "date": "2026-07-20",
+      "file_key": "2026-07-20_afternoon",
+      "title": "AIの今、注目すべき5つ",
+      "summary": "2026年のAI動向を5つの視点で解説。消費者向け製品から企業技術、イベントまでカバー。中国と米国のAI競争、メモリ技術の重要性、過剰なAI呼称の批判が浮上。",
+      "tags": [
+        "AI技術",
+        "企業イノベーション",
+        "消費者製品",
+        "データインフラ",
+        "イベント"
+      ],
+      "slug": "ai-now-5-things-to-watch"
+    },
+    {
       "id": "2026-07-20_morning-ai-blender-mcp-and-ai-trends",
       "date": "2026-07-20",
       "file_key": "2026-07-20_morning",
@@ -415,20 +430,7 @@
         "ビジネスAI"
       ],
       "slug": "ai-and-everyday-2026-07-01"
-    },
-    {
-      "id": "2026-07-01_morning-english-slug",
-      "date": "2026-07-01",
-      "file_key": "2026-07-01_morning",
-      "title": "AI業界の動向と今後の展望",
-      "summary": "最新のAIニュースを簡潔にまとめ、技術動向や市場影響を解説。多角的な視点で読者が理解しやすい内容を提供。",
-      "tags": [
-        "AI",
-        "ビジネス",
-        "技術"
-      ],
-      "slug": "english-slug"
     }
   ],
-  "updated_at": "2026-07-19T22:44:06.202814+00:00"
+  "updated_at": "2026-07-20T06:55:27.311442+00:00"
 }
