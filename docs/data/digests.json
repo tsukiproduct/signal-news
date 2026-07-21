@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-07-21_afternoon-ai-health-tech-events",
+      "date": "2026-07-21",
+      "file_key": "2026-07-21_afternoon",
+      "title": "AI活用で見る健康・テク・イベント",
+      "summary": "心血管ガイドライン、WordPress脆弱性、Xアプリ刷新、ゲーミングPC、AIプロジェクト等、多様なAI情報を解説",
+      "tags": [
+        "AI",
+        "健康",
+        "テクノロジー"
+      ],
+      "slug": "ai-health-tech-events"
+    },
+    {
       "id": "2026-07-20_afternoon-ai-now-5-things-to-watch",
       "date": "2026-07-20",
       "file_key": "2026-07-20_afternoon",
@@ -417,20 +430,7 @@
         "画像生成AI"
       ],
       "slug": "gaming-industry-shift-ai-policy-update"
-    },
-    {
-      "id": "2026-07-01_evening-ai-and-everyday-2026-07-01",
-      "date": "2026-07-01",
-      "file_key": "2026-07-01_evening",
-      "title": "AIと日常を結ぶ今週のトレンド",
-      "summary": "最新AI技術と日々の暮らしを結びつけるニュースを解説。Claude Fable 5の輸出規制緩和、Boogu Image Turbo Editの登場、AIと食品業界のGX戦略など、多角的に掘り下げます。",
-      "tags": [
-        "AI規制",
-        "画像生成",
-        "ビジネスAI"
-      ],
-      "slug": "ai-and-everyday-2026-07-01"
     }
   ],
-  "updated_at": "2026-07-20T06:55:27.311442+00:00"
+  "updated_at": "2026-07-21T06:36:48.706592+00:00"
 }
