@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-07-22_morning-ai-travel-bangkok-guide",
+      "date": "2026-07-22",
+      "file_key": "2026-07-22_morning",
+      "title": "AIで旅も快適・最新ガイド",
+      "summary": "円安でもバンコクを賢く旅する方法とAI活用術を紹介",
+      "tags": [
+        "旅行",
+        "鉄道",
+        "画像生成AI"
+      ],
+      "slug": "ai-travel-bangkok-guide"
+    },
+    {
       "id": "2026-07-21_afternoon-ai-health-tech-events",
       "date": "2026-07-21",
       "file_key": "2026-07-21_afternoon",
@@ -416,21 +429,7 @@
         "投資"
       ],
       "slug": "ai-news-review"
-    },
-    {
-      "id": "2026-07-01_evening-gaming-industry-shift-ai-policy-update",
-      "date": "2026-07-01",
-      "file_key": "2026-07-01_evening",
-      "title": "ゲーム業界の大転換とAI政策の動き",
-      "summary": "ソニーのディスク終了発表、AIエクスポート規制の変化、画像生成AIのベンチマークが話題",
-      "tags": [
-        "ゲーム業界",
-        "AI政策",
-        "デジタル化",
-        "画像生成AI"
-      ],
-      "slug": "gaming-industry-shift-ai-policy-update"
     }
   ],
-  "updated_at": "2026-07-21T06:36:48.706592+00:00"
+  "updated_at": "2026-07-21T22:49:21.296558+00:00"
 }
