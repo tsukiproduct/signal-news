@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-07-24_afternoon-ai-latest-trends-and-impact",
+      "date": "2026-07-24",
+      "file_key": "2026-07-24_afternoon",
+      "title": "AIの最新動向と社会への影響",
+      "summary": "近日発表されたAI関連の技術統合、倫理問題、ツール開発を掘り下げ、その社会的影響を分析。",
+      "tags": [
+        "AI倫理",
+        "技術統合",
+        "ツール開発"
+      ],
+      "slug": "ai-latest-trends-and-impact"
+    },
+    {
       "id": "2026-07-22_morning-ai-travel-bangkok-guide",
       "date": "2026-07-22",
       "file_key": "2026-07-22_morning",
@@ -415,21 +428,7 @@
         "プロンプト工夫"
       ],
       "slug": "ai-technology-latest-developments-challenges"
-    },
-    {
-      "id": "2026-07-02_evening-ai-news-review",
-      "date": "2026-07-02",
-      "file_key": "2026-07-02_evening",
-      "title": "AIニュースを振り返る：企業展開からクリエイティブまで",
-      "summary": "AI業界の動向、ビジネス活用、クリエイティブまで。今週の主要ニュースをわかりやすく解説します。",
-      "tags": [
-        "AI",
-        "ビジネス",
-        "クリエイティブ",
-        "投資"
-      ],
-      "slug": "ai-news-review"
     }
   ],
-  "updated_at": "2026-07-21T22:49:21.296558+00:00"
+  "updated_at": "2026-07-24T06:33:57.600112+00:00"
 }
