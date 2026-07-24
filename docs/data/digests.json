@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-07-25_morning-ai-latest-updates-meta-claude-midjourney",
+      "date": "2026-07-25",
+      "file_key": "2026-07-25_morning",
+      "title": "AI最新動向：Meta・Claude・Midjourneyまとめ",
+      "summary": "Metaのグラス課金停止、Claude Opus 5発表、MidjourneyのCo-Star買収など今週の注目ポイントを解説。",
+      "tags": [
+        "AIニュース",
+        "生成AI",
+        "ビジネス応用"
+      ],
+      "slug": "ai-latest-updates-meta-claude-midjourney"
+    },
+    {
       "id": "2026-07-24_afternoon-ai-latest-trends-and-impact",
       "date": "2026-07-24",
       "file_key": "2026-07-24_afternoon",
@@ -414,21 +427,7 @@
         "開発ツール"
       ],
       "slug": "ai-news-summary-july-2026"
-    },
-    {
-      "id": "2026-07-03_morning-ai-technology-latest-developments-challenges",
-      "date": "2026-07-03",
-      "file_key": "2026-07-03_morning",
-      "title": "AI技術の最新動向と課題",
-      "summary": "DX推進の人材不足以外の課題や、AIガバナンスの議論、テスラ事故の法的影響、画像生成AIの進展など、多角的な視点から今週のAI動向を解析。",
-      "tags": [
-        "AI技術",
-        "DX推進",
-        "画像生成",
-        "プロンプト工夫"
-      ],
-      "slug": "ai-technology-latest-developments-challenges"
     }
   ],
-  "updated_at": "2026-07-24T06:33:57.600112+00:00"
+  "updated_at": "2026-07-24T22:56:02.291622+00:00"
 }

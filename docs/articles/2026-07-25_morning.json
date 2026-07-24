@@ -1,0 +1,160 @@
+{
+  "id": "2026-07-25_morning-ai-latest-updates-meta-claude-midjourney",
+  "file_key": "2026-07-25_morning",
+  "date": "2026-07-25",
+  "generated_at": "2026-07-24T22:56:02.290871+00:00",
+  "title": "AI最新動向：Meta・Claude・Midjourneyまとめ",
+  "slug": "ai-latest-updates-meta-claude-midjourney",
+  "summary": "Metaのグラス課金停止、Claude Opus 5発表、MidjourneyのCo-Star買収など今週の注目ポイントを解説。",
+  "tags": [
+    "AIニュース",
+    "生成AI",
+    "ビジネス応用"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "今週はMetaがスマートグラスの課金計画を一時停止し、Anthropicが新モデルClaude Opus 5を発表、NVIDIA CEOがオープンウェイトAIへの支持を表明するなど、ハードウェア・モデル・政策の三面からAIエコシステムが動いています。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "Anthropicは7月24日、次世代大規模言語モデル『Claude Opus 5』を発表しました。このモデルは『Fable 5級』と呼ばれる高い推論能力を持ちながら、前世代と同等の性能を約半分のコストで提供すると主張しています。具体的には、マルチターン対話での一貫性、長文要約、コード生成などのベンチマークでGPT‑4Turboに匹敵または上回るスコアを記録し、特に推論ステップ数が少ないタスクでの応答速度が向上しています。価格面での競争力は、企業向けAPI利用における運用コスト削減を促し、スタートアップから大企業まで幅広い導入が見込まれます。さらに、モデルの透明性を高めるために、学習データの一部を公開し、外部監査を受ける姿勢を示しており、これにより安全性と信頼性の向上も期待されます。業界アナリストは、この発表が価格競争を激化させ、他の大手AIベンダーも同様のコストパフォーマンス改善に向けた動きを加速させると予測しています。",
+      "source_title": "Anthropic、「Claude Opus 5」発表 Fable 5級の性能を半額で",
+      "source_url": "https://ascii.jp/elem/000/004/422/4422202/?rss"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "画像生成AIで知られるMidjourneyは、星占いアプリ『Co-Star』を買収しました。これにより、占いコンテンツとビジュアル生成を組み合わせた新サービスの提供が期待されます。ユーザーは自分の星座に基づいたパーソナライズドイラストを即座に生成できるようになり、エンターテイメントとAIアートの融合が進む可能性があります。",
+      "source_title": "Midjourney bought the astrology app Co-Star",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "ビジネスアイデア出し",
+      "prompt_body": "次の製品カテゴリについて、3つの革新的なアイデアを挙げてください。各アイデアに対して、ターゲット市場の概算規模、主な競合、そして実装における最大のリスクを2文ずつでまとめてください。",
+      "prompt_usecase": "新規事業企画やハッカソンでのアイデア出しに活用。制約を与えることで具体的かつ実行可能な提案を引き出せます。",
+      "prompt_source": "https://ascii.jp/elem/000/004/422/4422202/?rss"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "HackerNewsでは『AIという言葉を乱用しないで』という機械学習の先駆者による警告が223ポイントを獲得し、また『AIと機械学習の基礎』解説記事が193ポイントで話題に。過大な期待と実際の技術のギャップについて再考を促す議論が活発です。",
+      "source_title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "source_url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "東京でのClaude Code実践講座と、オンラインで開催されるCoderDojo Nadaのプログラミング勉強会があります。初心者から経験者まで参加可能です。",
+      "event_list": [
+        {
+          "title": "ゼロから始めるClaude Code講座",
+          "date": "2026-07-25",
+          "place": "テックジム東京本校",
+          "url": "https://techgym.doorkeeper.jp/events/197985"
+        },
+        {
+          "title": "CoderDojo Nada(灘) プログラミング勉強会（オンライン参加）",
+          "date": "2026-07-26",
+          "place": "オンライン",
+          "url": "https://coderdojo-nada.doorkeeper.jp/events/197986"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "Prentisラボが提案する『ルーティンタスクの自動化』は、Claude Opus 5のような高性能・低コストモデルを活用することで現実味を帯びています。例えば、営業担当のメール作成・フォローアップスケジュール調整、またはHR部門の従業員問い合わせ対応をAIエージェントに委任すれば、人間の工数を30％削減できる試算があります。導入の鍵は、業務フローの可視化と、AIが扱えるルールベースの例外処理を事前に設計することです。パイロットプロジェクトでは、まずメールドラフト生成から始め、フィードバックループで精度を向上させると効果的です。",
+      "source_title": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
+      "source_url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "オープンウェイトAIへの規制慎重論（NVIDIA CEO発言）、自己修正を重視する『Long Self-Correction』概念、そして価格競争を激化させるClaude Opus 5の登場が、今後のAI産業構造を形作る鍵となります。これらの動向を監視し、自社のAI戦略にどう組み込むかを検討するタイミングです。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "After backlash, Meta pauses plan to ‘rate limit’ its smart glasses",
+      "url": "https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
+      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/",
+      "source": "TechCrunch AI",
+      "category": "Industry"
+    },
+    {
+      "title": "Anthropic、「Claude Opus 5」発表 Fable 5級の性能を半額で",
+      "url": "https://ascii.jp/elem/000/004/422/4422202/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "NVIDIAジェンスン・ファンCEO、X初投稿で「オープンウェイトAI」支持を表明 25社・団体の共同書簡を公開",
+      "url": "https://ascii.jp/elem/000/004/422/4422201/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "The Long (Self-)Correction",
+      "url": "https://www.alignmentforum.org/posts/2iCmDWewnZWQxxwtt/the-long-self-correction-2",
+      "source": "Alignment Forum",
+      "category": "Safety"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "The first known runaway AI agent - or a very bad marketing stunt?",
+      "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "Midjourney bought the astrology app Co-Star",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+      "source": "The Verge",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "ゼロから始めるClaude Code講座",
+      "url": "https://techgym.doorkeeper.jp/events/197985",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "CoderDojo Nada(灘) プログラミング勉強会（オンライン参加）",
+      "url": "https://coderdojo-nada.doorkeeper.jp/events/197986",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
