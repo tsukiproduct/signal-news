@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-07-25_afternoon-ai-tech-2026-summer",
+      "date": "2026-07-25",
+      "file_key": "2026-07-25_afternoon",
+      "title": "AIとテクノロジーの最新動向 2026年夏",
+      "summary": "自動車・画像生成・オフライン保存など多様なAI活用が注目され、企業・日常に新価値を提供",
+      "tags": [
+        "AI",
+        "自動車",
+        "画像生成"
+      ],
+      "slug": "ai-tech-2026-summer"
+    },
+    {
       "id": "2026-07-25_morning-ai-latest-updates-meta-claude-midjourney",
       "date": "2026-07-25",
       "file_key": "2026-07-25_morning",
@@ -412,22 +425,7 @@
         "イベント"
       ],
       "slug": "ai-latest-developments-and-applications"
-    },
-    {
-      "id": "2026-07-03_evening-ai-news-summary-july-2026",
-      "date": "2026-07-03",
-      "file_key": "2026-07-03_evening",
-      "title": "量子技術の躍進とAI商戦　2026年7月のAIニュース総まとめ",
-      "summary": "量子ドローン企業の評価額80億ドル、医療AIの倫理問題、そしてビジネスへの応用まで。7月のAIトレンドを振り返る。",
-      "tags": [
-        "AIトレンド",
-        "量子技術",
-        "医療AI",
-        "EC最適化",
-        "開発ツール"
-      ],
-      "slug": "ai-news-summary-july-2026"
     }
   ],
-  "updated_at": "2026-07-24T22:56:02.291622+00:00"
+  "updated_at": "2026-07-25T06:26:09.828653+00:00"
 }

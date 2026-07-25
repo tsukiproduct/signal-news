@@ -1,0 +1,158 @@
+{
+  "id": "2026-07-25_afternoon-ai-tech-2026-summer",
+  "file_key": "2026-07-25_afternoon",
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T06:26:09.827954+00:00",
+  "title": "AIとテクノロジーの最新動向 2026年夏",
+  "slug": "ai-tech-2026-summer",
+  "summary": "自動車・画像生成・オフライン保存など多様なAI活用が注目され、企業・日常に新価値を提供",
+  "tags": [
+    "AI",
+    "自動車",
+    "画像生成"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "2026年夏、AIは自動車のデザイン・走行支援・オフライン保存ツール・画像生成など多様な分野で進化し、企業現場や日常生活に新たな価値を提供する。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "日産が2026年モデルに向け、セレナの上級グレードに限定したグリル刷新とAI搭載ナビゲーションの強化を発表した。これにより、車両外観は迫力ある顔つきに変化し、運転者の視認性が向上。NissanConnectがGoogleアシスタントと連携し、自然言語での音声操作やリアルタイム交通情報取得が可能となり、快適性と安全性が同時向上する。さらに3Dバックモニターや advanced driver-assist systems (ADAS) が追加され、都市部・高速道路の運転支援が一段と高度化した。結果として、企業 fleet や個人ユーザーの移動効率が向上し、長期的な所有価値が増大すると見込まれる。この技術は物流や営業担当者の移動負担軽減に寄与し、顧客満足度向上への貢献が期待できる。",
+      "source_title": "日産「セレナ」は上位グレード限定の“特権”に注意！ 2026年最新版の進化ポイントを解説",
+      "source_url": "https://ascii.jp/elem/000/004/422/4422164/?rss"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "Midjourneyは、占星術アプリ「Co-Star」を買収し、AI生成画像から占星術データまで幅広く活用する戦略を示した。これにより、ユーザーは星占い結果を視覚的に表現でき、SNSやマーケティング素材の創出が加速する見込みだ。",
+      "source_title": "Midjourney bought Co-Star",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "オフライン保存要約",
+      "prompt_body": "Webページを表示中のブラウザで、kageコマンドを実行し、JavaScriptによる外部通信を除外してHTMLとCSSだけのローカルファイルとして保存します。保存後はインターネットに接続していない環境でも、元のレイアウトと本文を閲覧可能です。",
+      "prompt_usecase": "オフライン環境で資料閲覧や情報共有が必要なビジネスシーンや、旅行中のデータ保護が重要なケースで活用します。",
+      "prompt_source": "https://gigazine.net/news/20260725-kage/"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "AIと機械学習の第一人者が「すべてをAIと呼ぶのは誤解だ」と指摘。実際には特定タスクに特化したモデルや統計的手法が主流で、過剰なラベル付けはリソース Wasteにつながる。正確な terminology使用が研究効率と産業応用の向上に寄与する。",
+      "source_title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "source_url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "2026年7月26日に開催されるCoderDojo Nada（オンライン）と第6回CoderDojo 南会津は、プログラミング学習の実践的機会を提供。両イベントは無料で参加可能で、初心者から上級者まで幅広いスキルレベルに対応したワークショップが用意されている。参加者はコード作成・デバッグ技術を学び、地域の技術振興に貢献できる。",
+      "event_list": [
+        {
+          "title": "CoderDojo Nada(灘) プログラミング勉強会（オンライン参加）",
+          "date": "2026-07-26",
+          "place": "オンライン",
+          "url": "https://coderdojo-nada.doorkeeper.jp/events/197986"
+        },
+        {
+          "title": "第6回CoderDojo 南会津",
+          "date": "2026-07-26",
+          "place": "南会津町役場本庁舎多目的ホール（祇園祭のため場所が変更する場合があります）",
+          "url": "https://coderdojo-minamiaizu.doorkeeper.jp/events/196200"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "Nissan Serena の上級グレードを fleet に導入すれば、AI ADAS と NissanConnect が走行データをリアルタイムで収集・分析し、燃費改善と安全運転評価が可能になる。kage で社内資料をオフライン保存し、ネットに依存しない情報共有が実現でき、業務効率とコンプライアンス向上が期待でき、長期的な競争優位性を支える。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "AIブームは過熱相にあり、過剰な宣伝と実装ギャップが顕在化する一方、画像生成や自動運転など具体的サービスが着実に普及しつつある。企業は実用的導入と過剰マーケティングのバランスを慎重に見極める必要が迫られている。今後は技術成熟度と利用者ニーズのマッチングが加速し、持続可能なAI活用が進む見込みだ。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "日産「セレナ」は上位グレード限定の“特権”に注意！ 2026年最新版の進化ポイントを解説",
+      "url": "https://ascii.jp/elem/000/004/422/4422164/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "すき家にも初登場！ この夏は「冷汁・冷やし汁」が各チェーンで続々",
+      "url": "https://ascii.jp/elem/000/004/422/4422072/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "文化交流からビジネス共創へ Japan Expo Malaysia 2026開幕",
+      "url": "https://ascii.jp/elem/000/004/422/4422215/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "「ものづくりの現場」に、理学療法士の出張フィジカルケアを。真鍮加工の技術者集団・株式会社時園製作所がOffi-Stretch(R)を導入。",
+      "url": "https://ascii.jp/elem/000/004/422/4422227/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "無料でページのJavaScriptを削除してサイト全体をまとめてローカルに保存しオフラインで閲覧できるようにする「kage」",
+      "url": "https://gigazine.net/news/20260725-kage/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Quoting Boris Cherny",
+      "url": "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "Midjourney bought the astrology app Co-Star",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+      "source": "The Verge",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "CoderDojo Nada(灘) プログラミング勉強会（オンライン参加）",
+      "url": "https://coderdojo-nada.doorkeeper.jp/events/197986",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "第6回（旧5回)CoderDojo 南会津（最寄駅：会津田島駅）",
+      "url": "https://coderdojo-minamiaizu.doorkeeper.jp/events/196200",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
