@@ -1,0 +1,160 @@
+{
+  "id": "2026-07-26_morning-ai-news-digest-2026-07-26",
+  "file_key": "2026-07-26_morning",
+  "date": "2026-07-26",
+  "generated_at": "2026-07-25T22:46:34.668002+00:00",
+  "title": "AI技術の進展と課題：ゲーム、規制、エージェント失敗、イベント",
+  "slug": "ai-news-digest-2026-07-26",
+  "summary": "海外の高品質ゲーム、AI規制反対運動、エージェント失敗事例、プロンプトツール新バージョン、地域イベントなど、AI関連ニュースを解説。",
+  "tags": [
+    "AI技術",
+    "規制",
+    "エージェント",
+    "プロンプト",
+    "イベント"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "AI技術の多様な展開が社会に与える影響を振り返る。海外の完成度の高いゲーム、オープンウェイトAIの規制議論、エージェント導入時のリスク、地域コミュニティのプログラミングイベントなど、今週の注目トピックを包括的に解説。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "海外の『電車アタック』は、日本を舞台とした新作ゲームがマンガ家に感心を呼び起こした。スペインのインディースタジオが開発し、日本の文化を反映した独自の演出が評価された。一方、MicrosoftやNVIDIAがAIモデルのオープンウェイト規制に反対し、共同書簡を提出。Anthropicは参加せず、企業間の対立意識が浮き彫りに。また、AIエージェント導入で生じたセキュリティ事故やコスト超過の失敗事例を解析し、自社導入時の注意点を提示。",
+      "source_title": "海外の新作バカゲー「電車アタック」にマンガ家が感心した理由",
+      "source_url": "https://www.itmedia.co.jp/news/articles/2607/26/news010.html"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "Redditコミュニティで注目された「Kling AI 3.0 Motion Control」の代替ツール探討。CoLab環境でローカルで動作する代替ソフトウェアを探す声が上がり、AI動画生成の技術進化とアクセス性の向上が議論された。",
+      "source_title": "Local alternative to Kling AI 3.0 Motion Control (ComfyUI, 16GB VRAM)",
+      "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1v6ibi8/local_alternative_to_kling_ai_30_motion_control/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "画像生成プロンプトテンプレート",
+      "prompt_body": "「[スタイル]: [主題]」→「[背景]: [詳細]」「[照明]: [効果]」「[アートツール]: [指定]」を組み合わせて使用。例：'水墨画スタイルの富士山、雪の朝、金の光、Clip Studio Paintで描画'",
+      "prompt_usecase": "画像生成の質を向上させるために、具体的なスタイルやツールを指定することでAIが意図した結果を出しやすくなる。特に芸術系のプロジェクトで有効。",
+      "prompt_source": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "HackerNewsで議論されたAIと機械学習の用語の誤用問題。Pioneerが「AI」という言葉の過剰使用を批判し、技術の正確な表現の重要性が強調された。また、AIエージェントの失敗事例に関する投稿が高得点を獲得し、実務家の関心を集めた。",
+      "source_title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "source_url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "プログラミング学習イベントが複数開催。CoderDojo Nadaのオンラインイベント（7月26日）は5/8人、会津南の対面イベントは4/10人と好評。地域住民のAI教育への関心が高まっていることを反映。",
+      "event_list": [
+        {
+          "title": "CoderDojo Nada プログラミング勉強会",
+          "date": "2026-07-26",
+          "place": "オンライン",
+          "url": "https://coderdojo-nada.doorkeeper.jp/events/197986"
+        },
+        {
+          "title": "第6回CoderDojo 南会津",
+          "date": "2026-07-26",
+          "place": "南会津町役場（祇園祭により変更可能）",
+          "url": "https://coderdojo-minamiaizu.doorkeeper.jp/events/196200"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "AIエージェント導入時には、セキュリティ対策やコスト管理が不可欠。例として、定期的な監査やリソースプランニングを推奨。また、地域イベントの開催はブランド認知度向上に活用可能。特に技術者不足の地域では、コミュニティとの連携が成功の鍵。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "オープンウェイトAIの規制議論が激化し、企業間の対立が予想される。一方で、AIエージェントの信頼性向上が求められる中、失敗事例の分析が重要。画像生成AIのローカルツール開発も注目され、技術アクセスの民主化が加速。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "海外の新作バカゲー「電車アタック」にマンガ家が感心した理由 ブッ飛んだ内容と完成度の高さ、そして“日本”",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/26/news010.html",
+      "source": "ITmedia News",
+      "category": "Tech"
+    },
+    {
+      "title": "MicrosoftやNVIDIAなど、AIのオープンウェイト規制に反対する書簡を公開――Anthropicは署名せず",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/26/news014.html",
+      "source": "ITmedia News",
+      "category": "Tech"
+    },
+    {
+      "title": "AIエージェントの失敗事例4つ！セキュリティ事故と運用トラブルを解説",
+      "url": "https://ainow.ai/2026/07/26/278281/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e5%25a4%25b1%25e6%2595%2597%25e4%25ba%258b%25e4%25be%258b4%25e3%2581%25a4%25ef%25bc%2581%25e3%2582%25bb%25e3%2582%25ad%25e3%2583%25a5%25e3%2583%25aa%25e3%2583%2586%25e3%2582%25a3%25e4%25ba%258b%25e6%2595%2585",
+      "source": "AINOW",
+      "category": "AI"
+    },
+    {
+      "title": "Google basically confirms the Pixel 11 is getting a price hike",
+      "url": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+      "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+      "source": "TechCrunch AI",
+      "category": "Industry"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Ruff v0.16.0",
+      "url": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "Local alternative to Kling AI 3.0 Motion Control (ComfyUI, 16GB VRAM)",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v6ibi8/local_alternative_to_kling_ai_30_motion_control/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "CoderDojo Nada(灘) プログラミング勉強会（オンライン参加）",
+      "url": "https://coderdojo-nada.doorkeeper.jp/events/197986",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "第6回（旧5回)CoderDojo 南会津（最寄駅：会津田島駅）",
+      "url": "https://coderdojo-minamiaizu.doorkeeper.jp/events/196200",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

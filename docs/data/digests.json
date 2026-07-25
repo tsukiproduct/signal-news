@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-07-26_morning-ai-news-digest-2026-07-26",
+      "date": "2026-07-26",
+      "file_key": "2026-07-26_morning",
+      "title": "AI技術の進展と課題：ゲーム、規制、エージェント失敗、イベント",
+      "summary": "海外の高品質ゲーム、AI規制反対運動、エージェント失敗事例、プロンプトツール新バージョン、地域イベントなど、AI関連ニュースを解説。",
+      "tags": [
+        "AI技術",
+        "規制",
+        "エージェント",
+        "プロンプト",
+        "イベント"
+      ],
+      "slug": "ai-news-digest-2026-07-26"
+    },
+    {
       "id": "2026-07-25_afternoon-ai-tech-2026-summer",
       "date": "2026-07-25",
       "file_key": "2026-07-25_afternoon",
@@ -410,22 +425,7 @@
         "社会的影響"
       ],
       "slug": "english-slug"
-    },
-    {
-      "id": "2026-07-04_morning-ai-latest-developments-and-applications",
-      "date": "2026-07-04",
-      "file_key": "2026-07-04_morning",
-      "title": "AIの最新動向と応用事例",
-      "summary": "AI技術の進展がアクションカメラや業務自動化、画像生成など多方面で影響を与えている。GoProの復活やClaude Codeの活用が注目され、実用的な応用例も増加している。",
-      "tags": [
-        "AI",
-        "技術",
-        "自動化",
-        "画像生成",
-        "イベント"
-      ],
-      "slug": "ai-latest-developments-and-applications"
     }
   ],
-  "updated_at": "2026-07-25T06:26:09.828653+00:00"
+  "updated_at": "2026-07-25T22:46:34.668681+00:00"
 }
