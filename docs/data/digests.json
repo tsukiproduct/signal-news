@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-07-26_evening-ai-latest-trends-practice",
+      "date": "2026-07-26",
+      "file_key": "2026-07-26_evening",
+      "title": "AI技術の最新動向と実践的活用法",
+      "summary": "AIはエンタメ・マーケティング・自動車まで幅広く浸透し、画像生成や自然言語処理の進化が注目される中、過剰宣伝への警鐘も鳴る。",
+      "tags": [
+        "AI",
+        "テクノロジー",
+        "イベント"
+      ],
+      "slug": "ai-latest-trends-practice"
+    },
+    {
       "id": "2026-07-26_afternoon-ai-shinkisen-practical",
       "date": "2026-07-26",
       "file_key": "2026-07-26_afternoon",
@@ -412,20 +425,7 @@
         "イベント"
       ],
       "slug": "ai-weekly-report-2026"
-    },
-    {
-      "id": "2026-07-05_morning-ai-weekly-trends",
-      "date": "2026-07-05",
-      "file_key": "2026-07-05_morning",
-      "title": "AIニュースで読み解く今週の動向",
-      "summary": "ホラーゲームの炎上、NASAの救援ミッション、GoogleのAI広告まで。AIニュースで捉える今週のキーポイントを解説します。",
-      "tags": [
-        "AIニュース",
-        "テクノロジー",
-        "イベント"
-      ],
-      "slug": "ai-weekly-trends"
     }
   ],
-  "updated_at": "2026-07-26T06:43:24.232501+00:00"
+  "updated_at": "2026-07-26T11:52:42.177755+00:00"
 }
