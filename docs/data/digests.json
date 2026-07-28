@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-07-28_evening-apple-upgrade-ai-trends-july-28",
+      "date": "2026-07-28",
+      "file_key": "2026-07-28_evening",
+      "title": "AppleのリースサービスとAIトレンドの7月28日総まとめ",
+      "summary": "Appleの新サービス「Upgrade」やAI画像生成、イベント情報を網羅解説",
+      "tags": [
+        "Apple",
+        "AIリース",
+        "画像生成AI",
+        "セキュリティ",
+        "イベント"
+      ],
+      "slug": "apple-upgrade-ai-trends-july-28"
+    },
+    {
       "id": "2026-07-26_evening-ai-latest-trends-practice",
       "date": "2026-07-26",
       "file_key": "2026-07-26_evening",
@@ -410,22 +425,7 @@
         "ビジネス応用"
       ],
       "slug": "ai-tech-trends-2026"
-    },
-    {
-      "id": "2026-07-05_evening-ai-weekly-report-2026",
-      "date": "2026-07-05",
-      "file_key": "2026-07-05_evening",
-      "title": "AIニュースと技術トレンドの週次レポート",
-      "summary": "2026年7月7日から8日のAIニュースと技術トレンドを解説。ケーキ販売、スマホ値上げ、EC診断イベントなどを網羅。",
-      "tags": [
-        "AI技術",
-        "スマホ市場",
-        "EC診断",
-        "生成AI",
-        "イベント"
-      ],
-      "slug": "ai-weekly-report-2026"
     }
   ],
-  "updated_at": "2026-07-26T11:52:42.177755+00:00"
+  "updated_at": "2026-07-28T12:30:17.181396+00:00"
 }
