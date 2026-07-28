@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "2026-07-29_morning-ai-development-safety-and-regulation",
+      "date": "2026-07-29",
+      "file_key": "2026-07-29_morning",
+      "title": "AI開発ペース調整呼び掛けと安全技術の最前線",
+      "summary": "AI開発のペース調整求む声、安全技術の進展、生成AIの活用事例を一挙解説。",
+      "tags": [
+        "AI規制",
+        "生成AI",
+        "セキュリティ",
+        "イベント"
+      ],
+      "slug": "ai-development-safety-and-regulation"
+    },
+    {
       "id": "2026-07-28_evening-apple-upgrade-ai-trends-july-28",
       "date": "2026-07-28",
       "file_key": "2026-07-28_evening",
@@ -410,22 +424,7 @@
         "ナレッジマネジメント"
       ],
       "slug": "ai-education-team-limits-mechanical-turk-end"
-    },
-    {
-      "id": "2026-07-05_evening-ai-tech-trends-2026",
-      "date": "2026-07-05",
-      "file_key": "2026-07-05_evening",
-      "title": "2026年のAI技術革新と主要イベントを解説",
-      "summary": "2026年のAI技術革新と主要イベントを解説。チップ税、予測市場、画像生成AIなどの動向を紹介。",
-      "tags": [
-        "AI技術",
-        "予測市場",
-        "画像生成AI",
-        "イベント",
-        "ビジネス応用"
-      ],
-      "slug": "ai-tech-trends-2026"
     }
   ],
-  "updated_at": "2026-07-28T12:30:17.181396+00:00"
+  "updated_at": "2026-07-28T22:53:53.092245+00:00"
 }

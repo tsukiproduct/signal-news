@@ -1,0 +1,159 @@
+{
+  "id": "2026-07-29_morning-ai-development-safety-and-regulation",
+  "file_key": "2026-07-29_morning",
+  "date": "2026-07-29",
+  "generated_at": "2026-07-28T22:53:53.091393+00:00",
+  "title": "AI開発ペース調整呼び掛けと安全技術の最前線",
+  "slug": "ai-development-safety-and-regulation",
+  "summary": "AI開発のペース調整求む声、安全技術の進展、生成AIの活用事例を一挙解説。",
+  "tags": [
+    "AI規制",
+    "生成AI",
+    "セキュリティ",
+    "イベント"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "AI技術の急速な進展に伴い、その安全性や規制に関する議論も熱を帯びています。OpenAIやAnthropicの従業員らが開発ペースの調整を求める公開書簡を発表したほか、生成AIによるセキュリティリスクや創作表現の可能性も注目されています。今回はこれらの話題を中心に、AIの現状と今後の動向を探ります。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "OpenAIやGoogleなどのAI研究者1000人以上が、AI開発のペース調整を求める公開書簡を発表しました。これまでのように技術開発を優先するアプローチではなく、安全性や倫理的な側面を重視する時期が来たというメッセージが込められています。特に、AIが自律的に行動するリスクや、社会への影響を最小限に抑えるためには、開発速度をコントロールすることが不可欠であるとの意見が多数派を占めています。このような呼び掛けは、政府や企業に対しても新たな規制やガイドラインの必要性を示唆しています。",
+      "source_title": "OpenAIやAnthropicなどの従業員、米政府に「AI開発のペース調整を」と提言",
+      "source_url": "https://www.itmedia.co.jp/news/article/2607/29/2000000255/"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "アニメ「ナルト」の名シーンをAIで再現した動画がRedditで話題を呼んでいます。投稿者はStable Diffusionを使用して、マダラ・ウチハの「現実に目を覚ます」シーンを忠実に再現。AIによる映像生成技術の進化が改めて実感できます。",
+      "source_title": "I Recreated Madara Uchiha's \"Wake Up to Reality\" Scene Using AI",
+      "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1v9bnt0/i_recreated_madara_uchihas_wake_up_to_reality/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "暗号弱点探索アシスタント",
+      "prompt_body": "あなたはセキュリティアナリストです。次のPythonコードの暗号実装に潜む脆弱性を分析し、潜在的な攻撃ベクトルを指摘してください。コード：{コードをここに入力}",
+      "prompt_usecase": "コードレビューやセキュリティ訓練に活用。AIが発見した脆弱性は参考情報として利用する。",
+      "prompt_source": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "HackerNewsで「AIと機械学習の基本」が話題に。223ポイントを超える評価を獲得し、AI初学者向けの入門コンテンツとして注目を集めています。",
+      "source_title": "AI and Machine Learning – The Basics",
+      "source_url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "7月29日にオンライン開催されるAI関連セミナーが2件予定されています。1つはOTセキュリティ運用に関する実践的な議論、もう1つはAIエッジサーバーの設置に関する技術的課題について学ぶことができます。",
+      "event_list": [
+        {
+          "title": "予防的セキュリティ態勢を実現する現場視点のOTセキュリティ運用",
+          "date": "2026-07-29",
+          "place": "オンライン",
+          "url": "https://majisemi-security.doorkeeper.jp/events/198073"
+        },
+        {
+          "title": "コンパクト設計・高信頼モデル・用途別構成で考える、現場に合ったAIエッジ導入",
+          "date": "2026-07-29",
+          "place": "オンライン",
+          "url": "https://majisemi-manufacturing.doorkeeper.jp/events/198052"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "生成AIの画像・動画生成技術は、マーケティングや広告業界で大きな可能性を秘めています。例えば、商品のプロモーションビデオやソーシャルメディア用コンテンツを迅速に作成でき、従来は多くの時間とコストがかかっていた制作プロセスを効率化できます。また、AIエージェントによるコードレビューは、開発チームの生産性向上とセキュリティ強化にもつながります。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "AI開発のペース調整に関する議論が深まる中、政府や企業の規制対応が注目されます。また、生成AIによる創作活動の拡大に伴い、著作権や倫理に関する新たな議論も予想されます。今後の動向を注視していく必要があります。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "The US is banning foreign robots",
+      "url": "https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "eBay’s bizarre cyberstalking saga ends with a $56 million settlement",
+      "url": "https://www.theverge.com/tech/972209/ebay-cyberstalking-harassment-settlement",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "ANA新「ポケモンジェット」公開！ 機体下の”隠しギミック”が胸熱だった",
+      "url": "https://ascii.jp/elem/000/004/422/4422894/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "OpenAIやAnthropicなどの従業員、米政府に「AI開発のペース調整を」と提言",
+      "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000255/",
+      "source": "ITmedia News",
+      "category": "Tech"
+    },
+    {
+      "title": "OpenAI Rogue Agent Hacked Account at a Second Firm, Reuters Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/openai-rogue-agent-hacked-account-at-a-second-firm-reuters-says",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Discovering cryptographic weaknesses with Claude",
+      "url": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "I Recreated Madara Uchiha's \"Wake Up to Reality\" Scene Using AI",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v9bnt0/i_recreated_madara_uchihas_wake_up_to_reality/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "工場の可視化・セキュリティ製品を導入したのに被害を防げないのはなぜか 〜予防的セキュリティ態勢を実現する現場視点のOTセキュリティ運用を解説〜",
+      "url": "https://majisemi-security.doorkeeper.jp/events/198073",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "装置の近くや内部に置きたいAIエッジサーバー・PC、設置スペースは十分ですか？ ～コンパクト設計・高信頼モデル・用途別構成で考える、現場に合ったAIエッジ導入～",
+      "url": "https://majisemi-manufacturing.doorkeeper.jp/events/198052",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
