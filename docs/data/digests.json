@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-07-29_afternoon-ai-tech-weekly-update-2026",
+      "date": "2026-07-29",
+      "file_key": "2026-07-29_afternoon",
+      "title": "AIとテクノロジーの最新動向：ADB制限からDeepFake対策まで",
+      "summary": "AndroidのADB制限、画像生成AIの問題、イベント情報を解説するAI/Technology総合ニュース",
+      "tags": [
+        "AI",
+        "Android",
+        "画像生成AI",
+        "イベント",
+        "開発者"
+      ],
+      "slug": "ai-tech-weekly-update-2026"
+    },
+    {
       "id": "2026-07-29_morning-ai-development-safety-and-regulation",
       "date": "2026-07-29",
       "file_key": "2026-07-29_morning",
@@ -409,22 +424,7 @@
         "ビジネス活用"
       ],
       "slug": "ai-semiconductor-boom-research-trends-20260707"
-    },
-    {
-      "id": "2026-07-06_morning-ai-education-team-limits-mechanical-turk-end",
-      "date": "2026-07-06",
-      "file_key": "2026-07-06_morning",
-      "title": "富裕層のAI教育・チーム限界30人・MTurk終了",
-      "summary": "AI教育格差と組織運営の限界、クラウドソーシング終了が示すAI時代の労働変容",
-      "tags": [
-        "AI教育",
-        "組織設計",
-        "労働市場",
-        "生成AI開発",
-        "ナレッジマネジメント"
-      ],
-      "slug": "ai-education-team-limits-mechanical-turk-end"
     }
   ],
-  "updated_at": "2026-07-28T22:53:53.092245+00:00"
+  "updated_at": "2026-07-29T06:43:10.889020+00:00"
 }

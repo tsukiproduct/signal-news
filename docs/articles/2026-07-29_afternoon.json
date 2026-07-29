@@ -1,0 +1,160 @@
+{
+  "id": "2026-07-29_afternoon-ai-tech-weekly-update-2026",
+  "file_key": "2026-07-29_afternoon",
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T06:43:10.888273+00:00",
+  "title": "AIとテクノロジーの最新動向：ADB制限からDeepFake対策まで",
+  "slug": "ai-tech-weekly-update-2026",
+  "summary": "AndroidのADB制限、画像生成AIの問題、イベント情報を解説するAI/Technology総合ニュース",
+  "tags": [
+    "AI",
+    "Android",
+    "画像生成AI",
+    "イベント",
+    "開発者"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "AI技術の進化と同時に、プライバシー問題や開発者への影響が顕在化しています。本日は、Android開発ツールADBの制限検討、画像生成AIにおけるDeepFake問題、そして開発者向けイベント情報を中心に、最新トレンドを解説します。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "AndroidでADB（Android Debug Bridge）の機能制限が検討されています。ADBは開発者がアプリのテストやシステム操作を行うための重要ツールであり、近い将し、一部機能が制限される可能性があります。これは開発者コミュニティに大きな影響を及ぼす可能性があり、Shizukuやlibadbなどのサードパーティツールへの対応が求められています。",
+      "source_title": "Androidがデバイス内ADBを制限する可能性あり、Shizuku・libadbなど開発者に影響か",
+      "source_url": "https://gigazine.net/news/20260729-adb-may-restrict/"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "Hugging FaceがAIモデルプラットフォームでありがたくない問題が発覚。女性や子どもの無断ヌード画像を生成するために悪用されていることが確認され、予防措置の不足が指摘されています。画像生成AIの発展は同時に、倫理的・法的リスクも顕在化していることを示しています。",
+      "source_title": "Hugging Faceは女性や子どもの無断ヌード画像生成に使われており予防措置が講じられていないとの調査結果",
+      "source_url": "https://gigazine.net/news/20260729-hugging-face-ai-nudify-deepfake-children/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "暗号弱点診断用プロンプト",
+      "prompt_body": "Analyze this cryptographic implementation for potential vulnerabilities: [code snippet]. Look for weak random number generation, improper key derivation, timing attacks, and side-channel vulnerabilities. Provide specific recommendations for improvement.",
+      "prompt_usecase": "AIを活用して暗号コードの脆弱性を検出し、セキュリティ強化の具体策を提案する。",
+      "prompt_source": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "HackerNewsで話題のAI情報として、Simon WillisonがClaudeを活用して暗号学的弱点を発見する事例が注目を集めています。AIが専門家の作業を補完し、セキュリティ分野でも応用可能性が広がることが示されました。また、AIという言葉の使い方についての議論も興味深い展開となっています。",
+      "source_title": "Discovering cryptographic weaknesses with Claude / Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "source_url": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "7月29日（水）開催の汎用AIを超えた「特化型AIエージェント」開発セミナーが注目。KICONIA WORKS流の要件定義と自動化手法を学べる内容となっています。また、7月30日には「面従腹背」を避けた現場の巻き込み方を学ぶイベントも開催されます。",
+      "event_list": [
+        {
+          "title": "汎用AIでは届かない『本丸業務』を自動化する ～KICONIA WORKS流・特化型AIエージェント開発と要件定義の極意～",
+          "date": "2026-07-29",
+          "place": "オンライン",
+          "url": "https://skillupai.doorkeeper.jp/events/197997"
+        },
+        {
+          "title": "人もお金も無駄にしない、変革を成功に導く5つのスイッチ 〜『面従腹背』を作らない現場の巻き込み方〜",
+          "date": "2026-07-30",
+          "place": "オンライン",
+          "url": "https://majisemi-sales.doorkeeper.jp/events/198101"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "AIエージェントを活用した業務自動化は、従来の汎用AIよりも高いパフォーマンスを発揮します。特化型エージェントは特定の業務プロセスに最適化され、要件定義の精度が向上すれば、労働コスト削減と品質向上が同時に実現できます。IT導入費用対効果化を図るためには、現場の業務プロセスを正確に把握し、AIエージェントの設計範囲を設定することが重要です。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "画像生成AIの倫理的課題が深まる中、開発者向けツールの変化に注目が集まっています。ADB制限のようなAndroid側の対策も、AIツールの活用範囲を緩める可能性を孕んでいます。今後は、技術的な進化と同時に、プラットフォーム側の責任体制が求められる重要性が増してくるでしょう。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Androidがデバイス内ADBを制限する可能性あり、Shizuku・libadbなど開発者に影響か",
+      "url": "https://gigazine.net/news/20260729-adb-may-restrict/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "2〜3時間ひんやり続く、“極冷”ネッククーラー 3980円",
+      "url": "https://ascii.jp/elem/000/004/423/4423144/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "ブラザー、メーカー整備の「再生プリンター」発売 1万4438円から",
+      "url": "https://ascii.jp/elem/000/004/423/4423143/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "トヨタ 福岡県の3工場 31日まで稼働停止 地震の影響で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015189681000",
+      "source": "NHK テクノロジー",
+      "category": "AI"
+    },
+    {
+      "title": "TOTOがリコール中の温水洗浄便座で火災事故",
+      "url": "https://ascii.jp/elem/000/004/423/4423129/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Discovering cryptographic weaknesses with Claude",
+      "url": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "Hugging Faceは女性や子どもの無断ヌード画像生成に使われており予防措置が講じられていないとの調査結果",
+      "url": "https://gigazine.net/news/20260729-hugging-face-ai-nudify-deepfake-children/",
+      "source": "Gigazine",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "7/29(水)16:00- 【大好評セミナーを再配信！】汎用AIでは届かない「本丸業務」を自動化する ～KICONIA WORKS流・「特化型AIエージェント」開発と要件定義の極意～",
+      "url": "https://skillupai.doorkeeper.jp/events/197997",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "人もお金も無駄にしない、変革を成功に導く5つのスイッチ 〜「面従腹背」を作らない現場の巻き込み方〜",
+      "url": "https://majisemi-sales.doorkeeper.jp/events/198101",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
