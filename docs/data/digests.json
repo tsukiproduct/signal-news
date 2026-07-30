@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "2026-07-30_afternoon-ai-technology-diverse-movements",
+      "date": "2026-07-30",
+      "file_key": "2026-07-30_afternoon",
+      "title": "AI技術の多様な動きと実用性の探求",
+      "summary": "AI技術の最新動向から画像生成、イベント、実用応用までを包括的に解説。技術の進化と社会への影響をバランスよく取り上げる。",
+      "tags": [
+        "AI",
+        "Image Generation",
+        "Events",
+        "Practical Applications"
+      ],
+      "slug": "ai-technology-diverse-movements"
+    },
+    {
       "id": "2026-07-29_afternoon-ai-tech-weekly-update-2026",
       "date": "2026-07-29",
       "file_key": "2026-07-29_afternoon",
@@ -410,21 +424,7 @@
         "イベント"
       ],
       "slug": "english-slug"
-    },
-    {
-      "id": "2026-07-07_morning-ai-semiconductor-boom-research-trends-20260707",
-      "date": "2026-07-07",
-      "file_key": "2026-07-07_morning",
-      "title": "AI半導体好調と最新研究・ツール動向",
-      "summary": "サムスン決算好調、ブロードコム・アップル契約延長、最新AI研究・ツール動向を解説",
-      "tags": [
-        "AI半導体",
-        "生成AI",
-        "機械学習",
-        "ビジネス活用"
-      ],
-      "slug": "ai-semiconductor-boom-research-trends-20260707"
     }
   ],
-  "updated_at": "2026-07-29T06:43:10.889020+00:00"
+  "updated_at": "2026-07-30T06:35:31.193580+00:00"
 }
