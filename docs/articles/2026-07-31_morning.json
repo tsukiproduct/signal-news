@@ -1,0 +1,160 @@
+{
+  "id": "2026-07-31_morning-ai-weekly-brief-2026-07-30",
+  "file_key": "2026-07-31_morning",
+  "date": "2026-07-31",
+  "generated_at": "2026-07-30T22:58:53.306286+00:00",
+  "title": "AI開発、投資、規制、イベントまで一周",
+  "slug": "ai-weekly-brief-2026-07-30",
+  "summary": "AI開発の規制呼びかけ、クラウド投資の熱狂、AIスロップ対策、AppleのAI課金などを一振りまとめ。",
+  "tags": [
+    "AI規制",
+    "AI投資",
+    "AIビジネス",
+    "画像生成",
+    "イベント"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "AI開発の速さに懸念が広がり、OpenAIやAnthropicの関係者らが米政府にペース調整を求める声が上がりました。一方で、クラウド大手のデータセンター投資は止まらず、投資家は依然としてAIに熱を入れています。LinkedInはAIスロップ投稿の報告機能を追加し、ユーザーの不信感に対応。AppleはAI利用上限を有料で拡張する可能性を示唆し、新たなビジネスモデルの模索が進んでいます。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "OpenAIやAnthropicのスタッフらが署名した声明は、AI開発の急速な進展に対する「規制や安全対策の必要性」を政府に訴ねるものです。彼らの主張は、技術革新を鈍化させるのではなく、社会がついていけるペースで進めることの重要性を強調しています。この動きは、AIの民主化と安全性のバランスを問うグローバルな議論の一端を反映しており、今後の政策決定に大きな影響を与える可能性があります。",
+      "source_title": "OpenAI and Anthropic staffers sign call for US to pace AI development",
+      "source_url": "https://www.bloomberg.com/news/newsletters/2026-07-30/openai-and-anthropic-staffers-sign-call-for-us-to-pace-ai-development"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "StableDiffusionコミュニティで注目されたのは、LoRAを一切使用せずにリアルな画像を生成できる「Krea 2」の活用事例です。Redditで広まったこの手法は、AIアートの民主化を進一歩押し進める動きで、専門知識がなくても高品質なビジュアルコンテンツを作成できる可能性を示しています。",
+      "source_title": "Krea 2 realistic images with zero loras.",
+      "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1vb62d4/krea_2_realistic_images_with_zero_loras/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "政策分析レポート生成",
+      "prompt_body": "以下のテーマについて、政策専門家の視点から論評付きアウトラインを作成してください：{テーマ}。識者の引用を含め、将来のリスクと対策を列挙してください。",
+      "prompt_usecase": "AI規制やセキュリティ関連のレポート作成や講義準備に活用できます。Bruce Schneier教授の指摘を参考に、「教えること」ではなく「考えること」を促すプロンプト設計が鍵です。",
+      "prompt_source": "https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "HackerNewsで大きな反響を呼んだのは、「すべてをAIと呼ぶのをやめろ」という提言です。MLのパイオニアたちは、AIという言葉の濫用によって技術そのものの信頼が低下していると指摘し、正確な用語使用の重要性を訴えました。",
+      "source_title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "source_url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "7月31日、オンラインと渋谷でそれぞれ開催されるイベントに注目です。サプライチェーンリスクの可視化と改善に関するセミナー、およびAI時代の組織心理学をテーマにしたマネジメント3.0ワークショップが予定されています。",
+      "event_list": [
+        {
+          "title": "サプライチェーンリスク可視化のアプローチ",
+          "date": "2026-07-31",
+          "place": "オンライン",
+          "url": "https://majisemi-security.doorkeeper.jp/events/198189"
+        },
+        {
+          "title": "マネジメント3.0基礎ワークショップ",
+          "date": "2026-07-31",
+          "place": "渋谷 ジェイフィール ホール",
+          "url": "https://management30-nuworks.doorkeeper.jp/events/195257"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "AI開発のペース調整を求める動きは、企業がリスク管理や倫理的開発をより重視する時期到来を示しています。同時に、AppleのAI課金モデルの検討は、AIサービスの収益化戦略の多様化を象徴しており、特にB2C向けAIツールのビジネスプランを模索する企業にとってヒントになるでしょう。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "AI開発の規制強化呼びかけ、クラウド投資の冷え込まなさ、AIスロップ問題への対応、そしてAppleのAI課金モデル検討……。今週の動向は、技術進展と社会受容の間を取りもつめで、今後のAI政策やビジネスモデルに大きな転換が起こり得る時期です。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "OpenAI and Anthropic staffers sign call for US to pace AI development",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-07-30/openai-and-anthropic-staffers-sign-call-for-us-to-pace-ai-development",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "Investors love AI, as long as you’re a cloud host",
+      "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+      "source": "TechCrunch AI",
+      "category": "Industry"
+    },
+    {
+      "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+      "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "Spencer Stuart’s Citrin on Apple’s CEO Succession Plan",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-30/spencer-stuart-s-citrin-on-apple-s-ceo-succession-plan-video",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Quoting Bruce Schneier",
+      "url": "https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "Krea 2 realistic images with zero loras.",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1vb62d4/krea_2_realistic_images_with_zero_loras/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "サプライチェーンリスク、なぜ可視化したのに改善が進まないのか ～無数の公開資産から優先対応先を特定するアプローチ～",
+      "url": "https://majisemi-security.doorkeeper.jp/events/198189",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "【対面】 ２日間  マネジメント3.0 基礎ワークショップAI時代に求められる組織心理学に基づく、世界標準のよい組織づくり、週休3日のマネジメント（国際認定が取得可能）",
+      "url": "https://management30-nuworks.doorkeeper.jp/events/195257",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

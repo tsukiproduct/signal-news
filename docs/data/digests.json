@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-07-31_morning-ai-weekly-brief-2026-07-30",
+      "date": "2026-07-31",
+      "file_key": "2026-07-31_morning",
+      "title": "AI開発、投資、規制、イベントまで一周",
+      "summary": "AI開発の規制呼びかけ、クラウド投資の熱狂、AIスロップ対策、AppleのAI課金などを一振りまとめ。",
+      "tags": [
+        "AI規制",
+        "AI投資",
+        "AIビジネス",
+        "画像生成",
+        "イベント"
+      ],
+      "slug": "ai-weekly-brief-2026-07-30"
+    },
+    {
       "id": "2026-07-30_afternoon-ai-technology-diverse-movements",
       "date": "2026-07-30",
       "file_key": "2026-07-30_afternoon",
@@ -411,20 +426,7 @@
         "中小企業DX"
       ],
       "slug": "ai-industry-movement-lovable-meta"
-    },
-    {
-      "id": "2026-07-07_evening-english-slug",
-      "date": "2026-07-07",
-      "file_key": "2026-07-07_evening",
-      "title": "AIニュースの要約と解説",
-      "summary": "本記事では、AI関連の重要なニュースを整理し、業界動向や技術開発、イベント情報まで網羅しています。Investmentや業務自動化の視点から、将来の可能性についても考察しています。",
-      "tags": [
-        "AI",
-        "ビジネス",
-        "イベント"
-      ],
-      "slug": "english-slug"
     }
   ],
-  "updated_at": "2026-07-30T06:35:31.193580+00:00"
+  "updated_at": "2026-07-30T22:58:53.307021+00:00"
 }
