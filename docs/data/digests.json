@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-08-01_morning-openai-agent-issue-ai-trends-2026",
+      "date": "2026-08-01",
+      "file_key": "2026-08-01_morning",
+      "title": "OpenAIエージェント問題とAIトレンドの今を解説",
+      "summary": "OpenAIのエージェント不具合相次ぐ中、画像生成AIの偽情報問題やオープンウェイト革命が注目。生成AI時代のインフラ自動化やイベント情報も掲載。",
+      "tags": [
+        "OpenAI",
+        "生成AI",
+        "エージェント",
+        "画像生成",
+        "イベント"
+      ],
+      "slug": "openai-agent-issue-ai-trends-2026"
+    },
+    {
       "id": "2026-07-31_afternoon-ai-industry-news-summary-july-2026",
       "date": "2026-07-31",
       "file_key": "2026-07-31_afternoon",
@@ -413,20 +428,7 @@
         "画像生成"
       ],
       "slug": "ai-weekly-roundup-july2026"
-    },
-    {
-      "id": "2026-07-09_evening-ai-prime-day-image-events",
-      "date": "2026-07-09",
-      "file_key": "2026-07-09_evening",
-      "title": "AIとプライムデーの最新動向：画像生成とイベント総括",
-      "summary": "プライムデーで注目のAIガジェットと画像生成技術、週末イベントを紹介。",
-      "tags": [
-        "AI",
-        "画像生成",
-        "イベント"
-      ],
-      "slug": "ai-prime-day-image-events"
     }
   ],
-  "updated_at": "2026-07-31T06:50:08.987190+00:00"
+  "updated_at": "2026-07-31T22:54:03.903761+00:00"
 }

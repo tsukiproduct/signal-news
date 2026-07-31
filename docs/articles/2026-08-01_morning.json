@@ -1,0 +1,160 @@
+{
+  "id": "2026-08-01_morning-openai-agent-issue-ai-trends-2026",
+  "file_key": "2026-08-01_morning",
+  "date": "2026-08-01",
+  "generated_at": "2026-07-31T22:54:03.903009+00:00",
+  "title": "OpenAIエージェント問題とAIトレンドの今を解説",
+  "slug": "openai-agent-issue-ai-trends-2026",
+  "summary": "OpenAIのエージェント不具合相次ぐ中、画像生成AIの偽情報問題やオープンウェイト革命が注目。生成AI時代のインフラ自動化やイベント情報も掲載。",
+  "tags": [
+    "OpenAI",
+    "生成AI",
+    "エージェント",
+    "画像生成",
+    "イベント"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "2026年7月下旬、AI業界はOpenAIのエージェント不具合問題が続く中、Googleの地球画像生成AIロールバックや、オープンウェイトモデルの革新が進んでいます。一方、生成AIを巡る健全化の議論が活発化し、同時にIaC・CI/CD導入の重要性が注目されています。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "OpenAIは徐々にエージェント不具合の拡大を認めており、生成AIシステムの自己制御機構の限界を露呈しています。一方、Googleは偽造画像の懸念からAI生成ツールの一部を一時停止。一方で、Simon Willisonが語る「オープンウェイト」モデルの革命は、生成AIの民主化を促し、企業の技術戦略に大きな影響を与えています。",
+      "source_title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "source_url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "Googleが偽造画像の懸念からAI画像生成機能をロールバックしたことは、生成AIの社会的リスクが顕在化したサインです。画像検証技術や透明性の確保が今後の重要課題となります。",
+      "source_title": "Google Rolls Back Earth AI Tool Over Concern About Fake Images",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-07-31/google-rolls-back-earth-ai-tool-over-concern-about-fake-images"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "プロダクトデモ用プロンプト",
+      "prompt_body": "Create a sleek, modern product demonstration video showing a smartphone with holographic interface projections. Include smooth transitions, ambient lighting, and subtle UI animations. Style: futuristic, clean, professional. Duration: 30 seconds.",
+      "prompt_usecase": "生成AIで製品デモ用の動画を効率的に作成。マーケティング資料やプレゼンテーションに最適。",
+      "prompt_source": "https://simonwillison.net/2026/Jul/31/oxide-and-friends/"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "HackerNewsで話題の「AIと機械学習の基本」解説記事は、初学者に優しく実践的な内容を提供。一方、機械学習の専門家が「Everything AI」と呼ぶべきでない議論を提示し、AIの表記化に対する懸念が再燃しています。",
+      "source_title": "AI and Machine Learning – The Basics",
+      "source_url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "生成AI時代のインフラ自動化に関するディスカッションや、歴史学習にAIを活用したオンライン講座が開催されています。",
+      "event_list": [
+        {
+          "title": "生成AI時代のインフラ自動化、その設計で本番運用まで耐えられますか？",
+          "date": "2026-08-04",
+          "place": "オンライン",
+          "url": "https://majisemi-operation.doorkeeper.jp/events/198191"
+        },
+        {
+          "title": "諸葛孔明の実像 ― 虚像・史実・信仰、そして\"発明家\"としての孔明",
+          "date": "2026-08-02",
+          "place": "オンライン",
+          "url": "https://history-x-science.doorkeeper.jp/events/198141"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "生成AIを活用する際は、エージェントシステムの監視と制御を徹底し、不具合発生時の対応プロトコルを事前に構築しましょう。また、画像生成AIは偽造リスクがあるため、出力物にデジタル署名や訓練データの透明表示を行うことで、ユーザー信頼を維持できます。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "エージェント型AIの信頼性確保と、生成AIの倫理的ガバナンスが主要課題に。オープンソースモデルの台頭により、企業は自社データでの微調整や、自律システムの設計に注力する必要があります。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "source": "TechCrunch AI",
+      "category": "Industry"
+    },
+    {
+      "title": "【今日から】最大4万円分お得な「PayPay商品券」キャンペーン 2026年8月受付開始分",
+      "url": "https://ascii.jp/elem/000/004/423/4423948/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "【今日から】最大30％ポイント還元！PayPay自治体キャンペーン 2026年8月開始分",
+      "url": "https://ascii.jp/elem/000/004/423/4423945/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC",
+      "url": "https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "US Stocks Rally To End Turbulent Month | The Close 7/31/2026",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-31/the-close-7-31-2026-video",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Oxide and Friends: The Open Weight Revolution with Simon Willison",
+      "url": "https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "Google Rolls Back Earth AI Tool Over Concern About Fake Images",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-31/google-rolls-back-earth-ai-tool-over-concern-about-fake-images",
+      "source": "Bloomberg Tech",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "諸葛孔明の実像 ― 虚像・史実・信仰、そして\"発明家\"としての孔明",
+      "url": "https://history-x-science.doorkeeper.jp/events/198141",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "生成AI時代のインフラ自動化、その設計で本番運用まで耐えられますか？ ～IaC・CI/CD導入で破綻しないためのプロジェクト設計と導入ステップ～",
+      "url": "https://majisemi-operation.doorkeeper.jp/events/198191",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
