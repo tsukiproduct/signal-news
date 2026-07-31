@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-07-31_afternoon-ai-industry-news-summary-july-2026",
+      "date": "2026-07-31",
+      "file_key": "2026-07-31_afternoon",
+      "title": "AI業界ニュース11本で読み解く、技術とビジネスの最前線",
+      "summary": "AI関連ニュース11本を分析し、産業動向・技術革新・イベント情報を網羅的に解説する特集記事",
+      "tags": [
+        "AIニュース",
+        "生成AI",
+        "イベント",
+        "プロンプト",
+        "画像生成"
+      ],
+      "slug": "ai-industry-news-summary-july-2026"
+    },
+    {
       "id": "2026-07-31_morning-ai-weekly-brief-2026-07-30",
       "date": "2026-07-31",
       "file_key": "2026-07-31_morning",
@@ -411,22 +426,7 @@
         "イベント"
       ],
       "slug": "ai-prime-day-image-events"
-    },
-    {
-      "id": "2026-07-09_morning-ai-industry-movement-lovable-meta",
-      "date": "2026-07-09",
-      "file_key": "2026-07-09_morning",
-      "title": "AI產業動向：Lovable資本調達とMeta次世代ウェアラブルが注目",
-      "summary": "AI企業の資金調達とウェアラブル技術の進化を解説。画像生成AIと中小企業向けイベント情報も掲載。",
-      "tags": [
-        "AI資本調達",
-        "ウェアラブル技術",
-        "画像生成AI",
-        "イベント",
-        "中小企業DX"
-      ],
-      "slug": "ai-industry-movement-lovable-meta"
     }
   ],
-  "updated_at": "2026-07-30T22:58:53.307021+00:00"
+  "updated_at": "2026-07-31T06:50:08.987190+00:00"
 }

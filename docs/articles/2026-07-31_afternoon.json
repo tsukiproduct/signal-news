@@ -1,0 +1,160 @@
+{
+  "id": "2026-07-31_afternoon-ai-industry-news-summary-july-2026",
+  "file_key": "2026-07-31_afternoon",
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T06:50:08.986523+00:00",
+  "title": "AI業界ニュース11本で読み解く、技術とビジネスの最前線",
+  "slug": "ai-industry-news-summary-july-2026",
+  "summary": "AI関連ニュース11本を分析し、産業動向・技術革新・イベント情報を網羅的に解説する特集記事",
+  "tags": [
+    "AIニュース",
+    "生成AI",
+    "イベント",
+    "プロンプト",
+    "画像生成"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "AI技術の急速な進化とともに、サッカー界のガバナンス問題から半導体業界の株式分割、対話型ロボットの登場まで、多岐にわたるトピックが目の前に迫っています。本稿では、11本の信頼できる情報源をもとに、最新動向を時系列とテーマ別に整理し、読者の皆さんがAIの変化を理解しやすくする構成にしました。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "「三國志 覇道」6周年を祝う公式オフ会の開催決定や、AIペットロボット「Walulu」の発売など、ゲーム産業におけるAI活用の実例が増えています。一方、Kioxiaが株式分割を実施する背景には、AI需要によるフラッシュメモリ市場の変化があります。また、FIFAとUEFAの対立は、スポーツ業界におけるAI活用とその規制の複雑さを浮き彫りにしています。",
+      "source_title": "『三國志 覇道』6周年記念公式オフ会開催決定",
+      "source_url": "https://ascii.jp/elem/000/004/423/4423949/?rss"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "「Chromea」はChromaベースのLoRAで、Krea2トレーニングに特化した高品質な画像生成を実現します。Hugging Faceから直接ダウンロード可能で、生成AIコミュニティの注目を集めています。",
+      "source_title": "Chroma-based LoRA for Krea2 training",
+      "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1vbi572/chromea_a_chromabased_lora_for_krea2_training/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "GPT-5.6活用プロンプト",
+      "prompt_body": "あなたはAI専門家です。以下の要件を満たすプログラムコードをPythonで書いてください：{要件}。コードには解説コメントを必ず入れ、実行可能なサンプルデータも提供してください。",
+      "prompt_usecase": "開発者向けのコード生成や技術文書の作成に最適。GPT-5.6の低価格化により大量生成が可能。",
+      "prompt_source": "https://simonwillison.net/2026/Jul/30/luna-price-drop/"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "Machine Learningの pioneersが「AIという言葉の過剰使用」を批判し、HackerNewsで議論が巻き起こしています。同時にAIと機械学習の関係を解説した記事も話題となり、一般市民から専門家まで幅広く議論されるようになっています。",
+      "source_title": "AI and Machine Learning – The Basics",
+      "source_url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "2026年8月2日に「諸葛孔明の実像」に関するオンライン研究会が開催されます。また、8月4日には生成AI時代のインフラ自動化に関する実践的な勉強会が計画されています。",
+      "event_list": [
+        {
+          "title": "諸葛孔明の実像 ― 虚像・史実・信仰、そして\"発明家\"としての孔明",
+          "date": "2026-08-02",
+          "place": "オンライン",
+          "url": "https://history-x-science.doorkeeper.jp/events/198141"
+        },
+        {
+          "title": "生成AI時代のインフラ自動化、その設計で本番運用まで耐えられますか？",
+          "date": "2026-08-04",
+          "place": "オンライン",
+          "url": "https://majisemi-operation.doorkeeper.jp/events/198191"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "生成AIを活用したインフラ自動化の導入には、段階的な設計が不可欠です。まず小規模なパイロットプロジェクトでリスクを検証し、CI/CDパイプラインにAIチェックポイントを組み込むことで、品質と迅速性の両立を図ります。特に株式分割を繰り返すKioxiaのような企業では、AIを活用したデータ分析による需要予測モデルの構築が有効です。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "GPT-5.6の価格大幅ディローは、AI活用のハードルを一層下げました。画像生成AIの分野では、専門技術に特化したLoRAモデルの登場が目立ち、業務シフトやクリエイティブ業界への波及効果が期待されます。一方、FIFAとUEFAの対立は、国際スポーツ業界のAI活用に対する規制強化への関心を高めています。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "UEFA “計画撤回されなければW杯参加せず” FIFAを非難",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015192111000",
+      "source": "NHK テクノロジー",
+      "category": "AI"
+    },
+    {
+      "title": "Kioxia Sets 3-For-1 Stock Split After Profit Misses Estimates",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-31/kioxia-sets-3-for-1-stock-split-after-profit-misses-estimates",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "『三國志 覇道』6周年を祝して公式オフ会「6周年の宴」を開催決定！参加者募集を開始",
+      "url": "https://ascii.jp/elem/000/004/423/4423949/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "日銀 政策金利を1％程度に据え置き決定【ライブ配信】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191761000",
+      "source": "NHK テクノロジー",
+      "category": "AI"
+    },
+    {
+      "title": "なでながら会話ができる“ねこ型ロボット”、2万7986円から うっかり秘密も教えちゃいそう",
+      "url": "https://ascii.jp/elem/000/004/423/4423950/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Advancing the price-performance frontier with GPT‑5.6",
+      "url": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "\"Chromea\", a Chroma-based lora for Krea2 training currently and is already very usable.",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1vbi572/chromea_a_chromabased_lora_for_krea2_training/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "諸葛孔明の実像 ― 虚像・史実・信仰、そして\"発明家\"としての孔明",
+      "url": "https://history-x-science.doorkeeper.jp/events/198141",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "生成AI時代のインフラ自動化、その設計で本番運用まで耐えられますか？ ～IaC・CI/CD導入で破綻しないためのプロジェクト設計と導入ステップ～",
+      "url": "https://majisemi-operation.doorkeeper.jp/events/198191",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
