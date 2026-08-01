@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-08-01_afternoon-africa-ai-datacenters-deepseek-v4-flash",
+      "date": "2026-08-01",
+      "file_key": "2026-08-01_afternoon",
+      "title": "アフリカがAIデータセンターの新フロンティアに、DeepSeek新モデルも登場",
+      "summary": "アフリカがAIデータセンターの要に。DeepSeek新モデル公開、生成AI動画の進化、インフラ自動化イベントも注目。",
+      "tags": [
+        "AIインフラ",
+        "データセンター",
+        "動画生成",
+        "LLM",
+        "生成AI運用"
+      ],
+      "slug": "africa-ai-datacenters-deepseek-v4-flash"
+    },
+    {
       "id": "2026-08-01_morning-openai-agent-issue-ai-trends-2026",
       "date": "2026-08-01",
       "file_key": "2026-08-01_morning",
@@ -412,23 +427,7 @@
         "業界トレンド"
       ],
       "slug": "ai-senzyaku-to-katsuyo-tsukutsu"
-    },
-    {
-      "id": "2026-07-09_evening-ai-weekly-roundup-july2026",
-      "date": "2026-07-09",
-      "file_key": "2026-07-09_evening",
-      "title": "AI年次振り返りから音楽制作まで、多角化が進む週間まとめ",
-      "summary": "Claude Wrapped、Character.AIの縦動画、FL StudioのAIアシスタントなど、AIサービスの多角化と実用化が加速",
-      "tags": [
-        "AI",
-        "Claude",
-        "Character.AI",
-        "音楽制作",
-        "半導体",
-        "画像生成"
-      ],
-      "slug": "ai-weekly-roundup-july2026"
     }
   ],
-  "updated_at": "2026-07-31T22:54:03.903761+00:00"
+  "updated_at": "2026-08-01T06:36:54.097379+00:00"
 }
