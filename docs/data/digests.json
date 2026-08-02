@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-08-02_evening-yen-stabilization-ai-technology",
+      "date": "2026-08-02",
+      "file_key": "2026-08-02_evening",
+      "title": "円安是正とAI技術最前線",
+      "summary": "円安是正の協調介入とAIツール・イベント紹介",
+      "tags": [
+        "AI",
+        "円安",
+        "テクノロジー",
+        "イベント",
+        "プロンプト"
+      ],
+      "slug": "yen-stabilization-ai-technology"
+    },
+    {
       "id": "2026-08-01_afternoon-africa-ai-datacenters-deepseek-v4-flash",
       "date": "2026-08-01",
       "file_key": "2026-08-01_afternoon",
@@ -412,22 +427,7 @@
         "規制"
       ],
       "slug": "apple-sues-openai-fcc-dji-crackdown"
-    },
-    {
-      "id": "2026-07-10_evening-ai-senzyaku-to-katsuyo-tsukutsu",
-      "date": "2026-07-10",
-      "file_key": "2026-07-10_evening",
-      "title": "AIの最新動向と活用術",
-      "summary": "2026年7月のAI関連動向を解説。セキュリティツールの割引、クリエイティブAI活用、イベント情報を中心に、実用的な活用法を解説。",
-      "tags": [
-        "AIセキュリティ",
-        "クリエイティブAI",
-        "イベント",
-        "プロンプト",
-        "業界トレンド"
-      ],
-      "slug": "ai-senzyaku-to-katsuyo-tsukutsu"
     }
   ],
-  "updated_at": "2026-08-01T06:36:54.097379+00:00"
+  "updated_at": "2026-08-02T11:51:15.760094+00:00"
 }

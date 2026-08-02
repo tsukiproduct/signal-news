@@ -1,0 +1,160 @@
+{
+  "id": "2026-08-02_evening-yen-stabilization-ai-technology",
+  "file_key": "2026-08-02_evening",
+  "date": "2026-08-02",
+  "generated_at": "2026-08-02T11:51:15.759413+00:00",
+  "title": "円安是正とAI技術最前線",
+  "slug": "yen-stabilization-ai-technology",
+  "summary": "円安是正の協調介入とAIツール・イベント紹介",
+  "tags": [
+    "AI",
+    "円安",
+    "テクノロジー",
+    "イベント",
+    "プロンプト"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "円安是正の協調介入が日米で実施され、AI技術の進化と注目が高まっています。教育現場ではブラウザベースのコーディングツール「Trinket」が無料開放され、誰でも手軽にプログラミング学習が可能に。生成AIの画像・動画生成も急速に進化し、LTX2.3などの最新モデルが注目されています。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "政府と日銀が円安是正のために行った異例の協調介入は、通貨市場の安定だけでなく、AI活用企業の投資判断にも影響を与えます。円高回復期に、技術革新を促す政策が企業のDX推進を後押しし、特に教育現場では「Trinket」のようなブラウザで直接コード実行できる環境が無料化され、学習機会が拡大しています。また、最新の生成AIモデル「LTX2.3」は高品質な動画生成を実現し、ビジュアルコンテンツ制作の効率化に寄与しています。",
+      "source_title": "Open letters about AI development",
+      "source_url": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "Redditの r/StableDiffusion に投稿された「Me today (LTX2.3)」は、LTX2.3 と ComfyUI のワークフローテンプレートで作成された短い動画です。高度なテキストから動画生成が可能となり、クリエイターの表現範囲が広がる新たなツールとして注目されています。",
+      "source_title": "Me today (LTX2.3)",
+      "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1vdfkj9/me_today_ltx23/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "毎日カレンダー",
+      "prompt_body": "日次スケジュールを時間帯ごとのブロックとして可視化し、ToDo項目と実行時間を紐付けます。 dayGLANCE と連携し、Android アプリや StreamDeck でも同期可能です。",
+      "prompt_usecase": "会議やタスクの所要時間を見える化し、生産性向上に活用してください。",
+      "prompt_source": "https://gigazine.net/news/20260802-dayglance/"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "HackerNews に掲載された「AI and Machine Learning – The Basics」は、機械学習の基本概念と実装例を分かりやすく解説し、初学者に役立つ資料として高評価を得ています。一方、機械学習の第一人者が「Everything is AI」という過剰な表現を批判する投稿が話題になり、AIという言葉の適切な使用が求められています。",
+      "source_title": "AI and Machine Learning – The Basics",
+      "source_url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "8月4日（オンライン）の「生成AI時代のインフラ自動化、設計で本番運用できるか？」と8月5日（オンライン）の「母性の知性、日本の叡智 〜AI時代に問う、日本社会の本質的価値〜」は、AI導入におけるインフラ設計と倫理的視点を学べる無料イベントです。",
+      "event_list": [
+        {
+          "title": "生成AI時代のインフラ自動化、その設計で本番運用まで耐えられますか？ ～IaC・CI/CD導入で破綻しないためのプロジェクト設計と導入ステップ～",
+          "date": "2026-08-04",
+          "place": "オンライン",
+          "url": "https://majisemi-operation.doorkeeper.jp/events/198191"
+        },
+        {
+          "title": "【無料】 母性の知性、日本の叡智 〜AI時代に問う、日本社会の本質的価値〜",
+          "date": "2026-08-05",
+          "place": "オンライン",
+          "url": "https://sustainableq.doorkeeper.jp/events/198134"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "日次スケジュールを視覚的に管理する dayGLANCE を活用すれば、業務の優先順位や所要時間を瞬時に把握でき、プロジェクトの進捗をチーム全体で共有しやすくなります。併せて、生成AIで作成したビジュアル素材をプレゼン資料に組み込むことで、提案の説得力が向上し、営業・マーケティングの効率が向上します。さらに、日々の業務ログを AI で分析し、無駄を自動抽出することで、業務改善の具体的な施策を立案できます。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "円安是正の政策効果と同時に、AI ツールの democratization が進み、教育・中小企業でも低コストで高付加価値なコンテンツ制作が可能に。今後はインフラ自動化と倫理的ガバナンスのバランスがビジネス成功の鍵となります。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "円安是正へ日米が異例の協調介入 3日に日米共同の声明発表へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015194291000",
+      "source": "NHK テクノロジー",
+      "category": "AI"
+    },
+    {
+      "title": "Python・HTMLなどをブラウザ上で直接実行でき教室向けに作られたブラウザベースのコーディングプラットフォーム「Trinket」、閉鎖予定だったがオープンソースで無料化されて継続",
+      "url": "https://gigazine.net/news/20260802-trinket/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "浴衣姿にキュン死するかも!? 新海まきが「職場の恋愛」をテーマにした5th DVDリリース",
+      "url": "https://ascii.jp/elem/000/004/423/4423161/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "無料で毎日の予定やルーチンを視覚的なブロック配置で把握しNextCloud・WebDAV・Obsidianなどで同期＆AI連携・歩数記録・専用Androidアプリ・StreamDeckの双方向完全連携も可能な「dayGLANCE」、アカウント登録不要でセルフホストも可能",
+      "url": "https://gigazine.net/news/20260802-dayglance/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "憧れの“プロ級スペック”ゲーミングモニター、買っちゃいました。320Hzヌルヌル画面で、目が喜んじゃうよ〜",
+      "url": "https://ascii.jp/elem/000/004/422/4422621/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Open letters about AI development",
+      "url": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "Me today (LTX2.3)",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1vdfkj9/me_today_ltx23/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "生成AI時代のインフラ自動化、その設計で本番運用まで耐えられますか？ ～IaC・CI/CD導入で破綻しないためのプロジェクト設計と導入ステップ～",
+      "url": "https://majisemi-operation.doorkeeper.jp/events/198191",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "【無料】 母性の知性、日本の叡智 〜AI時代に問う、日本社会の本質的価値〜",
+      "url": "https://sustainableq.doorkeeper.jp/events/198134",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
