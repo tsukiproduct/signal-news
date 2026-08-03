@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-08-04_morning-ai-weekly-trends-2026",
+      "date": "2026-08-04",
+      "file_key": "2026-08-04_morning",
+      "title": "AIと市場・生活・イベントで見る今週のトレンド",
+      "summary": "株価高、ホラー音声の心理、日傘技術、ポイントキャンペーン、予測市場、AI基礎、イベント情報を解説",
+      "tags": [
+        "AI",
+        "市場",
+        "テクノロジー",
+        "イベント",
+        "予測市場"
+      ],
+      "slug": "ai-weekly-trends-2026"
+    },
+    {
       "id": "2026-08-02_evening-yen-stabilization-ai-technology",
       "date": "2026-08-02",
       "file_key": "2026-08-02_evening",
@@ -412,22 +427,7 @@
         "ビジネス"
       ],
       "slug": "ai-and-lifestyle-sim-and-events"
-    },
-    {
-      "id": "2026-07-11_morning-apple-sues-openai-fcc-dji-crackdown",
-      "date": "2026-07-11",
-      "file_key": "2026-07-11_morning",
-      "title": "AppleがOpenAI提訴、FCCはDJI規制強化",
-      "summary": "AppleがOpenAIを企業秘密窃盗で提訴。FCCはDJIのフロント企業を追及。SKハイニックス上場でAI半導体需要を確信。",
-      "tags": [
-        "Apple",
-        "OpenAI",
-        "訴訟",
-        "半導体",
-        "規制"
-      ],
-      "slug": "apple-sues-openai-fcc-dji-crackdown"
     }
   ],
-  "updated_at": "2026-08-02T11:51:15.760094+00:00"
+  "updated_at": "2026-08-03T22:56:04.985114+00:00"
 }

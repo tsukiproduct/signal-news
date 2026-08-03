@@ -1,0 +1,160 @@
+{
+  "id": "2026-08-04_morning-ai-weekly-trends-2026",
+  "file_key": "2026-08-04_morning",
+  "date": "2026-08-04",
+  "generated_at": "2026-08-03T22:56:04.984368+00:00",
+  "title": "AIと市場・生活・イベントで見る今週のトレンド",
+  "slug": "ai-weekly-trends-2026",
+  "summary": "株価高、ホラー音声の心理、日傘技術、ポイントキャンペーン、予測市場、AI基礎、イベント情報を解説",
+  "tags": [
+    "AI",
+    "市場",
+    "テクノロジー",
+    "イベント",
+    "予測市場"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "先週末のNYダウが最高値を記録し、ホラー映画のBGMが普通の笑顔すら不気味に感じさせる研究が発表されました。コールマンの新日傘は高遮光・高UVカット素材を採用し、予測市場がプロ野球まで拡大、AIと機械学習の基礎や最新イベント情報も注目されています。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "先週末、ニューヨーク株式市場でダウ平均株価が最高値を記録し、トランプ大統領が計画していたイランへの大規模攻撃を中止したことが影響したとみられます。市場はリスク回避姿勢が緩み、投資家の関心が高まりました。同時に、ホラー映画のBGMが普通の表情すら不気味に映えるという研究結果が発表され、音声の心理的効果が注目されています。コールマンの新日傘はダークルーム技術を活かし、遮光率90％以上とUV遮断率99.99％を実現し、暑さ対策の新アイテムとして注目されています。これらの動向は、金融リスクの変化、感覚的体験の科学、アウトドア用品の技術革新、ポイント還元キャンペーンといった多岐にわたるAI・テクノロジーの応用を示唆しています。",
+      "source_title": "NYダウ最高値更新 中東情勢悪化の懸念和らぐ",
+      "source_url": "https://news.web.nhk/newsweb/na/na-k10015195501000"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "4060 Ti 16gb vram 128gb system ram の環境で、安定した画像生成が可能と報告されています。テスト結果は3分程度の処理時間で、実用的なワークフローの参考になります。",
+      "source_title": "Minimax H3 Test Standard Workflow",
+      "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1veoqem/minimax_h3_test_standard_workflow/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "夜間自動更新プロンプト",
+      "prompt_body": "毎晩0時にシステムを更新するcronジョブを設定し、指定リポジトリから最新コードをプルし、再ビルドしてデプロイする。",
+      "prompt_usecase": "サーバーの定期的なバージョン管理とデプロイを自動化し、最新コードの導入ミスを防止する。",
+      "prompt_source": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "HackerNewsで「AI and Machine Learning – The Basics」や「Stop Calling Everything AI, Machine-Learning Pioneer Says」などが話題になり、AIと機械学習の概念を正しく理解する重要性が再認識されています。",
+      "source_title": "AI and Machine Learning – The Basics",
+      "source_url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "8月4日と5日にオンラインで開催される2件のAI関連セミナーが注目されています。",
+      "event_list": [
+        {
+          "title": "インフラ自動化とIaC/CI‑CDで破綻を防ぐオンライン講演",
+          "date": "2026-08-04",
+          "place": "オンライン",
+          "url": "https://majisemi-operation.doorkeeper.jp/events/198191"
+        },
+        {
+          "title": "無料 母性の知性、日本の叡智 〜AI時代に問う、日本社会の本質的価値〜",
+          "date": "2026-08-05",
+          "place": "オンライン",
+          "url": "https://sustainableq.doorkeeper.jp/events/198134"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "予測市場は投資家や一般ユーザーが出来事の確率を価格で反映させる手法です。企業は市場価格を参考に新製品の需要予測やリスク評価に活用でき、特にプロ野球の観客動員や季節商品の在庫管理に有効です。さらに、AIと機械学習の基礎を理解すれば、業務プロセスの自動化やデータ分析の精度向上につながり、業務効率化と新規事業創出の基盤となります。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "株価の上昇とホラー音声の心理効果、次世代日傘の高機能素材、ポイント還元キャンペーン、予測市場の拡大、AI基礎知識の普及とオンライン講演がこの週の主要トレンドです。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "NYダウ最高値更新 中東情勢悪化の懸念和らぐ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195501000",
+      "source": "NHK テクノロジー",
+      "category": "AI"
+    },
+    {
+      "title": "ホラー映画のBGMを聴くと普通の笑顔でさえ不気味で恐ろしいと感じやすいとの研究結果",
+      "url": "https://gigazine.net/news/20260804-horror-soundtracks-smiles-feel-eerie/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "この日傘、テントの技術入りです！ コールマンの晴雨兼用モデルで猛暑対策",
+      "url": "https://ascii.jp/elem/000/004/424/4424447/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "ドコモの銀行、過去最大級「10億ポイント山分け」開始！ 既存ユーザーも参加できる方法は？",
+      "url": "https://ascii.jp/elem/000/004/424/4424427/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "プロ野球も対象に、急成長する「予測市場」 これは投資か、ギャンブルか",
+      "url": "https://ascii.jp/limit/group/ida/elem/000/004/424/4424385/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Quoting David Crawshaw's prompt",
+      "url": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "Minimax H3 Test Standard Workflow",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1veoqem/minimax_h3_test_standard_workflow/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "生成AI時代のインフラ自動化、その設計で本番運用まで耐えられますか？ ～IaC・CI/CD導入で破綻しないためのプロジェクト設計と導入ステップ～",
+      "url": "https://majisemi-operation.doorkeeper.jp/events/198191",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "【無料】 母性の知性、日本の叡智 〜AI時代に問う、日本社会の本質的価値〜",
+      "url": "https://sustainableq.doorkeeper.jp/events/198134",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
