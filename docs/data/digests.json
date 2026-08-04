@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-08-05_morning-ai-business-travel-trends",
+      "date": "2026-08-05",
+      "file_key": "2026-08-05_morning",
+      "title": "AIビジネスと旅行最前線、最新トレンド",
+      "summary": "AIデータセンターコンピューティング需要増、旅行ルール改定、AI概念誤用警告、生成AIツール、オンラインイベント情報を解説",
+      "tags": [
+        "AI",
+        "Data Center",
+        "Travel",
+        "Generative AI",
+        "Events"
+      ],
+      "slug": "ai-business-travel-trends"
+    },
+    {
       "id": "2026-08-04_morning-ai-weekly-trends-2026",
       "date": "2026-08-04",
       "file_key": "2026-08-04_morning",
@@ -414,20 +429,7 @@
         "イノベーション"
       ],
       "slug": "ai-daily-convenience-logistics-future"
-    },
-    {
-      "id": "2026-07-11_afternoon-ai-and-lifestyle-sim-and-events",
-      "date": "2026-07-11",
-      "file_key": "2026-07-11_afternoon",
-      "title": "AIと暮らし：格安SIM＆AIイベント",
-      "summary": "格安SIMでお得に通信を楽しみつつ、最新AIニュースとイベントを紹介。AI基礎から生成AI、ビジネス活用まで網羅的に解説。",
-      "tags": [
-        "AI",
-        "テクノロジー",
-        "ビジネス"
-      ],
-      "slug": "ai-and-lifestyle-sim-and-events"
     }
   ],
-  "updated_at": "2026-08-03T22:56:04.985114+00:00"
+  "updated_at": "2026-08-04T22:56:36.354543+00:00"
 }

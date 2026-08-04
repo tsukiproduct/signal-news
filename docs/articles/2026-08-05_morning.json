@@ -1,0 +1,160 @@
+{
+  "id": "2026-08-05_morning-ai-business-travel-trends",
+  "file_key": "2026-08-05_morning",
+  "date": "2026-08-05",
+  "generated_at": "2026-08-04T22:56:36.353929+00:00",
+  "title": "AIビジネスと旅行最前線、最新トレンド",
+  "slug": "ai-business-travel-trends",
+  "summary": "AIデータセンターコンピューティング需要増、旅行ルール改定、AI概念誤用警告、生成AIツール、オンラインイベント情報を解説",
+  "tags": [
+    "AI",
+    "Data Center",
+    "Travel",
+    "Generative AI",
+    "Events"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "AIデータセンター需要が急増し、AMDの収益が二割超え成長。一方で旅行ルールが2026年に大幅変更、モバイルバッテリーや機内持ち込みが注目される。AI概念の濫用を警告する声もあり、新規事業の経路依存認識が重要に。最新の生成AIツールや画像生成の話題、オンライン講演会も注目すべき要素だ。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "AMDは2026年第2四半期の決算で、データセンター部門の売上が前年比で120％超え、AIインフラ需要の高まりが主因となった。同社はRyzenやEPYCプロセッサを活用し、クラウドサービスやハイパースケール企業向けのAI計算プラットフォームを強化している。一方、ゲーム向けGPUの需要減少が顕在化し、収益構造のシフトが進んでいる。この変化は、AIチップ市場の競争激化と、クラウド需要の持続的拡大を示す指標といえる。",
+      "source_title": "AMD’s datacenter business is booming while gaming takes a backseat",
+      "source_url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "MiniMaxが新たに発表したH3モデルは、テキストから動画まで幅広く生成できる次世代マルチモーダルAIとして注目されており、Stable Diffusionコミュニティで「Back to the Dark Future H3」と称され、クリエイティブな映像制作に活用できる可能性が高い。これらのツールは、プロンプトエンジニアリングの進化とともに、コンテンツ制作の効率化を促進すると期待されている。",
+      "source_title": "Back to the Dark Future H3",
+      "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1vfmutr/back_to_the_dark_future_h3/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "Dark Future H3",
+      "prompt_body": "A dark, cinematic scene of a futuristic city at night, neon lights reflecting on wet streets, ultra‑realistic, 8K, dramatic lighting",
+      "prompt_usecase": "映像制作や広告用のシーン設定に活用",
+      "prompt_source": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "HackerNewsで話題となった「Stop Calling Everything AI」や、Stable Diffusionで生成された「Back to the Dark Future H3」画像がSNSで拡散し、AI概念の誤用と生成AIの創造性に注目が集まっている。",
+      "source_title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "source_url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "2026年8月5日にオンラインで開催される2つのAI関連セッションが注目される。",
+      "event_list": [
+        {
+          "title": "母性の知性、日本の叡智 〜AI時代に問う、日本社会の本質的価値〜",
+          "date": "2026-08-05",
+          "place": "オンライン",
+          "url": "https://sustainableq.doorkeeper.jp/events/198134"
+        },
+        {
+          "title": "Canva×生成AI スキマ時間で作るショート動画",
+          "date": "2026-08-05",
+          "place": "オンライン",
+          "url": "https://web-mining.doorkeeper.jp/events/198166"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "企業はAIデータセンター需要の高まりを受け、クラウドサービスやAIチップ導入を検討することでコスト効率を改善できる。同時に、2026年の旅行規制変化に備え、モバイルバッテリーの容量確保や機内持ち込みルールの確認を徹底し、リスクマネジメントに組み込む。さらに、MiniMax H3やStable Diffusionなどの最新生成AIツールを活用し、マーケティング素材や動画コンテンツの高速制作を実現すれば、競争優位を固めやすくなる。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "AIデータセンター需要の急拡大とAI概念の誤用警告が業界の焦点となり、同時に旅行規制の見直しとモバイル環境の変化が注目される。新規事業の経路依存認識と最新生成AIツールの活用が、企業の成長戦略に不可欠となる。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "AMD’s datacenter business is booming while gaming takes a backseat",
+      "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "夏休み旅行、大丈夫？ 知らないと困る「4つの新ルール」",
+      "url": "https://ascii.jp/elem/000/004/424/4424383/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "新規事業に必要なのは「やる気や能力」ではない。自社の経路依存を自覚せよ",
+      "url": "https://ascii.jp/elem/000/004/424/4424252/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "Returning to ARC",
+      "url": "https://www.alignmentforum.org/posts/vLFh8HP3hyNy9MCwe/returning-to-arc",
+      "source": "Alignment Forum",
+      "category": "Safety"
+    },
+    {
+      "title": "Coupang’s Losses Grow After Fallout From Data Breach Deepens",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-04/coupang-s-losses-grow-after-fallout-from-data-breach-deepens",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "PipeNetwork/minimax-h3-mlx",
+      "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "Back to the Dark Future H3",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1vfmutr/back_to_the_dark_future_h3/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "【無料】 母性の知性、日本の叡智 〜AI時代に問う、日本社会の本質的価値〜",
+      "url": "https://sustainableq.doorkeeper.jp/events/198134",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "【SNSマネージャー定例セッションvol.26】【Canva×生成AI】スキマ時間で作るショート動画",
+      "url": "https://web-mining.doorkeeper.jp/events/198166",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
