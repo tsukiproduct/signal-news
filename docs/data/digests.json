@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "2026-08-05_afternoon-ai-trends-japan-2026",
+      "date": "2026-08-05",
+      "file_key": "2026-08-05_afternoon",
+      "title": "AIトレンドと日本語AI活用の新地景「2026年8月」",
+      "summary": "AIニュース11本から、技術動向と日本での活用事例を解説。安全対策からイベント情報まで網羅",
+      "tags": [
+        "AIセキュリティ",
+        "プロンプトエンジニアリング",
+        "AIイベント",
+        "日本語AI活用"
+      ],
+      "slug": "ai-trends-japan-2026"
+    },
+    {
       "id": "2026-08-05_morning-ai-business-travel-trends",
       "date": "2026-08-05",
       "file_key": "2026-08-05_morning",
@@ -416,20 +430,7 @@
         "Business"
       ],
       "slug": "ai-landscape-legal-battles-speed-gains-no-code-growth"
-    },
-    {
-      "id": "2026-07-13_morning-ai-daily-convenience-logistics-future",
-      "date": "2026-07-13",
-      "file_key": "2026-07-13_morning",
-      "title": "AIと日常の便利術、物流・未来展望",
-      "summary": "AI技術が身近な生活や物流、製造業に活用され、今後の戦略やイノベーションが注目される。",
-      "tags": [
-        "AI",
-        "ロジスティクス",
-        "イノベーション"
-      ],
-      "slug": "ai-daily-convenience-logistics-future"
     }
   ],
-  "updated_at": "2026-08-04T22:56:36.354543+00:00"
+  "updated_at": "2026-08-05T06:34:28.225479+00:00"
 }
