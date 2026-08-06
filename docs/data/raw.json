@@ -1,7 +1,502 @@
 {
-  "fetched_at": "2026-08-05T22:50:54.954406+00:00",
-  "total": 198,
+  "fetched_at": "2026-08-06T06:36:56.148438+00:00",
+  "total": 206,
   "items": [
+    {
+      "id": "2ee8e886bf62",
+      "title": "ASRock、Intel Z890/B860マザーボード購入でゲーム1本がもらえるキャンペーン開始",
+      "url": "https://ascii.jp/elem/000/004/425/4425492/?rss",
+      "summary": "ASRockがIntel Z890 / B860シリーズマザーボード購入者向けに、3タイトルから1本を選べるゲームバンドルキャンペーンを2026年7月1日から2026年12月31日まで実施中。応募後にマスターキーが発行され、Intelサイトでゲーム引換えができる。",
+      "date": "2026-08-06T06:30:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "4e923765b871",
+      "title": "ドコモ1Q、モバイル通信は減収続くが……金融好調、全社の増益エンジンに",
+      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000424/",
+      "summary": "金融や動画配信などを束ねるスマートライフ事業が急成長し、増収増益を確保した。",
+      "date": "2026-08-06T06:13:46+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "4c853e91fc0c",
+      "title": "Googleからジェフ・ディーンら4人が独立してAIで技術革新をめざす「Discovery Loop」創業",
+      "url": "https://gigazine.net/news/20260806-google-jeff-dean-discovery-loop/",
+      "summary": "Google DeepMindでGeminiの開発などに携わったチーフサイエンティストのジェフ・ディーン氏が、Google DeepMindの退職と、AI関連のパブリックベネフィットコーポレーション「Discovery Loop」立ち上げを発表しました。続きを読む...",
+      "date": "2026-08-06T06:10:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "24aff674cbf6",
+      "title": "OpenAI Asks Judge to Toss Apple’s Trade Secrets Lawsuit",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-06/openai-asks-judge-to-toss-apple-suit-alleging-trade-secret-theft",
+      "summary": "OpenAI is asking a federal judge to dismiss a lawsuit filed by Apple Inc. accusing the artificial intelligence company of stealing trade secrets, saying that the iPhone maker’s allegations are meritless.",
+      "date": "2026-08-06T06:07:50+00:00",
+      "source": "Bloomberg Tech",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 2
+    },
+    {
+      "id": "45bce0c5a105",
+      "title": "ドコモ「ahamo」の30GB→40GBの増量の狙いは「お客さんの使い方を検証したい」",
+      "url": "https://ascii.jp/elem/000/004/425/4425501/?rss",
+      "summary": "NTTドコモは2026年度第1四半期（4～6月）決算説明会を開催。その中で、8月から「ahamo」の通信量を40GBに増量した件について問われ、その狙いを「お客さんの使い方を検証したい」と説明した。",
+      "date": "2026-08-06T06:05:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "29c4153c8f78",
+      "title": "WPP Profit Beats Analysts’ Estimates on Cost-Cutting Efforts",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-06/wpp-profit-beats-analysts-estimates-on-cost-cutting-efforts",
+      "summary": "WPP Plc reported first-half profits that beat analysts’ estimates, driven by the advertising agency’s cost-cutting efforts in a sluggish market.",
+      "date": "2026-08-06T06:02:08+00:00",
+      "source": "Bloomberg Tech",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 2
+    },
+    {
+      "id": "2b752bad3d0d",
+      "title": "約1.53kgでRTX 5070搭載 マウス「DAIV Z5」は持ち運べる高性能Copilot+ PC",
+      "url": "https://ascii.jp/elem/000/004/425/4425410/?rss",
+      "summary": "マウスコンピューターがDAIVブランドから15.3型Copilot+ PC「DAIV Z5」シリーズを8月6日15時に発売。RTX 5060/5070 Laptop GPU搭載の薄型軽量ノートとして、クリエイティブワークとAI機能を外出先でも支える内容だ。",
+      "date": "2026-08-06T06:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "f9006d4e7dd7",
+      "title": "Siemens Is Winning Customers in China, CEO Says",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-06/siemens-is-winning-customers-in-china-ceo-says-video",
+      "summary": "Siemens Chief Executive Officer Roland Busch says the company is \"very competitive\" in China, where the automation business is doing \"very well.\" He also comments on the data center business. Busch speaks on Bloomberg Television after Siemens raised ",
+      "date": "2026-08-06T05:55:50+00:00",
+      "source": "Bloomberg Tech",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 2
+    },
+    {
+      "id": "528c97813403",
+      "title": "TIME誌が人間とAIクローラーに異なるページを配信、AI向け広告も確認される",
+      "url": "https://gigazine.net/news/20260806-time-serve-ai-bot-different-website/",
+      "summary": "ニュース雑誌「TIME」が人間の読者には通常のウェブサイトを表示する一方で、一部のAIクローラーには広告入りの別バージョンを配信していることをソフトウェア開発者のヴィンセント・シュマルバッハ氏が確認しました。AI向けページは文章を処理しやすいMarkdown形式で作られており、人間向けページにはない広告も含まれているとのことです。続きを読む...",
+      "date": "2026-08-06T05:40:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "2750f2cb5621",
+      "title": "細菌と古細菌はそれぞれ独立して無生物から生物に進化した可能性",
+      "url": "https://gigazine.net/news/20260806-life-arose-non-living-matter-twice/",
+      "summary": "「地球最初の生命がどのように誕生したのか」は科学上の大きな謎となっており、生命の起源についてさまざまな説が提唱されています。新たに、生命にとって必要不可欠な「代謝」の起源について探った研究により、生命の主要な系統である細菌と古細菌はそれぞれ独立して非生物から生物へと進化した可能性があると示されました。続きを読む...",
+      "date": "2026-08-06T05:15:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "6bdf59bba663",
+      "title": "Gmail、他社メアドを送信元にできる機能を廃止へ",
+      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000421/",
+      "summary": "「維持に過剰なリソースを必要とする機能」だったため。",
+      "date": "2026-08-06T05:09:31+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "588cd1d207f2",
+      "title": "Cybersecurity firm Aura CEO on 2Q26 Results",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-06/cybersecurity-firm-aura-ceo-on-2q26-results-video",
+      "summary": "Hari Ravinchandran, Founder and CEO of cyber-security platform Aura, discusses his outlook for the company's growth at it reported a 27-percent year-on-year increase in pro forma revenue. He says the firm is on track to generate positive free cash fl",
+      "date": "2026-08-06T05:01:28+00:00",
+      "source": "Bloomberg Tech",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 2
+    },
+    {
+      "id": "c627e0663fa2",
+      "title": "Siemens Raises Outlook Again on Data Center, Software Gains",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-06/siemens-raises-earnings-outlook-on-software-data-center-gains",
+      "summary": "Siemens AG raised its earnings expectations for a second time this year on a surge in data center spending and higher returns from selling software to industry.",
+      "date": "2026-08-06T05:00:10+00:00",
+      "source": "Bloomberg Tech",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 2
+    },
+    {
+      "id": "680e19d0cbdf",
+      "title": "夏景色のシャッターチャンス！ 信州上田、8月の七夕まつりがノスタルジックで素敵！",
+      "url": "https://ascii.jp/elem/000/004/425/4425313/?rss",
+      "summary": "8月8日・9日、長野県上田市の海野町商店街が鮮やかな七夕飾りのカーテンに包まれます。昼は縁日で賑わい、夜は光と泡の幻想的な空間へ。どこか懐かしい日本の夏を、あなたも歩いてみませんか。特別な週末をここで。",
+      "date": "2026-08-06T05:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "26990573ca3e",
+      "title": "社内のユーザーやPCなどの端末情報を一元管理する「Active Directory」解説",
+      "url": "https://ascii.jp/elem/000/004/422/4422574/?rss",
+      "summary": "Active Directory（アクティブディレクトリ：「AD」と略される場合もある）は、社内のユーザーやPCなどの端末情報を一元管理し、ログイン時の本人確認（認証）やアクセス権の管理を容易にする仕組みです。本コラムでは、Active Directory の基本的な役割を「IT資産の名簿」と「通行証」に例えて解説します。",
+      "date": "2026-08-06T05:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "817ffee777c7",
+      "title": "Deutsche Telekom Raises Share Buyback By Up to €3 Billion",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-06/deutsche-telekom-raises-2026-share-buyback-by-up-to-3-billion",
+      "summary": "Deutsche Telekom AG, Europe’s biggest phone carrier, raised its share buyback program by as much as €3 billion ($3.5 billion) in 2026 after reporting second-quarter results in line with expectations.",
+      "date": "2026-08-06T04:49:07+00:00",
+      "source": "Bloomberg Tech",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 2
+    },
+    {
+      "id": "5b8b2274dbfe",
+      "title": "【本日から】セブン「アメリカンドッグ」117円セール！ 3日間限定",
+      "url": "https://ascii.jp/elem/000/004/425/4425409/?rss",
+      "summary": "セブン‐イレブンは本日8月6日～8日の期間、「アメリカンドッグ」と「からあげ棒」が30円引きになるセールを開催します。うれしい！",
+      "date": "2026-08-06T04:40:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "8681230a9d7f",
+      "title": "Pushing MiniMax H3 References to the limit",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1vgu4mi/pushing_minimax_h3_references_to_the_limit/",
+      "summary": "Prompt (first shot): <Subject 1> is the woman in <Picture 1>. <Subject 2> is the art style and general environment of <Picture 2> and <Picture 3>. <Subject 3> is the character in <Picture 4>. [Shot 1] The video starts with a side view of <Subject 1> ",
+      "date": "2026-08-06T04:31:18+00:00",
+      "source": "r/StableDiffusion",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
+    {
+      "id": "c6db99124e16",
+      "title": "Social Media Ban: How Do Limits For Children and Teens Work?",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-06/social-media-ban-how-do-limits-for-children-and-teens-work",
+      "summary": "Since Australia barred under-16s from using social media in late 2025, more than two dozen countries have either enacted their own bans or are weighing similar restrictions.",
+      "date": "2026-08-06T04:30:00+00:00",
+      "source": "Bloomberg Tech",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 2
+    },
+    {
+      "id": "615b20368702",
+      "title": "iPadも紙も書ける！ エレコムの2WAYペン「スタイラスツーウェイ」が登場",
+      "url": "https://ascii.jp/elem/000/004/425/4425377/?rss",
+      "summary": "エレコムがゼブラと共同開発した「スタイラスツーウェイ」を発売した。紙にもiPadにも使える2WAY仕様で、ペアリング不要、パームリジェクション対応、USB Type-C充電、約30分の急速充電などを備える。",
+      "date": "2026-08-06T04:30:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "766d62770b1a",
+      "title": "「プチプチ」の川上産業、「プチプチ株式会社」に社名変更 創業58年で",
+      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000419/",
+      "summary": "創業58年で初の社名変更という。",
+      "date": "2026-08-06T04:19:49+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "617dba6e0c28",
+      "title": "Character Swap with Minimax H3 in ComfyUI",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1vgtv04/character_swap_with_minimax_h3_in_comfyui/",
+      "summary": "submitted by /u/Repulsive-Rush3505 [link] [comments]",
+      "date": "2026-08-06T04:17:20+00:00",
+      "source": "r/StableDiffusion",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
+    {
+      "id": "b90154f03386",
+      "title": "貿易DXの普及・標準化を推進する「一般社団法人日本貿易DX協会」を設立",
+      "url": "https://ascii.jp/elem/000/004/425/4425488/?rss",
+      "summary": "貿易DXの普及・標準化を推進する「一般社団法人日本貿易DX協会」を設立",
+      "date": "2026-08-06T04:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "040bffb7a81e",
+      "title": "きょうのおはBiz 8月6日(木) 食料品 消費税1％ 今後の論点は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015197821000",
+      "summary": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けし…",
+      "date": "2026-08-06T03:58:18+00:00",
+      "source": "NHK テクノロジー",
+      "lang": "ja",
+      "category": "AI",
+      "priority": 2
+    },
+    {
+      "id": "414373bc8886",
+      "title": "アメリカの議員らが「山火事で賭けられるような予測市場を認めると放火を後押しする可能性がある」と警告",
+      "url": "https://gigazine.net/news/20260806-oregon-senator-requested-cftc-rein-prediction-market/",
+      "summary": "アメリカなどでは、現実の出来事を題材にして賭け事を行う「予測市場」が流行しています。こうした予測市場で山火事が題材になっているとして、山火事に悩まされるアメリカ・オレゴン州の上院議員らが規制を求めました。続きを読む...",
+      "date": "2026-08-06T03:43:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "74d95c23d2df",
+      "title": "欧州宇宙機関のウェブサイトが悪用されてGoogle検索結果に違法IPTVサービスを宣伝するPDFファイルが表示される",
+      "url": "https://gigazine.net/news/20260806-esa-pdf-iptv/",
+      "summary": "1975年にヨーロッパ各国が共同で設立した宇宙開発・研究機関である欧州宇宙機関(ESA)の公式ウェブサイトが悪用され、Google検索結果に怪しいIPTVサービスを宣伝する数百件のPDFファイルが表示されていたことが判明しました。続きを読む...",
+      "date": "2026-08-06T03:35:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "c6ac38727aef",
+      "title": "Microsoftが従業員によるAI利用を制限する動きに出る",
+      "url": "https://gigazine.net/news/20260806-ai-tokenmaxxing-microsoft/",
+      "summary": "AIの業務利用が盛んになるにつれ、一部の企業ではAIを大量に使用する従業員の評価を上げるという文化が成立しつつあります。そんな中、Microsoftが従業員に対して「AIを大量に使えばいいわけではない」とする忠告のメールを送ったことが分かりました。続きを読む...",
+      "date": "2026-08-06T03:25:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "dbeeb31dc518",
+      "title": "日本の政府機関かたるフィッシング、3カ月で991％増 iPhoneユーザー標的に ノートン調査",
+      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000417/",
+      "summary": "ウイルス対策ソフト「ノートン」を展開する米Genとその日本法人ノートンライフロックが、4?6月に確認した日本の政府機関をかたるフィッシング詐欺が1418件に上り、1?3月比で991％増加していると発表した。",
+      "date": "2026-08-06T03:23:05+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "e2de47251a1c",
+      "title": "MetaがMuse Spark 1.2を搭載したターミナルコーディングエージェント「Muse Code」べータ版をリリース",
+      "url": "https://gigazine.net/news/20260806-meta-muse-code/",
+      "summary": "Metaは2026年8月5日、ターミナル上で動作するコーディングエージェント「Muse Code」のベータ版と、その基盤モデル「Muse Spark 1.2」を発表しました。大規模なコードリポジトリを対象に、変更の計画、実装、検証までを一貫して処理し、長時間にわたる複雑なソフトウェア開発にも対応します。続きを読む...",
+      "date": "2026-08-06T03:21:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "b326546a0f3b",
+      "title": "株価 大きく値下がり 半導体関連銘柄中心に売り注文",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015198001000",
+      "summary": "6日の東京株式市場、このところ値上がりしていた半導体関連の銘柄を中心に当面の利益を確定しようという売り注文が広がり、日経平均株価は大きく値下がりしています。",
+      "date": "2026-08-06T03:14:00+00:00",
+      "source": "NHK テクノロジー",
+      "lang": "ja",
+      "category": "AI",
+      "priority": 2
+    },
+    {
+      "id": "5e61de0a63ef",
+      "title": "Google DeepMindのデミス・ハサビスがCEOを退任して会長になりAlphabetのチーフサイエンティストを兼任",
+      "url": "https://gigazine.net/news/20260806-demis-hassabis-gdm-chairman/",
+      "summary": "Alphabet傘下のAI開発企業・Google DeepMind(GDM)でCEOを務めていたデミス・ハサビス氏が退任して会長になることが発表されました。あわせて、ハサビス氏はAlphabetのチーフサイエンティストに就任。役職は変わるものの、今後もAI開発に携わっていくことになるようです。続きを読む...",
+      "date": "2026-08-06T03:12:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "cffe8edd3127",
+      "title": "太陽誘電、上方修正 AIサーバ向け好調 純益290億円、前期の約2倍",
+      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000416/",
+      "summary": "AIサーバ向けの大容量・高付加価値な積層セラミックコンデンサーなどが足下で好調。今後の需要増や円安などの影響も折り込んだ。",
+      "date": "2026-08-06T03:05:15+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "e353aaf572d0",
+      "title": "「高学力＝ストレスに耐えられる」ではない 秀才が苦しむ一方、収入・満足度が高いのは…… 医学生・医師1000人超を分析",
+      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000402/",
+      "summary": "ポーランドのグダニスク医科大学に所属する研究者が発表した論文「Why academic selection fails to protect against physician burnout: a brief research report from a 25-year longitudinal programme」は、医学部での成績や心理的特性と、卒業後の燃え尽き症候群（バーンアウト）や将来の生活の質などとの関連を分析した研究報告だ。",
+      "date": "2026-08-06T03:00:00+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "6edf2b516795",
+      "title": "任天堂、被災したSwitchなど無償修理 義援金5000万円も 熊本地震への支援策",
+      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000415/",
+      "summary": "任天堂は8月6日、「令和8年熊本地震」で被災した同社製品の修理を2027年2月1日まで無償で対応すると発表した。日本赤十字社を通じた義援金5000万円の寄付も表明した。",
+      "date": "2026-08-06T02:59:41+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "85cbbfeb25a9",
+      "title": "ローソン、「鍋さばきロボ」導入拡大 やきそば・チャーハンなどを高火力でスピード調理",
+      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000414/",
+      "summary": "ローソンは、300度超の高火力で炒め物を自動調理する「I-Robo 2」を首都圏3店に追加導入する。チャーハンや野菜炒めに加え焼きそばにも対応し、計13品を約1分半?2分半で提供する。",
+      "date": "2026-08-06T02:57:31+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "4fdb8694fbb0",
+      "title": "DeepSeek Plans ‘Significant’ Price Increase for AI Services",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-06/deepseek-plans-significant-price-increase-for-its-ai-services",
+      "summary": "DeepSeek plans to implement a significant price increase across its AI services, an unusual shift from the disruptive Chinese player that has put pressure on US and domestic rivals.",
+      "date": "2026-08-06T02:53:33+00:00",
+      "source": "Bloomberg Tech",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 2
+    },
+    {
+      "id": "8ceea88f4cf9",
+      "title": "コメ価格見通しを示す指数 過去最低に 民間在庫増の影響も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015197891000",
+      "summary": "向こう3か月のコメ価格の見通しを示す先月の指数が、3か月連続で低下し、過去最低となりました。民間の在庫量がこれまでで最も多く積み上がっていることが背景になります。",
+      "date": "2026-08-06T02:39:19+00:00",
+      "source": "NHK テクノロジー",
+      "lang": "ja",
+      "category": "AI",
+      "priority": 2
+    },
+    {
+      "id": "fb6fa76c8480",
+      "title": "Hey Lois, remember Sora 2? [MiniMax]",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1vgqsfe/hey_lois_remember_sora_2_minimax/",
+      "summary": "submitted by /u/son-of-chadwardenn [link] [comments]",
+      "date": "2026-08-06T01:50:29+00:00",
+      "source": "r/StableDiffusion",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
+    {
+      "id": "36e746806f96",
+      "title": "Starting the Buffy Memes; And How to Prompt for TV Shows in H3",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1vgpps4/starting_the_buffy_memes_and_how_to_prompt_for_tv/",
+      "summary": "So, I figured I would kick off some Buffy the Vampire Slayer meme generations with Minimax H3, while also giving a lesson in how to prompt for any TV show and character the model knows while also getting the correct character voice, all through just ",
+      "date": "2026-08-06T01:01:25+00:00",
+      "source": "r/StableDiffusion",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
+    {
+      "id": "c3db11850c07",
+      "title": "An AI model from Meta also hacked another company during testing",
+      "url": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything",
+      "summary": "An AI model from Meta also hacked another company during testing Stop me if you've heard this one before: An AI model from the parent company of Facebook and Instagram hacked into another company’s systems during cybersecurity testing, a spokesperson",
+      "date": "2026-08-06T00:25:27+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
+    {
+      "id": "e2be35c9d61c",
+      "title": "Elon Musk’s attempt at an AI Wikipedia hasn’t been updated in months",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+      "summary": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated since April 24th, according to a report from Lawfare. \"As far as we can t",
+      "date": "2026-08-06T00:25:10+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "18e77bb9a9fd",
+      "title": "Introducing Muse Code and Muse Spark 1.2",
+      "url": "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything",
+      "summary": "Introducing Muse Code and Muse Spark 1.2 Yet more evidence that the most important characteristic of any model these days is long-sequence agentic tool calling. Meta shipped their own coding agent as part of getting that to work! Muse Spark 1.2 is a ",
+      "date": "2026-08-05T23:58:35+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
+    {
+      "id": "c2c78fed74dc",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "url": "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything",
+      "summary": "Third-party cyber evaluations involving OpenAI models And another one. I had to create a accidental-cyberattacks tag to keep track of them all! This post from OpenAI covers both the UK AI Safety Institute attack (see my previous post) and another att",
+      "date": "2026-08-05T23:45:32+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
+    {
+      "id": "20095d3a9abf",
+      "title": "Incident Report: unsanctioned agent behaviour during cyber testing",
+      "url": "https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything",
+      "summary": "Incident Report: unsanctioned agent behaviour during cyber testing It happened again. This time it was the UK government's AI Security Institute who accidentally attacked other companies while running an evaluation with models with the safety filters",
+      "date": "2026-08-05T23:32:06+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
+    {
+      "id": "334d336fa53e",
+      "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
+      "url": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
+      "summary": "Baseboard management controllers from the world's biggest manufacturers are a security mess.",
+      "date": "2026-08-05T22:35:20+00:00",
+      "source": "Ars Technica",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
     {
       "id": "9956a069b7e3",
       "title": "X product chief Nikita Bier is leaving after one year",
@@ -10,94 +505,6 @@
       "date": "2026-08-05T22:19:55+00:00",
       "source": "The Verge",
       "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "9cd2b6bd3dd0",
-      "title": "Google DeepMindのデミス・ハサビスCEOが退任して会長に チーフサイエンティストのジェフ・ディーン氏は独立へ",
-      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000407/",
-      "summary": "Google DeepMindのCEOを務めてきたデミス・ハサビス氏が業務執行から退き、DeepMind会長兼Alphabetチーフサイエンティストに就任する。後任にはコーレイ・カブクチュオール氏が就く。また、チーフサイエンティストのジェフ・ディーン氏とGoogleシニアフェローのサンジェイ・ゲマワット氏が退社し、独立した公益法人を設立することも発表された。",
-      "date": "2026-08-05T22:08:01+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "3cc5d1e36b34",
-      "title": "宇宙の謎に挑むローマン望遠鏡に加わった、「惑星防衛」という使命",
-      "url": "https://ascii.jp/elem/000/004/425/4425267/?rss",
-      "summary": "8月末に打ち上げられるNASAのローマン宇宙望遠鏡は、ダークマターやダークエネルギーの謎に迫るために設計された。だが研究者チームは、この望遠鏡がもう一つの役割を果たせることに気づいた。地球に迫る小惑星の捜索だ。ハッブル宇宙望遠鏡の約100倍という広い視野と赤外線観測を生かせば、都市を破壊しうる天体を早期に見つけ出せる。",
-      "date": "2026-08-05T22:00:54+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "809c8d6a1879",
-      "title": "芝生を効率よく刈れる人とそうでない人の違いはどこにあるのか？",
-      "url": "https://gigazine.net/news/20260806-mow-a-lawn-better/",
-      "summary": "データを使ったインタラクティブな記事を公開するウェブメディア「The Pudding」が芝刈りを模した経路選択ゲームを開発し、3万人以上の参加者がどのように効率的なルートを見つけるのかを分析しました。参加者の移動経路や停止時間を記録した結果、最適解にたどり着いた人とそうでない人の行動に差があることがわかりました。続きを読む...",
-      "date": "2026-08-05T22:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "650c876baca6",
-      "title": "なぜahamoは40GBに増量したのか 見えてきたドコモの“本音”",
-      "url": "https://ascii.jp/elem/000/004/425/4425203/?rss",
-      "summary": "「ahamoの40GB化は、既存ユーザーの囲い込みではないか」ソフトバンク関係者はそうささやいた。",
-      "date": "2026-08-05T22:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "f1ccef629528",
-      "title": "折りたたみの日傘、小さいのは困る！ それなら「大きく」守れる晴雨兼用傘を選べ",
-      "url": "https://ascii.jp/elem/000/004/425/4425093/?rss",
-      "summary": "Amazon.co.jpでMIZUNOの日傘が売れています。ここでは折りたたみ時25cm、展開時107cmの「大きいサイズ」を紹介しましょう。",
-      "date": "2026-08-05T22:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "c50aa301f2c2",
-      "title": "「半固体」なら安心なの？ 私のモバイルバッテリー、飛行機に乗れますか",
-      "url": "https://ascii.jp/elem/000/004/424/4424185/?rss",
-      "summary": "モバイルバッテリーの次のトレンドは「半固体バッテリー」のようですが、そもそもどんな代物なんでしょうか？",
-      "date": "2026-08-05T22:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "6d387f27a00c",
-      "title": "ウェアラブルで早期発見、無線給電で治療。負担を減らす医療機器の新提案",
-      "url": "https://ascii.jp/elem/000/004/421/4421994/?rss",
-      "summary": "2026年7月14日に京都で開催された「HVC KYOTO 2026 Demo Day」では、採択されたファイナリスト12社によるピッチと基調講演が行われた。本記事ではメドテック部門のピッチから、医療現場や患者が抱える課題にデバイスと診断技術で取り組む5件の発表を紹介する。",
-      "date": "2026-08-05T22:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "bc33f6e06b8b",
-      "title": "ワークマン、実は画像生成AIを導入していた 間に合わない商品撮影を代替 アプリ通知開封も1.5倍",
-      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000370/",
-      "summary": "",
-      "date": "2026-08-05T22:00:00+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
       "category": "Tech",
       "priority": 2
     },
@@ -124,17 +531,6 @@
       "priority": 2
     },
     {
-      "id": "df6e8ea93072",
-      "title": "BNY’s Portney on Global Digital Transfer Agency Launch",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-05/bny-s-portney-on-global-digital-transfer-agency-launch-video",
-      "summary": "BNY has announced a new partnership with Galaxy Digital aimed at enhancing its digital asset infrastructure, reflecting the bank's ongoing commitment to expanding its presence in the digital asset space. Emily Portney, BNY's Global Head of Asset Serv",
-      "date": "2026-08-05T21:45:55+00:00",
-      "source": "Bloomberg Tech",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 2
-    },
-    {
       "id": "75bc4765ccd1",
       "title": "NYダウ 3日連続最高値 ホルムズ海峡開放への期待感から",
       "url": "https://news.web.nhk/newsweb/na/na-k10015197701000",
@@ -143,17 +539,6 @@
       "source": "NHK テクノロジー",
       "lang": "ja",
       "category": "AI",
-      "priority": 2
-    },
-    {
-      "id": "8a7c453dedfd",
-      "title": "PsiQuantum CEO on Quantum Computing Progress, Chip Space",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-05/psiquantum-ceo-on-quantum-computing-progress-chip-space-video",
-      "summary": "Victor Peng, CEO of PsiQuantum, detailed the company's unique approach to quantum computing, emphasizing their use of photons as qubits and their deep expertise in photonics. He explained that their architecture inherently addresses challenges such a",
-      "date": "2026-08-05T21:27:40+00:00",
-      "source": "Bloomberg Tech",
-      "lang": "en",
-      "category": "Industry",
       "priority": 2
     },
     {
@@ -168,39 +553,6 @@
       "priority": 1
     },
     {
-      "id": "ec4bede8bcae",
-      "title": "男性ホルモンのテストステロン値は高すぎても低すぎてもうつ病のリスクが高いとの研究結果",
-      "url": "https://gigazine.net/news/20260806-high-low-testosterone-depression/",
-      "summary": "男性ホルモンであるテストステロンは、値が低いとうつ病の発症リスクが高いと考えられてきました。しかし、イギリスの大規模な健康データベース「UKバイオバンク」に登録された男性13万3733人を対象とした研究では、テストステロン値が同年代の平均より低い男性だけでなく、平均より高い男性もうつ病の発症リスクが高いことが示されました。続きを読む...",
-      "date": "2026-08-05T21:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "f6f3b0e009ca",
-      "title": "Starboard Reveals Shake Shack Stake | Bloomberg Deals 8/5/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-05/bloomberg-deals-8-5-2026-video",
-      "summary": "A weekly, midday program that delivers high-impact, editorially driven coverage of the most important corporate transactions shaping the global market. Today's guests: Starboard CEO Jeff Smith, Salesforce Ventures Managing Director Emily Zhao, Dell T",
-      "date": "2026-08-05T20:58:40+00:00",
-      "source": "Bloomberg Tech",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 2
-    },
-    {
-      "id": "9c701139c3b1",
-      "title": "Meta Debuts AI Coding Agent in Race With OpenAI and Anthropic",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-05/meta-debuts-ai-coding-agent-in-race-with-openai-and-anthropic",
-      "summary": "Meta Platforms Inc. Chief Executive Officer Mark Zuckerberg announced the release of the company’s first AI coding agent, known as Muse Code, stepping up competition with OpenAI and Anthropic PBC.",
-      "date": "2026-08-05T20:33:34+00:00",
-      "source": "Bloomberg Tech",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 2
-    },
-    {
       "id": "e4b6533db5f1",
       "title": "ホンダ 地震で生産に影響 部品メーカーの復旧状況見て再開判断",
       "url": "https://news.web.nhk/newsweb/na/na-k10015197541000",
@@ -209,28 +561,6 @@
       "source": "NHK テクノロジー",
       "lang": "ja",
       "category": "AI",
-      "priority": 2
-    },
-    {
-      "id": "e4b71a6778db",
-      "title": "EBay Reports Strong Results, Says It Paid More to Acquire Depop",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-05/ebay-reports-second-quarter-sales-profit-that-beat-expectations",
-      "summary": "EBay Inc. reported a solid second quarter but said its purchase price for second-hand clothing marketplace Depop was $200 million more than initially announced, which could weigh on earnings in the current period.",
-      "date": "2026-08-05T20:17:27+00:00",
-      "source": "Bloomberg Tech",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 2
-    },
-    {
-      "id": "6ac03a8e33b1",
-      "title": "DoorDash Issues Strong Outlook, Warns of Heightened Spending",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-05/doordash-issues-strong-outlook-fueled-by-rise-in-orders",
-      "summary": "DoorDash Inc. issued a profit forecast that topped analysts’ expectations, citing a boom in paying subscribers who tend to order takeout and groceries more frequently than non-members.",
-      "date": "2026-08-05T20:08:59+00:00",
-      "source": "Bloomberg Tech",
-      "lang": "en",
-      "category": "Industry",
       "priority": 2
     },
     {
@@ -276,17 +606,6 @@
       "lang": "en",
       "category": "Industry",
       "priority": 1
-    },
-    {
-      "id": "e0076c75d9d4",
-      "title": "Minimax H3: Captain Picard Discusses Your Holodeck Use",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1vghdgm/minimax_h3_captain_picard_discusses_your_holodeck/",
-      "summary": "This was all done in 5 to 7 second clips, text to video only, in Minimax H3. Scenes were generated at 0.6 MP, then upscaled with RTX Super Resolution and put together in one video with Davinci Resolve. Each clip took about 5 minutes on a 3090. I have",
-      "date": "2026-08-05T19:29:52+00:00",
-      "source": "r/StableDiffusion",
-      "lang": "en",
-      "category": "ImageVideo",
-      "priority": 2
     },
     {
       "id": "f54fb5ec8bd6",
@@ -355,44 +674,11 @@
       "priority": 2
     },
     {
-      "id": "49afba07090e",
-      "title": "Working on 4 step turbo lora for H3, showing OK progress so far.",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1vge4zr/working_on_4_step_turbo_lora_for_h3_showing_ok/",
-      "summary": "https://reddit.com/link/1vge4zr/video/jktxolihclhh1/player https://reddit.com/link/1vge4zr/video/gldf0aocdlhh1/player https://reddit.com/link/1vge4zr/video/5iaw04mfdlhh1/player (left: with turbo lora, right: raw base; all under 480p & 4 steps) Protot",
-      "date": "2026-08-05T17:34:51+00:00",
-      "source": "r/StableDiffusion",
-      "lang": "en",
-      "category": "ImageVideo",
-      "priority": 2
-    },
-    {
       "id": "942c4544ee5e",
       "title": "Uber CEO brushes off reports of a Waymo break-up",
       "url": "https://www.theverge.com/transportation/975651/uber-ceo-earnings-waymo-partnership",
       "summary": "After Uber and Waymo ended their partnership in Phoenix earlier this year, experts and robotaxi watchers wondered whether the companies' improbable bromance was fraying. Not so, Uber CEO Dara Khosrowshahi said today. The two companies are committed t",
       "date": "2026-08-05T17:34:48+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "a07b6d2ed7c4",
-      "title": "Sulphur 3 is looking for funding",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1vgdqei/sulphur_3_is_looking_for_funding/",
-      "summary": "Hello, I'm the guy who made Sulphur 2. With the recent release of a certain video model, we are looking to mobilize and train Sulphur 3 on this new model. We are targeting $10,000 USD. This certain new video model is a massive step change in quality ",
-      "date": "2026-08-05T17:20:19+00:00",
-      "source": "r/StableDiffusion",
-      "lang": "en",
-      "category": "ImageVideo",
-      "priority": 2
-    },
-    {
-      "id": "a5c4a7a3ae9c",
-      "title": "Reddit is introducing a new moderator: AI",
-      "url": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
-      "summary": "Reddit is enlisting AI to help moderate new subreddits - and eventually the rest of site. The company is introducing automated moderation tools that rely on LLMs to help mods manage their communities, and it's expanding who can use those tools today ",
-      "date": "2026-08-05T16:48:11+00:00",
       "source": "The Verge",
       "lang": "en",
       "category": "Tech",
@@ -407,17 +693,6 @@
       "source": "The Verge",
       "lang": "en",
       "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "3400324b66cf",
-      "title": "Google AI Veterans Depart During Seismic Leadership Shift",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-05/google-deepmind-boss-hassabis-moves-to-chair-role-in-shakeup",
-      "summary": "Alphabet Inc.’s Google is losing some of its most prominent artificial intelligence veterans in a seismic overhaul that is casting doubt over leadership of a critical area of growth right as competition intensifies. Alphabet shares fell 4% on the new",
-      "date": "2026-08-05T16:07:09+00:00",
-      "source": "Bloomberg Tech",
-      "lang": "en",
-      "category": "Industry",
       "priority": 2
     },
     {
@@ -454,28 +729,6 @@
       "priority": 1
     },
     {
-      "id": "e8560868d686",
-      "title": "「旭富士」公認ちゃんこを頂きながら大相撲を目の前で楽しむ「東京相撲部屋娯楽」が8月12日オープン!!!!",
-      "url": "https://ascii.jp/elem/000/004/425/4425259/?rss",
-      "summary": "クロノスガイヤは8月12日に東京タワー・フットタウン5階にライブエンターテインメント施設「東京相撲部屋娯楽」をグランドオープンします",
-      "date": "2026-08-05T15:01:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "b772725f5b52",
-      "title": "【今日限定】ゲーミングPCが最大15万6000円オフ！ 狙い目モデルをチェック",
-      "url": "https://ascii.jp/elem/000/004/424/4424891/?rss",
-      "summary": "パソコンショップSEVENを運営するセブンアールジャパンが、8月6日0:00から23:59までの24時間限定で最新ゲーミングPCとデスクトップPCのセールを実施する。最大156,000円オフとなり、全10商品が対象だ。",
-      "date": "2026-08-05T15:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "ab78e492b47e",
       "title": "Puzzle Corner",
       "url": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
@@ -498,28 +751,6 @@
       "priority": 1
     },
     {
-      "id": "a7ac09e96321",
-      "title": "共同通信に不正アクセス 職員や加盟社の氏名・メルアドなど約6000件が閲覧の恐れ 職員アカウント不正利用か",
-      "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000406/",
-      "summary": "共同通信社は8月5日、電子メールなどの業務環境で不正アクセスによる情報漏えいの可能性が判明したと発表した。職員のほか加盟社や取引先の氏名、メールアドレスなど約6000件が閲覧された可能性がある。一部のアカウントでは、メールや保存ファイルの中身まで閲覧された可能性があるという。",
-      "date": "2026-08-05T14:03:16+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "b67561e2d242",
-      "title": "iPhoneで動作しBonsai 27Bと同等性能で13倍高速なAI「Maple-Preview」が登場、ローカルAIがまた1歩前進",
-      "url": "https://gigazine.net/news/20260805-maple-preview/",
-      "summary": "AI研究企業のDeepGroveが軽量かつ高性能なAIモデル「Maple-Preview」を発表しました。Maple-PreviewはiPhoneでも動作するほど小型のモデルで、同じくiPhoneで動作するBonsai 27Bと比べて13倍高速な処理が可能です。続きを読む...",
-      "date": "2026-08-05T14:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "f65003343c2e",
       "title": "AI agents can't yet do open-ended AI research",
       "url": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
@@ -528,17 +759,6 @@
       "source": "AI Snake Oil",
       "lang": "en",
       "category": "Safety",
-      "priority": 2
-    },
-    {
-      "id": "ba4f693a335a",
-      "title": "Given the MiniMax H3 Drama - Some Important Context for Censorship enforcement and laws in China",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1vg7tnh/given_the_minimax_h3_drama_some_important_context/",
-      "summary": "*I felt the need to write this post because it seems like very few people on this sub are aware of Chinese laws and how they're enforced, so here's an explainer coming from a Chinese person (myself). I know that this post isn't directly about local m",
-      "date": "2026-08-05T13:45:35+00:00",
-      "source": "r/StableDiffusion",
-      "lang": "en",
-      "category": "ImageVideo",
       "priority": 2
     },
     {
@@ -553,17 +773,6 @@
       "priority": 2
     },
     {
-      "id": "d0a9ebc6e3c2",
-      "title": "アフリカのサイバー犯罪の50％以上にAIが悪用されており欧米諸国にも被害が及んでいるとインターポールが発表",
-      "url": "https://gigazine.net/news/20260805-ai-fuels-half-cybercrime-africa-interpol/",
-      "summary": "生成AIツールはさまざまな仕事や学業に役立ちますが、犯罪者にとっても有用なツールとなっています。国際刑事機構(インターポール)が、アフリカ全土で報告されているサイバー犯罪の55％以上にAIが使われており、その脅威は大陸を越えて広がっているとの報告書を発表しました。続きを読む...",
-      "date": "2026-08-05T13:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "735d137458d3",
       "title": "イオンモール熊本 “LPガス爆発の可能性高い”経産省など調査",
       "url": "https://news.web.nhk/newsweb/na/na-k10015197391000",
@@ -572,17 +781,6 @@
       "source": "NHK テクノロジー",
       "lang": "ja",
       "category": "AI",
-      "priority": 2
-    },
-    {
-      "id": "68c2a4824ea7",
-      "title": "スマホやタブレットで快適にゲームしたい人に！ GameSir低遅延スマホコントローラーがタイムセールで1万円切り",
-      "url": "https://ascii.jp/elem/000/004/425/4425198/?rss",
-      "summary": "Amazon.co.jpにて、GameSirのスマホコントローラー「GameSir G8+MFi」が販売中だ。参考価格は1万1182円だが、タイムセールにより18％オフの9199円で購入できる（8月5日時点）。",
-      "date": "2026-08-05T12:30:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
       "priority": 2
     },
     {
@@ -606,149 +804,6 @@
       "lang": "en",
       "category": "Research",
       "priority": 1
-    },
-    {
-      "id": "5789af30fbb4",
-      "title": "NASA「確率100％」 SpaceXの使用済みロケットが月に衝突か",
-      "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000404/",
-      "summary": "NASAは8月4日（現地時間）、米SpaceXのロケット「Falcon 9」の使用済み上段が、5日未明に月へ衝突する見通しだと発表した。衝突地点は、月面のアインシュタイン・クレーターとベル・クレーター付近。地球への危険はないとしている。",
-      "date": "2026-08-05T12:04:36+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "7e1cbbf9c8b7",
-      "title": "「私たちはどんな色なのか？」を手作業でデータ分析して人間の肌の色を表現する新しい色空間を構築した「Inclusive Color Space」",
-      "url": "https://gigazine.net/news/20260805-inclusive-color-space/",
-      "summary": "人物画に色を塗る際に「人間の肌の色」を何色で塗ればいいのか迷うことは多く、また2000年代には差別意識に対する取り組みとしてクレヨンや絵の具などから「肌色」という名前が「うすだいだい」や「ペールオレンジ」などに変更されました。そんな「人間の肌の色」を徹底分析した新しい色空間「Inclusive Color Space(ICS)」と、そこから色を選択できるカラーピッカーが公開されています。続きを読む...",
-      "date": "2026-08-05T12:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "043bab155156",
-      "title": "Starlinkに加入者を奪われた衛星インターネットサービス「Hughesnet」が破産申請",
-      "url": "https://gigazine.net/news/20260805-hughesnet-bankruptcy-starlink/",
-      "summary": "アメリカの衛星インターネットプロバイダーであるHughes Network Systems(Hughesnet)は、イーロン・マスク氏が設立したSpaceXの衛星通信サービス「Starlink」との競争で加入者が大幅に減少して資金繰りが悪化したことから、連邦破産法第11条に基づく破産の適用を申請しました。続きを読む...",
-      "date": "2026-08-05T11:35:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "1f9523f528a6",
-      "title": "バンダイ、トレカ巡りマイナカードでの本人確認を導入へ",
-      "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000405/",
-      "summary": "バンダイがトレーディングカードゲームブランド「BANDAI TCG+」において、マイナンバーカードを使った本人確認システムの導入を検討していると発表した。",
-      "date": "2026-08-05T11:26:29+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "3ef9fd3c6187",
-      "title": "Googleパスワードマネージャーの脆弱性を悪用してパスキー認証を突破する攻撃手法「Pass-ta-key」がセキュリティ企業によって報告される",
-      "url": "https://gigazine.net/news/20260805-pass-the-passkey/",
-      "summary": "パロアルトネットワークスの脅威研究部門「Unit 42」が、Googleパスワードマネージャーの同期パスキーに関する実装上の弱点を悪用する3種類の攻撃手法を報告しました。被害者のWindowsパソコンがマルウェアに感染している場合、本人の操作なしでパスキー認証を突破されたり、保存されているパスキーの秘密鍵をまとめて盗み出されたりする可能性があります。続きを読む...",
-      "date": "2026-08-05T11:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "21612ebdc0ba",
-      "title": "SBI新生銀行 14地銀と協定締結 大型案件融資目指す",
-      "url": "https://news.web.nhk/newsweb/na/na-k10015197461000",
-      "summary": "SBI新生銀行は全国の14の地方銀行と協定を結んだと発表しました。AI向けデータセンターなどへの投資が活発化する中、連携して大型案件に融資することにしていて、地域経済の活性化につながるかが注目されます…",
-      "date": "2026-08-05T10:59:45+00:00",
-      "source": "NHK テクノロジー",
-      "lang": "ja",
-      "category": "AI",
-      "priority": 2
-    },
-    {
-      "id": "d1c010608663",
-      "title": "Uber Falls After Bookings Outlook Barely Meets Estimates",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-05/uber-gives-in-line-outlook-says-brazil-rivals-hurt-trips-growth",
-      "summary": "Uber Technologies Inc. shares suffered their worst rout in almost eight months after the company issued a bookings outlook that just met analyst estimates, compounding concerns from investors about the company’s ability to evolve in the robotaxi era.",
-      "date": "2026-08-05T10:56:58+00:00",
-      "source": "Bloomberg Tech",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 2
-    },
-    {
-      "id": "e7baec41b145",
-      "title": "「Xであなたをブロックした人が分かる」サイト拡散 ソースコードを見たら、IDとパスワード外部送信",
-      "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000403/",
-      "summary": "「ブロックの状況を確認できる」とうたうWebサイトへの注意喚起がX上で広がっている。ITmedia NEWS編集部がソースコードを確認したところ、入力したIDとパスワードをそのまま外部のサーバへ送る作りで、表示する人数もランダムな数値だった。",
-      "date": "2026-08-05T10:51:43+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "4fbe6f44df0f",
-      "title": "アメリカ政府が中国製データセンター向け機器の輸入を禁止する方針",
-      "url": "https://gigazine.net/news/20260805-us-ban-chinese-made-dc-module/",
-      "summary": "アメリカ政府が、AIブームを支えているインフラを安全保障上の脅威から守るため、光トランシーバーなど中国製のデータセンター向け機器の輸入を禁止する方向で検討していることがわかりました。続きを読む...",
-      "date": "2026-08-05T10:45:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "517eb2a4e46b",
-      "title": "最大6万件の個人情報流出か 「ITトレンド」など運営のイノベーション、GitHubの認証情報漏えいで",
-      "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000396/",
-      "summary": "イノベーションは8月4日、グループが使うGitHubの認証情報が漏えいし、第三者による不正アクセスを受けたと発表した。最大約6万件の氏名やメールアドレスが流出した可能性があるという。",
-      "date": "2026-08-05T10:22:39+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "40bae0837774",
-      "title": "【熊本地震 企業影響 5日】大手メーカーの工場など操業に影響",
-      "url": "https://news.web.nhk/newsweb/na/na-k10015196971000",
-      "summary": "7月28日に最大震度7の非常に激しい揺れを観測した熊本県。今回の地震の影響で、九州にある大手メーカーの工場などでは操業に影響が出ています。",
-      "date": "2026-08-05T09:58:15+00:00",
-      "source": "NHK テクノロジー",
-      "lang": "ja",
-      "category": "AI",
-      "priority": 2
-    },
-    {
-      "id": "4b13c12f4e92",
-      "title": "熊本地震で9人死亡の日本製紙 初めて記者会見 社長が陳謝",
-      "url": "https://news.web.nhk/newsweb/na/na-k10015197011000",
-      "summary": "先月28日の地震で熊本県八代市の工場の煙突が倒壊するなどして9人が死亡した日本製紙は、5日、瀬邊明社長らが地震のあと初めて記者会見を開きました。この中で、瀬邊社長は「9人の尊い命を失い、極めて重く受け…",
-      "date": "2026-08-05T09:56:07+00:00",
-      "source": "NHK テクノロジー",
-      "lang": "ja",
-      "category": "AI",
-      "priority": 2
-    },
-    {
-      "id": "7782ffbf6c71",
-      "title": "キオクシア、フラッシュメモリでメモリ容量を増やせるモジュール発表 DRAMの容量不足を補う",
-      "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000400/",
-      "summary": "キオクシアは8月3日、CXL対応のメモリ拡張モジュール「KIOXIA XL1シリーズ」を発表した。フラッシュメモリでDRAMを補い、AIで膨らむデータセンターのメモリ需要に応える狙いだ。",
-      "date": "2026-08-05T08:31:40+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "ec86245c0056",
@@ -817,17 +872,6 @@
       "priority": 1
     },
     {
-      "id": "55afc9d2f92e",
-      "title": "llm 0.32",
-      "url": "https://simonwillison.net/2026/Aug/4/llm/#atom-everything",
-      "summary": "Release: llm 0.32 See my detailed blog post about this release. Tags: llm",
-      "date": "2026-08-04T17:15:33+00:00",
-      "source": "Simon Willison",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1
-    },
-    {
       "id": "8bf4bd30ebb5",
       "title": "AIエージェントフレームワーク比較12選！失敗しない選び方を解説",
       "url": "https://ainow.ai/2026/08/05/278294/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2583%2595%25e3%2583%25ac%25e3%2583%25bc%25e3%2583%25a0%25e3%2583%25af%25e3%2583%25bc%25e3%2582%25af%25e6%25af%2594%25e8%25bc%258312%25e9%2581%25b8%25ef%25bc%2581%25e5%25a4%25b1%25e6%2595%2597%25e3%2581%2597%25e3%2581%25aa",
@@ -836,6 +880,17 @@
       "source": "AINOW",
       "lang": "ja",
       "category": "AI",
+      "priority": 1
+    },
+    {
+      "id": "4d42e33f51cb",
+      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "summary": "",
+      "date": "2026-08-04T13:58:29+00:00",
+      "source": "Hugging Face Blog",
+      "lang": "en",
+      "category": "Prompts",
       "priority": 1
     },
     {
@@ -850,17 +905,6 @@
       "priority": 1
     },
     {
-      "id": "4e264ea24f51",
-      "title": "Quoting Steve Yegge",
-      "url": "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything",
-      "summary": "Gas Town was intended to be reusable, but I only ever wound up using it to build itself. Gas Town fell apart at the seams with Opus 4.7. Up through 4.6 it was working brilliantly. With 4.7 we saw the introduction of the \"just two more things\" tic, wh",
-      "date": "2026-08-04T00:42:45+00:00",
-      "source": "Simon Willison",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1
-    },
-    {
       "id": "26f5b739d7f8",
       "title": "New ways to learn and teach with ChatGPT Work and Codex",
       "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
@@ -869,17 +913,6 @@
       "source": "OpenAI Blog",
       "lang": "en",
       "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "0c121b010075",
-      "title": "Don't be a meat proxy",
-      "url": "https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything",
-      "summary": "Don't be a meat proxy Niklas Gruhn coins an excellent new term - meat proxy - for people who blindly copy and paste the output of AI systems to their peers. By all means, prompt AI. But don't just relay the output. Read it, understand it, validate it",
-      "date": "2026-08-03T23:45:04+00:00",
-      "source": "Simon Willison",
-      "lang": "en",
-      "category": "Prompts",
       "priority": 1
     },
     {
@@ -902,17 +935,6 @@
       "source": "MIT Tech Review",
       "lang": "en",
       "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "d6f9528e2ecb",
-      "title": "Quoting David Crawshaw's prompt",
-      "url": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything",
-      "summary": "Set up a nightly cron job that executes the prompt: fetch upstream changes to the <software> and rebase all local changes on top of upstream. Check that the software works as intended and replace the current version. — David Crawshaw's prompt, Devtoo",
-      "date": "2026-08-03T16:15:27+00:00",
-      "source": "Simon Willison",
-      "lang": "en",
-      "category": "Prompts",
       "priority": 1
     },
     {
@@ -1125,6 +1147,17 @@
       "priority": 1
     },
     {
+      "id": "bac0f01a5321",
+      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "summary": "",
+      "date": "2026-07-30T15:09:09+00:00",
+      "source": "Hugging Face Blog",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
+    {
       "id": "6953a8d0ca71",
       "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
       "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
@@ -1202,6 +1235,17 @@
       "priority": 2
     },
     {
+      "id": "f57b088c9d04",
+      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "summary": "",
+      "date": "2026-07-28T16:27:42+00:00",
+      "source": "Hugging Face Blog",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
+    {
       "id": "294161fcfd13",
       "title": "Gemini Robotics 2 brings whole body intelligence to robots",
       "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
@@ -1222,6 +1266,28 @@
       "lang": "en",
       "category": "Tech",
       "priority": 2
+    },
+    {
+      "id": "b24ba3574e2e",
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "summary": "",
+      "date": "2026-07-27T09:32:20+00:00",
+      "source": "Hugging Face Blog",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
+    {
+      "id": "45ee50f08ad3",
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "summary": "",
+      "date": "2026-07-27T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
     },
     {
       "id": "aa77de105ab0",
@@ -1276,6 +1342,17 @@
       "source": "AINOW",
       "lang": "ja",
       "category": "AI",
+      "priority": 1
+    },
+    {
+      "id": "a8b687efdbfa",
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "summary": "",
+      "date": "2026-07-23T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "lang": "en",
+      "category": "Prompts",
       "priority": 1
     },
     {
@@ -1378,6 +1455,17 @@
       "priority": 2
     },
     {
+      "id": "4e39045e2d76",
+      "title": "Grabette: an open system to record robot-manipulation data",
+      "url": "https://huggingface.co/blog/grabette",
+      "summary": "",
+      "date": "2026-07-21T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
+    {
       "id": "d6d19d126db7",
       "title": "Introducing Gemini 3.5 Flash Cyber",
       "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
@@ -1400,15 +1488,15 @@
       "priority": 2
     },
     {
-      "id": "42769b696546",
-      "title": "Now, even Russia's most elite hackers are using Clickfix to infect devices",
-      "url": "https://arstechnica.com/security/2026/07/now-even-russias-most-elite-hackers-are-using-clickfix-to-infect-devices/",
-      "summary": "The social-engineering technique has primarily been a tool of financially motivated criminals.",
-      "date": "2026-07-16T19:28:33+00:00",
-      "source": "Ars Technica",
+      "id": "a075d60d6ba9",
+      "title": "Newer Models, Same Advantage",
+      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "summary": "",
+      "date": "2026-07-16T11:49:48+00:00",
+      "source": "Hugging Face Blog",
       "lang": "en",
-      "category": "Tech",
-      "priority": 2
+      "category": "Prompts",
+      "priority": 1
     },
     {
       "id": "39191aed0f2b",
@@ -1909,8 +1997,8 @@
       "id": "7e2dddd5ea7e",
       "title": "SNS広報を全4回の講座で習得！≪SNS広報担当養成講座 統合マスターコース≫2026年9月開講（62期生）オンライン講座",
       "url": "https://belove.doorkeeper.jp/events/195545",
-      "summary": "📅 2026-09-16 · 📍 オンライン · 👥 参加 9人",
-      "date": "2026-08-05T22:50:54.953713+00:00",
+      "summary": "📅 2026-09-16 · 📍 オンライン · 👥 参加 8人",
+      "date": "2026-08-06T06:36:56.147580+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -1924,7 +2012,7 @@
       "title": "10/6　AI×SNS 中小企業のためのSNS×AI活用術セミナー",
       "url": "https://belove.doorkeeper.jp/events/196182",
       "summary": "📅 2026-10-06 · 📍 オンライン · 👥 参加 0人",
-      "date": "2026-08-05T22:50:54.953759+00:00",
+      "date": "2026-08-06T06:36:56.147636+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -1938,7 +2026,7 @@
       "title": "12/8 AIにも人にも選ばれる！ 中小企業のためのSNS×AI広報セミナー",
       "url": "https://belove.doorkeeper.jp/events/196183",
       "summary": "📅 2026-12-08 · 📍 オンライン · 👥 参加 0人",
-      "date": "2026-08-05T22:50:54.953783+00:00",
+      "date": "2026-08-06T06:36:56.147665+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -1952,7 +2040,7 @@
       "title": "SNS広報を全4回の講座で習得！≪SNS広報担当養成講座 統合マスターコース≫2026年11月開講（63期生）オンライン講座",
       "url": "https://belove.doorkeeper.jp/events/196703",
       "summary": "📅 2026-11-19 · 📍 オンライン · 👥 参加 2人",
-      "date": "2026-08-05T22:50:54.953803+00:00",
+      "date": "2026-08-06T06:36:56.147690+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -1966,7 +2054,7 @@
       "title": "マーケティングテクノロジスト認定講座【WACA公式】（旧上級GA4講座）8月（2日間講座）",
       "url": "https://web-mining.doorkeeper.jp/events/197338",
       "summary": "📅 2026-08-15 · 📍 オンライン · 👥 参加 0/10人",
-      "date": "2026-08-05T22:50:54.953823+00:00",
+      "date": "2026-08-06T06:36:56.147715+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -1980,7 +2068,7 @@
       "title": "11/17 AI時代だからこそ、ブログに再注目！ 「note」で実現する選ばれる企業の情報発信術【ビーラブ最新集客セミナー】",
       "url": "https://belove.doorkeeper.jp/events/197604",
       "summary": "📅 2026-11-17 · 📍 オンライン · 👥 参加 2人",
-      "date": "2026-08-05T22:50:54.953842+00:00",
+      "date": "2026-08-06T06:36:56.147739+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -1993,8 +2081,8 @@
       "id": "ef8de75449d3",
       "title": "【CeeBeeDee】4人のクリエイターが魅せる最新アドビ時短テク・レタッチ・生成AI体験／よんどび",
       "url": "https://dtptransit.doorkeeper.jp/events/197681",
-      "summary": "📅 2026-08-11 · 📍 オンライン · 👥 参加 307人",
-      "date": "2026-08-05T22:50:54.953865+00:00",
+      "summary": "📅 2026-08-11 · 📍 オンライン · 👥 参加 310人",
+      "date": "2026-08-06T06:36:56.147763+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2008,7 +2096,7 @@
       "title": "データサイエンススクール 127",
       "url": "https://cireds.doorkeeper.jp/events/197671",
       "summary": "📅 2026-08-28 · 📍 オンライン · 👥 参加 22/100人",
-      "date": "2026-08-05T22:50:54.953885+00:00",
+      "date": "2026-08-06T06:36:56.147787+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2022,7 +2110,7 @@
       "title": "データサイエンススクール 128",
       "url": "https://cireds.doorkeeper.jp/events/197672",
       "summary": "📅 2026-09-19 · 📍 京都大学学術情報メディアセンター南館 201教室 · 👥 参加 20/40人",
-      "date": "2026-08-05T22:50:54.953903+00:00",
+      "date": "2026-08-06T06:36:56.147834+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2036,7 +2124,7 @@
       "title": "マーケティングテクノロジスト認定講座【WACA公式】（旧上級GA4講座）9月（2日間講座）",
       "url": "https://web-mining.doorkeeper.jp/events/197760",
       "summary": "📅 2026-09-14 · 📍 オンライン · 👥 参加 1/10人",
-      "date": "2026-08-05T22:50:54.953921+00:00",
+      "date": "2026-08-06T06:36:56.147857+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2050,7 +2138,7 @@
       "title": "WACA主催【WACA認定マーケティングテクノロジスト認定講座オープンセミナー（旧上級GA4講座）】事前ガイダンス＆認定資格説明会9月",
       "url": "https://web-mining.doorkeeper.jp/events/197761",
       "summary": "📅 2026-09-02 · 📍 オンライン · 👥 参加 0人",
-      "date": "2026-08-05T22:50:54.953940+00:00",
+      "date": "2026-08-06T06:36:56.147880+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2064,7 +2152,7 @@
       "title": "【エキスパート講座】生成AIマネージャー認定講座（2日間講座）",
       "url": "https://web-mining.doorkeeper.jp/events/197771",
       "summary": "📅 2026-09-30 · 📍 オンライン · 👥 参加 0人",
-      "date": "2026-08-05T22:50:54.953959+00:00",
+      "date": "2026-08-06T06:36:56.147903+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2078,7 +2166,7 @@
       "title": "Rubyセミナー大阪",
       "url": "https://rubyassociation.doorkeeper.jp/events/197460",
       "summary": "📅 2026-10-29 · 📍 ミーティングスペースAP大阪茶屋町 8F　Room G · 👥 参加 10/60人",
-      "date": "2026-08-05T22:50:54.953978+00:00",
+      "date": "2026-08-06T06:36:56.147927+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2092,7 +2180,7 @@
       "title": "8月は第1木曜日開催　オンライン/リアル【IT・ブログ・WordPress・Chat-GPT】グループレッスン",
       "url": "https://monochr.doorkeeper.jp/events/197934",
       "summary": "📅 2026-08-06 · 📍 キッチンスタジオ Kitchen Bee · 👥 参加 4/7人",
-      "date": "2026-08-05T22:50:54.953997+00:00",
+      "date": "2026-08-06T06:36:56.147951+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2106,7 +2194,7 @@
       "title": "Backlog World 2026",
       "url": "https://backlogworld.doorkeeper.jp/events/197793",
       "summary": "📅 2026-11-28 · 📍 パシフィコ横浜ノース · 👥 参加 3人",
-      "date": "2026-08-05T22:50:54.954017+00:00",
+      "date": "2026-08-06T06:36:56.147975+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2120,7 +2208,7 @@
       "title": "Design Boost in Sapporo 2026",
       "url": "https://dtptransit.doorkeeper.jp/events/197994",
       "summary": "📅 2026-09-12 · 📍 札幌市男女共同参画センター 3Fホール · 👥 参加 21人",
-      "date": "2026-08-05T22:50:54.954037+00:00",
+      "date": "2026-08-06T06:36:56.147997+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2133,8 +2221,8 @@
       "id": "1ce03570a11c",
       "title": "【CeeBeeDee】初期セットアップから学ぶClaude Code入門／サイトウマサカズ",
       "url": "https://cssnite.doorkeeper.jp/events/198097",
-      "summary": "📅 2026-08-14 · 📍 オンライン · 👥 参加 18人",
-      "date": "2026-08-05T22:50:54.954058+00:00",
+      "summary": "📅 2026-08-14 · 📍 オンライン · 👥 参加 17人",
+      "date": "2026-08-06T06:36:56.148020+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2148,7 +2236,7 @@
       "title": "【ウェブ解析士会員向けオフィスアワー8月】第一線のプロが語る、実践に役立つウェブ解析",
       "url": "https://web-mining.doorkeeper.jp/events/198143",
       "summary": "📅 2026-08-27 · 📍 オンライン · 👥 参加 28人",
-      "date": "2026-08-05T22:50:54.954077+00:00",
+      "date": "2026-08-06T06:36:56.148042+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2162,7 +2250,7 @@
       "title": "【CeeBeeDee】Figma最新機能キャッチアップ会 〜AI Agent / Code Layers / Motionから考える、これからのデザインワークフロー／ken",
       "url": "https://cssnite.doorkeeper.jp/events/198192",
       "summary": "📅 2026-08-19 · 📍 オンライン · 👥 参加 343人",
-      "date": "2026-08-05T22:50:54.954097+00:00",
+      "date": "2026-08-06T06:36:56.148068+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2176,7 +2264,7 @@
       "title": "「時間がない」「成果が出ない」の悪循環を脱却！メルマガ運用効率化と成果最大化セミナー",
       "url": "https://samuraiz.doorkeeper.jp/events/198211",
       "summary": "📅 2026-08-07 · 📍 オンライン · 👥 参加 0人",
-      "date": "2026-08-05T22:50:54.954115+00:00",
+      "date": "2026-08-06T06:36:56.148090+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2189,8 +2277,8 @@
       "id": "2d47b65c4edf",
       "title": "memoQ Day Tokyo 2026",
       "url": "https://memoq.doorkeeper.jp/events/198095",
-      "summary": "📅 2026-10-02 · 📍 ワテラス コモン ホール · 👥 参加 29/85人",
-      "date": "2026-08-05T22:50:54.954133+00:00",
+      "summary": "📅 2026-10-02 · 📍 ワテラス コモン ホール · 👥 参加 31/85人",
+      "date": "2026-08-06T06:36:56.148126+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2200,25 +2288,11 @@
       "event_online": false
     },
     {
-      "id": "bc7bf2e3db7d",
-      "title": "【再放送】AI普及で変わる、BtoBリード獲得戦略 ～成果が出なくなる手法、重要性が増す手法を予測する～",
-      "url": "https://majisemi-sales.doorkeeper.jp/events/198259",
-      "summary": "📅 2026-08-06 · 📍 オンライン · 👥 参加 0人",
-      "date": "2026-08-05T22:50:54.954151+00:00",
-      "source": "Doorkeeper",
-      "lang": "ja",
-      "category": "Events",
-      "priority": 2,
-      "event_date": "2026-08-06",
-      "event_place": "オンライン",
-      "event_online": false
-    },
-    {
       "id": "9ea0f60ecb05",
       "title": "【再放送】2026年度版、リード獲得方法の比較 ～生成AI時代、展示会、カンファレンス、比較広告、ウェビナーなどを徹底比較～",
       "url": "https://majisemi-sales.doorkeeper.jp/events/198261",
       "summary": "📅 2026-08-12 · 📍 オンライン · 👥 参加 0人",
-      "date": "2026-08-05T22:50:54.954169+00:00",
+      "date": "2026-08-06T06:36:56.148149+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2232,7 +2306,7 @@
       "title": "データサイエンススクール129",
       "url": "https://cireds.doorkeeper.jp/events/198133",
       "summary": "📅 2026-09-01 · 📍 オンライン · 👥 参加 36/64人",
-      "date": "2026-08-05T22:50:54.954188+00:00",
+      "date": "2026-08-06T06:36:56.148172+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2246,12 +2320,26 @@
       "title": "「リード獲得」の終焉。BtoBマーケ施策大全 ～CPA至上主義から、受注を生む『信頼獲得』のマーケティングへ～【申込者全員にアーカイブ動画をプレゼント】",
       "url": "https://majisemi-sales.doorkeeper.jp/events/198292",
       "summary": "📅 2026-08-26 · 📍 オンライン · 👥 参加 0人",
-      "date": "2026-08-05T22:50:54.954206+00:00",
+      "date": "2026-08-06T06:36:56.148194+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
       "priority": 2,
       "event_date": "2026-08-26",
+      "event_place": "オンライン",
+      "event_online": false
+    },
+    {
+      "id": "9220c082f755",
+      "title": "業務改善は何から始めるべきか？ ～現状可視化から、AIを活用したクイックな業務改善までを、実践デモで解説～",
+      "url": "https://majisemi-business.doorkeeper.jp/events/198317",
+      "summary": "📅 2026-08-19 · 📍 オンライン · 👥 参加 2/2人",
+      "date": "2026-08-06T06:36:56.148217+00:00",
+      "source": "Doorkeeper",
+      "lang": "ja",
+      "category": "Events",
+      "priority": 2,
+      "event_date": "2026-08-19",
       "event_place": "オンライン",
       "event_online": false
     }

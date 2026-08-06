@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "2026-08-06_afternoon-ai-2026-trends",
+      "date": "2026-08-06",
+      "file_key": "2026-08-06_afternoon",
+      "title": "AIの最新動向と実用応用：2026年の注目トピック",
+      "summary": "2026年におけるAI技術の進展、ビジネス応用、イベント情報を解説。ゲームキャンペーンやAI定義の議論、画像生成技術の限界をカバー。",
+      "tags": [
+        "AI技術",
+        "ビジネス応用",
+        "イベント情報",
+        "倫理的課題"
+      ],
+      "slug": "ai-2026-trends"
+    },
+    {
       "id": "2026-08-06_morning-ai-transformations-and-challenges",
       "date": "2026-08-06",
       "file_key": "2026-08-06_morning",
@@ -415,22 +429,7 @@
         "生成AI"
       ],
       "slug": "ai-trend-weekly-financial-defense-security"
-    },
-    {
-      "id": "2026-07-14_morning-ai-technology-trends-2024",
-      "date": "2026-07-14",
-      "file_key": "2026-07-14_morning",
-      "title": "AI技術の最前線：画像生成からビジネス応用まで",
-      "summary": "AIニュースを徹底分析。画像生成AIやビジネス応用、イベント情報を解説",
-      "tags": [
-        "AI",
-        "画像生成",
-        "ビジネス応用",
-        "イベント",
-        "トレンド"
-      ],
-      "slug": "ai-technology-trends-2024"
     }
   ],
-  "updated_at": "2026-08-05T22:51:51.061637+00:00"
+  "updated_at": "2026-08-06T06:38:29.877362+00:00"
 }
