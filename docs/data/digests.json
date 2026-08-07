@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-08-07_afternoon-ai-trend-hw-update-aug-7-2026",
+      "date": "2026-08-07",
+      "file_key": "2026-08-07_afternoon",
+      "title": "AIトレンドとハードウェア動向：8月7日最新解説",
+      "summary": "AIハードやChatGPT利用動向を解説。イベントやプロンプト活用法も紹介",
+      "tags": [
+        "AI",
+        "ChatGPT",
+        "ハードウェア",
+        "イベント",
+        "プロンプト"
+      ],
+      "slug": "ai-trend-hw-update-aug-7-2026"
+    },
+    {
       "id": "2026-08-06_afternoon-ai-2026-trends",
       "date": "2026-08-06",
       "file_key": "2026-08-06_afternoon",
@@ -414,22 +429,7 @@
         "AIエージェント"
       ],
       "slug": "ai-investment-race-infrastructure-risk"
-    },
-    {
-      "id": "2026-07-14_afternoon-ai-trend-weekly-financial-defense-security",
-      "date": "2026-07-14",
-      "file_key": "2026-07-14_afternoon",
-      "title": "AIトレンド総まとめ：金融・防衛・セキュリティの最新動向",
-      "summary": "GPIFの運用方針から欧州防衛AI、サイバーセキュリティ脅威まで、今週のAIニュースを解説",
-      "tags": [
-        "AIトレンド",
-        "金融AI",
-        "セキュリティ",
-        "防衛AI",
-        "生成AI"
-      ],
-      "slug": "ai-trend-weekly-financial-defense-security"
     }
   ],
-  "updated_at": "2026-08-06T06:38:29.877362+00:00"
+  "updated_at": "2026-08-07T05:45:49.578055+00:00"
 }
