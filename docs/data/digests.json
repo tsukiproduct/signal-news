@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-08-07_evening-ai-governance-and-generative-ai-August-2026",
+      "date": "2026-08-07",
+      "file_key": "2026-08-07_evening",
+      "title": "AIガバナンスと生成AIの最前線：8月の注目トピックを解説",
+      "summary": "AIガバナンスの重要性、画像生成AIの最適化、企業戦略を総括した特集記事",
+      "tags": [
+        "AIガバナンス",
+        "生成AI",
+        "画像生成",
+        "イベント",
+        "ビジネス応用"
+      ],
+      "slug": "ai-governance-and-generative-ai-August-2026"
+    },
+    {
       "id": "2026-08-07_afternoon-ai-trend-hw-update-aug-7-2026",
       "date": "2026-08-07",
       "file_key": "2026-08-07_afternoon",
@@ -416,20 +431,7 @@
         "画像生成"
       ],
       "slug": "ai-latest-trends-and-practical-application"
-    },
-    {
-      "id": "2026-07-14_evening-ai-investment-race-infrastructure-risk",
-      "date": "2026-07-14",
-      "file_key": "2026-07-14_evening",
-      "title": "AI投資競争とインフラ拡充のリスク",
-      "summary": "AIインフラへの投資熱が高まる中、デットファイナンスのリスクとインフラ拡充の必要性が浮き彫りになる。",
-      "tags": [
-        "AI投資",
-        "インフラ",
-        "AIエージェント"
-      ],
-      "slug": "ai-investment-race-infrastructure-risk"
     }
   ],
-  "updated_at": "2026-08-07T05:45:49.578055+00:00"
+  "updated_at": "2026-08-07T11:35:58.520220+00:00"
 }
