@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-08-09_morning-ai-environmental-cost-corporate-moves",
+      "date": "2026-08-09",
+      "file_key": "2026-08-09_morning",
+      "title": "AIの環境負荷と企業の戦略的動き",
+      "summary": "Amazonのテキサスデータセンターが最大規模の気候汚染源に、OpenAIがNextSlideを買収、Xが報酬プログラムを変更、生成AIの進化など。",
+      "tags": [
+        "environment",
+        "data centers",
+        "OpenAI",
+        "generative AI",
+        "AI ethics"
+      ],
+      "slug": "ai-environmental-cost-corporate-moves"
+    },
+    {
       "id": "2026-08-08_evening-ai-naming-debate-video-generation-frontier",
       "date": "2026-08-08",
       "file_key": "2026-08-08_evening",
@@ -416,22 +431,7 @@
         "エティクス"
       ],
       "slug": "ai-zaisei-douyou-tekikou-wa-soshikigyou-no-eikyou-wo-saguru"
-    },
-    {
-      "id": "2026-07-18_morning-ai-weekly-databricks-mlb-ban-apple-price-hike",
-      "date": "2026-07-18",
-      "file_key": "2026-07-18_morning",
-      "title": "AI業界動向まとめ：Databricks高値評価、MLBがAI使用を禁止",
-      "summary": "Databricksの高評価、MLBのAI規制、Appleサブスク値上げなどAI業界の最新動向を解説",
-      "tags": [
-        "AI",
-        "ビジネス",
-        "スポーツ",
-        "画像生成",
-        "イベント"
-      ],
-      "slug": "ai-weekly-databricks-mlb-ban-apple-price-hike"
     }
   ],
-  "updated_at": "2026-08-08T11:19:28.545441+00:00"
+  "updated_at": "2026-08-08T22:23:26.403318+00:00"
 }
