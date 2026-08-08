@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-08-08_afternoon-ai-tech-latest-applications",
+      "date": "2026-08-08",
+      "file_key": "2026-08-08_afternoon",
+      "title": "AI技術の最前線と実用事例",
+      "summary": "8月でもたらされたAI関連の技術革新やイベントを紹介。学術論文へのアクセス支援から画像生成技術の進化まで、さまざまな分野で活用されています。",
+      "tags": [
+        "AI技術",
+        "学術リソース",
+        "イメージ生成",
+        "イベント",
+        "プロンプト"
+      ],
+      "slug": "ai-tech-latest-applications"
+    },
+    {
       "id": "2026-08-07_evening-ai-governance-and-generative-ai-August-2026",
       "date": "2026-08-07",
       "file_key": "2026-08-07_evening",
@@ -417,21 +432,7 @@
         "TokyoDev"
       ],
       "slug": "eu-google-android-ai-competition"
-    },
-    {
-      "id": "2026-07-15_morning-ai-latest-trends-and-practical-application",
-      "date": "2026-07-15",
-      "file_key": "2026-07-15_morning",
-      "title": "AIの最新動向と実用活用",
-      "summary": "Starlinkの機内Wi-Fi進化から画像生成AIの進展、セキュリティ脆弱性の再評価まで。AI技術の多角的な動向と実用的な活用法を解説します。",
-      "tags": [
-        "AI",
-        "技術",
-        "セキュリティ",
-        "画像生成"
-      ],
-      "slug": "ai-latest-trends-and-practical-application"
     }
   ],
-  "updated_at": "2026-08-07T11:35:58.520220+00:00"
+  "updated_at": "2026-08-08T05:06:00.055984+00:00"
 }
