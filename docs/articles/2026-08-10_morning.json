@@ -1,0 +1,159 @@
+{
+  "id": "2026-08-10_morning-tungsten-ai-summary",
+  "file_key": "2026-08-10_morning",
+  "date": "2026-08-10",
+  "generated_at": "2026-08-09T22:22:49.261885+00:00",
+  "title": "タングステン輸出規制とAI最前線まとめ",
+  "slug": "tungsten-ai-summary",
+  "summary": "中国のタングステン輸出規制が製品価格高騰を招き、AI技術と動画生成の進化が注目されています。",
+  "tags": [
+    "タングステン",
+    "AI",
+    "動画生成",
+    "Events"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "近年、レアメタル供給リスクとAI技術の進化が産業を変える。中国がタングステン輸出規制を強化し、製造コスト上昇が懸念されつつ、AI技術の進化と動画生成の進展が注目されています。供給不足が続くと、企業は調達リスク管理を強化し、代替素材開発や在庫最適化を検討する必要が出てくるでしょう。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "中国がタングステンの輸出規制を厳格化した結果、日本の電子部品や航空機部品などタングステンを必要とする産業が供給不足に直面しています。タングステンは高強度・高耐熱性を持ち、スマートフォン基板やレーザー加工部品に不可欠です。規制強化により国内在庫が減少し、価格が上昇傾向にあり、調達が困難になるリスクが高まっています。このため、製品開発のスケジュール遅延やコスト増大が企業に課題となり、代替素材の開発や在庫最適化、契約交渉の見直しが求められています。",
+      "source_title": "タングステン 中国の輸出規制影響 製品価格高騰や調達難に",
+      "source_url": "https://news.web.nhk/newsweb/na/nd-20260809de43011"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "MiniMax H3はオープンソース動画生成AIで、Seedance 2.0級の高精細映像生成能力と、画像・動画を参照できるOmni Reference、ローカルでの高速処理を実装しています。無料で利用可能な点が大きな利点で、クリエイターやスタートアップが手軽に高品質動画を制作できる可能性を示しています。また、ローカルPCでも高速に動作し、クラウド利用の必要性を低減させる点も評価されています。",
+      "source_title": "とんでもない動画生成AIが出てきた 無料で試し放題の「MiniMax H3」を徹底検証",
+      "source_url": "https://ascii.jp/elem/000/004/426/4426043/?rss"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "Claude Auto Mode活用",
+      "prompt_body": "ClaudeのPro・Max・TeamプランでAuto Modeがデフォルト設定になっており、自然な文章生成や要約指示が簡単に行えます。",
+      "prompt_usecase": "レポートの要点まとめや社内共有資料作成に活用し、時間短縮と情報共有を促進します。",
+      "prompt_source": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "HackerNewsで話題となったAI基礎解説と、機械学習の過剰ラベリングへの警告が注目されています。専門家はAIを単なるツールと位置付け、過度な宣伝を避け、実務に即した活用を促す姿勢を強調しています。これにより、AI技術の信頼性向上と誤解防止が期待されます。",
+      "source_title": "AI and Machine Learning – The Basics",
+      "source_url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "8月11日にはAdobe時短テクニックと生成AI体験セッションがオンラインで開催され、334名が参加しました。翌日12日には生成AI活用とリード獲得方法を比較するウェビナーが予定され、オンラインでの実践的な知見共有が期待されます。両イベントは無料で参加可能で、事前登録が必要です。",
+      "event_list": [
+        {
+          "title": "Adobe時短テク・レタッチ・生成AI体験",
+          "date": "2026-08-11",
+          "place": "オンライン",
+          "url": "https://dtptransit.doorkeeper.jp/events/197681"
+        },
+        {
+          "title": "生成AI活用・リード獲得比較",
+          "date": "2026-08-12",
+          "place": "オンライン",
+          "url": "https://majisemi-sales.doorkeeper.jp/events/198261"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "企業はタングステン価格高騰に対し、代替素材のシミュレーションや在庫最適化アルゴリズム導入でコスト管理を強化できます。同時にClaudeのAuto Modeを活用したレポート自動生成や、MiniMax H3で低コストなプロモーション動画制作を行い、営業資料のスピードと品質向上を実現できます。さらに、データ分析と組み合わせた予測モデル構築も可能となり、長期的な競争優位を支援します。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "今週はレアメタル供給リスクとAI技術の融合が注目され、製造コスト上昇への対策として自動化・最適化ソリューションの需要が高まりつつあり、動画生成AIやゲーム化学習コンテンツがビジネス価値を創出する可能性が示唆されています。今後の産業構造変化を予測し、適切な投資判断と技術導入を検討することが重要です。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "タングステン 中国の輸出規制影響 製品価格高騰や調達難に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260809de43011",
+      "source": "NHK テクノロジー",
+      "category": "AI"
+    },
+    {
+      "title": "半導体がどうやって作られるかがゲーム風のビジュアルと説明で簡単にすぐわかる「ChipTycoon」",
+      "url": "https://gigazine.net/news/20260810-chip-tycoon/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "ポテト100円引き！ マクドナルド12日間限定 Lなら最大150円おトク",
+      "url": "https://ascii.jp/elem/000/004/426/4426039/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "次回のスマホ総研定例会は2026年8月17日（月）を予定しております！",
+      "url": "https://ascii.jp/elem/000/004/425/4425848/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "次回のジサトラKTUは8月20日（木）を予定しております！",
+      "url": "https://ascii.jp/elem/000/004/425/4425750/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+      "url": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "とんでもない動画生成AIが出てきた 無料で試し放題の「MiniMax H3」を徹底検証",
+      "url": "https://ascii.jp/elem/000/004/426/4426043/?rss",
+      "source": "ASCII.jp",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "【CeeBeeDee】4人のクリエイターが魅せる最新アドビ時短テク・レタッチ・生成AI体験／よんどび",
+      "url": "https://dtptransit.doorkeeper.jp/events/197681",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "【再放送】2026年度版、リード獲得方法の比較 ～生成AI時代、展示会、カンファレンス、比較広告、ウェビナーなどを徹底比較～",
+      "url": "https://majisemi-sales.doorkeeper.jp/events/198261",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

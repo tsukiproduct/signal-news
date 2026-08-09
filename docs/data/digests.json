@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "2026-08-10_morning-tungsten-ai-summary",
+      "date": "2026-08-10",
+      "file_key": "2026-08-10_morning",
+      "title": "タングステン輸出規制とAI最前線まとめ",
+      "summary": "中国のタングステン輸出規制が製品価格高騰を招き、AI技術と動画生成の進化が注目されています。",
+      "tags": [
+        "タングステン",
+        "AI",
+        "動画生成",
+        "Events"
+      ],
+      "slug": "tungsten-ai-summary"
+    },
+    {
       "id": "2026-08-09_afternoon-ai-hype-warning-dev-tools-evolution-weekly",
       "date": "2026-08-09",
       "file_key": "2026-08-09_afternoon",
@@ -416,22 +430,7 @@
         "イベント"
       ],
       "slug": "ai-now-5-things-to-watch"
-    },
-    {
-      "id": "2026-07-20_morning-ai-blender-mcp-and-ai-trends",
-      "date": "2026-07-20",
-      "file_key": "2026-07-20_morning",
-      "title": "AIでBlender操作が自動化、3D制作が身近に",
-      "summary": "AIエージェントによるBlender自動操作や画像生成、イベント情報など、今週のAI動向を専門視点で解説します。",
-      "tags": [
-        "AIエージェント",
-        "Blender",
-        "画像生成",
-        "イベント",
-        "プロンプト"
-      ],
-      "slug": "ai-blender-mcp-and-ai-trends"
     }
   ],
-  "updated_at": "2026-08-09T05:12:38.309148+00:00"
+  "updated_at": "2026-08-09T22:22:49.262606+00:00"
 }
