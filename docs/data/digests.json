@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-08-09_afternoon-ai-hype-warning-dev-tools-evolution-weekly",
+      "date": "2026-08-09",
+      "file_key": "2026-08-09_afternoon",
+      "title": "AI過熱への警鐘と開発ツールの進化、今週の動向",
+      "summary": "MLパイオニアが『何でもAIと呼ぶな』と警告。Claude Code自動化、動画生成新機能、実践イベント情報。",
+      "tags": [
+        "AI定義",
+        "Claude Code",
+        "動画生成",
+        "エージェント開発",
+        "イベント情報"
+      ],
+      "slug": "ai-hype-warning-dev-tools-evolution-weekly"
+    },
+    {
       "id": "2026-08-09_morning-ai-environmental-cost-corporate-moves",
       "date": "2026-08-09",
       "file_key": "2026-08-09_morning",
@@ -416,22 +431,7 @@
         "プロンプト"
       ],
       "slug": "ai-blender-mcp-and-ai-trends"
-    },
-    {
-      "id": "2026-07-19_morning-ai-zaisei-douyou-tekikou-wa-soshikigyou-no-eikyou-wo-saguru",
-      "date": "2026-07-19",
-      "file_key": "2026-07-19_morning",
-      "title": "AIの最新動向：技術革新と社会的影響を探る",
-      "summary": "AI技術の急速な進展が業界や社会に与える影響を分析。生成AIの可能性と倫理的課題、実用応用事例をわかりやすく解説。",
-      "tags": [
-        "AI技術",
-        "生成AI",
-        "イベント",
-        "実用応用",
-        "エティクス"
-      ],
-      "slug": "ai-zaisei-douyou-tekikou-wa-soshikigyou-no-eikyou-wo-saguru"
     }
   ],
-  "updated_at": "2026-08-08T22:23:26.403318+00:00"
+  "updated_at": "2026-08-09T05:12:38.309148+00:00"
 }
