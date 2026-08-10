@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-08-11_morning-ai-shinkosen-jisshuu-gaiyo",
+      "date": "2026-08-11",
+      "file_key": "2026-08-11_morning",
+      "title": "AI最前線と実践活用ガイド",
+      "summary": "MetaのAI戦略、実用AI活用、最新ツール、イベント情報を解説",
+      "tags": [
+        "AI",
+        "ビジネス",
+        "最新技術"
+      ],
+      "slug": "ai-shinkosen-jisshuu-gaiyo"
+    },
+    {
       "id": "2026-08-10_morning-tungsten-ai-summary",
       "date": "2026-08-10",
       "file_key": "2026-08-10_morning",
@@ -415,22 +428,7 @@
         "テクノロジー"
       ],
       "slug": "ai-health-tech-events"
-    },
-    {
-      "id": "2026-07-20_afternoon-ai-now-5-things-to-watch",
-      "date": "2026-07-20",
-      "file_key": "2026-07-20_afternoon",
-      "title": "AIの今、注目すべき5つ",
-      "summary": "2026年のAI動向を5つの視点で解説。消費者向け製品から企業技術、イベントまでカバー。中国と米国のAI競争、メモリ技術の重要性、過剰なAI呼称の批判が浮上。",
-      "tags": [
-        "AI技術",
-        "企業イノベーション",
-        "消費者製品",
-        "データインフラ",
-        "イベント"
-      ],
-      "slug": "ai-now-5-things-to-watch"
     }
   ],
-  "updated_at": "2026-08-09T22:22:49.262606+00:00"
+  "updated_at": "2026-08-10T22:30:58.986539+00:00"
 }
