@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-08-15_morning-ai-industry-upgrades-2026-08",
+      "date": "2026-08-15",
+      "file_key": "2026-08-15_morning",
+      "title": "AI業界最新動向：Nvidia・Anthropic・Amazonの成長軌道と未来展望",
+      "summary": "NvidiaがSpaceXとIntelに巨額投資、Anthropicが業績倍増、Amazonのユーザー規約改訂などAI産業の多様な動きを概観。画像・動画生成AIの進化やプロンプト工学の深掘り、AIイベントも紹介",
+      "tags": [
+        "Nvidia",
+        "Anthropic",
+        "AI industry",
+        "Machine learning",
+        "Generative AI"
+      ],
+      "slug": "ai-industry-upgrades-2026-08"
+    },
+    {
       "id": "2026-08-13_morning-ai-technology-latest-developments",
       "date": "2026-08-13",
       "file_key": "2026-08-13_morning",
@@ -419,20 +434,7 @@
         "ビジネス応用"
       ],
       "slug": "ai-latest-updates-meta-claude-midjourney"
-    },
-    {
-      "id": "2026-07-24_afternoon-ai-latest-trends-and-impact",
-      "date": "2026-07-24",
-      "file_key": "2026-07-24_afternoon",
-      "title": "AIの最新動向と社会への影響",
-      "summary": "近日発表されたAI関連の技術統合、倫理問題、ツール開発を掘り下げ、その社会的影響を分析。",
-      "tags": [
-        "AI倫理",
-        "技術統合",
-        "ツール開発"
-      ],
-      "slug": "ai-latest-trends-and-impact"
     }
   ],
-  "updated_at": "2026-08-12T22:33:16.246942+00:00"
+  "updated_at": "2026-08-14T22:16:49.735649+00:00"
 }
