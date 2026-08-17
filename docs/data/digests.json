@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-08-18_morning-ai-definition-rethink-gpu-optimization-image-gen",
+      "date": "2026-08-18",
+      "file_key": "2026-08-18_morning",
+      "title": "AIの定義を見直す時代：GPU最適化と画像生成の進化",
+      "summary": "機械学習のパイオニアがAIの過剰呼称に警鐘。GPU利用率改善手法やH3モデルの活用法、注目イベントまで幅広く解説。",
+      "tags": [
+        "AI定義",
+        "GPU最適化",
+        "画像生成AI",
+        "H3モデル",
+        "Power Platform"
+      ],
+      "slug": "ai-definition-rethink-gpu-optimization-image-gen"
+    },
+    {
       "id": "2026-08-17_afternoon-latest-ai-development-trends-2026",
       "date": "2026-08-17",
       "file_key": "2026-08-17_afternoon",
@@ -417,22 +432,7 @@
         "実践"
       ],
       "slug": "ai-shinkisen-practical"
-    },
-    {
-      "id": "2026-07-26_morning-ai-news-digest-2026-07-26",
-      "date": "2026-07-26",
-      "file_key": "2026-07-26_morning",
-      "title": "AI技術の進展と課題：ゲーム、規制、エージェント失敗、イベント",
-      "summary": "海外の高品質ゲーム、AI規制反対運動、エージェント失敗事例、プロンプトツール新バージョン、地域イベントなど、AI関連ニュースを解説。",
-      "tags": [
-        "AI技術",
-        "規制",
-        "エージェント",
-        "プロンプト",
-        "イベント"
-      ],
-      "slug": "ai-news-digest-2026-07-26"
     }
   ],
-  "updated_at": "2026-08-17T04:53:35.230512+00:00"
+  "updated_at": "2026-08-17T22:16:47.656015+00:00"
 }
