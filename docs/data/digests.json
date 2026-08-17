@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "2026-08-17_afternoon-latest-ai-development-trends-2026",
+      "date": "2026-08-17",
+      "file_key": "2026-08-17_afternoon",
+      "title": "最新AI開発動向：モデルの公開とリスク管理の進展",
+      "summary": "11本のAIニュースを総括し、モデルのオープン化、企業の対応策、最新機能追加など主要トピックを整理した解説記事",
+      "tags": [],
+      "slug": "latest-ai-development-trends-2026"
+    },
+    {
       "id": "2026-08-16_morning-ai-news-summary-japan",
       "date": "2026-08-16",
       "file_key": "2026-08-16_morning",
@@ -423,20 +432,7 @@
         "イベント"
       ],
       "slug": "ai-news-digest-2026-07-26"
-    },
-    {
-      "id": "2026-07-25_afternoon-ai-tech-2026-summer",
-      "date": "2026-07-25",
-      "file_key": "2026-07-25_afternoon",
-      "title": "AIとテクノロジーの最新動向 2026年夏",
-      "summary": "自動車・画像生成・オフライン保存など多様なAI活用が注目され、企業・日常に新価値を提供",
-      "tags": [
-        "AI",
-        "自動車",
-        "画像生成"
-      ],
-      "slug": "ai-tech-2026-summer"
     }
   ],
-  "updated_at": "2026-08-15T22:14:32.520422+00:00"
+  "updated_at": "2026-08-17T04:53:35.230512+00:00"
 }
