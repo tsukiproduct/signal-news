@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-08-18_evening-ai-robotics-cost-and-education",
+      "date": "2026-08-18",
+      "file_key": "2026-08-18_evening",
+      "title": "AIロボット開発費用問題と教育AIの進展",
+      "summary": "ロボット開発費用の高騰と教育分野AIの進展、データセンター電力問題を分析",
+      "tags": [
+        "AI教育",
+        "ロボット",
+        "データセンター",
+        "電力",
+        "教育AI"
+      ],
+      "slug": "ai-robotics-cost-and-education"
+    },
+    {
       "id": "2026-08-18_morning-ai-definition-rethink-gpu-optimization-image-gen",
       "date": "2026-08-18",
       "file_key": "2026-08-18_morning",
@@ -419,20 +434,7 @@
         "イベント"
       ],
       "slug": "ai-latest-trends-practice"
-    },
-    {
-      "id": "2026-07-26_afternoon-ai-shinkisen-practical",
-      "date": "2026-07-26",
-      "file_key": "2026-07-26_afternoon",
-      "title": "AI技術最前線と実践活用ガイド",
-      "summary": "AI技術の最新動向と注目トピック、実践的活用法を解説",
-      "tags": [
-        "AI",
-        "技術",
-        "実践"
-      ],
-      "slug": "ai-shinkisen-practical"
     }
   ],
-  "updated_at": "2026-08-17T22:16:47.656015+00:00"
+  "updated_at": "2026-08-18T11:13:51.536633+00:00"
 }

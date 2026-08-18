@@ -1,0 +1,158 @@
+{
+  "id": "2026-08-18_evening-ai-robotics-cost-and-education",
+  "file_key": "2026-08-18_evening",
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T11:13:51.535853+00:00",
+  "title": "AIロボット開発費用問題と教育AIの進展",
+  "slug": "ai-robotics-cost-and-education",
+  "summary": "ロボット開発費用の高騰と教育分野AIの進展、データセンター電力問題を分析",
+  "tags": [
+    "AI教育",
+    "ロボット",
+    "データセンター",
+    "電力",
+    "教育AI"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "AI技術の進展が各産業に影響を与えています。ロボット開発のコスト問題、データセンターの電力供給課題、教育分野でのAI導入など、今日のAIニュースを総合的に解説します。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "Integral AIの失敗は、AIロボット開発の経済性に疑問を投げかけています。単純作業用ロボットの開発コストが想定を超えることで、多くのスタートアップが倒産リスクに直面しています。同時に、データセンター向けカスタムガス発電所の増加は、AIインフラ拡張に伴う電力供給の新たな課題を浮き彫りにしています。これらの問題は、AI技術の実用化における実際的な障壁となっています。",
+      "source_title": "Integral AI’s Demise Signals Hurdles Ahead for Robotics",
+      "source_url": "https://www.bloomberg.com/news/newsletters/2026-08-18/integral-ai-s-demise-signals-hurdles-ahead-for-robotics"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "本日のニュースに画像・動画生成AI関連の特集記事はありませんでした。"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "教育用AIチューター",
+      "prompt_body": "あなたは教育AIチューターです。学生がAI技術について批判的に思考できるよう、AIの利点とリスクをバランス良く説明してください。",
+      "prompt_usecase": "OpenAIのChatGPT for TeensやCodeAIパートナーシップの教育コンテンツ作成に活用",
+      "prompt_source": "https://openai.com/index/introducing-chatgpt-for-teens"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "HackerNewsで話題沸鳴の機械学習基礎解説記事が193ポイントを獲得。同じく、「すべてをAIと呼ぶのをやめろ」という提言が223ポイントの話題に。",
+      "source_title": "AI and Machine Learning – The Basics",
+      "source_url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "8月19日に神戸で「スナックAI」勉強会が開催されます。また、Power PlatformとMicrosoft Fabricを活用したDX実践に関するオンラインセミナーも予定されています。",
+      "event_list": [
+        {
+          "title": "AI勉強会「スナックAI」 in 神戸",
+          "date": "2026-08-19",
+          "place": "エムトーン会議室",
+          "url": "https://kandigi.doorkeeper.jp/events/198334"
+        },
+        {
+          "title": "Excel・紙・属人運用から脱却し、AI・データ活用を加速するには",
+          "date": "2026-08-19",
+          "place": "オンライン",
+          "url": "https://majisemi-data.doorkeeper.jp/events/198328"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "教育分野では、OpenAIのChatGPT for TeensやCodeAIパートナーシップを活用して、学生向けAIリテラシー教育を導入できます。ビジネスでは、Qwen 3.8 27Bモデルの活用により、コスト効率的なAIソリューションの検討が可能です。また、データセンターの電力問題に対応するため、エネルギー効率の良いAIモデル選択が重要になります。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "ロボット開発コストの問題とデータセンター電力供給の課題は、AI産業の持続可能性に関わる重要なテーマです。教育分野でのAI導入が加速される中、倫理的な使用とプライバシー保護が注目されます。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Integral AI’s Demise Signals Hurdles Ahead for Robotics",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-18/integral-ai-s-demise-signals-hurdles-ahead-for-robotics",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "Data Center Gas Plants to Boost US Power Emissions by 20%",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/data-center-gas-plants-to-boost-us-power-emissions-by-20",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "url": "https://openai.com/index/partnering-with-codeai",
+      "source": "OpenAI Blog",
+      "category": "Research"
+    },
+    {
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "url": "https://openai.com/index/introducing-chatgpt-for-teens",
+      "source": "OpenAI Blog",
+      "category": "Research"
+    },
+    {
+      "title": "晩酌用にまとめ買い！ 「金麦 ザ・ラガー」500ml×24本が15％オフ",
+      "url": "https://ascii.jp/elem/000/004/427/4427482/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index",
+      "url": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "The role of the astronaut is in flux",
+      "url": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
+      "source": "MIT Tech Review",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "【神戸開催】AI勉強会「スナックAI」 in 神戸",
+      "url": "https://kandigi.doorkeeper.jp/events/198334",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "Excel・紙・属人運用から脱却し、AI・データ活用を加速するには ～Power Platform / Microsoft FabricによるDXの実践～",
+      "url": "https://majisemi-data.doorkeeper.jp/events/198328",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
