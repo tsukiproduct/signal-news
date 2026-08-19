@@ -1,0 +1,152 @@
+{
+  "id": "2026-08-19_afternoon-ai-weekly-mojo-opensource-semiconductor-stock-kobe-ai-study",
+  "file_key": "2026-08-19_afternoon",
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T04:43:17.871700+00:00",
+  "title": "AI動向週報：オープンソースMojo、半導体株安、神戸AI勉強会",
+  "slug": "ai-weekly-mojo-opensource-semiconductor-stock-kobe-ai-study",
+  "summary": "オープンソース言語Mojo、半導体株の大幅下落、神戸でのAI勉強会開催などAI関連動向を一気に紹介",
+  "tags": [
+    "AI",
+    "Mojo",
+    "半導体",
+    "イベント",
+    "オープンソース"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "今週のAIニュースは技術・業界・金融まで幅広く動いています。注目は「Mojo🔥」のオープンソース化で、開発者の関心を集めています。一方、半導体関連株が大きく下落するなど市場の波も荒しく、AI技術の普及が経済に与える影響が複雑に絡み合っています。国内では神戸でAI勉強会「スナックAI」が開催されるなど、コミュニティ活動も活発です。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "「Mojo🔥」は、AIモデルの高速実行を可能にするプログラミング言語として注目されてきました。これまで商用ライセンスで提供されてきたこの言語がオープンソース化されたことで、開発者は無償で利用できるようになり、AI開発の民主化が進む可能性があります。背景には、AI開発のハードルを下げ、より多くの開発者が参入できるようにする動きがあります。今後、この言語がどのように普及していくのか注目されます。",
+      "source_title": "Mojo🔥 is now open source",
+      "source_url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "Redditのr/StableDiffusionで「G.I. Joe - Commander Roll」が話題に。4070 Ti Superを使用したref2vaワークフローにより、高品質な画像生成が可能であることが示されています。",
+      "source_title": "G.I. Joe - Commander Roll - MiniMax H3",
+      "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1vs95w7/gi_joe_commander_roll_minimax_h3/"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "HackerNewsで「Stop Calling Everything AI, Machine-Learning Pioneer Says」が193ポイントを獲得。多くの技術者が「AI」という言葉の濫用に懐疑的な意見を示しています。",
+      "source_title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "source_url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "8月19日に神戸で「スナックAI」が開催されます。また、オンラインで「Figma最新機能キャッチアップ会」も予定されており、AIエージェントやコードレイヤーに関する議論が期待されます。",
+      "event_list": [
+        {
+          "title": "AI勉強会「スナックAI」 in 神戸",
+          "date": "2026-08-19",
+          "place": "エムトーン会議室",
+          "url": "https://kandigi.doorkeeper.jp/events/198334"
+        },
+        {
+          "title": "Figma最新機能キャッチアップ会",
+          "date": "2026-08-19",
+          "place": "オンライン",
+          "url": "https://cssnite.doorkeeper.jp/events/198192"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "Mojo🔥のオープンソース化により、企業はAIモデルの推論速度を向上させることができる可能性があります。特に、リアルタイム処理が求められる分野（例：金融取引、ゲーム、IoT）での活用が期待されます。また、オープンソース化によりカスタマイズが容易になり、企業独自のAIソリューション開発が加速されるでしょう。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "今後の注目点は、Mojo🔥が実際の開発現場でどれだけ採用されるか、そして半導体株の下落がAI業界全体に与える影響です。特に、技術の民主化と市場のボラタリリティのバランスが重要なテーマとなるでしょう。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "India’s Exports to US Hold Firm After a Year of Trump’s Tariffs",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/india-s-exports-to-us-hold-firm-after-a-year-of-trump-s-tariffs",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "eスポーツ初心者の1台目にピッタリ！ ヌルヌル映像が期待できるゲーミングディスプレーが1万7980円",
+      "url": "https://ascii.jp/elem/000/004/427/4427509/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "スマホにヌルヌル画面が欲しいなら最大240Hzで5万円台の「AQUOS sense9」はいかが？",
+      "url": "https://ascii.jp/elem/000/004/427/4427347/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "LG AI Research's Lee on The Importance of Sovereign AI",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-19/lg-ai-research-s-lee-on-the-importance-of-sovereign-ai-video",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "株価 一時2100円超値下がり 半導体関連銘柄中心に売り注文",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de44933",
+      "source": "NHK テクノロジー",
+      "category": "AI"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Mojo🔥 is now open source",
+      "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "G.I. Joe - Commander Roll - MiniMax H3",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1vs95w7/gi_joe_commander_roll_minimax_h3/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "【神戸開催】AI勉強会「スナックAI」 in 神戸",
+      "url": "https://kandigi.doorkeeper.jp/events/198334",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "【CeeBeeDee】Figma最新機能キャッチアップ会 〜AI Agent / Code Layers / Motionから考える、これからのデザインワークフロー／ken",
+      "url": "https://cssnite.doorkeeper.jp/events/198192",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
