@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-08-19_evening-ai-weekly-update-nvidia-strategy",
+      "date": "2026-08-19",
+      "file_key": "2026-08-19_evening",
+      "title": "AI技術の最新動向を解説：Nvidiaの戦略からイベント情報まで",
+      "summary": "NvidiaのAI需要拡大策や画像生成AI、プロンプト技術の最新情報を解説",
+      "tags": [
+        "AI戦略",
+        "画像生成AI",
+        "イベント",
+        "プロンプト",
+        "セキュリティ"
+      ],
+      "slug": "ai-weekly-update-nvidia-strategy"
+    },
+    {
       "id": "2026-08-19_afternoon-ai-weekly-mojo-opensource-semiconductor-stock-kobe-ai-study",
       "date": "2026-08-19",
       "file_key": "2026-08-19_afternoon",
@@ -421,22 +436,7 @@
         "イベント"
       ],
       "slug": "ai-development-safety-and-regulation"
-    },
-    {
-      "id": "2026-07-28_evening-apple-upgrade-ai-trends-july-28",
-      "date": "2026-07-28",
-      "file_key": "2026-07-28_evening",
-      "title": "AppleのリースサービスとAIトレンドの7月28日総まとめ",
-      "summary": "Appleの新サービス「Upgrade」やAI画像生成、イベント情報を網羅解説",
-      "tags": [
-        "Apple",
-        "AIリース",
-        "画像生成AI",
-        "セキュリティ",
-        "イベント"
-      ],
-      "slug": "apple-upgrade-ai-trends-july-28"
     }
   ],
-  "updated_at": "2026-08-19T04:43:17.872217+00:00"
+  "updated_at": "2026-08-19T11:13:47.407038+00:00"
 }
