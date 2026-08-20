@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-08-20_afternoon-ai-and-tech-live-updates",
+      "date": "2026-08-20",
+      "file_key": "2026-08-20_afternoon",
+      "title": "AIとテクノロジーの最新動向",
+      "summary": "AI技術の進化、イベント開催、ハードウェア革新など、今週の最新ニュースを解説します。",
+      "tags": [
+        "AI技術",
+        "生成AI",
+        "ハードウェア",
+        "イベント",
+        "プロンプトエンジニアリング"
+      ],
+      "slug": "ai-and-tech-live-updates"
+    },
+    {
       "id": "2026-08-19_evening-ai-weekly-update-nvidia-strategy",
       "date": "2026-08-19",
       "file_key": "2026-08-19_evening",
@@ -422,21 +437,7 @@
         "開発者"
       ],
       "slug": "ai-tech-weekly-update-2026"
-    },
-    {
-      "id": "2026-07-29_morning-ai-development-safety-and-regulation",
-      "date": "2026-07-29",
-      "file_key": "2026-07-29_morning",
-      "title": "AI開発ペース調整呼び掛けと安全技術の最前線",
-      "summary": "AI開発のペース調整求む声、安全技術の進展、生成AIの活用事例を一挙解説。",
-      "tags": [
-        "AI規制",
-        "生成AI",
-        "セキュリティ",
-        "イベント"
-      ],
-      "slug": "ai-development-safety-and-regulation"
     }
   ],
-  "updated_at": "2026-08-19T11:13:47.407038+00:00"
+  "updated_at": "2026-08-20T04:44:14.463603+00:00"
 }

@@ -1,0 +1,160 @@
+{
+  "id": "2026-08-20_afternoon-ai-and-tech-live-updates",
+  "file_key": "2026-08-20_afternoon",
+  "date": "2026-08-20",
+  "generated_at": "2026-08-20T04:44:14.462881+00:00",
+  "title": "AIとテクノロジーの最新動向",
+  "slug": "ai-and-tech-live-updates",
+  "summary": "AI技術の進化、イベント開催、ハードウェア革新など、今週の最新ニュースを解説します。",
+  "tags": [
+    "AI技術",
+    "生成AI",
+    "ハードウェア",
+    "イベント",
+    "プロンプトエンジニアリング"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "今週は生成AIの倫理的課題やハードウェアの革新、eスポーツ向け製品の登場など多様なAI関連ニュースが報じられました。ケンタの限定パックやAIサンドボックス技術など、業界横断的な動きに注目が集まっています。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "AIの過剰な表現を抑える呼びかけが注目されています。機械学習の先駆者が「すべてをAIと称する慣行をやめるべき」と主張し、実際の技術理解の重要性を強調しました。また、eスポーツ向けコントローラーの8Kポーリングレートや、49インチモニターに対応するアームなど、AIが支えるハードウェアの進化も注目ポイントです。",
+      "source_title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "source_url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "Stable DiffusionのInpaint機能を活用した顔の編集技術が注目されています。RTX 3090でローカル処理を実現する方法が紹介され、クリエイター向けの新たな可能性が示唆されました。",
+      "source_title": "Using Inpaiting in Minimax to change heads-Local RTX 3090",
+      "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1vt39jj/using_inpaiting_in_minimax_to_change_headslocal/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "製品説明生成プロンプト",
+      "prompt_body": "「製品名、主要機能、ターゲットユーザー、価格帯、競合他社との違いを抽出して、簡潔な説明文を作成してください」",
+      "prompt_usecase": "マーケティング資料やECサイトの商品紹介文作成に活用。技術的な詳細を簡潔に伝える際のサポート役として有効です。",
+      "prompt_source": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "HackerNewsで話題のAIサンドボックス技術「smolmachines」が注目されています。Python/JavaScriptの実行環境を制限された環境で動作させる研究が注目され、非信頼コードの安全な利用が可能に。",
+      "source_title": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
+      "source_url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "東海支部主催のCPM®キャリアセミナーや、AI勉強会「もくもく会」が開催されています。オンラインとオフラインの両方で学びの機会が提供されています。",
+      "event_list": [
+        {
+          "title": "第7回AI勉強会「もくもく会」",
+          "date": "2026-08-20",
+          "place": "オンライン",
+          "url": "https://kandigi.doorkeeper.jp/events/198335"
+        },
+        {
+          "title": "東海支部主催キャリアセミナー",
+          "date": "2026-08-20",
+          "place": "名古屋栄店",
+          "url": "https://45a5a14a3b57f2cbb261c9545d.doorkeeper.jp/events/198281"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "AIのプロンプトエンジニアリングを活用し、マーケティング資料や技術文書の作成効率を向上させましょう。また、生成AIを活用した市場調査や競合分析の手法も検討できます。ハードウェア分野では、高性能コントローラーやモニタアームを活用した業務効率化が可能です。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "AI倫理の議論やハードウェア革新の進展が今後のトレンドを左右するでしょう。特にeスポーツ向け製品やローカルAI処理技術の実用化が注目分野です。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "ケンタ、990円の「生誕祭」！ 3週間限定のおトクパック",
+      "url": "https://ascii.jp/elem/000/004/428/4428091/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "【きょうのおはBiz 8月20日（木）】“概算要求基準” 特徴は？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260820de45205",
+      "source": "NHK テクノロジー",
+      "category": "AI"
+    },
+    {
+      "title": "MSI、耐荷重20kg・49インチ対応のゲーミングモニターアームを発売へ",
+      "url": "https://ascii.jp/elem/000/004/428/4428065/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "eスポーツ特化の高性能有線コントローラー発見！ GameSirの8Kポーリングレート対応モデルがイチオシ",
+      "url": "https://ascii.jp/elem/000/004/427/4427939/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "『信長の野望 出陣』3周年記念公式生放送が8月26日21時より配信決定！",
+      "url": "https://ascii.jp/elem/000/004/428/4428087/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
+      "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "Using Inpaiting in Minimax to change heads-Local RTX 3090",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1vt39jj/using_inpaiting_in_minimax_to_change_headslocal/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "第7回AI勉強会「もくもく会」",
+      "url": "https://kandigi.doorkeeper.jp/events/198335",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "【東海支部主催２部構成セミナー】CPM®で「私」の未来が変わる！キャリア ✖ 実務のリアルを学ぶ",
+      "url": "https://45a5a14a3b57f2cbb261c9545d.doorkeeper.jp/events/198281",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
