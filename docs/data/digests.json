@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "id": "2026-08-21_morning-ai-news-summary-aug2026",
+      "date": "2026-08-21",
+      "file_key": "2026-08-21_morning",
+      "title": "AIニュースまとめ：金利・小売・テキスト自動化の最新動向",
+      "summary": "金利上昇、小売AI、ChatGPTテキスト自動化、生成AI高速化、イベント情報まとめ",
+      "tags": [
+        "AI",
+        "ChatGPT",
+        "生成AI",
+        "金利",
+        "小売",
+        "イベント"
+      ],
+      "slug": "ai-news-summary-aug2026"
+    },
+    {
       "id": "2026-08-20_afternoon-ai-and-tech-live-updates",
       "date": "2026-08-20",
       "file_key": "2026-08-20_afternoon",
@@ -422,22 +438,7 @@
         "Practical Applications"
       ],
       "slug": "ai-technology-diverse-movements"
-    },
-    {
-      "id": "2026-07-29_afternoon-ai-tech-weekly-update-2026",
-      "date": "2026-07-29",
-      "file_key": "2026-07-29_afternoon",
-      "title": "AIとテクノロジーの最新動向：ADB制限からDeepFake対策まで",
-      "summary": "AndroidのADB制限、画像生成AIの問題、イベント情報を解説するAI/Technology総合ニュース",
-      "tags": [
-        "AI",
-        "Android",
-        "画像生成AI",
-        "イベント",
-        "開発者"
-      ],
-      "slug": "ai-tech-weekly-update-2026"
     }
   ],
-  "updated_at": "2026-08-20T04:44:14.463603+00:00"
+  "updated_at": "2026-08-20T22:19:17.484778+00:00"
 }
