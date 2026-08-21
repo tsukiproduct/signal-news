@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "id": "2026-08-22_morning-ai-overlabeling-linkedin-slop-image-gen-evolution",
+      "date": "2026-08-22",
+      "file_key": "2026-08-22_morning",
+      "title": "AIの過剰呼称に警鐘、LinkedInのAIスロップ問題と画像生成AIの進化",
+      "summary": "LinkedInのAIスロップボタンが100万クリック、MLパイオニアがAI過剰呼称に警鐘。MiniMax-H3がComfyUI対応で画像生成AIが進化。",
+      "tags": [
+        "LinkedIn",
+        "AIスロップ",
+        "MiniMax-H3",
+        "ComfyUI",
+        "エンタープライズAI",
+        "AIエネルギー問題"
+      ],
+      "slug": "ai-overlabeling-linkedin-slop-image-gen-evolution"
+    },
+    {
       "id": "2026-08-21_morning-ai-news-summary-aug2026",
       "date": "2026-08-21",
       "file_key": "2026-08-21_morning",
@@ -424,21 +440,7 @@
         "イベント"
       ],
       "slug": "ai-weekly-brief-2026-07-30"
-    },
-    {
-      "id": "2026-07-30_afternoon-ai-technology-diverse-movements",
-      "date": "2026-07-30",
-      "file_key": "2026-07-30_afternoon",
-      "title": "AI技術の多様な動きと実用性の探求",
-      "summary": "AI技術の最新動向から画像生成、イベント、実用応用までを包括的に解説。技術の進化と社会への影響をバランスよく取り上げる。",
-      "tags": [
-        "AI",
-        "Image Generation",
-        "Events",
-        "Practical Applications"
-      ],
-      "slug": "ai-technology-diverse-movements"
     }
   ],
-  "updated_at": "2026-08-20T22:19:17.484778+00:00"
+  "updated_at": "2026-08-21T22:16:03.265647+00:00"
 }
