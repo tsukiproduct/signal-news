@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-08-23_morning-ai-rai-to-jisshiki",
+      "date": "2026-08-23",
+      "file_key": "2026-08-23_morning",
+      "title": "AIの未来と実用化：教育からビジネスまで",
+      "summary": "AIエージェントの進化、教育分野の変革、ビジネス活用の可能性を検討。インフラコストや倫理的課題も考慮。",
+      "tags": [
+        "AI教育",
+        "画像生成AI",
+        "企業活用"
+      ],
+      "slug": "ai-rai-to-jisshiki"
+    },
+    {
       "id": "2026-08-22_morning-ai-overlabeling-linkedin-slop-image-gen-evolution",
       "date": "2026-08-22",
       "file_key": "2026-08-22_morning",
@@ -425,22 +438,7 @@
         "画像生成"
       ],
       "slug": "ai-industry-news-summary-july-2026"
-    },
-    {
-      "id": "2026-07-31_morning-ai-weekly-brief-2026-07-30",
-      "date": "2026-07-31",
-      "file_key": "2026-07-31_morning",
-      "title": "AI開発、投資、規制、イベントまで一周",
-      "summary": "AI開発の規制呼びかけ、クラウド投資の熱狂、AIスロップ対策、AppleのAI課金などを一振りまとめ。",
-      "tags": [
-        "AI規制",
-        "AI投資",
-        "AIビジネス",
-        "画像生成",
-        "イベント"
-      ],
-      "slug": "ai-weekly-brief-2026-07-30"
     }
   ],
-  "updated_at": "2026-08-21T22:16:03.265647+00:00"
+  "updated_at": "2026-08-22T22:15:16.968746+00:00"
 }
