@@ -1,0 +1,158 @@
+{
+  "id": "2026-08-24_morning-ai-hollywood-game-business",
+  "file_key": "2026-08-24_morning",
+  "date": "2026-08-24",
+  "generated_at": "2026-08-23T22:14:46.580693+00:00",
+  "title": "AI活用で映画・ゲーム・ビジネスが変わる",
+  "slug": "ai-hollywood-game-business",
+  "summary": "映画・ゲーム制作とスタートアップ支援、最新AIツールとイベントを解説",
+  "tags": [
+    "AI",
+    "ゲーム開発",
+    "ビジネス"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "映画・ゲーム産業はAI活用で大きく変わり、ハリウッドの最新インタビューでは制作効率と観客需要の最適化が議論された。Unreal Engine 5.8に自然言語で操作できるCodexが登場し、モデル配置やアニメーションを自動化。さらにKDDIの「Beyond Borders」アクセラレータが国内スタートアップの海外展開を支援し、AI活用ビジネスの実践例も注目される。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "Unreal Engine 5.8はリアルタイム3Dを扱うゲームエンジンだが、2026年8月に米国のCodexと連携し、自然言語でオブジェクト配置やアニメーション、エフェクトまで自動生成できるようになった。開発者はコードを書かずに「カメラを左側に移動」や「青いライトを付与」などの指示で画面を作り上げられ、制作期間が数週間から数日に短縮される可能性がある。この技術はインディーゲーム開発者だけでなく、映画VFXや広告制作にも応用でき、AIが「制作の常識」を覆す事例として注目される。",
+      "source_title": "Unreal EngineをCodexに操作させたら制作の常識が変わった",
+      "source_url": "https://ascii.jp/elem/000/004/428/4428658/?rss"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "Civitaiは8月14日、閉鎖型の生成モデルを選択できる新機能を追加した。これまでオープンソースモデルが中心だった同プラットフォームが、企業向けに proprietary モデルの配布・管理を可能にし、知的財産権の保護と高度なカスタマイズが期待できる。今後の画像生成AI利用に影響を与える可能性が高い。",
+      "source_title": "Civitai now has a closed-source models option",
+      "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1vwilol/civitai_now_has_a_"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "スマホ宣伝文句生成",
+      "prompt_body": "新しいスマートフォンカメラの宣伝文句を30文字以内で考案し、低光性能とスタイリッシュなデザインを強調してください。",
+      "prompt_usecase": "SNS広告用に英語と日本語でキャッチコピーを作成し、製品の特長を簡潔に伝える。",
+      "prompt_source": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "HackerNewsで話題の「Stop Calling Everything AI, Machine-Learning Pioneer Says」では、AIという言葉が過剰に拡張され、実際の機械学習の進展が見えにくくなる危険性が指摘されている。専門家は用語の正確な使用とデータ品質の向上を呼びかけ、AIブームの過剰な宣伝を警告している。",
+      "source_title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "source_url": "https://spectrum.ie.org/stop-calling-everything-ai-machinelearning-pioneer-says"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "8月25日、シーメンスのエンタープライズAI実行フェーズに関するオンライン講演と、WACA主催のGenspark NOW vol.12が同時に開催される。両イベントは無料で参加可能で、実務に即したAI活用事例や最新ツールの解説が期待できる。",
+      "event_list": [
+        {
+          "title": "シーメンスエキスパートトーク 第5弾",
+          "date": "2026-08-25",
+          "place": "オンライン",
+          "url": "https://majisemi-technology.doorkeeper.jp/events/198386"
+        },
+        {
+          "title": "Genspark NOW vol.12",
+          "date": "2026-08-25",
+          "place": "オンライン",
+          "url": "https://web-mining.doorkeeper.jp/events/198342"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "企業はUnreal EngineのCodex活用でゲームや映像コンテンツの開発コストを削減し、KDDIの海外支援プログラムを利用して海外市場への参入を加速できる。また、Civitaiの閉鎖型モデルを用いた画像生成で商品カタログや広告素材を自動化し、マーケティング効率を高める具体的なステップを踏むとよい。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "AIモデルの低コスト化が進み、スタートアップでも高度な生成AIを利用可能になる一方、データ品質と倫理的な運用がますます重要視される。最新のUnreal Engine AI機能やCivitaiの閉鎖型モデルは、ゲーム・映像・マーケティング分野でのイノベーションを促進し、今後の産業構造を大きく変える可能性がある。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Lessons From Hollywood’s Best Year Since 2019",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-23/lessons-from-hollywood-s-best-year-since-2019",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "「うわ、すげえ！」Unreal EngineをCodexに操作させたら制作の常識が変わった",
+      "url": "https://ascii.jp/elem/000/004/428/4428658/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "KDDI、国内スタートアップの米国進出・顧客獲得に特化した新プログラムを開始",
+      "url": "https://ascii.jp/elem/000/004/428/4428562/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "今年は標準モデルのPixel 11がカメラも出っ張り小もイイ！ 新Pixel全機種実機レビューの巻：スマホ総研定例会389",
+      "url": "https://ascii.jp/elem/000/004/428/4428549/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "自作PCトーク『ジサトラKTU』生放送～Arc G3 Extreme搭載PCの性能を検証、MSI「Claw 8 EX Ai+」はマジでスゴかった!!～",
+      "url": "https://ascii.jp/elem/000/004/428/4428431/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "Civitai now has a closed-source models option",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1vwilol/civitai_now_has_a_closedsource_models_option/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "【シーメンスエキスパートトーク 第5弾】エンタープライズAIを実行フェーズにもっていくために ～グラフ・オントロジーによる圧倒的競争力確保を学ぶ～",
+      "url": "https://majisemi-technology.doorkeeper.jp/events/198386",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "【WACA主催】【Genspark NOW 】vol.12",
+      "url": "https://web-mining.doorkeeper.jp/events/198342",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

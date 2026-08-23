@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-08-24_morning-ai-hollywood-game-business",
+      "date": "2026-08-24",
+      "file_key": "2026-08-24_morning",
+      "title": "AI活用で映画・ゲーム・ビジネスが変わる",
+      "summary": "映画・ゲーム制作とスタートアップ支援、最新AIツールとイベントを解説",
+      "tags": [
+        "AI",
+        "ゲーム開発",
+        "ビジネス"
+      ],
+      "slug": "ai-hollywood-game-business"
+    },
+    {
       "id": "2026-08-23_evening-ai-to-game-gear",
       "date": "2026-08-23",
       "file_key": "2026-08-23_evening",
@@ -422,22 +435,7 @@
         "プロンプト"
       ],
       "slug": "yen-stabilization-ai-technology"
-    },
-    {
-      "id": "2026-08-01_afternoon-africa-ai-datacenters-deepseek-v4-flash",
-      "date": "2026-08-01",
-      "file_key": "2026-08-01_afternoon",
-      "title": "アフリカがAIデータセンターの新フロンティアに、DeepSeek新モデルも登場",
-      "summary": "アフリカがAIデータセンターの要に。DeepSeek新モデル公開、生成AI動画の進化、インフラ自動化イベントも注目。",
-      "tags": [
-        "AIインフラ",
-        "データセンター",
-        "動画生成",
-        "LLM",
-        "生成AI運用"
-      ],
-      "slug": "africa-ai-datacenters-deepseek-v4-flash"
     }
   ],
-  "updated_at": "2026-08-23T11:12:56.663466+00:00"
+  "updated_at": "2026-08-23T22:14:46.581426+00:00"
 }
