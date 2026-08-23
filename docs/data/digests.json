@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-08-23_afternoon-vision-ai-democratization-reality",
+      "date": "2026-08-23",
+      "file_key": "2026-08-23_afternoon",
+      "title": "ビジョンAI民主化と実装の現実",
+      "summary": "Roboflow Playgroundでゼロショットモデルを無料比較、Linus Torvaldsも認める実用性、企業AI導入の最新動向",
+      "tags": [
+        "ビジョンAI",
+        "ゼロショット学習",
+        "エンタープライズAI",
+        "Roboflow",
+        "ComfyUI"
+      ],
+      "slug": "vision-ai-democratization-reality"
+    },
+    {
       "id": "2026-08-23_morning-ai-rai-to-jisshiki",
       "date": "2026-08-23",
       "file_key": "2026-08-23_morning",
@@ -423,22 +438,7 @@
         "イベント"
       ],
       "slug": "openai-agent-issue-ai-trends-2026"
-    },
-    {
-      "id": "2026-07-31_afternoon-ai-industry-news-summary-july-2026",
-      "date": "2026-07-31",
-      "file_key": "2026-07-31_afternoon",
-      "title": "AI業界ニュース11本で読み解く、技術とビジネスの最前線",
-      "summary": "AI関連ニュース11本を分析し、産業動向・技術革新・イベント情報を網羅的に解説する特集記事",
-      "tags": [
-        "AIニュース",
-        "生成AI",
-        "イベント",
-        "プロンプト",
-        "画像生成"
-      ],
-      "slug": "ai-industry-news-summary-july-2026"
     }
   ],
-  "updated_at": "2026-08-22T22:15:16.968746+00:00"
+  "updated_at": "2026-08-23T04:45:10.596044+00:00"
 }
