@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "2026-08-23_evening-ai-to-game-gear",
+      "date": "2026-08-23",
+      "file_key": "2026-08-23_evening",
+      "title": "AIとゲームグッズ最前線",
+      "summary": "AI技術と任天堂グッズ、最新コントローラ、画像生成まで幅広く解説",
+      "tags": [
+        "AI",
+        "Nintendo",
+        "ImageGeneration",
+        "Events"
+      ],
+      "slug": "ai-to-game-gear"
+    },
+    {
       "id": "2026-08-23_afternoon-vision-ai-democratization-reality",
       "date": "2026-08-23",
       "file_key": "2026-08-23_afternoon",
@@ -423,22 +437,7 @@
         "生成AI運用"
       ],
       "slug": "africa-ai-datacenters-deepseek-v4-flash"
-    },
-    {
-      "id": "2026-08-01_morning-openai-agent-issue-ai-trends-2026",
-      "date": "2026-08-01",
-      "file_key": "2026-08-01_morning",
-      "title": "OpenAIエージェント問題とAIトレンドの今を解説",
-      "summary": "OpenAIのエージェント不具合相次ぐ中、画像生成AIの偽情報問題やオープンウェイト革命が注目。生成AI時代のインフラ自動化やイベント情報も掲載。",
-      "tags": [
-        "OpenAI",
-        "生成AI",
-        "エージェント",
-        "画像生成",
-        "イベント"
-      ],
-      "slug": "openai-agent-issue-ai-trends-2026"
     }
   ],
-  "updated_at": "2026-08-23T04:45:10.596044+00:00"
+  "updated_at": "2026-08-23T11:12:56.663466+00:00"
 }
