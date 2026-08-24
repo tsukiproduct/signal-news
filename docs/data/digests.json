@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-08-24_afternoon-ai-news-summary-20260825",
+      "date": "2026-08-24",
+      "file_key": "2026-08-24_afternoon",
+      "title": "AI技術の最新動向と今後の展望",
+      "summary": "2026年8月25日のAI関連ニュースを解説。価格変動、ロボット技術、画像生成AIの進展、イベント情報をカバー。",
+      "tags": [
+        "AI技術",
+        "画像生成AI",
+        "ロボット技術",
+        "イベント情報",
+        "プロンプト"
+      ],
+      "slug": "ai-news-summary-20260825"
+    },
+    {
       "id": "2026-08-24_morning-ai-hollywood-game-business",
       "date": "2026-08-24",
       "file_key": "2026-08-24_morning",
@@ -420,22 +435,7 @@
         "予測市場"
       ],
       "slug": "ai-weekly-trends-2026"
-    },
-    {
-      "id": "2026-08-02_evening-yen-stabilization-ai-technology",
-      "date": "2026-08-02",
-      "file_key": "2026-08-02_evening",
-      "title": "円安是正とAI技術最前線",
-      "summary": "円安是正の協調介入とAIツール・イベント紹介",
-      "tags": [
-        "AI",
-        "円安",
-        "テクノロジー",
-        "イベント",
-        "プロンプト"
-      ],
-      "slug": "yen-stabilization-ai-technology"
     }
   ],
-  "updated_at": "2026-08-23T22:14:46.581426+00:00"
+  "updated_at": "2026-08-24T04:54:36.412078+00:00"
 }
