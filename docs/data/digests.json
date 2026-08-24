@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-08-24_evening-ai-trends-business-and-generative-models",
+      "date": "2026-08-24",
+      "file_key": "2026-08-24_evening",
+      "title": "AIの今日の動向：ビジネス集中と生成モデルの台頭",
+      "summary": "MicrosoftのAIビジネスがOpenAIやTikTok、Metaに集中し、生成AIやプロンプトに関する注目話題が続々と浮上しています。",
+      "tags": [
+        "AIビジネス",
+        "生成AI",
+        "プロンプト",
+        "イベント",
+        "Microsoft"
+      ],
+      "slug": "ai-trends-business-and-generative-models"
+    },
+    {
       "id": "2026-08-24_afternoon-ai-news-summary-20260825",
       "date": "2026-08-24",
       "file_key": "2026-08-24_afternoon",
@@ -420,22 +435,7 @@
         "Events"
       ],
       "slug": "ai-business-travel-trends"
-    },
-    {
-      "id": "2026-08-04_morning-ai-weekly-trends-2026",
-      "date": "2026-08-04",
-      "file_key": "2026-08-04_morning",
-      "title": "AIと市場・生活・イベントで見る今週のトレンド",
-      "summary": "株価高、ホラー音声の心理、日傘技術、ポイントキャンペーン、予測市場、AI基礎、イベント情報を解説",
-      "tags": [
-        "AI",
-        "市場",
-        "テクノロジー",
-        "イベント",
-        "予測市場"
-      ],
-      "slug": "ai-weekly-trends-2026"
     }
   ],
-  "updated_at": "2026-08-24T04:54:36.412078+00:00"
+  "updated_at": "2026-08-24T11:16:45.482137+00:00"
 }
