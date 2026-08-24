@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-08-25_morning-ai-business-application",
+      "date": "2026-08-25",
+      "file_key": "2026-08-25_morning",
+      "title": "AIと企業活用の最前線",
+      "summary": "AI技術と実践的活用、最新トレンドを解説",
+      "tags": [
+        "AI",
+        "OpenSource",
+        "ImageGeneration",
+        "Events",
+        "Business"
+      ],
+      "slug": "ai-business-application"
+    },
+    {
       "id": "2026-08-24_evening-ai-trends-business-and-generative-models",
       "date": "2026-08-24",
       "file_key": "2026-08-24_evening",
@@ -420,22 +435,7 @@
         "日本語AI活用"
       ],
       "slug": "ai-trends-japan-2026"
-    },
-    {
-      "id": "2026-08-05_morning-ai-business-travel-trends",
-      "date": "2026-08-05",
-      "file_key": "2026-08-05_morning",
-      "title": "AIビジネスと旅行最前線、最新トレンド",
-      "summary": "AIデータセンターコンピューティング需要増、旅行ルール改定、AI概念誤用警告、生成AIツール、オンラインイベント情報を解説",
-      "tags": [
-        "AI",
-        "Data Center",
-        "Travel",
-        "Generative AI",
-        "Events"
-      ],
-      "slug": "ai-business-travel-trends"
     }
   ],
-  "updated_at": "2026-08-24T11:16:45.482137+00:00"
+  "updated_at": "2026-08-24T22:19:32.262643+00:00"
 }
