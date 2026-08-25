@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "id": "2026-08-25_evening-humanoid-robots-memory-boom-ai-tools-2026",
+      "date": "2026-08-25",
+      "file_key": "2026-08-25_evening",
+      "title": "Humanoid Robots, Memory Boom, and AI Tools Shaping 2026",
+      "summary": "The AI landscape is evolving on multiple fronts: humanoid robot prototypes show incremental progress, a memory‑chip boom is reshaping regional economies, and new development tools streamline AI workflows. Meanwhile, online discussions question the overuse of “AI,” and upcoming webinars explore lead‑generation marketing and LLM generalization. These trends hint at a year where hardware, software, and business strategy converge.",
+      "tags": [
+        "Humanoid Robots",
+        "AI Infrastructure",
+        "Generative AI",
+        "Machine Learning",
+        "B2B Marketing",
+        "LLM Optimization"
+      ],
+      "slug": "humanoid-robots-memory-boom-ai-tools-2026"
+    },
+    {
       "id": "2026-08-25_morning-ai-business-application",
       "date": "2026-08-25",
       "file_key": "2026-08-25_morning",
@@ -421,21 +437,7 @@
         "イベント"
       ],
       "slug": "ai-transformations-and-challenges"
-    },
-    {
-      "id": "2026-08-05_afternoon-ai-trends-japan-2026",
-      "date": "2026-08-05",
-      "file_key": "2026-08-05_afternoon",
-      "title": "AIトレンドと日本語AI活用の新地景「2026年8月」",
-      "summary": "AIニュース11本から、技術動向と日本での活用事例を解説。安全対策からイベント情報まで網羅",
-      "tags": [
-        "AIセキュリティ",
-        "プロンプトエンジニアリング",
-        "AIイベント",
-        "日本語AI活用"
-      ],
-      "slug": "ai-trends-japan-2026"
     }
   ],
-  "updated_at": "2026-08-24T22:19:32.262643+00:00"
+  "updated_at": "2026-08-25T11:18:06.059119+00:00"
 }
