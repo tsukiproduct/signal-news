@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-08-26_evening-gates-ai-concerns-terminology-generation-advances",
+      "date": "2026-08-26",
+      "file_key": "2026-08-26_evening",
+      "title": "ビル・ゲイツが警鐘、AI用語の混乱と生成技術の進化",
+      "summary": "ゲイツ氏のAI懸念、用語定義の重要性、高速画像生成モデルFibo 1.5など最新動向を解説",
+      "tags": [
+        "AI安全性",
+        "画像生成",
+        "LLM開発",
+        "用語定義",
+        "イベント情報"
+      ],
+      "slug": "gates-ai-concerns-terminology-generation-advances"
+    },
+    {
       "id": "2026-08-26_afternoon-ai-chip-generative-ai-business-strategy",
       "date": "2026-08-26",
       "file_key": "2026-08-26_afternoon",
@@ -423,22 +438,7 @@
         "ビジネス応用"
       ],
       "slug": "ai-governance-and-generative-ai-August-2026"
-    },
-    {
-      "id": "2026-08-07_afternoon-ai-trend-hw-update-aug-7-2026",
-      "date": "2026-08-07",
-      "file_key": "2026-08-07_afternoon",
-      "title": "AIトレンドとハードウェア動向：8月7日最新解説",
-      "summary": "AIハードやChatGPT利用動向を解説。イベントやプロンプト活用法も紹介",
-      "tags": [
-        "AI",
-        "ChatGPT",
-        "ハードウェア",
-        "イベント",
-        "プロンプト"
-      ],
-      "slug": "ai-trend-hw-update-aug-7-2026"
     }
   ],
-  "updated_at": "2026-08-26T04:48:56.725246+00:00"
+  "updated_at": "2026-08-26T11:19:19.794006+00:00"
 }
