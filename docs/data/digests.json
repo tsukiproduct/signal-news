@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-08-26_afternoon-ai-chip-generative-ai-business-strategy",
+      "date": "2026-08-26",
+      "file_key": "2026-08-26_afternoon",
+      "title": "AIチップと生成AIが示す次世代ビジネス戦略",
+      "summary": "AI推論チップや資金調達、バズるAI話題を解説し、実践的活用法を提案",
+      "tags": [
+        "AIチップ",
+        "生成AI",
+        "ビジネス応用",
+        "イベント",
+        "プロンプト"
+      ],
+      "slug": "ai-chip-generative-ai-business-strategy"
+    },
+    {
       "id": "2026-08-26_morning-weekly-ai-news-quantization-onpremise-stablefunding",
       "date": "2026-08-26",
       "file_key": "2026-08-26_morning",
@@ -423,21 +438,7 @@
         "プロンプト"
       ],
       "slug": "ai-trend-hw-update-aug-7-2026"
-    },
-    {
-      "id": "2026-08-06_afternoon-ai-2026-trends",
-      "date": "2026-08-06",
-      "file_key": "2026-08-06_afternoon",
-      "title": "AIの最新動向と実用応用：2026年の注目トピック",
-      "summary": "2026年におけるAI技術の進展、ビジネス応用、イベント情報を解説。ゲームキャンペーンやAI定義の議論、画像生成技術の限界をカバー。",
-      "tags": [
-        "AI技術",
-        "ビジネス応用",
-        "イベント情報",
-        "倫理的課題"
-      ],
-      "slug": "ai-2026-trends"
     }
   ],
-  "updated_at": "2026-08-25T22:19:02.947312+00:00"
+  "updated_at": "2026-08-26T04:48:56.725246+00:00"
 }
