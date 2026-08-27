@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-08-28_morning-ai-weekly-talent-shuffle-qwen-new-model",
+      "date": "2026-08-28",
+      "file_key": "2026-08-28_morning",
+      "title": "AI人材大移動とQwen新モデル──今週の注目動向",
+      "summary": "OpenAI→Googleの人材移動、Qwen3.8-Flash-Next公開、AIバブル論まで。主要5トピックを解説。",
+      "tags": [
+        "AI人材",
+        "オープンウェイトモデル",
+        "Qwen",
+        "動画生成AI",
+        "AIバブル"
+      ],
+      "slug": "ai-weekly-talent-shuffle-qwen-new-model"
+    },
+    {
       "id": "2026-08-28_morning-ai-week-snapshot-waymo-vs-tesla-open-source-duck-more",
       "date": "2026-08-28",
       "file_key": "2026-08-28_morning",
@@ -423,22 +438,7 @@
         "生成AIビジネス活用"
       ],
       "slug": "ai-naming-debate-video-generation-frontier"
-    },
-    {
-      "id": "2026-08-08_afternoon-ai-tech-latest-applications",
-      "date": "2026-08-08",
-      "file_key": "2026-08-08_afternoon",
-      "title": "AI技術の最前線と実用事例",
-      "summary": "8月でもたらされたAI関連の技術革新やイベントを紹介。学術論文へのアクセス支援から画像生成技術の進化まで、さまざまな分野で活用されています。",
-      "tags": [
-        "AI技術",
-        "学術リソース",
-        "イメージ生成",
-        "イベント",
-        "プロンプト"
-      ],
-      "slug": "ai-tech-latest-applications"
     }
   ],
-  "updated_at": "2026-08-27T15:06:44.158858+00:00"
+  "updated_at": "2026-08-27T20:50:24.954449+00:00"
 }
