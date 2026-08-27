@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-08-28_morning-ai-week-snapshot-waymo-vs-tesla-open-source-duck-more",
+      "date": "2026-08-28",
+      "file_key": "2026-08-28_morning",
+      "title": "AI Week Snapshot: Waymo vs Tesla, Open-Source Duck & More",
+      "summary": "Quick look at AI news: autonomous driving debate, open-source robot, image‑AI tools, and upcoming events.",
+      "tags": [
+        "#AI",
+        "#OpenSource",
+        "#ComputerVision",
+        "#MachineLearning",
+        "#Events"
+      ],
+      "slug": "ai-week-snapshot-waymo-vs-tesla-open-source-duck-more"
+    },
+    {
       "id": "2026-08-26_evening-gates-ai-concerns-terminology-generation-advances",
       "date": "2026-08-26",
       "file_key": "2026-08-26_evening",
@@ -423,22 +438,7 @@
         "プロンプト"
       ],
       "slug": "ai-tech-latest-applications"
-    },
-    {
-      "id": "2026-08-07_evening-ai-governance-and-generative-ai-August-2026",
-      "date": "2026-08-07",
-      "file_key": "2026-08-07_evening",
-      "title": "AIガバナンスと生成AIの最前線：8月の注目トピックを解説",
-      "summary": "AIガバナンスの重要性、画像生成AIの最適化、企業戦略を総括した特集記事",
-      "tags": [
-        "AIガバナンス",
-        "生成AI",
-        "画像生成",
-        "イベント",
-        "ビジネス応用"
-      ],
-      "slug": "ai-governance-and-generative-ai-August-2026"
     }
   ],
-  "updated_at": "2026-08-26T11:19:19.794006+00:00"
+  "updated_at": "2026-08-27T15:06:44.158858+00:00"
 }

@@ -1,0 +1,160 @@
+{
+  "id": "2026-08-28_morning-ai-week-snapshot-waymo-vs-tesla-open-source-duck-more",
+  "file_key": "2026-08-28_morning",
+  "date": "2026-08-28",
+  "generated_at": "2026-08-27T15:06:44.158208+00:00",
+  "title": "AI Week Snapshot: Waymo vs Tesla, Open-Source Duck & More",
+  "slug": "ai-week-snapshot-waymo-vs-tesla-open-source-duck-more",
+  "summary": "Quick look at AI news: autonomous driving debate, open-source robot, image‑AI tools, and upcoming events.",
+  "tags": [
+    "#AI",
+    "#OpenSource",
+    "#ComputerVision",
+    "#MachineLearning",
+    "#Events"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "Today's AI Landscape",
+      "body": "This week’s AI pulse runs the gamut from self‑driving polemics to playful hardware. Waymo publicly questions Tesla’s camera‑only strategy, reigniting the sensor‑vs‑lidar debate that shapes autonomous‑vehicle safety standards. Meanwhile, Hugging Face launched the $399 Microduck—an open‑source duck robot that lets developers experiment with hardware and AI integration at a budget price. On the generative‑AI front, the Qwen3.8‑Flash‑Next multimodal model adds speed and efficiency, offering a new prompt‑engineering playground. Meanwhile, the Stable Diffusion community highlights Pixaroma’s handy nodes, easing complex image pipelines. Events this week span real‑estate AI investment seminars in Kyoto to late‑night online meet‑ups, reflecting AI’s growing influence across industries and cultures."
+    },
+    {
+      "type": "deep_dive",
+      "heading": "Waymo’s Lidar Stance vs Tesla’s Camera‑Only Vision",
+      "body": "Waymo’s recent commentary, delivered in a swipe at Tesla, underscores a fundamental split in autonomous‑vehicle philosophy. While Tesla bets on pure visual perception using cameras and neural networks, Waymo argues that cameras alone cannot guarantee the redundancy needed for safe robotaxi operations. The debate centers on sensor fusion: lidar provides precise depth and 3‑D mapping, whereas cameras excel at semantic interpretation but struggle in adverse weather or low‑light conditions. For the industry, this public disagreement signals that regulatory bodies may soon favor more robust, multi‑modal sensing stacks, potentially raising the bar for new AV entrants and influencing investor confidence in camera‑centric approaches.",
+      "source_title": "In a swipe at Tesla, Waymo says ‘cameras… aren’t enough’",
+      "source_url": "https://www.theverge.com/transportation/985503/waymo-tesla-lidar-camera-robotaxi-cybercab-musk"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "Image & Video Generation AI: Pixaroma’s New Nodes",
+      "body": "The Stable Diffusion community has been buzzing about Pixaroma’s latest additions—several nodes that streamline complex compositing tasks. Notably, the “group switch” node offers a more intuitive way to toggle between multiple image layers without manual re‑masking, while the “fast group muter” accelerates batch processing. These tools reduce pipeline latency and lower the barrier for creators who want high‑quality visuals without deep technical expertise. As generative‑AI art becomes more mainstream, such community‑driven enhancements are crucial for scaling production workflows and democratizing sophisticated visual effects.",
+      "source_title": "Pixaroma got some many useful nodes",
+      "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1vzrwmf/pixaroma_got_some_many_useful_nodes/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "Today's Prompt: Qwen3.8-Flash-Next",
+      "prompt_title": "Multimodal Flash Prompt",
+      "prompt_body": "You are a concise assistant. Given a text passage and an image URL, generate a 150‑word summary that includes key entities, sentiment, and a visual description derived from the image. Use bullet points for clarity and keep language simple.",
+      "prompt_usecase": "Ideal for content‑moderation teams that need rapid analysis of mixed media, or for automated news briefings that combine articles with accompanying graphics.",
+      "prompt_source": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/"
+    },
+    {
+      "type": "wow",
+      "heading": "This is Amazing! This Week’s Viral AI Moment",
+      "body": "A HackerNews post titled “Stop Calling Everything AI” has exploded, racking up 223 points and 118 comments. The machine‑learning pioneer argues that the term “AI” has become a buzzword that obscures genuine progress, urging developers to be precise about what techniques they actually employ. The discussion resonates with a growing fatigue over hype cycles, prompting a broader conversation about responsible terminology in tech media. This viral moment highlights a cultural shift within the AI community toward clarity and accountability.",
+      "source_title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "source_url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says"
+    },
+    {
+      "type": "events",
+      "heading": "This Week’s AI Events",
+      "body": "Two notable gatherings illustrate AI’s expanding reach. The first, a two‑part seminar hosted by the West Japan branch, explores real‑estate investment strategies using AI, Kyōmachika data, and small‑building analytics, taking place on August 28 at the Kyoto Economic Center. The second is an online “Moran‑style” after‑hours event, slated for the same day, drawing over 770 participants in a virtual setting. Both events showcase how AI is being applied to finance, urban planning, and community building.",
+      "event_list": [
+        {
+          "title": "Financial Calculator Seminar: Understanding Real Estate Investment with AI",
+          "date": "2026-08-28",
+          "place": "Kyoto Economic Center",
+          "url": "https://45a5a14a3b57f2cbb261c9545d.doorkeeper.jp/events/198460"
+        },
+        {
+          "title": "Moran‑style After‑Hours 2026",
+          "date": "2026-08-28",
+          "place": "Online",
+          "url": "https://dtptransit.doorkeeper.jp/events/198390"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "Practical: Turning AI Insights into Business Value",
+      "body": "The week’s developments offer concrete pathways for companies. First, the sensor debate signals an opportunity for firms offering lidar or hybrid perception systems; they can market safety‑first propositions to logistics and ride‑sharing clients wary of camera‑only solutions. Second, the open‑source Microduck provides a low‑cost prototyping platform for IoT startups, enabling rapid iteration of AI‑enabled devices without heavy hardware investments. Third, the Qwen3.8‑Flash‑Next model can be integrated into content‑management pipelines to auto‑summarize multimedia assets, cutting manual editing time. Finally, the real‑estate seminar’s focus on AI‑driven property analytics suggests a growing niche for predictive modeling services that combine satellite imagery, transaction data, and local trends to guide investment decisions."
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "This Week’s Watch List",
+      "body": "Look out for three trends. 1) Sensor diversification in autonomous driving—expect more public statements from major players about multimodal stacks, which could influence funding rounds for lidar firms. 2) Community‑driven AI tooling—projects like Pixaroma’s nodes illustrate how open‑source contributions accelerate creative workflows, hinting at a democratization of high‑end generative capabilities. 3) AI‑first financial products—real‑time analytics, risk modeling, and automated investment advisors are gaining traction, especially in markets like Japan where data‑centric urban planning is a national priority. Monitoring these threads will help investors, developers, and hobbyists navigate the next wave of AI adoption."
+    }
+  ],
+  "sources": [
+    {
+      "title": "叙々苑の上質なお肉がガッツリ味わえるステーキ専門店「ステーキJJ 」が横浜駅西口に本格オープン!!",
+      "url": "https://ascii.jp/elem/000/004/430/4430109/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "【8/28限定】パソコンショップSEVENで最大5万9000円オフ！ RTX 5070搭載ゲーミングPCも対象",
+      "url": "https://ascii.jp/elem/000/004/430/4430017/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "Google launches Pokémon Sleep special-edition Fitbit Air",
+      "url": "https://www.theverge.com/gadgets/985584/google-fitbit-air-pokemon-sleep",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "Hugging Face is selling a cute $399 open-source duck robot, Microduck",
+      "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+      "source": "TechCrunch AI",
+      "category": "Industry"
+    },
+    {
+      "title": "In a swipe at Tesla, Waymo says ‘cameras… aren’t enough’",
+      "url": "https://www.theverge.com/transportation/985503/waymo-tesla-lidar-camera-robotaxi-cybercab-musk",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Qwen3.8-Flash-Next",
+      "url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "Pixaroma got some many useful nodes",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1vzrwmf/pixaroma_got_some_many_useful_nodes/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "【西日本支部主催2部構成セミナー】金融電卓で学ぶ不動産投資の本質  - AI・京町家・狭小ビルから読み解く京都の投資戦略 -",
+      "url": "https://45a5a14a3b57f2cbb261c9545d.doorkeeper.jp/events/198460",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "朝までアフター 2026",
+      "url": "https://dtptransit.doorkeeper.jp/events/198390",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
