@@ -1,0 +1,154 @@
+{
+  "id": "2026-08-28_afternoon-ai-news-roundup-august-28-2026",
+  "file_key": "2026-08-28_afternoon",
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T05:54:47.482062+00:00",
+  "title": "AIニュース解説：ウォーシュ議長講演とClaude Code自動化の今週の動向",
+  "slug": "ai-news-roundup-august-28-2026",
+  "summary": "FRBウォーシュ議長の講演、Claude Code Opus 5の自動モード、Roblox×AIハンズオンなど注目のAIトピックを解説。",
+  "tags": [
+    "AIニュース",
+    "Claude Code",
+    "金融政策",
+    "Roblox",
+    "開発ツール"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "8月28日付のAIニュースでは、米国で開催中のジャクソンホール会議におけるFRBウォーシュ議長の金融政策に対するAI活用に関する発言が注目を集めています。また、AnthropicのClaude Code Opus 5が自動モードでコード生成を強化する話題や、RobloxとAIを組み合わせてゲームを作成するハンズオンイベントも開催されています。消費者向けには、ポータブル電源やスマートフォンのセール情報も同時に注目されています。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "ジャクソンホール会議は、世界経済や金融政策の最前線を議論する場として知られており、今年もAI技術が経済政策に与える影響について議論が繰り広げられています。FRBウォーシュ議長が初めて議長として講演するという点も大きな関心を集めており、特に金融分野におけるAIの応用や規制についての見解が注目されています。このような政策レベルでのAI議論は、今後の技術発展や社会受入れに大きな影響を与える可能性があります。",
+      "source_title": "ジャクソンホール会議が開幕 FRBウォーシュ議長の講演に注目",
+      "source_url": "https://news.web.nhk/newsweb/na/nd-20260828de46922"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "Redditのr/StableDiffusionコミュニティでは、「H3 Lego Seinfeld Episode」と題したレゴブロック風のシーン再現画像が話題を呼んでいます。投稿者は仕事のプレゼンテーション用に作成したといいますが、その出来栄えの高さに驚きの声が上がっています。このように、ユーザーが日常的にAI画像生成ツールを活用し、クリエイティブなコンテンツを短時間で制作できるようになってきているのです。",
+      "source_title": "moderate effort H3 Lego Seinfeld Episode",
+      "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1w0fd01/moderate_effort_h3_lego_seinfeld_episode/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "Claude Code自動生成プロンプト",
+      "prompt_body": "「このコードをレビューして、セキュリティ脆弱性やパフォーマンス改善点を教えてください。具体的な修正案も提案してください。」",
+      "prompt_usecase": "開発チームでコード品質を向上させたい場合に使用。Claude Code Opus 5の自動モードと組み合わせることで、効率的なコードレビューが可能になります。",
+      "prompt_source": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "HackerNewsで大きな反響を呼んだのは、「すべてをAIと呼ぶのをやめろ」という提言です。機械学習のパイオニアが、AIという言葉の乱用によって技術的な誤解が広がっていると指摘しています。一方で、「AI and Machine Learning – The Basics」という入門記事も多くの評価を得ており、技術者と一般ユーザーの間での認識の違いが浮き彫りになっています。",
+      "source_title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "source_url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "8月28日には、RobloxとAIを組み合わせて自分だけのゲームを作るハンズオンイベント「第13回Roblox×AI」が、与野地域で開催されます。参加人数は少なめですが、初心者向けの内容となっており、AIツールを活用したクリエイティブなプロジェクトに興味のある方におすすめです。",
+      "event_list": [
+        {
+          "title": "第13回Roblox×AIで、自分だけのゲームを作ろう！",
+          "date": "2026-08-28",
+          "place": "路地裏GarageMarket",
+          "url": "https://gameschool.doorkeeper.jp/events/198459"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "ビジネス現場でAIを活用する一つの方法は、コード生成ツールの導入です。Claude Codeのようなツールをチーム開発に取り入れることで、プロトタイプ作成やテストコードの生成時間を大幅に短縮できます。また、レビュー自動化により、開発スピードと品質の両立が期待できます。特にスタートアップや小規模開発チームにおいて、このような自動化ツールはコストパフォーマンスの向上につながります。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "今後の注目点は、政策レベルでのAI議論の深まりと、開発ツールの自動化進展です。ジャクソンホール会議の議論は、金融分野におけるAI活用の方向性を示す可能性があります。一方、Claude Codeの進化は、開発効率の革新を象徴する動向であり、今後の競争力の鍵となるでしょう。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Horizons Middle East & Africa 8/28/2026 (Video)",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-28/horizons-middle-east-africa-8-28-2026-video",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "ジャクソンホール会議が開幕 FRBウォーシュ議長の講演に注目",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46922",
+      "source": "NHK テクノロジー",
+      "category": "AI"
+    },
+    {
+      "title": "Twenty One Capital’s Zagury on Strategy",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-28/twenty-one-capital-s-zagury-on-strategy-video",
+      "source": "Bloomberg Tech",
+      "category": "Industry"
+    },
+    {
+      "title": "アンカーの大容量ポタ電が30％オフ！ 10万円→約7万円、「Solix C1000 Gen 2」がセール中：AmazonスマイルSale",
+      "url": "https://ascii.jp/elem/000/004/430/4430237/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "120Hzの有機ELでゲームはいかが？ Xiaomiの「POCO M8 5G」がタイムセールで3万2980円",
+      "url": "https://ascii.jp/elem/000/004/430/4430110/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "moderate effort H3 Lego Seinfeld Episode",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1w0fd01/moderate_effort_h3_lego_seinfeld_episode/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "【8/28】第13回Roblox×AIで、自分だけの ゲームを作ろう！ 最寄駅：南与野駅・与野本町駅",
+      "url": "https://gameschool.doorkeeper.jp/events/198459",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "【西日本支部主催2部構成セミナー】金融電卓で学ぶ不動産投資の本質  - AI・京町家・狭小ビルから読み解く京都の投資戦略 -",
+      "url": "https://45a5a14a3b57f2cbb261c9545d.doorkeeper.jp/events/198460",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

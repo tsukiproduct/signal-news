@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-08-28_afternoon-ai-news-roundup-august-28-2026",
+      "date": "2026-08-28",
+      "file_key": "2026-08-28_afternoon",
+      "title": "AIニュース解説：ウォーシュ議長講演とClaude Code自動化の今週の動向",
+      "summary": "FRBウォーシュ議長の講演、Claude Code Opus 5の自動モード、Roblox×AIハンズオンなど注目のAIトピックを解説。",
+      "tags": [
+        "AIニュース",
+        "Claude Code",
+        "金融政策",
+        "Roblox",
+        "開発ツール"
+      ],
+      "slug": "ai-news-roundup-august-28-2026"
+    },
+    {
       "id": "2026-08-28_morning-ai-weekly-talent-shuffle-qwen-new-model",
       "date": "2026-08-28",
       "file_key": "2026-08-28_morning",
@@ -423,22 +438,7 @@
         "AI ethics"
       ],
       "slug": "ai-environmental-cost-corporate-moves"
-    },
-    {
-      "id": "2026-08-08_evening-ai-naming-debate-video-generation-frontier",
-      "date": "2026-08-08",
-      "file_key": "2026-08-08_evening",
-      "title": "AI呼称の乱用を巡る議論と動画生成の最前線",
-      "summary": "IEEE記事が警鐘を鳴らす「AI洗い」問題とMinimax Ref2VAの動画生成技術、今週の注目イベントを解説。",
-      "tags": [
-        "AIガバナンス",
-        "動画生成AI",
-        "プロンプトエンジニアリング",
-        "用語標準化",
-        "生成AIビジネス活用"
-      ],
-      "slug": "ai-naming-debate-video-generation-frontier"
     }
   ],
-  "updated_at": "2026-08-27T20:50:24.954449+00:00"
+  "updated_at": "2026-08-28T05:54:47.482637+00:00"
 }
