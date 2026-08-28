@@ -1,6 +1,23 @@
 {
   "articles": [
     {
+      "id": "2026-08-29_morning-ai-weekly-roundup-august-2026-industry-restructuring",
+      "date": "2026-08-29",
+      "file_key": "2026-08-29_morning",
+      "title": "AI業界大再編と中国勢の台頭：今週の5大トピック",
+      "summary": "Metaの広告攻勢、MicrosoftのDC問題、a16zのAI投資、中国GLM-5.3公開などAI業界の激動を解説。",
+      "tags": [
+        "Meta",
+        "AI業界動向",
+        "中国AI",
+        "オープンソース",
+        "Andreessen Horowitz",
+        "Claude Code",
+        "ComfyUI"
+      ],
+      "slug": "ai-weekly-roundup-august-2026-industry-restructuring"
+    },
+    {
       "id": "2026-08-28_afternoon-ai-news-roundup-august-28-2026",
       "date": "2026-08-28",
       "file_key": "2026-08-28_afternoon",
@@ -423,22 +440,7 @@
         "イベント情報"
       ],
       "slug": "ai-hype-warning-dev-tools-evolution-weekly"
-    },
-    {
-      "id": "2026-08-09_morning-ai-environmental-cost-corporate-moves",
-      "date": "2026-08-09",
-      "file_key": "2026-08-09_morning",
-      "title": "AIの環境負荷と企業の戦略的動き",
-      "summary": "Amazonのテキサスデータセンターが最大規模の気候汚染源に、OpenAIがNextSlideを買収、Xが報酬プログラムを変更、生成AIの進化など。",
-      "tags": [
-        "environment",
-        "data centers",
-        "OpenAI",
-        "generative AI",
-        "AI ethics"
-      ],
-      "slug": "ai-environmental-cost-corporate-moves"
     }
   ],
-  "updated_at": "2026-08-28T05:54:47.482637+00:00"
+  "updated_at": "2026-08-28T16:30:24.714690+00:00"
 }
