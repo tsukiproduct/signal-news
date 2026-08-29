@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-08-30_morning-ai-tech-current-overview",
+      "date": "2026-08-30",
+      "file_key": "2026-08-30_morning",
+      "title": "AI・テクノロジーの現状を整理する",
+      "summary": "最新のAIニュースを俯瞰し、パソコン販売の特集からチャットサーバー自作、Metaの児童安全対策まで幅広い分野が紹介されています。",
+      "tags": [
+        "AIトレンド",
+        "テクノロジー",
+        "業界動向"
+      ],
+      "slug": "ai-tech-current-overview"
+    },
+    {
       "id": "2026-08-29_afternoon-english-slug",
       "date": "2026-08-29",
       "file_key": "2026-08-29_afternoon",
@@ -424,21 +437,7 @@
         "最新技術"
       ],
       "slug": "ai-shinkosen-jisshuu-gaiyo"
-    },
-    {
-      "id": "2026-08-10_morning-tungsten-ai-summary",
-      "date": "2026-08-10",
-      "file_key": "2026-08-10_morning",
-      "title": "タングステン輸出規制とAI最前線まとめ",
-      "summary": "中国のタングステン輸出規制が製品価格高騰を招き、AI技術と動画生成の進化が注目されています。",
-      "tags": [
-        "タングステン",
-        "AI",
-        "動画生成",
-        "Events"
-      ],
-      "slug": "tungsten-ai-summary"
     }
   ],
-  "updated_at": "2026-08-29T03:27:54.638851+00:00"
+  "updated_at": "2026-08-29T15:22:05.704756+00:00"
 }
