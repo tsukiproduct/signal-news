@@ -1,7 +1,216 @@
 {
-  "fetched_at": "2026-08-29T15:21:46.211730+00:00",
-  "total": 198,
+  "fetched_at": "2026-08-29T23:47:26.160696+00:00",
+  "total": 195,
   "items": [
+    {
+      "id": "3d50f34ec613",
+      "title": "OpenAI、Cursorへのモデル提供を11月12日に終了 SpaceXによる買収が理由",
+      "url": "https://www.itmedia.co.jp/news/article/2608/30/2000000945/",
+      "summary": "OpenAIは、AIコードエディタ「Cursor」へのモデル提供契約を11月12日に終了すると発表した。SpaceXによるCursor買収を受け、イーロン・マスク氏の過去の契約違反実績から規約順守を確信できないことを理由に挙げている。Cursor側は影響が限定的としつつ協議継続を表明、Anthropicは支援継続を示した。",
+      "date": "2026-08-29T23:12:23+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "1441f2f28a08",
+      "title": "ドードーは歴史家が考えていたほど愚かではなかったかもしれない",
+      "url": "https://gigazine.net/news/20260830-dodo-probably-not-stupid/",
+      "summary": "アフリカ大陸の南東沖に浮かぶモーリシャス島に生息していたドードーという鳥は、1600年代を最後に姿を消した絶滅種です。ドードーは愚かでのろまだったという記録がありますが、ドードーの頭蓋骨を調べた研究で、実は他の近縁種より特別頭が悪いというわけではなかった可能性が見えてきました。続きを読む...",
+      "date": "2026-08-29T23:00:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "c391b24ada7e",
+      "title": "FMV直販の「目玉品」は、とってもお買い得！ 現在2200円オフクーポン配布中だっ！",
+      "url": "https://ascii.jp/elem/000/004/429/4429962/?rss",
+      "summary": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
+      "date": "2026-08-29T23:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "1ff8672a9590",
+      "title": "「FANZAスタジオ」爆誕へ 成人向けAIマンガに違和感を覚えるマンガ家も期待する部分とは？",
+      "url": "https://www.itmedia.co.jp/news/article/2608/30/2000000911/",
+      "summary": "成人向けECサイトである「FANZA」で、生成AIを使って作品を作り、公開できるサービス「FANZAスタジオ」の先行体験がスタートしました。",
+      "date": "2026-08-29T22:16:00+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "02f5191b6fba",
+      "title": "We open-sourced Sopro V2 Turbo - a 120M voice cloning TTS model that runs 5x faster than real time on CPU",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1w1z4sh/we_opensourced_sopro_v2_turbo_a_120m_voice/",
+      "summary": "Sopro V2 Turbo is an open-source TTS model that runs locally. Clones a voice from 5-20s of audio ~300ms to first audio on a laptop CPU English, European Portuguese, French, German Local web UI: uvx --from sopro soprotts serve There’s also a Python AP",
+      "date": "2026-08-29T21:51:02+00:00",
+      "source": "r/StableDiffusion",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
+    {
+      "id": "6298096aef23",
+      "title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
+      "url": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale",
+      "summary": "I used to be an avid hiker and would try to go backpacking a few times a year. I always dreamed of thru-hiking the Appalachian Trail, but life kind of got in the way. (Turns out jobs, wives, and children aren't thrilled with the idea of you disappear",
+      "date": "2026-08-29T20:59:26+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "afba63f4e65f",
+      "title": "SAM3&3.1 ConvRot INT8 detect node",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1w1x26p/sam331_convrot_int8_detect_node/",
+      "summary": "I’ve discovered some important information!! It works with the standard loader!! When I tested it earlier, it threw an error, so I’d assumed it wasn’t compatible with the standard loader. However, after testing it again based on a comment I received,",
+      "date": "2026-08-29T20:26:08+00:00",
+      "source": "r/StableDiffusion",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
+    {
+      "id": "72ff0d499775",
+      "title": "Alt-right troll Milo Yiannopoulos has been deported",
+      "url": "https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice",
+      "summary": "Alt-right troll Milo Yiannopoulos was arrested by ICE on Thursday, and today the Department of Homeland Security confirmed to Reuters and the Washington Post that he had been deported to the UK. Yiannopoulos came to the US legally in 2019, but overst",
+      "date": "2026-08-29T19:49:59+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "4eea8cfdac63",
+      "title": "An unfortunate side effect of strength potions. H3+spectrum. 0.7mp",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1w1vu3a/an_unfortunate_side_effect_of_strength_potions/",
+      "summary": "submitted by /u/warzone_afro [link] [comments]",
+      "date": "2026-08-29T19:37:34+00:00",
+      "source": "r/StableDiffusion",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
+    {
+      "id": "0d18d5472b03",
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "date": "2026-08-29T18:41:59+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "1b3e0ef9173f",
+      "title": "Speed up video ref by dumping it with split sigmas",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1w1u6cb/speed_up_video_ref_by_dumping_it_with_split_sigmas/",
+      "summary": "I've been using ref2v for a while but just started using video reference. As I'm sure you all know, it takes a long time and gets up to 4000+ s/it for me at higher resolutions because it gets too large for my VRAM. So, to fix that, I altered my laten",
+      "date": "2026-08-29T18:33:13+00:00",
+      "source": "r/StableDiffusion",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
+    {
+      "id": "3f6bab34d676",
+      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up",
+      "date": "2026-08-29T18:20:15+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "762c4609d47d",
+      "title": "MiniMax H3 native 720p→1440p on one RTX 4090: 112s / 223s / 334s with auto-scheduled sparse attention",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1w1t7pv/minimax_h3_native_720p1440p_on_one_rtx_4090_112s/",
+      "summary": "Hi everyone — I’m an independent developer experimenting with making MiniMax H3 more practical on consumer NVIDIA GPUs. I built an automatically scheduled sparse-attention system for X-MinimaxH3 and tested native H3 second sampling from 720p to 1440p",
+      "date": "2026-08-29T17:55:38+00:00",
+      "source": "r/StableDiffusion",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
+    {
+      "id": "619cf37e65ee",
+      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brut",
+      "date": "2026-08-29T17:36:47+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "d9f12d5c071d",
+      "title": "Lightx2v new 768p trained 8step turbo Lora fighting test",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1w1sob3/lightx2v_new_768p_trained_8step_turbo_lora/",
+      "summary": "with a lora strength of 1.5, 8 steps, 768p, 16m generation time for 12 seconds. no upscaling on a 5060ti 16g and 64 gigs ram. This is a pretty solid turbo lora submitted by /u/No-Bee-231 [link] [comments]",
+      "date": "2026-08-29T17:34:14+00:00",
+      "source": "r/StableDiffusion",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
+    {
+      "id": "e23aa04a23c4",
+      "title": "ホンダと日産「SDV」で基本ソフト共同開発など協業 近く合意へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260829de47171",
+      "summary": "ホンダと日産自動車は、ソフトウエアの更新で性能をアップデートできる次世代の車「SDV」をめぐり、基本ソフトの共同開発などで、近く合意することになりました。巨額の開発費の負担を軽減するねらいで、2029…",
+      "date": "2026-08-29T17:33:50+00:00",
+      "source": "NHK テクノロジー",
+      "lang": "ja",
+      "category": "AI",
+      "priority": 2
+    },
+    {
+      "id": "3dbc1b64b81e",
+      "title": "Bloomberg This Weekend 8/29/2026",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-29/bloomberg-this-weekend-8-29-2026-video",
+      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Schwab Head of Macro Research and Strategy Kevin ",
+      "date": "2026-08-29T16:30:30+00:00",
+      "source": "Bloomberg Tech",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 2
+    },
+    {
+      "id": "9cddd46ec6c2",
+      "title": "Distraction-free writing gadget BYOK is adding custom extensions",
+      "url": "https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions",
+      "summary": "BYOK is a no-frills, single-purpose gadget that 90 percent of people will find absolutely frivolous. But for those who spend a significant chunk of their lives putting words to virtual paper, there is an obvious allure. Personally, I think it's at it",
+      "date": "2026-08-29T16:01:13+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "0ee91348bb88",
+      "title": "Fizgig v5.0.0 - Full fine-tuning for Minimax and Krea 2 for 16gb+ VRAM",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1w1ple8/fizgig_v500_full_finetuning_for_minimax_and_krea/",
+      "summary": "Fizgig v5 is out, and the headline is one I've been sitting on for a while: full fine-tuning of the MiniMax H3 and Krea 2 base models - the models themselves, not a LoRA ,on consumer GPU hardware, down to 16 GB. No adapter, no rank bottleneck. Full-r",
+      "date": "2026-08-29T15:32:17+00:00",
+      "source": "r/StableDiffusion",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
     {
       "id": "e1ea1f18612f",
       "title": "最大16万9000円オフ！ パソコンショップSEVENが8月30日限定のBTOセール",
@@ -22,17 +231,6 @@
       "source": "Gigazine",
       "lang": "ja",
       "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "1f639d0870c0",
-      "title": "Post your Minimax H3 Turbo Lora settings recommendations for best results + Pros/Cons in the comments.",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1w1n8tz/post_your_minimax_h3_turbo_lora_settings/",
-      "summary": "let's use this post to recommend to each other our turbo lora settings + checkpoints. Please kindly type: - Lora name (with link if possible) - checkpoint model name - strength - scheduler + sampler - video/audio shift - pros / cons - additional info",
-      "date": "2026-08-29T13:57:02+00:00",
-      "source": "r/StableDiffusion",
-      "lang": "en",
-      "category": "ImageVideo",
       "priority": 2
     },
     {
@@ -77,17 +275,6 @@
       "source": "Gigazine",
       "lang": "ja",
       "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "6981ec33cc3d",
-      "title": "What limits of Minimax H3 have you found?",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1w1ltb1/what_limits_of_minimax_h3_have_you_found/",
-      "summary": "I think we've all glazed it for a long time. Let's talk limits. I've found there's a lot of identity leaking across two characters of the same gender, male or female, if they're not from the same same IP / show. The more dominantly trained one will l",
-      "date": "2026-08-29T12:54:05+00:00",
-      "source": "r/StableDiffusion",
-      "lang": "en",
-      "category": "ImageVideo",
       "priority": 2
     },
     {
@@ -190,17 +377,6 @@
       "priority": 2
     },
     {
-      "id": "06cee5a97558",
-      "title": "【防災グッズの大本命】あると便利なのは知ってた！ 定番スペックで買いなJackeryのポータブル電源",
-      "url": "https://ascii.jp/elem/000/004/429/4429741/?rss",
-      "summary": "「Jackery ポータブル電源 1000 New V3」。1024Whの容量と1500WのAC定格出力を備え、電子レンジやドライヤーなどの大型家電も難なく駆動。前モデルから19％小型化され、約10.6kgと1000Whクラスとして取り回しやすいサイズ感に収まっています。",
-      "date": "2026-08-29T08:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "a47d3d1abfe0",
       "title": "OpenAIがCursorとの提携・モデル提供の終了を通達、「SpaceXがOpenAIの利用規約に従って技術を使うという確信が持てないため」",
       "url": "https://gigazine.net/news/20260829-openai-decided-to-end-partnership-with-cursor/",
@@ -209,28 +385,6 @@
       "source": "Gigazine",
       "lang": "ja",
       "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "05efcd775e36",
-      "title": "So, I made a Kaiju (Minimax-H3)",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1w1dwcb/so_i_made_a_kaiju_minimaxh3/",
-      "summary": "submitted by /u/Striking-Long-2960 [link] [comments]",
-      "date": "2026-08-29T05:35:56+00:00",
-      "source": "r/StableDiffusion",
-      "lang": "en",
-      "category": "ImageVideo",
-      "priority": 2
-    },
-    {
-      "id": "ae629c2818b5",
-      "title": "Minimax Alibaba Turbo Lora = the best",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1w1csyk/minimax_alibaba_turbo_lora_the_best/",
-      "summary": "18 minute generation time in 720p on a 5060ti 16 gig with 64 gig ram in comfy Ui. no upscaling used. 12 steps used instead of 8 removes so much noise. the sound is terrible in this one, but in other tests its not so bad. submitted by /u/No-Bee-231 [l",
-      "date": "2026-08-29T04:38:25+00:00",
-      "source": "r/StableDiffusion",
-      "lang": "en",
-      "category": "ImageVideo",
       "priority": 2
     },
     {
@@ -253,17 +407,6 @@
       "source": "Gigazine",
       "lang": "ja",
       "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "6688eee95fe2",
-      "title": "Fal having a extended meltdown over FastH3",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1w1a9uj/fal_having_a_extended_meltdown_over_fasth3/",
-      "summary": "FastH3 may have flaws, but for a maximally open release from a team with limited resources (getting a single Mi350x node was newsworthy for them last year) it's a great effort. Meanwhile Fal has raised half a billion to vaguepost about their own H3 i",
-      "date": "2026-08-29T02:31:16+00:00",
-      "source": "r/StableDiffusion",
-      "lang": "en",
-      "category": "ImageVideo",
       "priority": 2
     },
     {
@@ -300,28 +443,6 @@
       "priority": 2
     },
     {
-      "id": "44c7378aad1b",
-      "title": "「写ルンです」で白黒のモノクロ写真を誰でも簡単に撮れる「写ルンです Black and White」で撮影＆現像してみたよレビュー",
-      "url": "https://gigazine.net/news/20260829-fujifilm-utsurundesu-black-and-white/",
-      "summary": "2026年で発売40周年を迎える富士フイルムのレンズ付きフィルム「写ルンです」シリーズから20年ぶりの新製品として、黒白フィルムによるモノクロ写真を誰でも簡単に撮影できる「写ルンです Black and White」が2026年9月に登場します。実物を一足早く触れる機会を得られたので、実際に「写ルンです Black and White」で色んなものを撮影して現像してみました。続きを読む...",
-      "date": "2026-08-29T00:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "73cb25729c1d",
-      "title": "Affirm CEO: American Consumers Are Healthy",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-28/affirm-ceo-american-consumers-are-healthy-video",
-      "summary": "Affirm CEO Max Levchin joins Bloomberg Businessweek Daily to discuss the company's recent earnings report, including an upbeat revenue outlook as the short-term loan company sees its most profitable quarter on record. Levchin also discusses recent pa",
-      "date": "2026-08-28T23:40:48+00:00",
-      "source": "Bloomberg Tech",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 2
-    },
-    {
       "id": "9eaaaccadd4c",
       "title": "大人向け「スーパーカー自転車」は和テイストだった リトラクタブルライトにRFID認証など装備満載",
       "url": "https://www.itmedia.co.jp/news/article/2608/29/2000000934/",
@@ -330,17 +451,6 @@
       "source": "ITmedia News",
       "lang": "ja",
       "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "7ba44e76bd93",
-      "title": "SentinelOne CEO on Earnings, AI's Cybersecurity Impact",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-28/sentinelone-ceo-on-earnings-ai-s-cybersecurity-impact-video",
-      "summary": "SentinelOne co-founder, chairman and CEO Tomer Weingarten discusses earnings and AI Cybersecurity in an interview with Romaine Bostick and Emily Graffeo on \"The Close.\" (Source: Bloomberg)",
-      "date": "2026-08-28T23:06:53+00:00",
-      "source": "Bloomberg Tech",
-      "lang": "en",
-      "category": "Industry",
       "priority": 2
     },
     {
@@ -355,28 +465,6 @@
       "priority": 2
     },
     {
-      "id": "e5deaa55f64a",
-      "title": "Xbox CEO calls Project Helix a ‘family of devices’",
-      "url": "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices",
-      "summary": "According to Xbox CEO Asha Sharma, Project Helix, which she announced in March as a codename for Microsoft's \"next generation console\" - phrasing that seemingly implied a singular device - will actually be a \"family\" of devices.\" \"We've been hard at ",
-      "date": "2026-08-28T22:39:11+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "71dbfee53f18",
-      "title": "Warsh Says Inflation Isn't Slowing | The Close 8/28/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-28/the-close-8-28-2026-video",
-      "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are BMO US President Aron Levine, Morgan Stanley Investment Management Senior Po",
-      "date": "2026-08-28T22:15:35+00:00",
-      "source": "Bloomberg Tech",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 2
-    },
-    {
       "id": "f0f854a79841",
       "title": "Just a rumour of a bug is enough to find a security exploit these days",
       "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
@@ -386,17 +474,6 @@
       "lang": "en",
       "category": "Prompts",
       "priority": 1
-    },
-    {
-      "id": "4e8351601770",
-      "title": "Looking for feedback for my new AI startup logo, Expand An AI, and I want it to inspire people to stretch the future of AI wide-open. It's inspired by a digital eye being opened.",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1w11sza/looking_for_feedback_for_my_new_ai_startup_logo/",
-      "summary": "Thanks submitted by /u/pilkyton [link] [comments]",
-      "date": "2026-08-28T20:25:18+00:00",
-      "source": "r/StableDiffusion",
-      "lang": "en",
-      "category": "ImageVideo",
-      "priority": 2
     },
     {
       "id": "f88a0fcca760",
@@ -441,50 +518,6 @@
       "lang": "en",
       "category": "Industry",
       "priority": 1
-    },
-    {
-      "id": "b6aaf0239e4b",
-      "title": "We've open sourced Minimax H3 that generates 15s 768p in 13s and 14x faster on single GPU",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1w0xkpb/weve_open_sourced_minimax_h3_that_generates_15s/",
-      "summary": "Hi! The team who collaborated and built optimized open source Minimax H3 here, full details below: https://x.com/haoailab/status/2093391548289540596?s=20 https://reddit.com/link/1w0xkpb/video/zpjrbdb0o5mh1/player Would appreciate if you help to share",
-      "date": "2026-08-28T17:49:50+00:00",
-      "source": "r/StableDiffusion",
-      "lang": "en",
-      "category": "ImageVideo",
-      "priority": 2
-    },
-    {
-      "id": "a455a393d0b1",
-      "title": "Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate",
-      "url": "https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale",
-      "summary": "Amazon and Best Buy have the TCL QM7L mini-LED TV on sale for as low as $797.99 for the 55-inch model, a $200 discount from the usual price. We spotted scaling discounts on larger sizes as well, although Amazon already listed low stock on the 65-inch",
-      "date": "2026-08-28T17:03:07+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "2180dceb2879",
-      "title": "Trump’s EPA wants to let data centers hide their air pollution",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
-      "summary": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rul",
-      "date": "2026-08-28T16:28:40+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "6710ea6e51ef",
-      "title": "DLSS 5 leaked and modders are putting Nvidia’s AI effects on everything",
-      "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
-      "summary": "Modders are trying out an unofficial version of Nvidia's DLSS 5 on Skyrim, Cyberpunk 2077, GTA V, and a bunch of other games after code for the AI upscaling tech appeared in an early-access build of NBA 2K27. Members of the RenoDX modding channel on ",
-      "date": "2026-08-28T16:22:16+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "618b970723bd",
@@ -652,17 +685,6 @@
       "priority": 2
     },
     {
-      "id": "c6ac8ec20dfb",
-      "title": "大阪 USJ拡張へ 隣接地活用してアトラクションを整備",
-      "url": "https://news.web.nhk/newsweb/na/nd-20260828de47049",
-      "summary": "大阪のテーマパーク「ユニバーサル・スタジオ・ジャパン」は、隣接する工場の跡地を活用して敷地を拡張し、新しいアトラクションなどを整備していく方向で調整を進めていることが関係者への取材で分かりました。",
-      "date": "2026-08-28T09:54:09+00:00",
-      "source": "NHK テクノロジー",
-      "lang": "ja",
-      "category": "AI",
-      "priority": 2
-    },
-    {
       "id": "0ed90c0f4f15",
       "title": "電車にスマホ貼り付け、ホーム全力疾走の様子を撮影……TikTokerの動画が物議 衣服ブランドの宣伝目的か",
       "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000921/",
@@ -685,17 +707,6 @@
       "priority": 2
     },
     {
-      "id": "811f2a91e93a",
-      "title": "ダサいスライド資料を作る大会が開催中 応募フォームもダサい",
-      "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000902/",
-      "summary": "学生向け就職活動支援サービスを手掛けるサポーターズ（東京都渋谷区）が、ダサいスライド資料を募る大会を開催している。同社が10月10日から11日にかけて開催する学生向けテックカンファレンス「技育祭2026【秋】」に伴う企画で、優勝者にはYouTuberの「ラムダ技術部」さんと一緒にイベントに登壇できる権利や、表彰状が贈られる。",
-      "date": "2026-08-28T09:05:34+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "5cb4d68d3c61",
       "title": "How to sign up for a virtual power plant—and decide whether you should",
       "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
@@ -705,17 +716,6 @@
       "lang": "en",
       "category": "Research",
       "priority": 1
-    },
-    {
-      "id": "a50f9eaca25a",
-      "title": "警察官にウェアラブルカメラ実装へ 「試行で有用性確認」",
-      "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000910/",
-      "summary": "けんかの取り扱いの際に「なぜ撮っているのか」と問われたり、職務質問中に「録音するなら話さない」と言われたりすることもあったという。",
-      "date": "2026-08-28T07:56:39+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "57a3b900535e",
@@ -751,17 +751,6 @@
       "priority": 1
     },
     {
-      "id": "3c75e284d829",
-      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-      "date": "2026-08-27T23:16:45+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
       "id": "7c590cba910e",
       "title": "Breaking Claude Code Opus 5 Auto Mode",
       "url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
@@ -770,17 +759,6 @@
       "source": "Simon Willison",
       "lang": "en",
       "category": "Prompts",
-      "priority": 1
-    },
-    {
-      "id": "360e66b5f807",
-      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-      "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-      "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
-      "date": "2026-08-27T19:52:52+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
       "priority": 1
     },
     {
@@ -903,17 +881,6 @@
       "lang": "en",
       "category": "Research",
       "priority": 1
-    },
-    {
-      "id": "dac446130325",
-      "title": "US Says China-Linked Hackers Targeted NASA and Fed",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-27/us-says-china-linked-hackers-targeted-nasa-fed-and-senate",
-      "summary": "The US Justice Department said authorities disrupted online infrastructure allegedly used by Chinese state-sponsored hackers to target American government agencies and critical infrastructure.",
-      "date": "2026-08-27T03:04:20+00:00",
-      "source": "Bloomberg Tech",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 2
     },
     {
       "id": "250ea25ba377",
@@ -1910,7 +1877,7 @@
       "title": "SNS広報を全4回の講座で習得！≪SNS広報担当養成講座 統合マスターコース≫2026年9月開講（62期生）オンライン講座",
       "url": "https://belove.doorkeeper.jp/events/195545",
       "summary": "📅 2026-09-16 · 📍 オンライン · 👥 参加 11人",
-      "date": "2026-08-29T15:21:46.210863+00:00",
+      "date": "2026-08-29T23:47:26.159817+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -1924,7 +1891,7 @@
       "title": "10/6　AI×SNS 中小企業のためのSNS×AI活用術セミナー",
       "url": "https://belove.doorkeeper.jp/events/196182",
       "summary": "📅 2026-10-06 · 📍 オンライン · 👥 参加 5人",
-      "date": "2026-08-29T15:21:46.210918+00:00",
+      "date": "2026-08-29T23:47:26.159873+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -1938,7 +1905,7 @@
       "title": "12/8 AIにも人にも選ばれる！ 中小企業のためのSNS×AI広報セミナー",
       "url": "https://belove.doorkeeper.jp/events/196183",
       "summary": "📅 2026-12-08 · 📍 オンライン · 👥 参加 1人",
-      "date": "2026-08-29T15:21:46.210948+00:00",
+      "date": "2026-08-29T23:47:26.159904+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -1952,7 +1919,7 @@
       "title": "SNS広報を全4回の講座で習得！≪SNS広報担当養成講座 統合マスターコース≫2026年11月開講（63期生）オンライン講座",
       "url": "https://belove.doorkeeper.jp/events/196703",
       "summary": "📅 2026-11-19 · 📍 オンライン · 👥 参加 3人",
-      "date": "2026-08-29T15:21:46.210975+00:00",
+      "date": "2026-08-29T23:47:26.159954+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -1966,7 +1933,7 @@
       "title": "11/17 AI時代だからこそ、ブログに再注目！ 「note」で実現する選ばれる企業の情報発信術【ビーラブ最新集客セミナー】",
       "url": "https://belove.doorkeeper.jp/events/197604",
       "summary": "📅 2026-11-17 · 📍 オンライン · 👥 参加 3人",
-      "date": "2026-08-29T15:21:46.211001+00:00",
+      "date": "2026-08-29T23:47:26.159984+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -1980,7 +1947,7 @@
       "title": "データサイエンススクール 128",
       "url": "https://cireds.doorkeeper.jp/events/197672",
       "summary": "📅 2026-09-19 · 📍 京都大学学術情報メディアセンター南館 201教室 · 👥 参加 27/40人",
-      "date": "2026-08-29T15:21:46.211027+00:00",
+      "date": "2026-08-29T23:47:26.160011+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -1994,7 +1961,7 @@
       "title": "マーケティングテクノロジスト認定講座【WACA公式】（旧上級GA4講座）9月（2日間講座）",
       "url": "https://web-mining.doorkeeper.jp/events/197760",
       "summary": "📅 2026-09-14 · 📍 オンライン · 👥 参加 1/10人",
-      "date": "2026-08-29T15:21:46.211052+00:00",
+      "date": "2026-08-29T23:47:26.160037+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2008,7 +1975,7 @@
       "title": "WACA主催【WACA認定マーケティングテクノロジスト認定講座オープンセミナー（旧上級GA4講座）】事前ガイダンス＆認定資格説明会9月",
       "url": "https://web-mining.doorkeeper.jp/events/197761",
       "summary": "📅 2026-09-02 · 📍 オンライン · 👥 参加 3人",
-      "date": "2026-08-29T15:21:46.211076+00:00",
+      "date": "2026-08-29T23:47:26.160062+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2022,7 +1989,7 @@
       "title": "Rubyセミナー大阪",
       "url": "https://rubyassociation.doorkeeper.jp/events/197460",
       "summary": "📅 2026-10-29 · 📍 ミーティングスペースAP大阪茶屋町 8F　Room G · 👥 参加 19/60人",
-      "date": "2026-08-29T15:21:46.211101+00:00",
+      "date": "2026-08-29T23:47:26.160089+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2036,7 +2003,7 @@
       "title": "Backlog World 2026",
       "url": "https://backlogworld.doorkeeper.jp/events/197793",
       "summary": "📅 2026-11-28 · 📍 パシフィコ横浜ノース · 👥 参加 6人",
-      "date": "2026-08-29T15:21:46.211132+00:00",
+      "date": "2026-08-29T23:47:26.160120+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2050,7 +2017,7 @@
       "title": "Design Boost in Sapporo 2026",
       "url": "https://dtptransit.doorkeeper.jp/events/197994",
       "summary": "📅 2026-09-12 · 📍 札幌市男女共同参画センター 3Fホール · 👥 参加 38人",
-      "date": "2026-08-29T15:21:46.211158+00:00",
+      "date": "2026-08-29T23:47:26.160145+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2064,7 +2031,7 @@
       "title": "memoQ Day Tokyo 2026",
       "url": "https://memoq.doorkeeper.jp/events/198095",
       "summary": "📅 2026-10-02 · 📍 ワテラス コモン ホール · 👥 参加 39/85人",
-      "date": "2026-08-29T15:21:46.211183+00:00",
+      "date": "2026-08-29T23:47:26.160170+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2078,7 +2045,7 @@
       "title": "データサイエンススクール129",
       "url": "https://cireds.doorkeeper.jp/events/198133",
       "summary": "📅 2026-09-01 · 📍 オンライン · 👥 参加 45/66人",
-      "date": "2026-08-29T15:21:46.211208+00:00",
+      "date": "2026-08-29T23:47:26.160195+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2092,7 +2059,7 @@
       "title": "KUSANAGI定例会議）長年のプラグイン問題を解決／無料の技術サポート開始／上場企業Webサイト全数チェック",
       "url": "https://enterprise-wordpress.doorkeeper.jp/events/198327",
       "summary": "📅 2026-09-16 · 📍 オンライン · 👥 参加 10/100人",
-      "date": "2026-08-29T15:21:46.211232+00:00",
+      "date": "2026-08-29T23:47:26.160220+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2106,7 +2073,7 @@
       "title": "初年度2千万円のノウハウ。Web制作で食べる！WordPressでやるべきこと、Web制作ビジネスノウハウ全部盛りセミナー（大人気追加開催）",
       "url": "https://enterprise-wordpress.doorkeeper.jp/events/198331",
       "summary": "📅 2026-10-07 · 📍 オンライン · 👥 参加 21/100人",
-      "date": "2026-08-29T15:21:46.211257+00:00",
+      "date": "2026-08-29T23:47:26.160244+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2120,7 +2087,7 @@
       "title": "第57回 バーチャル・サミット関西 in大阪",
       "url": "https://vskansai.doorkeeper.jp/events/197971",
       "summary": "📅 2026-09-04 · 📍 QUINTBRIDGE 2階 (オープンキッチン前) · 👥 参加 9/20人",
-      "date": "2026-08-29T15:21:46.211281+00:00",
+      "date": "2026-08-29T23:47:26.160269+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2134,7 +2101,7 @@
       "title": "CoderDojo Nada(灘) プログラミング勉強会（オンライン参加）",
       "url": "https://coderdojo-nada.doorkeeper.jp/events/198483",
       "summary": "📅 2026-08-30 · 📍 オンライン · 👥 参加 4/8人",
-      "date": "2026-08-29T15:21:46.211305+00:00",
+      "date": "2026-08-29T23:47:26.160293+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2148,7 +2115,7 @@
       "title": "【SOLIDWORKSユーザー向け】増える設計業務と人手不足をどう乗り越える？ ～設計検討・モデリング・図面作成をSOLIDWORKS AIで支援～",
       "url": "https://majisemi-manufacturing.doorkeeper.jp/events/198495",
       "summary": "📅 2026-09-03 · 📍 オンライン · 👥 参加 0人",
-      "date": "2026-08-29T15:21:46.211330+00:00",
+      "date": "2026-08-29T23:47:26.160318+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2162,7 +2129,7 @@
       "title": "【再放送】【1000名以上の企業向け】膨らむクラウド費、事業別の投資対効果を説明できますか ～FinOpsと可観測性で、利用額とサービス品質を経営指標に変える～",
       "url": "https://majisemi-operation.doorkeeper.jp/events/198493",
       "summary": "📅 2026-09-09 · 📍 オンライン · 👥 参加 0人",
-      "date": "2026-08-29T15:21:46.211353+00:00",
+      "date": "2026-08-29T23:47:26.160343+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2176,7 +2143,7 @@
       "title": "【変革が進まない企業へ】なぜイノベーションは成果につながらないのか？ ～ 成果を出すために知るべき「仕組み」と、ISO56001が示す継続的な価値創出の考え方 ～",
       "url": "https://majisemi-sales.doorkeeper.jp/events/198510",
       "summary": "📅 2026-09-08 · 📍 オンライン · 👥 参加 2/3人",
-      "date": "2026-08-29T15:21:46.211381+00:00",
+      "date": "2026-08-29T23:47:26.160372+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2190,7 +2157,7 @@
       "title": "【従業員数500名以上向け】ガイドライン対応のログ分析が進まないのは、なぜ？ ～SIEM×SOC 連携で“可視化”の先へ進める～",
       "url": "https://majisemi-security.doorkeeper.jp/events/198549",
       "summary": "📅 2026-09-03 · 📍 オンライン · 👥 参加 1/1人",
-      "date": "2026-08-29T15:21:46.211406+00:00",
+      "date": "2026-08-29T23:47:26.160396+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2204,7 +2171,7 @@
       "title": "【2026年9月｜ゆるDomo】使い慣れた生成AIでDomoのデータを活用！〜MCPで拡がる世界〜",
       "url": "https://domobuddies.doorkeeper.jp/events/198621",
       "summary": "📅 2026-09-08 · 📍 オンライン · 👥 参加 10人",
-      "date": "2026-08-29T15:21:46.211430+00:00",
+      "date": "2026-08-29T23:47:26.160421+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2218,7 +2185,7 @@
       "title": "【中堅・大企業向け】ベテランの暗黙知、異動や退職と一緒に消えていませんか？ AIヒアリングエージェントが判断の理由や例外対応を聞き出し、構造化して可視化する",
       "url": "https://majisemi-technology.doorkeeper.jp/events/198618",
       "summary": "📅 2026-09-01 · 📍 オンライン · 👥 参加 1/1人",
-      "date": "2026-08-29T15:21:46.211454+00:00",
+      "date": "2026-08-29T23:47:26.160445+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2232,7 +2199,7 @@
       "title": "Let's Build the Full-Stack Developer Skillforest — Part 3: Trees",
       "url": "https://management30-nuworks.doorkeeper.jp/events/198627",
       "summary": "📅 2026-09-02 · 📍 オンライン · 👥 参加 0/12人",
-      "date": "2026-08-29T15:21:46.211479+00:00",
+      "date": "2026-08-29T23:47:26.160469+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2246,7 +2213,7 @@
       "title": "WordPressユーザーなら使わなきゃ損！無料からの最強チャットボットを活用してSEOとコンバージョンの向上のコツ",
       "url": "https://enterprise-wordpress.doorkeeper.jp/events/198640",
       "summary": "📅 2026-11-04 · 📍 オンライン · 👥 参加 9/100人",
-      "date": "2026-08-29T15:21:46.211503+00:00",
+      "date": "2026-08-29T23:47:26.160493+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
