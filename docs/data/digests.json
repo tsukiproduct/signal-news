@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-08-29_afternoon-english-slug",
+      "date": "2026-08-29",
+      "file_key": "2026-08-29_afternoon",
+      "title": "記事タイトル（40字以内）",
+      "summary": "要約（80字以内）",
+      "tags": [
+        "タグ1",
+        "タグ2",
+        "タグ3"
+      ],
+      "slug": "english-slug"
+    },
+    {
       "id": "2026-08-29_morning-ai-weekly-roundup-august-2026-industry-restructuring",
       "date": "2026-08-29",
       "file_key": "2026-08-29_morning",
@@ -425,22 +438,7 @@
         "Events"
       ],
       "slug": "tungsten-ai-summary"
-    },
-    {
-      "id": "2026-08-09_afternoon-ai-hype-warning-dev-tools-evolution-weekly",
-      "date": "2026-08-09",
-      "file_key": "2026-08-09_afternoon",
-      "title": "AI過熱への警鐘と開発ツールの進化、今週の動向",
-      "summary": "MLパイオニアが『何でもAIと呼ぶな』と警告。Claude Code自動化、動画生成新機能、実践イベント情報。",
-      "tags": [
-        "AI定義",
-        "Claude Code",
-        "動画生成",
-        "エージェント開発",
-        "イベント情報"
-      ],
-      "slug": "ai-hype-warning-dev-tools-evolution-weekly"
     }
   ],
-  "updated_at": "2026-08-28T16:30:24.714690+00:00"
+  "updated_at": "2026-08-29T03:27:54.638851+00:00"
 }

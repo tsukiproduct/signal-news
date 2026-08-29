@@ -1,0 +1,152 @@
+{
+  "id": "2026-08-29_afternoon-english-slug",
+  "file_key": "2026-08-29_afternoon",
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T03:27:54.638188+00:00",
+  "title": "記事タイトル（40字以内）",
+  "slug": "english-slug",
+  "summary": "要約（80字以内）",
+  "tags": [
+    "タグ1",
+    "タグ2",
+    "タグ3"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "導入文（200字程度）"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "背景・意味・影響を解説（400字程度）",
+      "source_title": "参照記事タイトル",
+      "source_url": "参照記事URL"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "画像・動画生成AI関連の注目情報（200字程度）。該当情報がなければ省略可。",
+      "source_title": "参照記事タイトル（任意）",
+      "source_url": "参照記事URL（任意）"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "プロンプトタイトル（20字以内）",
+      "prompt_body": "実用的なプロンプト（150字程度）",
+      "prompt_usecase": "使い方（100字程度）",
+      "prompt_source": "参照記事URL（任意）"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "HackerNews・Redditで話題のAI情報（200字程度）。該当情報がなければ省略可。",
+      "source_title": "参照記事タイトル（任意）",
+      "source_url": "参照記事URL（任意）"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "注目のオンライン・オフラインイベント情報（200字程度）。該当情報がなければ省略可。",
+      "event_list": [
+        {
+          "title": "イベント名",
+          "date": "日程",
+          "place": "会場/オンライン",
+          "url": "URL"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "具体的な活用方法（300字程度）"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "トレンド・展望（200字程度）"
+    }
+  ],
+  "sources": [
+    {
+      "title": "自宅に庭があったり近所に公園があったりする人は糖尿病リスクが低いという研究結果",
+      "url": "https://gigazine.net/news/20260829-garden-park-access-relation-diabetes/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "EVである前に軽自動車。スズキ「eSKY」が示す、日本の日常に寄り添う最適解",
+      "url": "https://ascii.jp/elem/000/004/430/4430470/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "【週末買いたい】実はAmazonでセール中！ 2万円切りのオトクなタブレット、防災にも役立つ大容量ポータブル電源などなど",
+      "url": "https://ascii.jp/elem/000/004/430/4430461/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "純正以上の機能が欲しい人に最適なXBOX公認コントローラー、スマイルセールで19％オフの5480円",
+      "url": "https://ascii.jp/elem/000/004/430/4430407/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "今年のPixelは全部おもしろい。だから迷う、標準モデルかProモデルか、Foldか",
+      "url": "https://ascii.jp/elem/000/004/429/4429721/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "AI and Machine Learning – The Basics",
+      "url": "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Stop Calling Everything AI, Machine-Learning Pioneer Says",
+      "url": "https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says",
+      "source": "HackerNews",
+      "category": "Wow"
+    },
+    {
+      "title": "Just a rumour of a bug is enough to find a security exploit these days",
+      "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "Fal having a extended meltdown over FastH3",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1w1a9uj/fal_having_a_extended_meltdown_over_fasth3/",
+      "source": "r/StableDiffusion",
+      "category": "ImageVideo"
+    },
+    {
+      "title": "CoderDojo Nada(灘) プログラミング勉強会（オンライン参加）",
+      "url": "https://coderdojo-nada.doorkeeper.jp/events/198483",
+      "source": "Doorkeeper",
+      "category": "Events"
+    },
+    {
+      "title": "【中堅・大企業向け】ベテランの暗黙知、異動や退職と一緒に消えていませんか？ AIヒアリングエージェントが判断の理由や例外対応を聞き出し、構造化して可視化する",
+      "url": "https://majisemi-technology.doorkeeper.jp/events/198618",
+      "source": "Doorkeeper",
+      "category": "Events"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
