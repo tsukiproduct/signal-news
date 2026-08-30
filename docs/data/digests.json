@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-08-31_morning-caterpillar-ai-deployment-and-weekly-ai-trends",
+      "date": "2026-08-31",
+      "file_key": "2026-08-31_morning",
+      "title": "Caterpillarの鉱山自動化に学ぶAI展開と今週の注目AI動向",
+      "summary": "建機のCaterpillarが鉱山自動化で培った知見をAI展開に転用。Flint可視化言語やTencentのHy4など今週の技術動向も解説。",
+      "tags": [
+        "産業AI",
+        "自律走行",
+        "可視化",
+        "オープンウェイトLLM",
+        "AI用語論"
+      ],
+      "slug": "caterpillar-ai-deployment-and-weekly-ai-trends"
+    },
+    {
       "id": "2026-08-30_morning-ai-tech-current-overview",
       "date": "2026-08-30",
       "file_key": "2026-08-30_morning",
@@ -424,20 +439,7 @@
         "Claude"
       ],
       "slug": "claude-riemann-ai-definition-debate"
-    },
-    {
-      "id": "2026-08-11_morning-ai-shinkosen-jisshuu-gaiyo",
-      "date": "2026-08-11",
-      "file_key": "2026-08-11_morning",
-      "title": "AI最前線と実践活用ガイド",
-      "summary": "MetaのAI戦略、実用AI活用、最新ツール、イベント情報を解説",
-      "tags": [
-        "AI",
-        "ビジネス",
-        "最新技術"
-      ],
-      "slug": "ai-shinkosen-jisshuu-gaiyo"
     }
   ],
-  "updated_at": "2026-08-29T15:22:05.704756+00:00"
+  "updated_at": "2026-08-30T15:06:59.308186+00:00"
 }
