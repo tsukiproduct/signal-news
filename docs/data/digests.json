@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "id": "2026-09-01_morning-ai-boom-meets-practical-limits-and-new-tools",
+      "date": "2026-09-01",
+      "file_key": "2026-09-01_morning",
+      "title": "AIブーム、実用的な限界と新ツールに直面",
+      "summary": "データセンターへの大規模投資から消費者の技術疲労まで、AIの急成長は現実的な課題に直面していますが、新たなツールやイベントが企業の活用を支援しています。",
+      "tags": [
+        "AI adoption",
+        "data centers",
+        "prompt engineering",
+        "image generation",
+        "AI events",
+        "business AI"
+      ],
+      "slug": "ai-boom-meets-practical-limits-and-new-tools"
+    },
+    {
       "id": "2026-08-31_evening-eu-ai-regulation-meta-robotics-image-generation",
       "date": "2026-08-31",
       "file_key": "2026-08-31_evening",
@@ -425,22 +441,7 @@
         "Generative AI"
       ],
       "slug": "ai-industry-upgrades-2026-08"
-    },
-    {
-      "id": "2026-08-13_morning-ai-technology-latest-developments",
-      "date": "2026-08-13",
-      "file_key": "2026-08-13_morning",
-      "title": "AI技術の最新動向と実用活用",
-      "summary": "2026年のAI技術動向を11件のニュースから整理し、技術の進展、課題、実用例を解説。画像生成AI、イベント情報、プロンプト活用法をカバー。",
-      "tags": [
-        "AI倫理",
-        "画像生成",
-        "イベント",
-        "プロンプト活用",
-        "ビジネス応用"
-      ],
-      "slug": "ai-technology-latest-developments"
     }
   ],
-  "updated_at": "2026-08-31T10:46:38.777501+00:00"
+  "updated_at": "2026-08-31T17:45:07.097059+00:00"
 }
