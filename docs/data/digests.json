@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "id": "2026-08-31_evening-eu-ai-regulation-meta-robotics-image-generation",
+      "date": "2026-08-31",
+      "file_key": "2026-08-31_evening",
+      "title": "EU規制と企業実践の最前線：AIガバナンスと業務自動化の交差点",
+      "summary": "EUのDSA規制がAIサービスに拡大適用へ。Metaはデータセンター作業のロボット自動化を推進。画像生成AIではLoRA技術が進化。",
+      "tags": [
+        "EU規制",
+        "DSA",
+        "Metaロボット",
+        "StableDiffusion",
+        "ChatGPTWork",
+        "AIガバナンス"
+      ],
+      "slug": "eu-ai-regulation-meta-robotics-image-generation"
+    },
+    {
       "id": "2026-08-31_morning-caterpillar-ai-deployment-and-weekly-ai-trends",
       "date": "2026-08-31",
       "file_key": "2026-08-31_morning",
@@ -424,22 +440,7 @@
         "ビジネス応用"
       ],
       "slug": "ai-technology-latest-developments"
-    },
-    {
-      "id": "2026-08-12_evening-claude-riemann-ai-definition-debate",
-      "date": "2026-08-12",
-      "file_key": "2026-08-12_evening",
-      "title": "Claudeが挑む未解決問題とAI定義の再考",
-      "summary": "AnthropicがClaudeにリーマン予想を挑戦させた試みと、AI定義を巡る議論の行方を解説。",
-      "tags": [
-        "LLM",
-        "数学的推論",
-        "AI定義",
-        "プロンプト設計",
-        "Claude"
-      ],
-      "slug": "claude-riemann-ai-definition-debate"
     }
   ],
-  "updated_at": "2026-08-30T15:06:59.308186+00:00"
+  "updated_at": "2026-08-31T10:46:38.777501+00:00"
 }
