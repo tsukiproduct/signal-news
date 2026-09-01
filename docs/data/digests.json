@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-09-01_evening-ai-agriculture-agi-definition-debate",
+      "date": "2026-09-01",
+      "file_key": "2026-09-01_evening",
+      "title": "農業AIからAGI競争まで：実用化加速と定義の揺らぎ",
+      "summary": "Deereの農業AIアシスタントとMiniMaxのAGI野心、AI定義巡る議論が示す実用化と過熱の両面",
+      "tags": [
+        "農業AI",
+        "AGI",
+        "生成AI実装",
+        "AI定義",
+        "セキュリティAI"
+      ],
+      "slug": "ai-agriculture-agi-definition-debate"
+    },
+    {
       "id": "2026-09-01_morning-ai-boom-meets-practical-limits-and-new-tools",
       "date": "2026-09-01",
       "file_key": "2026-09-01_morning",
@@ -426,22 +441,7 @@
         "プロンプト"
       ],
       "slug": "ai-news-summary-japan"
-    },
-    {
-      "id": "2026-08-15_morning-ai-industry-upgrades-2026-08",
-      "date": "2026-08-15",
-      "file_key": "2026-08-15_morning",
-      "title": "AI業界最新動向：Nvidia・Anthropic・Amazonの成長軌道と未来展望",
-      "summary": "NvidiaがSpaceXとIntelに巨額投資、Anthropicが業績倍増、Amazonのユーザー規約改訂などAI産業の多様な動きを概観。画像・動画生成AIの進化やプロンプト工学の深掘り、AIイベントも紹介",
-      "tags": [
-        "Nvidia",
-        "Anthropic",
-        "AI industry",
-        "Machine learning",
-        "Generative AI"
-      ],
-      "slug": "ai-industry-upgrades-2026-08"
     }
   ],
-  "updated_at": "2026-08-31T17:45:07.097059+00:00"
+  "updated_at": "2026-09-01T09:20:12.995986+00:00"
 }
