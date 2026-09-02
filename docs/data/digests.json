@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "id": "2026-09-02_evening-meta-muse-voice-transcribe-world-model-atlas",
+      "date": "2026-09-02",
+      "file_key": "2026-09-02_evening",
+      "title": "Metaのリアルタイム音声AIと世界モデルAtlasが示す新潮流",
+      "summary": "Metaのリアルタイム文字起こしAIとWorld Labsの世界モデルAtlasなど、最新のAI技術動向を解説。",
+      "tags": [
+        "リアルタイム音声認識",
+        "世界モデル",
+        "Meta",
+        "World Labs",
+        "生成AI",
+        "NVIDIA GB300"
+      ],
+      "slug": "meta-muse-voice-transcribe-world-model-atlas"
+    },
+    {
       "id": "2026-09-01_evening-ai-agriculture-agi-definition-debate",
       "date": "2026-09-01",
       "file_key": "2026-09-01_evening",
@@ -426,22 +442,7 @@
       "summary": "11本のAIニュースを総括し、モデルのオープン化、企業の対応策、最新機能追加など主要トピックを整理した解説記事",
       "tags": [],
       "slug": "latest-ai-development-trends-2026"
-    },
-    {
-      "id": "2026-08-16_morning-ai-news-summary-japan",
-      "date": "2026-08-16",
-      "file_key": "2026-08-16_morning",
-      "title": "AIの最新動向と社会への影響",
-      "summary": "近日のAI技術の進展、倫理的ジレンマ、エンタメ業界への影響、実用的な活用方法を解説。画像生成AIやイベント情報も取り上げる。",
-      "tags": [
-        "AI倫理",
-        "画像生成",
-        "DX実践",
-        "イベント",
-        "プロンプト"
-      ],
-      "slug": "ai-news-summary-japan"
     }
   ],
-  "updated_at": "2026-09-01T09:20:12.995986+00:00"
+  "updated_at": "2026-09-02T08:41:32.969840+00:00"
 }
