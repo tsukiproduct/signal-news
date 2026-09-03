@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-09-03_evening-4k-120hz-ust-projector",
+      "date": "2026-09-03",
+      "file_key": "2026-09-03_evening",
+      "title": "4K 120Hz USTプロジェクタとAI最新動向",
+      "summary": "4K 120Hz USTプロジェクタとAI法的・投資・実践トレンドを解説",
+      "tags": [
+        "AI",
+        "テクノロジー",
+        "投資",
+        "イベント",
+        "プロンプト"
+      ],
+      "slug": "4k-120hz-ust-projector"
+    },
+    {
       "id": "2026-09-02_evening-meta-muse-voice-transcribe-world-model-atlas",
       "date": "2026-09-02",
       "file_key": "2026-09-02_evening",
@@ -433,16 +448,7 @@
         "Power Platform"
       ],
       "slug": "ai-definition-rethink-gpu-optimization-image-gen"
-    },
-    {
-      "id": "2026-08-17_afternoon-latest-ai-development-trends-2026",
-      "date": "2026-08-17",
-      "file_key": "2026-08-17_afternoon",
-      "title": "最新AI開発動向：モデルの公開とリスク管理の進展",
-      "summary": "11本のAIニュースを総括し、モデルのオープン化、企業の対応策、最新機能追加など主要トピックを整理した解説記事",
-      "tags": [],
-      "slug": "latest-ai-development-trends-2026"
     }
   ],
-  "updated_at": "2026-09-02T08:41:32.969840+00:00"
+  "updated_at": "2026-09-03T08:52:31.552854+00:00"
 }
