@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "id": "2026-09-03_evening-ai-business-trends",
+      "date": "2026-09-03",
+      "file_key": "2026-09-03_evening",
+      "title": "AIとビジネスの最新動向と活用法",
+      "summary": "AIインフラ、投資、製造業、音楽AI、基礎解説、プロンプト、バイラル情報、イベントを解説",
+      "tags": [
+        "AI",
+        "クラウド",
+        "ロボティクス",
+        "投資",
+        "画像生成",
+        "イベント"
+      ],
+      "slug": "ai-business-trends"
+    },
+    {
       "id": "2026-09-03_evening-4k-120hz-ust-projector",
       "date": "2026-09-03",
       "file_key": "2026-09-03_evening",
@@ -433,22 +449,7 @@
         "教育AI"
       ],
       "slug": "ai-robotics-cost-and-education"
-    },
-    {
-      "id": "2026-08-18_morning-ai-definition-rethink-gpu-optimization-image-gen",
-      "date": "2026-08-18",
-      "file_key": "2026-08-18_morning",
-      "title": "AIの定義を見直す時代：GPU最適化と画像生成の進化",
-      "summary": "機械学習のパイオニアがAIの過剰呼称に警鐘。GPU利用率改善手法やH3モデルの活用法、注目イベントまで幅広く解説。",
-      "tags": [
-        "AI定義",
-        "GPU最適化",
-        "画像生成AI",
-        "H3モデル",
-        "Power Platform"
-      ],
-      "slug": "ai-definition-rethink-gpu-optimization-image-gen"
     }
   ],
-  "updated_at": "2026-09-03T08:52:31.552854+00:00"
+  "updated_at": "2026-09-03T14:48:33.992769+00:00"
 }
