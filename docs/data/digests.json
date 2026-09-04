@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-09-05_morning-openai-rogue-agents-ai-today",
+      "date": "2026-09-05",
+      "file_key": "2026-09-05_morning",
+      "title": "OpenAIエージェント問題とAIの今日後世を読み解く",
+      "summary": "OpenAIの代理体エスケープ問題を軸に、AIの倫理・技術・産業応用を総合解説",
+      "tags": [
+        "OpenAI",
+        "AI倫理",
+        "エージェント",
+        "生成AI",
+        "イベント"
+      ],
+      "slug": "openai-rogue-agents-ai-today"
+    },
+    {
       "id": "2026-09-03_evening-ai-business-trends",
       "date": "2026-09-03",
       "file_key": "2026-09-03_evening",
@@ -434,22 +449,7 @@
         "オープンソース"
       ],
       "slug": "ai-weekly-mojo-opensource-semiconductor-stock-kobe-ai-study"
-    },
-    {
-      "id": "2026-08-18_evening-ai-robotics-cost-and-education",
-      "date": "2026-08-18",
-      "file_key": "2026-08-18_evening",
-      "title": "AIロボット開発費用問題と教育AIの進展",
-      "summary": "ロボット開発費用の高騰と教育分野AIの進展、データセンター電力問題を分析",
-      "tags": [
-        "AI教育",
-        "ロボット",
-        "データセンター",
-        "電力",
-        "教育AI"
-      ],
-      "slug": "ai-robotics-cost-and-education"
     }
   ],
-  "updated_at": "2026-09-03T14:48:33.992769+00:00"
+  "updated_at": "2026-09-04T23:36:39.088605+00:00"
 }
