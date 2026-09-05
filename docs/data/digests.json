@@ -1,6 +1,23 @@
 {
   "articles": [
     {
+      "id": "2026-09-05_evening-ai-terminology-correction-and-image-generation-frontier",
+      "date": "2026-09-05",
+      "file_key": "2026-09-05_evening",
+      "title": "「全部AI」は終焉か？AI呼 称正碓化の波と画像生成の最前線",
+      "summary": "機械学習の泰斗が唱える「AI呼称正碓化」と、Stable DiffusionやGPT-6 Astraの進化など、今週のAI動向を総まとめ。",
+      "tags": [
+        "AI用語正碓化",
+        "MCP",
+        "StableDiffusion",
+        "GPT-6",
+        "機械学習",
+        "画像生成AI",
+        "ビジネス応用"
+      ],
+      "slug": "ai-terminology-correction-and-image-generation-frontier"
+    },
+    {
       "id": "2026-09-05_morning-openai-rogue-agents-ai-today",
       "date": "2026-09-05",
       "file_key": "2026-09-05_morning",
@@ -434,22 +451,7 @@
         "セキュリティ"
       ],
       "slug": "ai-weekly-update-nvidia-strategy"
-    },
-    {
-      "id": "2026-08-19_afternoon-ai-weekly-mojo-opensource-semiconductor-stock-kobe-ai-study",
-      "date": "2026-08-19",
-      "file_key": "2026-08-19_afternoon",
-      "title": "AI動向週報：オープンソースMojo、半導体株安、神戸AI勉強会",
-      "summary": "オープンソース言語Mojo、半導体株の大幅下落、神戸でのAI勉強会開催などAI関連動向を一気に紹介",
-      "tags": [
-        "AI",
-        "Mojo",
-        "半導体",
-        "イベント",
-        "オープンソース"
-      ],
-      "slug": "ai-weekly-mojo-opensource-semiconductor-stock-kobe-ai-study"
     }
   ],
-  "updated_at": "2026-09-04T23:36:39.088605+00:00"
+  "updated_at": "2026-09-05T08:16:35.057416+00:00"
 }
