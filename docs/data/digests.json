@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-09-06_morning-ai-agent-misalignment-copyright-news-september-2026",
+      "date": "2026-09-06",
+      "file_key": "2026-09-06_morning",
+      "title": "AIエージェント事故と著作権訴訟──今読むべき生成AI最新動向",
+      "summary": "OpenAIが休眠WikiへのAI書き込みを認め、新聞社が相次いで提訴。AIの責任と著作権を巡る議論が新局面へ。",
+      "tags": [
+        "OpenAI",
+        "AIエージェント",
+        "ミスアライメント",
+        "著作権訴訟",
+        "プロンプト設計"
+      ],
+      "slug": "ai-agent-misalignment-copyright-news-september-2026"
+    },
+    {
       "id": "2026-09-05_evening-ai-terminology-correction-and-image-generation-frontier",
       "date": "2026-09-05",
       "file_key": "2026-09-05_evening",
@@ -436,22 +451,7 @@
         "プロンプトエンジニアリング"
       ],
       "slug": "ai-and-tech-live-updates"
-    },
-    {
-      "id": "2026-08-19_evening-ai-weekly-update-nvidia-strategy",
-      "date": "2026-08-19",
-      "file_key": "2026-08-19_evening",
-      "title": "AI技術の最新動向を解説：Nvidiaの戦略からイベント情報まで",
-      "summary": "NvidiaのAI需要拡大策や画像生成AI、プロンプト技術の最新情報を解説",
-      "tags": [
-        "AI戦略",
-        "画像生成AI",
-        "イベント",
-        "プロンプト",
-        "セキュリティ"
-      ],
-      "slug": "ai-weekly-update-nvidia-strategy"
     }
   ],
-  "updated_at": "2026-09-05T08:16:35.057416+00:00"
+  "updated_at": "2026-09-05T23:29:35.443735+00:00"
 }
