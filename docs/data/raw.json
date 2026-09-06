@@ -1,7 +1,128 @@
 {
-  "fetched_at": "2026-09-06T08:34:13.396780+00:00",
-  "total": 186,
+  "fetched_at": "2026-09-06T13:50:21.188148+00:00",
+  "total": 185,
   "items": [
+    {
+      "id": "1aea0e8a2262",
+      "title": "Dungeons & Dragons: Dungeon Master - MiniMax H3",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1w8vmkz/dungeons_dragons_dungeon_master_minimax_h3/",
+      "summary": "Anyone watch this cartoon? submitted by /u/darthfurbyyoutube [link] [comments]",
+      "date": "2026-09-06T13:02:28+00:00",
+      "source": "r/StableDiffusion",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
+    {
+      "id": "b1e66139e41f",
+      "title": "DIY plug-in solar gains momentum in the US",
+      "url": "https://www.theverge.com/column/990183/diy-plug-in-solar-us",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in f",
+      "date": "2026-09-06T12:13:19+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "5666697aead4",
+      "title": "ゲームのプレイ順を引き分けなしで確実に決定できるサイコロ「Go First Dice(先攻ダイス)」とは？",
+      "url": "https://gigazine.net/news/20260906-go-first-dice/",
+      "summary": "ボードゲームなどのプレイ順をサイコロで決める場合、同じ数字が出て振り直しになるケースが多く発生します。この問題を避けて確実かつ公平にプレイ順を決められるダイスセットが「Go First Dice(先攻ダイス)」です。続きを読む...",
+      "date": "2026-09-06T12:11:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "71ae9d16788a",
+      "title": "豚から腎臓を移植され9カ月生存した事例が登場",
+      "url": "https://gigazine.net/news/20260906-pig-kidney/",
+      "summary": "遺伝子を組み換えた豚の臓器を人間に移植する手術は複数の前例があり、腎臓の事例では2カ月にわたり生存した事例が報告されていますが、新たに、豚から腎臓を移植されて9カ月にわたって生存した人の事例が報告されています。続きを読む...",
+      "date": "2026-09-06T12:00:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "10a16b039f4b",
+      "title": "放射線によるがんの死亡リスクが最も高い職業とは？",
+      "url": "https://gigazine.net/news/20260906-job-highest-risk-radiation-cancer/",
+      "summary": "放射線にさらされることは被ばくと呼ばれ、放射線に関連するがんリスクを高めるなどの健康被害をもたらします。500以上の職業を分析した新たな研究で、放射線に関連するがんの死亡リスクが高い職業が明らかになりました。続きを読む...",
+      "date": "2026-09-06T11:00:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "3cc522967ac7",
+      "title": "Nigeria’s Antitrust Agency Probes Uber’s Exit From Country",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-06/nigeria-s-antitrust-agency-probes-uber-s-exit-from-country",
+      "summary": "Nigeria’s antitrust commission said it is probing Uber Technologies Inc.’s abrupt exit from the West African nation, after the ride-hailing platform shut down last week without prior notice to users.",
+      "date": "2026-09-06T10:27:21+00:00",
+      "source": "Bloomberg Tech",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 2
+    },
+    {
+      "id": "91eb62f41185",
+      "title": "「自然な演技ができました」緒方日菜が2nd DVDで「ご主人様」にアプローチするメイドを好演！",
+      "url": "https://ascii.jp/elem/000/004/431/4431709/?rss",
+      "summary": "6月に結成2周年を迎えたアイドルグループ「wonder channel」で活躍中の緒方日菜さんが、2nd DVD「やさしく溶けて」の発売記念イベントをソフマップAKIBA アミューズメント館で開催した。",
+      "date": "2026-09-06T10:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "2596313f787b",
+      "title": "複数のAIエージェントを1つのターミナルから統括できる「Herdr」",
+      "url": "https://gigazine.net/news/20260906-herdr/",
+      "summary": "Claude CodeやCodexなど複数のAIエージェントへ同時に仕事を任せる場合、それぞれのターミナルを開いて進行状況を確認する作業が必要になります。複数のターミナルを1つのターミナル画面へまとめ、作業中・入力待ち・完了といった状態の確認やAIエージェント同士の連携も可能な「Herdr」が公開されています。続きを読む...",
+      "date": "2026-09-06T09:00:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "613c0e129442",
+      "title": "【決定版・小牧・長久手の戦い】大河ドラマ『豊臣兄弟！』で描かれる天下分け目の代理戦争！ 秀吉と家康が意地をぶつけ合った″おすすめ”スポットベスト5",
+      "url": "https://ascii.jp/elem/000/004/431/4431765/?rss",
+      "summary": "愛知県内の史跡を巡るメタ散歩が、なぜ単なる古戦場巡りにとどまらない「時空を超える体験」になるのか、3つのポイントを解説した上で、「おすすめスポットベスト5」へと案内しよう。",
+      "date": "2026-09-06T09:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "de7b69d82445",
+      "title": "新たなオリジナルキャラクター『 Reed Mow 』爆誕！",
+      "url": "https://ascii.jp/elem/000/004/432/4432620/?rss",
+      "summary": "新たなオリジナルキャラクター『 Reed Mow 』爆誕！",
+      "date": "2026-09-06T08:53:45+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "7d3625c626a1",
+      "title": "Quoting Zach Kehs",
+      "url": "https://simonwillison.net/2026/Sep/6/zach-kehs/",
+      "summary": "If you continue to add floors and rooms to a building forever, it will collapse. Software faces no such constraint. The code can always get worse. There can always be a new layer of indirection or a reduction in performance. — Zach Kehs, There's No L",
+      "date": "2026-09-06T08:42:49+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
     {
       "id": "66fbf311c0ca",
       "title": "テスラ「モデルY L」はファミリー向けEVの大本命！ 圧倒的走りと3列目のリアル",
@@ -11,6 +132,17 @@
       "source": "ASCII.jp",
       "lang": "ja",
       "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "50e4fa44d1ff",
+      "title": "Coffee - trying to get cinematic edits out of Minimax H3",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1w8q481/coffee_trying_to_get_cinematic_edits_out_of/",
+      "summary": "submitted by /u/Jeffu [link] [comments]",
+      "date": "2026-09-06T08:10:33+00:00",
+      "source": "r/StableDiffusion",
+      "lang": "en",
+      "category": "ImageVideo",
       "priority": 2
     },
     {
@@ -47,6 +179,17 @@
       "priority": 2
     },
     {
+      "id": "d639aae1818c",
+      "title": "Minimax h3 Singularity",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1w8ppz0/minimax_h3_singularity/",
+      "summary": "https://reddit.com/link/1w8ppz0/video/atd6s78guunh1/player https://huggingface.co/WarmBloodAban/Minimax-h3_Singularity submitted by /u/Ok_Tale7582 [link] [comments]",
+      "date": "2026-09-06T07:47:57+00:00",
+      "source": "r/StableDiffusion",
+      "lang": "en",
+      "category": "ImageVideo",
+      "priority": 2
+    },
+    {
       "id": "8c664afaf546",
       "title": "くら寿司 人気キャラ景品のキャンペーン 従業員が横領で中止に",
       "url": "https://news.web.nhk/newsweb/na/nd-20260906de48460",
@@ -69,17 +212,6 @@
       "priority": 2
     },
     {
-      "id": "40f6e8bc8278",
-      "title": "AI時代、「新人のためのアート思考」を公開 ― 最初の一仕事から、自分の見方と問いを育てる",
-      "url": "https://ascii.jp/elem/000/004/432/4432617/?rss",
-      "summary": "AI時代、「新人のためのアート思考」を公開 ― 最初の一仕事から、自分の見方と問いを育てる",
-      "date": "2026-09-06T06:49:18+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "f8dfc7945394",
       "title": "Excuse me!!( Anyone member this meme) Recreated h3 version",
       "url": "https://www.reddit.com/r/StableDiffusion/comments/1w8o47x/excuse_me_anyone_member_this_meme_recreated_h3/",
@@ -88,28 +220,6 @@
       "source": "r/StableDiffusion",
       "lang": "en",
       "category": "ImageVideo",
-      "priority": 2
-    },
-    {
-      "id": "0d604711b796",
-      "title": "「謎を解く力」と「答えをつくる力」を1つのセットに。10～15歳向け『考える力体験セット』を新発売",
-      "url": "https://ascii.jp/elem/000/004/432/4432615/?rss",
-      "summary": "「謎を解く力」と「答えをつくる力」を1つのセットに。10～15歳向け『考える力体験セット』を新発売",
-      "date": "2026-09-06T06:10:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "bf52e1ed939b",
-      "title": "IIJmioが物理SIM→eSIMの交換手数料をキャンペーンで無料に ネットワークの変更も同じく無料に",
-      "url": "https://ascii.jp/elem/000/004/432/4432597/?rss",
-      "summary": "IIJmioが「音声限定！SIM交換手数料割引キャンペーン」を展開。次もeSIM専用になると思われる、新iPhone購入者向けの対応!?",
-      "date": "2026-09-06T06:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
       "priority": 2
     },
     {
@@ -124,17 +234,6 @@
       "priority": 2
     },
     {
-      "id": "bf50895d0b20",
-      "title": "Minimax h3 turbo / fast / sla attention what is the best current method for fast generation",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1w8l6cy/minimax_h3_turbo_fast_sla_attention_what_is_the/",
-      "summary": "I have been playing with regular minimax h3 used turbo lora but it seems there are other method to generate fast on low step count, can you help sort out what is the best method right now? submitted by /u/ResponsibleTruck4717 [link] [comments]",
-      "date": "2026-09-06T03:41:26+00:00",
-      "source": "r/StableDiffusion",
-      "lang": "en",
-      "category": "ImageVideo",
-      "priority": 2
-    },
-    {
       "id": "84eae0714913",
       "title": "圧縮とLLMに共通する本質は「データの予測」",
       "url": "https://gigazine.net/news/20260906-compression-is-prediction/",
@@ -143,17 +242,6 @@
       "source": "Gigazine",
       "lang": "ja",
       "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "f8dcdb3d5434",
-      "title": "HOA T-800 Minimax H3",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1w8ionx/hoa_t800_minimax_h3/",
-      "summary": "submitted by /u/gunnarjmike [link] [comments]",
-      "date": "2026-09-06T01:38:48+00:00",
-      "source": "r/StableDiffusion",
-      "lang": "en",
-      "category": "ImageVideo",
       "priority": 2
     },
     {
@@ -245,17 +333,6 @@
       "priority": 2
     },
     {
-      "id": "0da381734337",
-      "title": "Conistent(ish) environments with Minimax H3",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1w8daml/conistentish_environments_with_minimax_h3/",
-      "summary": "I've been trying to reuse environments in Minimax H3 for scenes. I've come across this thread: https://www.reddit.com/r/StableDiffusion/comments/1vvpowd/psa_minimax_h3_can_turn_360_panorama_images_into/ Which describes how Minimax H3 reference model ",
-      "date": "2026-09-05T21:36:17+00:00",
-      "source": "r/StableDiffusion",
-      "lang": "en",
-      "category": "ImageVideo",
-      "priority": 2
-    },
-    {
       "id": "2d8b8db9bb5a",
       "title": "Explore the globe in field recordings",
       "url": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
@@ -322,6 +399,17 @@
       "priority": 1
     },
     {
+      "id": "23bdddfbdcd6",
+      "title": "Competitive Pokémon is on phones now, but you still need a Switch to become a champion",
+      "url": "https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility",
+      "summary": "To get started with competitive Pokémon battles, all you need is your phone. But to compete at the highest level, like at the Pokémon World Championships, you're going to need a Switch. And there doesn't seem to be a good reason why. Battle simulator",
+      "date": "2026-09-05T17:31:47+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
       "id": "c3850d0fe40d",
       "title": "CD sales are booming as physical media continues its resurgence",
       "url": "https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence",
@@ -366,50 +454,6 @@
       "priority": 2
     },
     {
-      "id": "3efc8a5549f3",
-      "title": "CERNがRedHat系OSからDebianへの移行作戦を実施中",
-      "url": "https://gigazine.net/news/20260905-cern-rhel-debian/",
-      "summary": "欧州原子核研究機構(CERN)が2200以上のコンピューターおよび組み込みシステムのOSを「Debian」に移行する計画を進めていることが判明しました。続きを読む...",
-      "date": "2026-09-05T13:13:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "760f13f49da3",
-      "title": "Apple Bets on Foldable iPhone Under New CEO",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-05/apple-bets-on-foldable-iphone-under-new-ceo-video",
-      "summary": "Apple CEO John Ternus is preparing for his first major product event since succeeding Tim Cook, with a foldable iPhone expected to headline the September 9 launch. Bloomberg Intelligence Senior Hardware Analyst Woo Jin Ho joins Christina Ruffini and ",
-      "date": "2026-09-05T12:23:38+00:00",
-      "source": "Bloomberg Tech",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 2
-    },
-    {
-      "id": "e547ba9b52fc",
-      "title": "人型ロボットがさまざまな競技に挑む「ヒューマノイドロボット競技大会」は技術的にどのような意味があるのか？",
-      "url": "https://gigazine.net/news/20260905-robot-olympics/",
-      "summary": "中国の北京で2026年8月22日から開催された「第二届世界人形机器人运动会(第2回ヒューマノイドロボット競技大会)」では、16か国から666チーム・2056台の人型ロボットが参加して51種目で競い合い、100m走でウサイン・ボルト選手の世界記録を超えた大記録などが樹立されました。そんなヒューマノイドロボット競技大会のようなロボットの競技会は技術的に人類の役に立つのかどうか、クイーンズランド工科大学ロボット工学教授のジョナサン・ロバーツ氏が解説しています。続きを読む...",
-      "date": "2026-09-05T12:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "b53a6cba2209",
-      "title": "OpenAI admits to German wiki ‘incident’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki s",
-      "date": "2026-09-05T11:28:05+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "665c8fa5d8c3",
       "title": "長期金利上昇 私たちの暮らしや経済への影響は",
       "url": "https://news.web.nhk/newsweb/na/nd-20260905de48324",
@@ -418,28 +462,6 @@
       "source": "NHK テクノロジー",
       "lang": "ja",
       "category": "AI",
-      "priority": 2
-    },
-    {
-      "id": "8e2110478191",
-      "title": "TCS Plans One-Gigawatt Capacity Data Center in Southern India",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-05/tcs-plans-one-gigawatt-capacity-data-center-in-southern-india",
-      "summary": "Tata Consultancy Services Ltd. on Saturday said its HyperVault unit and partners have committed 700 billion rupees ($7.4 billion) to set up a large-scale artificial intelligence data center campus in southern India, speeding up its push into an area ",
-      "date": "2026-09-05T11:07:00+00:00",
-      "source": "Bloomberg Tech",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 2
-    },
-    {
-      "id": "d5d2b6877942",
-      "title": "リモートワークの従業員を「月に1日」だけ出社させるとどうなるのか？",
-      "url": "https://gigazine.net/news/20260905-remote-work-one-office-day/",
-      "summary": "2020年に発生した新型コロナウイルス感染症(COVID-19)のパンデミックに伴い、さまざまな企業でリモートワークが導入され、一部の企業ではパンデミックの終息後もリモートワークが継続しています。全米経済研究所が発表した新たなワーキングペーパーでは、「完全リモートワークの従業員を月に1日だけ出社させるとどうなるのか」が検証されました。続きを読む...",
-      "date": "2026-09-05T11:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
       "priority": 2
     },
     {
@@ -462,17 +484,6 @@
       "source": "NHK テクノロジー",
       "lang": "ja",
       "category": "AI",
-      "priority": 2
-    },
-    {
-      "id": "096dd2f4970e",
-      "title": "無料でPDF・電子書籍・Word文書・テキストファイルなどからローカルAIを使って検索＆要約ができる「DocuBrowser」、個人情報の認識も可能",
-      "url": "https://gigazine.net/news/20260905-docubrowser/",
-      "summary": "PCに保存した文書が増えてくるとファイル名や保存場所だけを手掛かりに必要な情報を探すのが難しくなります。そこでPDF・Word文書・電子書籍などをまとめて読み込み、キーワード検索とローカルAIによる意味検索、文書要約が利用できる「DocuBrowser」が公開されています。続きを読む...",
-      "date": "2026-09-05T09:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
       "priority": 2
     },
     {
@@ -520,17 +531,6 @@
       "priority": 1
     },
     {
-      "id": "eca30f3ab9ab",
-      "title": "The weird and wonderful headphones of CanJam 2026",
-      "url": "https://www.theverge.com/tech/990706/a-day-at-canjam-socal-2026",
-      "summary": "I've been reviewing headphones for a long time, and I've listened to everything from the barely serviceable to multi-thousand-dollar open-back headphones. But recently I've been uninspired by the state of mainstream options. Most are perfectly good -",
-      "date": "2026-09-04T23:58:11+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "f48898262d8e",
       "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
       "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
@@ -551,6 +551,17 @@
       "lang": "en",
       "category": "Industry",
       "priority": 1
+    },
+    {
+      "id": "54ede2701bb9",
+      "title": "The Fairphone 6 Plus is the midrange phone we desperately needed",
+      "url": "https://www.theverge.com/tech/990436/fairphone-6-plus-review",
+      "summary": "The Fairphone 6 Plus feels like an extremely average midrange Android phone and I couldn't be more thrilled. The mission has always been admirable. Fairphone seeks out ethically sourced materials and offers a high degree of repairability for its devi",
+      "date": "2026-09-04T22:49:30+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
     },
     {
       "id": "0436d4f43171",
@@ -671,17 +682,6 @@
       "source": "NHK テクノロジー",
       "lang": "ja",
       "category": "AI",
-      "priority": 2
-    },
-    {
-      "id": "33e1cc854b6e",
-      "title": "Robotaxis enter their villain era",
-      "url": "https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai",
-      "summary": "It's Bullitt meets Christine meets Waymo. A new short film imagines a San Francisco car chase where the other driver isn't human - and the car may be trying to kill you. That a robotaxi can now be cast as the villain with almost no explanation says s",
-      "date": "2026-09-04T14:49:57+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
       "priority": 2
     },
     {
@@ -1001,17 +1001,6 @@
       "source": "Google DeepMind",
       "lang": "en",
       "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "ef9dcc152d38",
-      "title": "Claude's new system prompt really doesn't want to reproduce song lyrics",
-      "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
-      "summary": "Anthropic publish the system prompts for their Claude consumer applications (Claude.ai and the Claude mobile apps - sadly not for Claude Cowork or Claude Code). I love that they do this, and that they share not just the current prompts but historic c",
-      "date": "2026-09-02T14:16:42+00:00",
-      "source": "Simon Willison",
-      "lang": "en",
-      "category": "Prompts",
       "priority": 1
     },
     {
@@ -1778,7 +1767,7 @@
       "title": "【神戸★無料体験】Pythonプログラミング教室",
       "url": "https://b3955f9a72b32bf72d9ef02673.doorkeeper.jp/events/101236",
       "summary": "📅 2026-09-29 · 📍 株式会社セカンドハーフ · 👥 参加 0/5人",
-      "date": "2026-09-06T08:34:13.396284+00:00",
+      "date": "2026-09-06T13:50:21.187274+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -1792,7 +1781,7 @@
       "title": "SNS広報を全4回の講座で習得！≪SNS広報担当養成講座 統合マスターコース≫2026年9月開講（62期生）オンライン講座",
       "url": "https://belove.doorkeeper.jp/events/195545",
       "summary": "📅 2026-09-16 · 📍 オンライン · 👥 参加 11人",
-      "date": "2026-09-06T08:34:13.396322+00:00",
+      "date": "2026-09-06T13:50:21.187331+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -1806,7 +1795,7 @@
       "title": "10/6　AI×SNS 中小企業のためのSNS×AI活用術セミナー",
       "url": "https://belove.doorkeeper.jp/events/196182",
       "summary": "📅 2026-10-06 · 📍 オンライン · 👥 参加 6人",
-      "date": "2026-09-06T08:34:13.396338+00:00",
+      "date": "2026-09-06T13:50:21.187363+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -1820,7 +1809,7 @@
       "title": "12/8 AIにも人にも選ばれる！ 中小企業のためのSNS×AI広報セミナー",
       "url": "https://belove.doorkeeper.jp/events/196183",
       "summary": "📅 2026-12-08 · 📍 オンライン · 👥 参加 1人",
-      "date": "2026-09-06T08:34:13.396351+00:00",
+      "date": "2026-09-06T13:50:21.187391+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -1834,7 +1823,7 @@
       "title": "SNS広報を全4回の講座で習得！≪SNS広報担当養成講座 統合マスターコース≫2026年11月開講（63期生）オンライン講座",
       "url": "https://belove.doorkeeper.jp/events/196703",
       "summary": "📅 2026-11-19 · 📍 オンライン · 👥 参加 3人",
-      "date": "2026-09-06T08:34:13.396364+00:00",
+      "date": "2026-09-06T13:50:21.187439+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -1848,7 +1837,7 @@
       "title": "11/17 AI時代だからこそ、ブログに再注目！ 「note」で実現する選ばれる企業の情報発信術【ビーラブ最新集客セミナー】",
       "url": "https://belove.doorkeeper.jp/events/197604",
       "summary": "📅 2026-11-17 · 📍 オンライン · 👥 参加 3人",
-      "date": "2026-09-06T08:34:13.396377+00:00",
+      "date": "2026-09-06T13:50:21.187468+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -1862,7 +1851,7 @@
       "title": "データサイエンススクール 128",
       "url": "https://cireds.doorkeeper.jp/events/197672",
       "summary": "📅 2026-09-19 · 📍 京都大学学術情報メディアセンター南館 201教室 · 👥 参加 29/40人",
-      "date": "2026-09-06T08:34:13.396390+00:00",
+      "date": "2026-09-06T13:50:21.187494+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -1876,7 +1865,7 @@
       "title": "マーケティングテクノロジスト認定講座【WACA公式】（旧上級GA4講座）9月（2日間講座）",
       "url": "https://web-mining.doorkeeper.jp/events/197760",
       "summary": "📅 2026-09-14 · 📍 オンライン · 👥 参加 1/10人",
-      "date": "2026-09-06T08:34:13.396403+00:00",
+      "date": "2026-09-06T13:50:21.187519+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -1890,7 +1879,7 @@
       "title": "Rubyセミナー大阪",
       "url": "https://rubyassociation.doorkeeper.jp/events/197460",
       "summary": "📅 2026-10-29 · 📍 ミーティングスペースAP大阪茶屋町 8F　Room G · 👥 参加 25/60人",
-      "date": "2026-09-06T08:34:13.396416+00:00",
+      "date": "2026-09-06T13:50:21.187544+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -1904,7 +1893,7 @@
       "title": "Backlog World 2026",
       "url": "https://backlogworld.doorkeeper.jp/events/197793",
       "summary": "📅 2026-11-28 · 📍 パシフィコ横浜ノース · 👥 参加 13人",
-      "date": "2026-09-06T08:34:13.396428+00:00",
+      "date": "2026-09-06T13:50:21.187574+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -1918,7 +1907,7 @@
       "title": "Design Boost in Sapporo 2026",
       "url": "https://dtptransit.doorkeeper.jp/events/197994",
       "summary": "📅 2026-09-12 · 📍 札幌市男女共同参画センター 3Fホール · 👥 参加 48人",
-      "date": "2026-09-06T08:34:13.396442+00:00",
+      "date": "2026-09-06T13:50:21.187599+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -1932,7 +1921,7 @@
       "title": "memoQ Day Tokyo 2026",
       "url": "https://memoq.doorkeeper.jp/events/198095",
       "summary": "📅 2026-10-02 · 📍 ワテラス コモン ホール · 👥 参加 42/85人",
-      "date": "2026-09-06T08:34:13.396455+00:00",
+      "date": "2026-09-06T13:50:21.187624+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -1946,7 +1935,7 @@
       "title": "KUSANAGI定例会議）長年のプラグイン問題を解決／無料の技術サポート開始／上場企業Webサイト全数チェック",
       "url": "https://enterprise-wordpress.doorkeeper.jp/events/198327",
       "summary": "📅 2026-09-16 · 📍 オンライン · 👥 参加 10/100人",
-      "date": "2026-09-06T08:34:13.396468+00:00",
+      "date": "2026-09-06T13:50:21.187650+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -1960,7 +1949,7 @@
       "title": "初年度2千万円のノウハウ。Web制作で食べる！WordPressでやるべきこと、Web制作ビジネスノウハウ全部盛りセミナー（大人気追加開催）",
       "url": "https://enterprise-wordpress.doorkeeper.jp/events/198331",
       "summary": "📅 2026-10-07 · 📍 オンライン · 👥 参加 22/100人",
-      "date": "2026-09-06T08:34:13.396481+00:00",
+      "date": "2026-09-06T13:50:21.187674+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -1974,7 +1963,7 @@
       "title": "【再放送】【1000名以上の企業向け】膨らむクラウド費、事業別の投資対効果を説明できますか ～FinOpsと可観測性で、利用額とサービス品質を経営指標に変える～",
       "url": "https://majisemi-operation.doorkeeper.jp/events/198493",
       "summary": "📅 2026-09-09 · 📍 オンライン · 👥 参加 0/1人",
-      "date": "2026-09-06T08:34:13.396493+00:00",
+      "date": "2026-09-06T13:50:21.187699+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -1988,7 +1977,7 @@
       "title": "【変革が進まない企業へ】なぜイノベーションは成果につながらないのか？ ～ 成果を出すために知るべき「仕組み」と、ISO56001が示す継続的な価値創出の考え方 ～",
       "url": "https://majisemi-sales.doorkeeper.jp/events/198510",
       "summary": "📅 2026-09-08 · 📍 オンライン · 👥 参加 3/3人",
-      "date": "2026-09-06T08:34:13.396506+00:00",
+      "date": "2026-09-06T13:50:21.187724+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2002,7 +1991,7 @@
       "title": "【2026年9月｜ゆるDomo】使い慣れた生成AIでDomoのデータを活用！〜MCPで拡がる世界〜",
       "url": "https://domobuddies.doorkeeper.jp/events/198621",
       "summary": "📅 2026-09-08 · 📍 オンライン · 👥 参加 50人",
-      "date": "2026-09-06T08:34:13.396518+00:00",
+      "date": "2026-09-06T13:50:21.187749+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2016,7 +2005,7 @@
       "title": "Let's Build the Full-Stack Developer Skillforest — Part 3: Trees",
       "url": "https://management30-nuworks.doorkeeper.jp/events/198627",
       "summary": "📅 2026-09-07 · 📍 オンライン · 👥 参加 3/12人",
-      "date": "2026-09-06T08:34:13.396530+00:00",
+      "date": "2026-09-06T13:50:21.187773+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2029,8 +2018,8 @@
       "id": "a3426dc0ef70",
       "title": "WordPressユーザーなら使わなきゃ損！無料からの最強チャットボットを活用してSEOとコンバージョンの向上のコツ",
       "url": "https://enterprise-wordpress.doorkeeper.jp/events/198640",
-      "summary": "📅 2026-11-04 · 📍 オンライン · 👥 参加 9/100人",
-      "date": "2026-09-06T08:34:13.396542+00:00",
+      "summary": "📅 2026-11-04 · 📍 オンライン · 👥 参加 10/100人",
+      "date": "2026-09-06T13:50:21.187798+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2044,7 +2033,7 @@
       "title": "11/11 AIにも人にも選ばれる！ 中小企業のためのSNS×AI広報セミナー",
       "url": "https://belove.doorkeeper.jp/events/198663",
       "summary": "📅 2026-11-11 · 📍 オンライン · 👥 参加 0人",
-      "date": "2026-09-06T08:34:13.396554+00:00",
+      "date": "2026-09-06T13:50:21.187827+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2058,7 +2047,7 @@
       "title": "1/6 AIにも人にも選ばれる！ 中小企業のためのSNS×AI広報セミナー",
       "url": "https://belove.doorkeeper.jp/events/198664",
       "summary": "📅 2027-01-06 · 📍 オンライン · 👥 参加 0人",
-      "date": "2026-09-06T08:34:13.396568+00:00",
+      "date": "2026-09-06T13:50:21.187853+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2072,7 +2061,7 @@
       "title": "2/3　AI×SNS 中小企業のためのSNS×AI活用術セミナー",
       "url": "https://belove.doorkeeper.jp/events/198665",
       "summary": "📅 2027-02-03 · 📍 オンライン · 👥 参加 0人",
-      "date": "2026-09-06T08:34:13.396580+00:00",
+      "date": "2026-09-06T13:50:21.187878+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2086,7 +2075,7 @@
       "title": "4/7 AIにも人にも選ばれる！ 中小企業のためのSNS×AI広報セミナー",
       "url": "https://belove.doorkeeper.jp/events/198666",
       "summary": "📅 2027-04-07 · 📍 オンライン · 👥 参加 0人",
-      "date": "2026-09-06T08:34:13.396593+00:00",
+      "date": "2026-09-06T13:50:21.187903+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2100,7 +2089,7 @@
       "title": "5/13 AIにも人にも選ばれる！ 中小企業のためのSNS×AI広報セミナー",
       "url": "https://belove.doorkeeper.jp/events/198667",
       "summary": "📅 2027-05-13 · 📍 オンライン · 👥 参加 0人",
-      "date": "2026-09-06T08:34:13.396605+00:00",
+      "date": "2026-09-06T13:50:21.187927+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
@@ -2114,7 +2103,7 @@
       "title": "6/2 AI×SNS 中小企業のためのSNS×AI活用術セミナー",
       "url": "https://belove.doorkeeper.jp/events/198668",
       "summary": "📅 2027-06-02 · 📍 オンライン · 👥 参加 0人",
-      "date": "2026-09-06T08:34:13.396617+00:00",
+      "date": "2026-09-06T13:50:21.187952+00:00",
       "source": "Doorkeeper",
       "lang": "ja",
       "category": "Events",
