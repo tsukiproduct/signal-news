@@ -1,6 +1,23 @@
 {
   "articles": [
     {
+      "id": "2026-09-06_evening-gpt-6-astra-and-ai-practicalization-this-week",
+      "date": "2026-09-06",
+      "file_key": "2026-09-06_evening",
+      "title": "GPT-6 Astra登場と生成AIの実用化が加速する今週",
+      "summary": "GPT-6 Astraの開発者向け発表を皮切りに、AI用語をめぐる議論、画像生成AIのコミュニティ活動、生成AIを活用したイベントまで。今週のAI情報を総括する。",
+      "tags": [
+        "GPT-6",
+        "生成AI",
+        "StableDiffusion",
+        "AI用語論",
+        "Pixel 11",
+        "MCP",
+        "機械学習"
+      ],
+      "slug": "gpt-6-astra-and-ai-practicalization-this-week"
+    },
+    {
       "id": "2026-09-06_morning-ai-agent-misalignment-copyright-news-september-2026",
       "date": "2026-09-06",
       "file_key": "2026-09-06_morning",
@@ -436,22 +453,7 @@
         "イベント"
       ],
       "slug": "ai-news-summary-aug2026"
-    },
-    {
-      "id": "2026-08-20_afternoon-ai-and-tech-live-updates",
-      "date": "2026-08-20",
-      "file_key": "2026-08-20_afternoon",
-      "title": "AIとテクノロジーの最新動向",
-      "summary": "AI技術の進化、イベント開催、ハードウェア革新など、今週の最新ニュースを解説します。",
-      "tags": [
-        "AI技術",
-        "生成AI",
-        "ハードウェア",
-        "イベント",
-        "プロンプトエンジニアリング"
-      ],
-      "slug": "ai-and-tech-live-updates"
     }
   ],
-  "updated_at": "2026-09-05T23:29:35.443735+00:00"
+  "updated_at": "2026-09-06T08:34:32.195888+00:00"
 }
