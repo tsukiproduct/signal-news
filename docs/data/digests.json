@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-09-07_evening-ai-drug-aging-image-generation-weekly",
+      "date": "2026-09-07",
+      "file_key": "2026-09-07_evening",
+      "title": "AIが発見した若返り薬、画像生成AIの進化…注目まとめ",
+      "summary": "AIで開発された実験的薬が老化マーカーを逆転、画像生成AIの高精度化も進む。ビジネス活用のヒントを解説。",
+      "tags": [
+        "AI創薬",
+        "画像生成AI",
+        "機械学習",
+        "生成AI活用",
+        "イベント"
+      ],
+      "slug": "ai-drug-aging-image-generation-weekly"
+    },
+    {
       "id": "2026-09-07_morning-ai-agents-aaas-future",
       "date": "2026-09-07",
       "file_key": "2026-09-07_morning",
@@ -434,23 +449,7 @@
         "企業活用"
       ],
       "slug": "ai-rai-to-jisshiki"
-    },
-    {
-      "id": "2026-08-22_morning-ai-overlabeling-linkedin-slop-image-gen-evolution",
-      "date": "2026-08-22",
-      "file_key": "2026-08-22_morning",
-      "title": "AIの過剰呼称に警鐘、LinkedInのAIスロップ問題と画像生成AIの進化",
-      "summary": "LinkedInのAIスロップボタンが100万クリック、MLパイオニアがAI過剰呼称に警鐘。MiniMax-H3がComfyUI対応で画像生成AIが進化。",
-      "tags": [
-        "LinkedIn",
-        "AIスロップ",
-        "MiniMax-H3",
-        "ComfyUI",
-        "エンタープライズAI",
-        "AIエネルギー問題"
-      ],
-      "slug": "ai-overlabeling-linkedin-slop-image-gen-evolution"
     }
   ],
-  "updated_at": "2026-09-06T23:23:34.767175+00:00"
+  "updated_at": "2026-09-07T09:12:59.273511+00:00"
 }
