@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "2026-09-08_morning-ai-senryoku-enkou",
+      "date": "2026-09-08",
+      "file_key": "2026-09-08_morning",
+      "title": "AI最前線：円高と最新トレンド解説",
+      "summary": "円高が一時1ドル＝153円台に回復し、AI技術の最新動向やイベント、実践活用法を解説します。",
+      "tags": [
+        "AI",
+        "Image Generation",
+        "Prompt Engineering",
+        "Business"
+      ],
+      "slug": "ai-senryoku-enkou"
+    },
+    {
       "id": "2026-09-07_evening-ai-drug-aging-image-generation-weekly",
       "date": "2026-09-07",
       "file_key": "2026-09-07_evening",
@@ -436,20 +450,7 @@
         "ComfyUI"
       ],
       "slug": "vision-ai-democratization-reality"
-    },
-    {
-      "id": "2026-08-23_morning-ai-rai-to-jisshiki",
-      "date": "2026-08-23",
-      "file_key": "2026-08-23_morning",
-      "title": "AIの未来と実用化：教育からビジネスまで",
-      "summary": "AIエージェントの進化、教育分野の変革、ビジネス活用の可能性を検討。インフラコストや倫理的課題も考慮。",
-      "tags": [
-        "AI教育",
-        "画像生成AI",
-        "企業活用"
-      ],
-      "slug": "ai-rai-to-jisshiki"
     }
   ],
-  "updated_at": "2026-09-07T09:12:59.273511+00:00"
+  "updated_at": "2026-09-07T23:54:33.601501+00:00"
 }
