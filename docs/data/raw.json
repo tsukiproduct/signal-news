@@ -1,23 +1,122 @@
 {
-  "fetched_at": "2026-09-08T14:48:15.229800+00:00",
-  "total": 45,
+  "fetched_at": "2026-09-08T23:46:42.354783+00:00",
+  "total": 44,
   "items": [
     {
-      "id": "96b2ae8646c8",
-      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
-      "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for d",
-      "date": "2026-09-08T14:19:23+00:00",
+      "id": "888f8e60fc3f",
+      "title": "Introducing ChatGPT Images 2.5",
+      "url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
+      "summary": "Introducing ChatGPT Images 2.5 OpenAI's image generation models are apparently used \"more than 3 billion images across ChatGPT Images and the GPT‑Image models in the API\". This latest release improves their instruction-following ability across multip",
+      "date": "2026-09-08T22:46:33+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
+    {
+      "id": "baf4c2ebabc9",
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+      "date": "2026-09-08T21:10:27+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "ba0725adef5e",
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+      "date": "2026-09-08T21:04:06+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "41a7f2063622",
+      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+      "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT",
+      "date": "2026-09-08T20:16:09+00:00",
       "source": "The Verge",
       "lang": "en",
       "category": "Tech",
       "priority": 2
     },
     {
+      "id": "f903c7006640",
+      "title": "Meta bets on AI agent Muse to catch up in AI race",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+      "summary": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion-dollar strategy overhaul designed to rev",
+      "date": "2026-09-08T20:06:40+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "b60588e37b2e",
+      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+      "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believing they'd get more out of a to",
+      "date": "2026-09-08T19:32:39+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "20d984cb02eb",
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+      "date": "2026-09-08T19:00:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "48232c1c3bd8",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "date": "2026-09-08T17:00:00+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "d081e58264cf",
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+      "date": "2026-09-08T16:20:31+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "95a190e6d2c5",
+      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+      "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+      "date": "2026-09-08T15:04:09+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
       "id": "f37bc5517ee7",
       "title": "Mistral raises €3B as sovereign AI becomes big business",
       "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-      "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity.",
+      "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
       "date": "2026-09-08T14:17:48+00:00",
       "source": "TechCrunch AI",
       "lang": "en",
@@ -47,37 +146,26 @@
       "priority": 1
     },
     {
-      "id": "b10add06bace",
-      "title": "Microsoft breaks another patch Tuesday record",
-      "url": "https://www.theverge.com/tech/991178/microsoft-patch-tuesday-record-breaking-ai-notepad",
-      "summary": "Engineers at Microsoft typically enjoy a quieter summer to take vacations and spend time with family, as is common at many companies. But this year, the season has been unusually busy for Windows and security engineers, thanks to new AI models that a",
-      "date": "2026-09-08T10:13:24+00:00",
-      "source": "The Verge",
+      "id": "4b61789c249a",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution",
+      "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+      "date": "2026-09-08T10:00:00+00:00",
+      "source": "OpenAI Blog",
       "lang": "en",
-      "category": "Tech",
-      "priority": 2
+      "category": "Research",
+      "priority": 1
     },
     {
-      "id": "926902b984e8",
-      "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
-      "url": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
-      "summary": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project timeline. T",
-      "date": "2026-09-08T09:07:57+00:00",
-      "source": "The Verge",
+      "id": "c34d7a764f86",
+      "title": "Funding grants for new research into AI and teen development",
+      "url": "https://openai.com/index/teen-development-research-grants",
+      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "date": "2026-09-08T09:00:00+00:00",
+      "source": "OpenAI Blog",
       "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "f1fcbf5a1753",
-      "title": "“ヒト型ロボット用救急車”爆誕 メカ用担架や予備パーツ積載 GMO系",
-      "url": "https://www.itmedia.co.jp/news/article/2609/08/2000001266/",
-      "summary": "人型ロボット開発などを手掛けるGMO AI＆ロボティクス商事（GMO AIR）は9月8日、人型ロボットの故障やトラブル時に現場へ駆けつけ、その場で診断・修理する専用車両「GMOヒューマノイド救急車」を発表した。同社によると、人型ロボットの保守に特化した車両は国内初という。",
-      "date": "2026-09-08T07:00:46+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
+      "category": "Research",
+      "priority": 1
     },
     {
       "id": "7938df540b92",
@@ -157,61 +245,6 @@
       "priority": 1
     },
     {
-      "id": "08d94691e993",
-      "title": "An Alien Mind",
-      "url": "https://openai.com/index/an-alien-mind",
-      "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-      "date": "2026-09-06T09:00:00+00:00",
-      "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "2b36e6dbb8e7",
-      "title": "Research acceleration: The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-      "date": "2026-09-06T08:00:00+00:00",
-      "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "8a7e0f31a983",
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-      "date": "2026-09-05T22:49:55+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "f774e48a95a8",
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-      "date": "2026-09-05T19:35:24+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "669fdcb55695",
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-      "date": "2026-09-05T18:05:27+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
       "id": "c540530472dc",
       "title": "Architecting memory and storage in the AI era",
       "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
@@ -273,39 +306,6 @@
       "summary": "",
       "date": "2026-09-03T15:02:08+00:00",
       "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "30eec5aa5b07",
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-      "date": "2026-09-03T13:15:00+00:00",
-      "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "9a8f1e3af0e0",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "date": "2026-09-03T12:00:00+00:00",
-      "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "d54e7a3a2a74",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "date": "2026-09-03T12:00:00+00:00",
-      "source": "OpenAI Blog",
       "lang": "en",
       "category": "Research",
       "priority": 1
@@ -484,17 +484,6 @@
       "source": "Cloudflare Workers AI",
       "lang": "en",
       "category": "Tech",
-      "priority": 1
-    },
-    {
-      "id": "139dfaf333af",
-      "title": "AIエージェントで転職活動を進める6ステップ！プロンプト例と注意点も解説",
-      "url": "https://ainow.ai/2026/08/26/278330/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e8%25bb%25a2%25e8%2581%25b7%25e6%25b4%25bb%25e5%258b%2595%25e3%2582%2592%25e9%2580%25b2%25e3%2582%2581%25e3%2582%258b6%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583%25e3%2583%2597%25ef%25bc%2581%25e3%2583%2597",
-      "summary": "転職を決めたものの、求人票の読み比べや企業研究に時間を取られ、職務経歴書の作成が後回しになっている人は少なくありません。 AIエージェントとは、目標を渡すと計画から実行までを自律的に進めるAIです。マイナビ転職の調査では... The post AIエージェントで転職活動を進める6ステップ！プロンプト例と注意点も解説 first appeared on AI専門ニュースメディア AINOW.",
-      "date": "2026-08-25T17:17:58+00:00",
-      "source": "AINOW",
-      "lang": "ja",
-      "category": "AI",
       "priority": 1
     }
   ]
