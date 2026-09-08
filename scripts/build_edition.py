@@ -73,16 +73,16 @@ def card(item, lang):
     if not translated:
         status += t(lang,' · 日本語訳は準備中',' · English translation pending')
     bits = []
-    for key, ja, en in [('useful_for','誰に役立つ？','Who is this for?'),('try_next','試すなら（提案）','Try next (suggestion)'),('caveat','確認すべき点','Check first')]:
+    for key, ja, en in [('useful_for','誰に役立つ？','Who is this for?'),('caveat','確認すべき点','Check first')]:
         value = item.get(f'{key}_{lang}')
         if value:
             bits.append(f'<dt>{t(lang,ja,en)}</dt><dd>{e(value)}</dd>')
-    details = f'<details><summary>{t(lang,"実務で使う前に","Before you use it")}</summary><dl>{"".join(bits)}</dl></details>' if bits else ''
+    details = f'<details open><summary>{t(lang,"自分への影響を確認","How this affects you")}</summary><dl>{"".join(bits)}</dl></details>' if bits else ''
     return f'''<article class="news-card" data-id="{e(item['id'])}" data-category="{e(category)}" data-date="{e(item.get('date',''))}" data-score="{e(item.get('score',5))}">
 <div class="meta"><span class="topic">{e(label)}</span><span>{e(item.get('source',''))}</span><time datetime="{e(item.get('date',''))}">{e(item.get('date','')[:10])}</time></div>
-<h2 lang="{e(title_lang)}"><a data-original href="{e(url)}" target="_blank" rel="noopener noreferrer">{e(title)}</a></h2>
+<h2 lang="{e(title_lang)}"><a data-original data-signal-event="source_click" href="{e(url)}" target="_blank" rel="noopener noreferrer">{e(title)}</a></h2>
 <p class="summary" lang="{e(summary_lang)}">{e(summary)}</p><p class="translation">{status}</p>{details}
-<div class="card-foot"><a class="source-link" data-original href="{e(url)}" target="_blank" rel="noopener noreferrer">{t(lang,'出典を読む','Read source')} · {e(item.get('lang','').upper())} ↗</a><button type="button" class="save" aria-pressed="false">{t(lang,'あとで読む','Save')}</button></div></article>'''
+<div class="card-foot"><a class="source-link" data-original data-signal-event="source_click" href="{e(url)}" target="_blank" rel="noopener noreferrer">{t(lang,'出典を読む','Read source')} · {e(item.get('lang','').upper())} ↗</a><button type="button" class="save" aria-pressed="false">{t(lang,'あとで読む','Save')}</button></div></article>'''
 
 def home(lang, news):
     from reader_edition import render
