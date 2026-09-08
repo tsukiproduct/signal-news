@@ -18,6 +18,11 @@
       write('signal-display-v2', ['dark','large'].filter(k => document.body.classList.contains(k)));
     });
   }
+  const visit = read('signal-last-visit-v1');
+  const lastVisit = typeof visit[0]==='number' && visit[0]<=Date.now() ? visit[0] : null;
+  write('signal-last-visit-v1',[Date.now()]);
+  const note=document.getElementById('return-note');
+  if(note){note.hidden=false;note.textContent=lastVisit ? (en?'Welcome back. Use “Since your last visit” to catch up.':'おかえりなさい。「前回以降の新着」で続きを確認できます。') : (en?'On your next visit, new stories can be filtered on this device.':'次回から、この端末で前回以降の新着を絞り込めます。');}
   const cards = [...document.querySelectorAll('.news-card')];
   let category = 'all';
   const search = document.getElementById('news-search');
@@ -31,6 +36,7 @@
     const matching = cards.filter(card =>
       (category === 'all' || card.dataset.category === category)
       && (!query || card.textContent.toLocaleLowerCase().includes(query))
+      && (mode?.value !== 'new' || (lastVisit !== null && Date.parse(card.dataset.date)>lastVisit))
       && (mode?.value !== 'saved' || saved.has(card.dataset.id))
       && (mode?.value !== 'unread' || !seen.has(card.dataset.id)));
     matching.sort((a,b) => {

@@ -11,6 +11,8 @@ for(const lang of ['ja','en']){
  ids['news-next'].events.click();assert.deepEqual(visible(),[0,1,2]);assert.equal(ids['news-next'].disabled,true);
  ids['news-sort'].value='oldest';ids['news-sort'].events.change();assert.deepEqual(visible(),[0,1,2,3,4,5,6,7,8,9]);
  ids['news-search'].value='story 22';ids['news-search'].events.input();assert.deepEqual(visible(),[22]);assert.equal(ids['news-pagination'].hidden,true);
+ ids['news-search'].value='';ids['news-mode'].value='new';ids['news-mode'].events.change();assert.equal(visible().length,0);
+ ids['news-mode'].value='all';
  ids['news-search'].value='missing';ids['news-search'].events.input();assert.equal(visible().length,0);assert.equal(ids.empty.hidden,false);
 }
 console.log('JA/EN paging, global date sort, filter reset, last page and empty state passed');

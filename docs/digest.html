@@ -105,7 +105,7 @@ function renderSection(sec, idx) {
         ${sec.source_url ? `
         <div class="source-cite">
           📰 出典：
-          <a href="${esc(sec.source_url)}" target="_blank" rel="noopener noreferrer">
+          <a data-signal-event="source_click" href="${esc(sec.source_url)}" target="_blank" rel="noopener noreferrer">
             ${esc(sec.source_title || sec.source_url)}
           </a>
         </div>` : ''}
@@ -144,7 +144,7 @@ function renderArticle(article) {
       <span class="source-num">[${i+1}]</span>
       <div class="source-info">
         <div class="source-title">${esc(s.source)} — ${esc(s.title)}</div>
-        <div class="source-url"><a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">出典の記事を読む ↗</a></div>
+        <div class="source-url"><a data-signal-event="source_click" href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">出典の記事を読む ↗</a></div>
       </div>
     </div>`).join('');
 

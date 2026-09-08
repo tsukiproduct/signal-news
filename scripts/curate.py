@@ -106,7 +106,8 @@ Return JSON {"results": [{"id": "unchanged ID", "score": 0,
 "try_next_ja": "編集部提案の検証手順", "try_next_en": "suggested small test",
 "caveat_ja": "確認すべき制約", "caveat_en": "what to verify",
 "reason": "short reason"}]}.
-Score 9-10: actionable releases, reproducible workflows, cost or license changes affecting users.
+Score 9-10: concrete user-facing changes in pricing, quotas, access in Japan, licensing, or released capabilities. Prioritize an actual change over a teaser.
+In each summary, lead with WHAT CHANGED. In useful_for, identify the affected task or user. In caveat, state what the reader must verify (availability, plan, region, limitation); if absent say the excerpt does not specify. Do not turn every story into a purchase recommendation.
 7-8: tutorials, open models, evaluations with limitations. 5-6: relevant context.
 0-4: unrelated content, fundraising without user impact, hype, events, duplicates.
 Translate BOTH titles and summaries faithfully, including Japanese sources into English.
