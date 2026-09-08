@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "id": "2026-09-08_evening-ai-food-game-finance",
+      "date": "2026-09-08",
+      "file_key": "2026-09-08_evening",
+      "title": "AIが創る食・ゲーム・金融の変革",
+      "summary": "食卓のコラボ、ゲーム売り上げ、インドのAI金融、データセンター建設など、AIが各分野を加速",
+      "tags": [
+        "AI",
+        "食品流通",
+        "ゲーム",
+        "金融",
+        "FinOps",
+        "デザイン"
+      ],
+      "slug": "ai-food-game-finance"
+    },
+    {
       "id": "2026-09-08_morning-ai-senryoku-enkou",
       "date": "2026-09-08",
       "file_key": "2026-09-08_morning",
@@ -435,22 +451,7 @@
         "Events"
       ],
       "slug": "ai-to-game-gear"
-    },
-    {
-      "id": "2026-08-23_afternoon-vision-ai-democratization-reality",
-      "date": "2026-08-23",
-      "file_key": "2026-08-23_afternoon",
-      "title": "ビジョンAI民主化と実装の現実",
-      "summary": "Roboflow Playgroundでゼロショットモデルを無料比較、Linus Torvaldsも認める実用性、企業AI導入の最新動向",
-      "tags": [
-        "ビジョンAI",
-        "ゼロショット学習",
-        "エンタープライズAI",
-        "Roboflow",
-        "ComfyUI"
-      ],
-      "slug": "vision-ai-democratization-reality"
     }
   ],
-  "updated_at": "2026-09-07T23:54:33.601501+00:00"
+  "updated_at": "2026-09-08T08:50:17.852189+00:00"
 }
