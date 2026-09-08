@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://signal.tsukilab.jp/</loc></url>
-  <url><loc>https://signal.tsukilab.jp/guides.html</loc></url>
-  <url><loc>https://signal.tsukilab.jp/guides/video-budget.html</loc></url>
-  <url><loc>https://signal.tsukilab.jp/guides/local-ai.html</loc></url>
-  <url><loc>https://signal.tsukilab.jp/guides/ai-learning.html</loc></url>
-  <url><loc>https://signal.tsukilab.jp/advertise.html</loc></url>
-  <url><loc>https://signal.tsukilab.jp/policy.html</loc></url>
+<url><loc>https://signal.tsukilab.jp/</loc></url>
+<url><loc>https://signal.tsukilab.jp/en/</loc></url>
+<url><loc>https://signal.tsukilab.jp/playbook.html</loc></url>
+<url><loc>https://signal.tsukilab.jp/en/playbook.html</loc></url>
+<url><loc>https://signal.tsukilab.jp/sources.html</loc></url>
+<url><loc>https://signal.tsukilab.jp/en/sources.html</loc></url>
+<url><loc>https://signal.tsukilab.jp/guides.html</loc></url>
+<url><loc>https://signal.tsukilab.jp/guides/video-budget.html</loc></url>
+<url><loc>https://signal.tsukilab.jp/guides/local-ai.html</loc></url>
+<url><loc>https://signal.tsukilab.jp/guides/ai-learning.html</loc></url>
+<url><loc>https://signal.tsukilab.jp/advertise.html</loc></url>
+<url><loc>https://signal.tsukilab.jp/policy.html</loc></url>
+<url><loc>https://signal.tsukilab.jp/en/guides.html</loc></url>
+<url><loc>https://signal.tsukilab.jp/en/guides/video-budget.html</loc></url>
+<url><loc>https://signal.tsukilab.jp/en/guides/local-ai.html</loc></url>
+<url><loc>https://signal.tsukilab.jp/en/guides/ai-learning.html</loc></url>
 </urlset>

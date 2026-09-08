@@ -6,6 +6,13 @@ on:
     - cron: "0  4 * * *"   # JST 13:00
     - cron: "0 11 * * *"   # JST 20:00
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['docs/**', 'scripts/**', '.github/workflows/fetch-news.yml']
+
+concurrency:
+  group: signal-edition
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -24,10 +31,12 @@ jobs:
 
       # ── Phase 1: RSS フェッチ（Python固定ロジック・無条件実行）──────────
       - name: Phase 1 — Fetch RSS feeds
+        if: github.event_name != 'push'
         run: python3 scripts/fetch_news.py
 
       # ── ゲートキーパー: rawが5件未満ならPhase2/2.5をスキップ ───────────
       - name: Gatekeeper — check raw count
+        if: github.event_name != 'push'
         id: gate
         run: |
           COUNT=$(python3 -c "
@@ -43,6 +52,7 @@ jobs:
         if: steps.gate.outputs.ok == 'true'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: python3 scripts/curate.py
 
       # ── Phase 2.5: Groq Digest記事生成（1日3回・無料枠内）──────────────
@@ -54,11 +64,20 @@ jobs:
         run: python3 scripts/generate_digest.py
 
       # ── Commit & Push ─────────────────────────────────────────────────────
+      - name: Build bilingual static edition
+        run: python3 scripts/build_edition.py
+
+      - name: Validate edition
+        run: |
+          python3 scripts/test_edition.py
+          node scripts/test_edition_js.cjs
+
       - name: Commit & push if changed
+        if: github.event_name != 'push'
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/data/ docs/articles/
+          git add docs/
           git diff --cached --quiet || \
             git commit -m "chore: update [$(date '+%Y-%m-%d %H:%M JST')] $(python3 -c "
           import json
@@ -68,3 +87,24 @@ jobs:
           except: print('')
           " 2>/dev/null)"
           git push
+
+      - name: Upload Pages edition
+        if: github.ref == 'refs/heads/main'
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: docs
+
+  deploy:
+    if: github.ref == 'refs/heads/main'
+    needs: pipeline
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy edition
+        id: deployment
+        uses: actions/deploy-pages@v4
