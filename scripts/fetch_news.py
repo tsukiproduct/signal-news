@@ -7,12 +7,13 @@ AI News Fetcher — Phase 1 (Python固定ロジック)
 """
 
 import json
+from editorial import select
 import re
 import time
 import html
 import hashlib
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from urllib.request import urlopen, Request
 from urllib.error import URLError
@@ -118,6 +119,14 @@ FEEDS = [
      "source": "r/MachineLearning",  "lang": "en", "category": "Wow",      "priority": 2},
 ]
 
+FEEDS = [f for f in FEEDS if f["source"] not in {"Anthropic News", "Bloomberg Tech", "NHK テクノロジー", "Alignment Forum"} and "reddit.com" not in f["url"]]
+FEEDS += [
+    {"url": "https://developers.cloudflare.com/changelog/rss/workers-ai.xml", "source": "Cloudflare Workers AI", "lang": "en", "category": "Tech", "priority": 1},
+    {"url": "https://developers.cloudflare.com/changelog/rss/ai-gateway.xml", "source": "Cloudflare AI Gateway", "lang": "en", "category": "Tech", "priority": 1},
+    {"url": "https://developers.cloudflare.com/changelog/rss/agents.xml", "source": "Cloudflare Agents", "lang": "en", "category": "Prompts", "priority": 1},
+    {"url": "https://github.blog/ai-and-ml/feed/", "source": "GitHub AI & ML", "lang": "en", "category": "Prompts", "priority": 1},
+    {"url": "https://blog.google/technology/developers/rss/", "source": "Google Developers", "lang": "en", "category": "Tech", "priority": 1},
+]
 RAW_PATH           = Path(__file__).parent.parent / "docs" / "data" / "raw.json"
 MAX_ITEMS_PER_FEED = 8
 MAX_TOTAL_ITEMS    = 250   # 新カテゴリ追加分を考慮して200→250に拡張
@@ -161,7 +170,7 @@ def parse_date(raw: str) -> str:
             return dt.astimezone(timezone.utc).isoformat()
         except ValueError:
             continue
-    return datetime.now(timezone.utc).isoformat()
+    return ""  # Never invent a publication date.
 
 
 def fetch_feed(meta: dict) -> list:
@@ -175,7 +184,7 @@ def fetch_feed(meta: dict) -> list:
         }
     else:
         headers = {
-            "User-Agent": "Mozilla/5.0 (compatible; SIGNALNewsBot/2.0; +https://tsukiproduct.github.io/signal-news/)",
+            "User-Agent": "SIGNALNewsBot/3.0 (+https://signal.tsukilab.jp/sources.html)",
             "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml",
         }
     try:
@@ -194,13 +203,18 @@ def fetch_feed(meta: dict) -> list:
         link  = link.strip()
         if not title or not link or link in seen_links:
             return
+        if not link.startswith(("https://", "http://")):
+            return
+        published = parse_date(date_raw)
+        if not published:
+            return
         seen_links.add(link)
         items.append({
             "id":       make_id(link),
             "title":    title,
             "url":      link,
             "summary":  strip_html(summary)[:250],
-            "date":     parse_date(date_raw),
+            "date":     published,
             "source":   meta["source"],
             "lang":     meta["lang"],
             "category": meta["category"],
@@ -438,25 +452,25 @@ def main():
         time.sleep(0.4)
 
     # ── HackerNews（Wow） ─────────────────────────────────────────────────
-    for item in fetch_hackernews(limit=15):
+    for item in []:  # Popularity-only collection disabled.
         if item["id"] not in seen_ids:
             seen_ids.add(item["id"])
             all_items.append(item)
 
     # ── HackerNews（ImageVideo専用キーワード検索） ────────────────────────
-    for item in fetch_hackernews_imagevideo(limit=12):
+    for item in []:
         if item["id"] not in seen_ids:
             seen_ids.add(item["id"])
             all_items.append(item)
 
     # ── connpass（Events） ────────────────────────────────────────────────
-    for item in fetch_connpass(limit=15):
+    for item in []:  # Events excluded from the practical edition.
         if item["id"] not in seen_ids:
             seen_ids.add(item["id"])
             all_items.append(item)
 
     # ── Doorkeeper（Events補完） ──────────────────────────────────────────
-    for item in fetch_doorkeeper(limit=10):
+    for item in []:
         if item["id"] not in seen_ids:
             seen_ids.add(item["id"])
             all_items.append(item)
@@ -471,7 +485,9 @@ def main():
         [x for x in all_items if x["category"] != "Events"],
         key=lambda x: x["date"], reverse=True
     )
-    all_items = others[:MAX_TOTAL_ITEMS] + events
+    now = datetime.now(timezone.utc)
+    all_items = [x for x in others if now - timedelta(days=14) <= datetime.fromisoformat(x["date"]) <= now + timedelta(hours=1)][:MAX_TOTAL_ITEMS]
+    all_items = select(all_items, MAX_TOTAL_ITEMS)
 
     RAW_PATH.parent.mkdir(parents=True, exist_ok=True)
     RAW_PATH.write_text(json.dumps({
