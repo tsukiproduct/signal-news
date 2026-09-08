@@ -23,22 +23,40 @@
   const search = document.getElementById('news-search');
   const mode = document.getElementById('news-mode');
   const sort = document.getElementById('news-sort');
-  function filter() {
+  let page = 1;
+  const pageSize = 10;
+  function filter(reset = true) {
+    if (reset !== false) page = 1;
     const query = (search?.value || '').trim().toLocaleLowerCase();
-    let count = 0;
-    for (const card of cards) {
-      const show = (category === 'all' || card.dataset.category === category)
-        && (!query || card.textContent.toLocaleLowerCase().includes(query))
-        && (mode?.value !== 'saved' || saved.has(card.dataset.id))
-        && (mode?.value !== 'unread' || !seen.has(card.dataset.id));
-      card.hidden = !show;
-      if (show) count++;
-    }
+    const matching = cards.filter(card =>
+      (category === 'all' || card.dataset.category === category)
+      && (!query || card.textContent.toLocaleLowerCase().includes(query))
+      && (mode?.value !== 'saved' || saved.has(card.dataset.id))
+      && (mode?.value !== 'unread' || !seen.has(card.dataset.id)));
+    matching.sort((a,b) => {
+      const date = (Date.parse(b.dataset.date)||0)-(Date.parse(a.dataset.date)||0);
+      return sort?.value === 'oldest' ? -date : sort?.value === 'useful' ? Number(b.dataset.score)-Number(a.dataset.score)||date : date;
+    });
+    const pages = Math.max(1, Math.ceil(matching.length/pageSize));
+    page = Math.min(page,pages);
+    cards.forEach(card => {card.hidden=true;});
+    matching.forEach((card,index) => {card.parentNode.append(card);card.hidden=index<(page-1)*pageSize||index>=page*pageSize;});
     const countEl = document.getElementById('result-count');
-    if (countEl) countEl.textContent = en ? `${count} stories` : `${count}件の記事`;
+    if (countEl) countEl.textContent = en ? `${matching.length} stories · 10 per page` : `${matching.length}件の記事・1ページ10件`;
     const empty = document.getElementById('empty');
-    if (empty) empty.hidden = count > 0;
+    if (empty) empty.hidden = matching.length > 0;
+    const pager = document.getElementById('news-pagination');
+    if (pager) {
+      pager.hidden=pages<=1;
+      document.getElementById('news-page').textContent=`${page} / ${pages}`;
+      document.getElementById('news-prev').disabled=page===1;
+      document.getElementById('news-next').disabled=page===pages;
+    }
   }
+  ['prev','next'].forEach(direction => document.getElementById('news-'+direction)?.addEventListener('click',()=>{
+    page += direction==='next'?1:-1;filter(false);
+    document.getElementById('result-count')?.scrollIntoView({block:'start'});
+  }));
   cards.forEach(card => {
     const id = card.dataset.id;
     const button = card.querySelector('.save');
@@ -58,9 +76,7 @@
   }));
   search?.addEventListener('input', filter);
   mode?.addEventListener('change', filter);
-  sort?.addEventListener('change', () => {
-    [...cards].sort((a,b) => sort.value === 'latest' ? b.dataset.date.localeCompare(a.dataset.date) : Number(b.dataset.score)-Number(a.dataset.score) || b.dataset.date.localeCompare(a.dataset.date)).forEach(c => c.parentNode.append(c));
-  });
+  sort?.addEventListener('change', filter);
   const age = document.querySelector('[data-updated]');
   if (age && Date.now()-Date.parse(age.dataset.updated) > 86400000) age.hidden = false;
   filter();
