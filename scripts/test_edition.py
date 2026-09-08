@@ -73,4 +73,16 @@ class EditionTests(unittest.TestCase):
     def test_empty_static_edition(self):
         self.assertIn('No matching stories',home('en',{'items':[],'updated_at':''}))
 
+    def test_reader_focus_and_existing_support(self):
+        for rel in ('index.html','en/index.html','guides.html','en/guides.html'):
+            content = (DOCS/rel).read_text()
+            self.assertIn('https://buymeacoffee.com/tsuki_product', content)
+            self.assertIn('/assets/reader.css', content)
+            self.assertNotIn('href="/playbook.html',content)
+            self.assertNotIn('href="/en/playbook.html',content)
+            self.assertNotIn('Opportunity lab',content)
+            self.assertNotIn('小さく稼ぐ実験室',content)
+        self.assertNotIn('playbook.html',(DOCS/'sitemap.xml').read_text())
+        self.assertIn('noindex,follow',(DOCS/'playbook.html').read_text())
+
 if __name__ == '__main__': unittest.main()

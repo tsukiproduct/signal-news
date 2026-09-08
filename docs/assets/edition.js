@@ -1,21 +1,21 @@
 /* Preferences and saved stories stay on this device. No analytics requests. */
 (() => {
   const en = document.documentElement.lang === 'en';
-  const read = key => {try{return JSON.parse(localStorage.getItem(key) || '[]');}catch{return [];}};
+  const read = key => {try{const value=JSON.parse(localStorage.getItem(key) || '[]');return Array.isArray(value)?value:[];}catch{return [];}};
   const write = (key, value) => {try{localStorage.setItem(key, JSON.stringify(value));}catch{}};
   const saved = new Set(read('signal-saved-v1'));
   const seen = new Set(read('signal-read-v1'));
-  const prefs = read('signal-display-v1');
-  document.body.classList.toggle('light', prefs.includes('light'));
+  const prefs = read('signal-display-v2');
+  document.body.classList.toggle('dark', prefs.includes('dark'));
   document.body.classList.toggle('large', prefs.includes('large'));
-  for (const kind of ['light', 'large']) {
+  for (const kind of ['dark', 'large']) {
     const button = document.querySelector(`[data-display="${kind}"]`);
     if (!button) continue;
     button.setAttribute('aria-pressed', document.body.classList.contains(kind));
     button.addEventListener('click', () => {
       document.body.classList.toggle(kind);
       button.setAttribute('aria-pressed', document.body.classList.contains(kind));
-      write('signal-display-v1', ['light','large'].filter(k => document.body.classList.contains(k)));
+      write('signal-display-v2', ['dark','large'].filter(k => document.body.classList.contains(k)));
     });
   }
   const cards = [...document.querySelectorAll('.news-card')];
