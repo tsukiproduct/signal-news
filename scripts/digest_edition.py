@@ -1,5 +1,6 @@
 """Rewrap the digest archive with the shared reader design on every build."""
 import re
+from amazon_offers import kindle
 
 
 def build(docs, frame, origin):
@@ -13,6 +14,11 @@ def build(docs, frame, origin):
     body = body.replace('<h1>Digest</h1>', '<h1>まとめ読み</h1>')
     body = body.replace('Recent Digests', '最近のまとめ').replace('LOADING DIGEST…', 'まとめを読み込んでいます…')
     body = body.replace('<div class="back-btn" id="backBtn" onclick="showList()">← 記事一覧に戻る</div>', '<button type="button" class="back-btn" id="backBtn" onclick="showList()">← 記事一覧に戻る</button>')
+    body = body.replace('AI購入前チェック', 'AI活用ガイド')
+    start, end = '<!-- AMAZON OFFER START -->', '<!-- AMAZON OFFER END -->'
+    body = re.sub(re.escape(start)+'.*?'+re.escape(end), '', body, flags=re.S)
+    body = body.replace('</aside>', start+kindle('ja')+end+'</aside>')
+    script = script.replace('AI購入前チェック', 'AI活用ガイド')
     html = frame('ja', 'digest.html', 'AIニュースのまとめ読み', 'AIニュースをまとめて読み、出典と活用のヒントを確認できます。', '<!-- MAIN -->'+body+'<!-- FOOTER -->')
     html = html.replace('<link rel="alternate" hreflang="en" href="'+origin+'/en/digest.html">', '')
     html = html.replace('href="/en/digest.html" lang="en" hreflang="en" >English', 'href="/en/" lang="en" hreflang="en" >English news')

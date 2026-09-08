@@ -1,6 +1,7 @@
 """English counterparts for SIGNAL's original buying guides."""
 from urllib.parse import quote
 from html import escape
+from amazon_offers import kindle
 
 def build(docs, frame, origin):
     def ad(title, text, query):
@@ -23,14 +24,15 @@ def build(docs, frame, origin):
 <h2>Three checks before buying</h2><ol><li>Read sample pages to assess difficulty and writing style.</li><li>Check product version and publication date. Even a recent book may show an outdated interface.</li><li>Review the publisher’s errata and sample code. Libraries and official tutorials are alternatives.</li></ol>'''
     learning += ad('Find examples close to your work','Look for relevant chapters and exercises instead of rankings. Check the book language.','生成AI ビジネス 活用 書籍')
     learning += ad('Learn by running code','Check prerequisites and the execution environment before choosing an exercise-based book.','Python 機械学習 入門 演習')
+    learning += kindle('en')
     guides = [('video-budget','Estimate the cost of a finished AI video',video),('local-ai','Before buying a PC for local AI',local),('ai-learning','Choose an AI book by goal and contents',learning)]
     for slug,title,body in guides:
         rel = f'guides/{slug}.html'
         target = docs/'en'/rel
         target.parent.mkdir(parents=True,exist_ok=True)
-        target.write_text(frame('en',rel,title,title,f'<main id="main" class="wrap article"><p class="kicker">SIGNAL / FIELD GUIDE</p><h1>{title}</h1>{body}<p><a href="/en/guides.html">All buying guides</a></p></main>'))
+        target.write_text(frame('en',rel,title,title,f'<main id="main" class="wrap article"><p class="kicker">SIGNAL / FIELD GUIDE</p><h1>{title}</h1>{body}<p><a href="/en/guides.html">All practical guides</a></p></main>'))
     cards = ''.join(f'<section class="rail-block"><h2><a data-signal-event="guide_open" href="/en/guides/{slug}.html">{title}</a></h2></section>' for slug,title,_ in guides)
-    (docs/'en/guides.html').write_text(frame('en','guides.html','Before you buy','Practical checks before paying for AI tools, hardware or books.',f'<main id="main" class="wrap article"><h1>Before you buy.</h1><p>Start with your task, check constraints and try the no-purchase option.</p>{cards}</main>'))
+    (docs/'en/guides.html').write_text(frame('en','guides.html','AI practical guides','Calculate video costs, check PC requirements and choose learning resources.',f'<main id="main" class="wrap article"><h1>AI practical guides</h1><p>Turn the news into a next step: estimate video costs, check your current PC, or choose learning resources. Each guide explains a concrete task.</p>{cards}</main>'))
     for rel in ['guides.html'] + [f'guides/{slug}.html' for slug,_,_ in guides]:
         target = docs/rel
         original = target.read_text()

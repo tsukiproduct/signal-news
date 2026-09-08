@@ -1,6 +1,7 @@
 """Reader-first homepage. No operator revenue strategy in public news."""
 from html import escape as e
 from datetime import datetime
+from amazon_offers import kindle
 
 SUPPORT_URL = 'https://buymeacoffee.com/tsuki_product'
 
@@ -29,7 +30,7 @@ def render(lang, news, frame, select, card, categories, path, t):
 <p class="count">{t(lang,"自動評価順は収集・要約処理のスコア順です。同点は新しい記事を優先します。閲覧数・SNSの人気順ではありません。","Automated order uses collection and summary scores, newest first on ties. It does not measure views or social popularity.")}</p><div class="filters" aria-label="{t(lang,'カテゴリ','Topics')}">{buttons}</div>
 <noscript><p class="noscript">{t(lang,'記事はそのまま読めます。検索・保存にはJavaScriptが必要です。','Stories are readable without JavaScript. Search and saving require JavaScript.')}</p></noscript>
 <div class="layout"><section aria-label="{t(lang,'ニュース一覧','News feed')}"><p id="result-count" class="count" role="status">{len(items)} {t(lang,'件の記事','stories')}</p><p id="empty" class="empty" {'hidden' if items else ''}>{t(lang,'該当する記事がありません。条件を変えてお試しください。','No matching stories. Try changing the filters.')}</p><div id="news-list">{cards}</div><nav class="pagination" id="news-pagination" aria-label="{t(lang,'記事のページ','News pages')}" hidden><button type="button" id="news-prev">{t(lang,'前へ','Previous')}</button><span id="news-page" role="status"></span><button type="button" id="news-next">{t(lang,'次へ','Next')}</button></nav>{support(lang,True)}</section>
-<aside class="rail"><section class="rail-block"><span class="kicker">{t(lang,'読む、その先へ','READ FURTHER')}</span><h2>{t(lang,'AI購入前チェック','Before buying AI')}</h2><ul class="rail-list">{guide_links}</ul></section>{support(lang)}
+<aside class="rail"><section class="rail-block"><span class="kicker">{t(lang,'読む、その先へ','READ FURTHER')}</span><h2>{t(lang,'AI活用ガイド','AI practical guides')}</h2><p>{t(lang,"動画制作費の計算、PC環境の確認、学習方法の整理に使えます。","Estimate video costs, check your PC setup and plan your learning.")}</p><ul class="rail-list">{guide_links}</ul></section>{kindle(lang)}{support(lang)}
 <section class="rail-block ad-box"><span class="ad-label">{t(lang,'広告・協賛について','Advertising & sponsorship')}</span><p>{t(lang,'AIを使う人に、サービスや製品を届けたい方へ。','For services and products relevant to people using AI.')}</p><a href="/advertise.html">{t(lang,'掲載について','Contact about advertising')} ↗</a></section>
 <section class="rail-block"><h2>{t(lang,'出典を大切に。','Keep the source in view.')}</h2><p>{t(lang,'要約にはAIを使用しています。料金や利用条件など、重要な情報は出典でも確認できます。','Summaries use AI. Follow sources to verify pricing, usage terms and other important details.')}</p><a href="{path(lang,'sources.html')}">{t(lang,'情報源・編集方針','Sources & standards')}</a></section></aside></div></main>'''
     return frame(lang,'',title,t(lang,'AIのニュースを日本語・英語で短く整理。新機能、活用方法、利用条件を出典付きで確認できます。','Concise AI news in Japanese and English. Explore new capabilities, workflows and conditions with source links.'),body)
