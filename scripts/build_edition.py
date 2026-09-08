@@ -128,11 +128,8 @@ def main():
             raise ValueError(f'Missing guide content: {rel}')
         title = unescape(title_match[1]).split(' | SIGNAL')[0]
         target.write_text(frame('ja',rel,title,title,'<main id="main" class="wrap article">'+main_body[1]+'</main>'))
-    digest_path = DOCS/'digest.html'
-    digest = digest_path.read_text()
-    if 'data-reader-support' not in digest:
-        digest = digest.replace('<div class="footer-links">','<div class="footer-links"><a data-reader-support data-signal-event="support_click" href="https://buymeacoffee.com/tsuki_product" target="_blank" rel="noopener noreferrer">SIGNALを応援する</a>')
-        digest_path.write_text(digest)
+    from digest_edition import build as build_digest
+    build_digest(DOCS, frame, ORIGIN)
     routes = ['', 'en/', 'sources.html', 'en/sources.html', 'guides.html','guides/video-budget.html','guides/local-ai.html','guides/ai-learning.html','advertise.html','policy.html', 'en/guides.html','en/guides/video-budget.html','en/guides/local-ai.html','en/guides/ai-learning.html']
     sitemap = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + ''.join(f'<url><loc>{ORIGIN}/{r}</loc></url>\n' for r in routes) + '</urlset>\n'
     (DOCS/'sitemap.xml').write_text(sitemap)
