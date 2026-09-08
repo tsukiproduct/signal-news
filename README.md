@@ -42,13 +42,10 @@ git push -u origin main
 - Actions タブで `Fetch AI News (3x Daily)` が表示されることを確認
 - `Run workflow` で手動実行してテスト
 
-### 4. アフィリエイトリンクを設定
+### 4. 収益導線の設定
 
-`docs/index.html` 内の以下を自分のIDに書き換える:
-
-```
-tag=YOUR_ASSOCIATE_ID  →  tag=あなたのAmazonアソシエイトID
-```
+ニュース → 選び方ガイド → 関連商品の導線を追加しています。
+既存のAmazon紹介IDを使用。承認済みのサービス紹介リンクの追加方法と計測の状況は [MONETIZATION.md](./MONETIZATION.md) を参照してください。
 
 ## ローカル開発
 

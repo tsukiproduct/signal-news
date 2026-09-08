@@ -1611,6 +1611,8 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
   margin-top: 10px;
 }
 </style>
+<link rel="canonical" href="https://tsukiproduct.github.io/signal-news/">
+<script defer src="./assets/revenue.js"></script>
 </head>
 
 <body>
@@ -1625,7 +1627,7 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
 
     <nav class="header-nav" id="mainNav">
       <button class="nav-btn active" data-filter="all">All</button>
-      <a href="./digest.html" class="nav-btn nav-btn--digest">✦ Digest</a>
+      <a href="./digest.html" class="nav-btn nav-btn--digest">✦ Digest</a><a href="./guides.html" class="nav-btn">選び方ガイド</a>
       <button class="nav-btn" data-filter="cat-AI">AI</button>
       <button class="nav-btn" data-filter="cat-Research">Research</button>
       <button class="nav-btn" data-filter="cat-Industry">Industry</button>
@@ -1668,7 +1670,7 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
 <div class="mobile-tab-bar" id="mobileTabBar">
   <div class="mobile-tab-inner">
     <button class="mobile-tab active" data-filter="all">すべて</button>
-    <a href="./digest.html" class="mobile-tab mobile-tab--digest">✦ Digest</a>
+    <a href="./digest.html" class="mobile-tab mobile-tab--digest">✦ Digest</a><a href="./guides.html" class="mobile-tab">選び方ガイド</a>
     <button class="mobile-tab" data-filter="cat-AI">AI</button>
     <button class="mobile-tab" data-filter="cat-Research">Research</button>
     <button class="mobile-tab" data-filter="cat-Industry">Industry</button>
@@ -1763,43 +1765,12 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
         <div id="trendingList"></div>
       </div>
 
-      <!-- Affiliate: Books / Courses -->
       <div class="sidebar-block">
-        <div class="sidebar-label">Recommended</div>
-
-        <div class="aff-card">
-          <div class="aff-thumb" style="font-size:36px;">👑</div>
-          <div class="aff-title">Amazon プライム — 無料体験30日間</div>
-          <div class="aff-price">月額600円〜 / 年額5,900円</div>
-          <a class="aff-btn"
-             href="https://www.amazon.co.jp/prime?tag=tsukiproduct-22"
-             target="_blank" rel="noopener sponsored">
-            無料で試す →
-          </a>
-        </div>
-
-        <div class="aff-card">
-          <div class="aff-thumb" style="font-size:36px;">📖</div>
-          <div class="aff-title">Kindle Unlimited — AI・Tech本読み放題</div>
-          <div class="aff-price">月額980円 / 初回30日無料</div>
-          <a class="aff-btn"
-             href="https://www.amazon.co.jp/kindle-dbs/ku/signup?tag=tsukiproduct-22"
-             target="_blank" rel="noopener sponsored">
-            読み放題を試す →
-          </a>
-        </div>
-
-        <div class="aff-card">
-          <div class="aff-thumb" style="font-size:36px;">📘</div>
-          <div class="aff-title">AI・ChatGPT 活用本 — 人気ランキング</div>
-          <div class="aff-price">Amazon ベストセラー</div>
-          <a class="aff-btn"
-             href="https://www.amazon.co.jp/s?k=ChatGPT+AI+活用&i=stripbooks&tag=tsukiproduct-22"
-             target="_blank" rel="noopener sponsored">
-            ランキングを見る →
-          </a>
-        </div>
-
+        <div class="sidebar-label">ニュースの、その先へ</div>
+        <p style="font-size:16px;line-height:1.8;margin-bottom:16px">課金や購入の前に、自分の用途で選ぶ。</p>
+        <p><a href="./guides/video-budget.html" data-signal-event="guide_open" class="aff-btn">動画生成の制作費を計算</a></p>
+        <p><a href="./guides/local-ai.html" data-signal-event="guide_open" class="aff-btn">ローカルAIのPC選び</a></p>
+        <p><a href="./guides/ai-learning.html" data-signal-event="guide_open" class="aff-btn">目的からAI入門書を選ぶ</a></p>
       </div>
 
     </aside>
@@ -1827,11 +1798,11 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
         <h3>広告掲載募集中</h3>
         <p>
           SIGNAL にはAI・テック領域に関心の高い読者が集まっています。
-          バナー広告・スポンサード記事・ニュースレター広告などのご相談を承ります。
+          ニュース面の協賛枠や、用途に合ったガイド内の広告をご相談いただけます。
         </p>
         <a class="support-btn support-btn--ad"
-           href="mailto:tsuki.product@gmail.com?subject=SIGNAL%20%E5%BA%83%E5%91%8A%E6%8E%B2%E8%BC%89%E3%81%AE%E3%81%94%E7%9B%B8%E8%AB%87">
-          ✉ tsuki.product@gmail.com
+           href="./advertise.html">
+          掲載位置・相談の流れを見る
         </a>
         <div class="support-fine-print">※ 掲載可否は内容を確認の上判断させていただきます。</div>
       </div>
@@ -1953,7 +1924,7 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
     <div class="footer-copy">© 2025 SIGNAL · AI Intelligence Daily · Powered by TSUKI PRODUCT</div>
     <div class="footer-links">
       <a href="#" onclick="event.preventDefault();openModal('aboutModal');return false;">About</a>
-      <a href="mailto:tsuki.product@gmail.com">Contact</a>
+      <a href="./guides.html">選び方ガイド</a><a href="./policy.html">広告・編集方針</a><a href="mailto:tsuki.product@gmail.com">Contact</a>
     </div>
   </div>
 </footer>
@@ -2031,39 +2002,16 @@ function markRead(id) {
 // ════════════════════════════════
 //  INLINE AFFILIATE DATA
 // ════════════════════════════════
-const INLINE_AFFS = [
-  {
-    icon: '👑',
-    label: 'Sponsored',
-    title: 'Amazon プライム — 30日間無料体験',
-    sub: '月額600円〜 / 年額5,900円',
-    cta: '無料で試す →',
-    url: 'https://www.amazon.co.jp/prime?tag=tsukiproduct-22'
-  },
-  {
-    icon: '📖',
-    label: 'Sponsored',
-    title: 'Kindle Unlimited — AI・Tech本 読み放題',
-    sub: '月額980円 / 初回30日無料',
-    cta: '読み放題を試す →',
-    url: 'https://www.amazon.co.jp/kindle-dbs/ku/signup?tag=tsukiproduct-22'
-  },
-];
-
-function affCard(aff) {
-  return `
-    <div class="news-grid-item--aff">
-      <a class="inline-aff" href="${escHtml(aff.url)}" target="_blank" rel="noopener sponsored">
-        <div class="inline-aff-icon">${aff.icon}</div>
-        <div class="inline-aff-body">
-          <div class="inline-aff-label">${aff.label}</div>
-          <div class="inline-aff-title">${escHtml(aff.title)}</div>
-          <div class="inline-aff-sub">${escHtml(aff.sub)}</div>
-        </div>
-        <div class="inline-aff-cta">${aff.cta}</div>
-      </a>
-    </div>
-  `;
+// Editorial destinations, selected by the visible topic; never paid rankings.
+function guideCard(category) {
+  const topic = category === 'ImageVideo' ? 'video-budget' :
+    ['Research', 'Tech'].includes(category) ? 'local-ai' : 'ai-learning';
+  const copy = {
+    'video-budget': ['動画AIに課金する前に', '採用できるカット数から、制作費を計算する'],
+    'local-ai': ['ローカルAIを試したい方へ', 'PCを買う前に確認する、モデルと環境の選び方'],
+    'ai-learning': ['AIを学ぶ、次の一歩', '仕事・技術・制作。目的から入門書を選ぶ']
+  }[topic];
+  return `<div class="news-grid-item--aff"><a class="inline-aff" href="./guides/${topic}.html" data-signal-event="guide_open"><div class="inline-aff-body"><div class="inline-aff-label">SIGNAL / 選び方ガイド</div><div class="inline-aff-title">${copy[0]}</div><div class="inline-aff-sub">${copy[1]}</div></div><div class="inline-aff-cta">読む →</div></a></div>`;
 }
 // カテゴリ別カードクラスを返す
 function cardClass(category) {
@@ -2164,13 +2112,12 @@ function renderGrid(items) {
     return;
   }
   const list = items.slice(3);
-  const AFF_INTERVAL = 5; // 5件ごとにアフィリエイト挿入
+  const AFF_INTERVAL = 8; // 最初の8件の後にガイドを1回だけ表示
   let html = '';
   list.forEach((it, i) => {
-    // アフィリエイト挿入 (5件目、10件目…)
-    if (i > 0 && i % AFF_INTERVAL === 0) {
-      const aff = INLINE_AFFS[(Math.floor(i / AFF_INTERVAL) - 1) % INLINE_AFFS.length];
-      html += affCard(aff);
+    // ニュースカテゴリに合うガイドへの導線
+    if (i === AFF_INTERVAL) {
+      html += guideCard(it.category);
     }
     const isRead = readIds.has(it.id);
 
@@ -2211,7 +2158,7 @@ function renderGrid(items) {
   });
   el.innerHTML = html;
 
-  document.getElementById('latestCount').textContent = `${items.length - 3} articles`;
+  document.getElementById('latestCount').textContent = `${Math.max(0, items.length - 3)} articles`;
 }
 
 function renderTrending(items) {
@@ -2320,11 +2267,11 @@ function initTabDragScroll() {
 //  MOBILE TAB BAR
 // ════════════════════════════════
 function initMobileTabs() {
-  document.querySelectorAll('#mobileTabBar .mobile-tab').forEach(tab => {
+  document.querySelectorAll('#mobileTabBar .mobile-tab[data-filter]').forEach(tab => {
     tab.addEventListener('click', () => {
-      document.querySelectorAll('#mobileTabBar .mobile-tab').forEach(t => t.classList.remove('active'));
-      document.querySelectorAll('#mainNav .nav-btn').forEach(b => b.classList.remove('active'));
-      document.querySelectorAll('#filterRow .filter-chip').forEach(b => b.classList.remove('active'));
+      document.querySelectorAll('#mobileTabBar .mobile-tab[data-filter]').forEach(t => t.classList.remove('active'));
+      document.querySelectorAll('#mainNav .nav-btn[data-filter]').forEach(b => b.classList.remove('active'));
+      document.querySelectorAll('#filterRow .filter-chip[data-filter]').forEach(b => b.classList.remove('active'));
       tab.classList.add('active');
       // sync desktop nav
       const nav = document.querySelector(`#mainNav [data-filter="${tab.dataset.filter}"]`);
@@ -2343,17 +2290,17 @@ function initMobileTabs() {
 //  FILTER BUTTONS
 // ════════════════════════════════
 function syncAllFilters(filterVal) {
-  document.querySelectorAll('#mainNav .nav-btn').forEach(b =>
+  document.querySelectorAll('#mainNav .nav-btn[data-filter]').forEach(b =>
     b.classList.toggle('active', b.dataset.filter === filterVal));
-  document.querySelectorAll('#filterRow .filter-chip').forEach(b =>
+  document.querySelectorAll('#filterRow .filter-chip[data-filter]').forEach(b =>
     b.classList.toggle('active', b.dataset.filter === filterVal));
-  document.querySelectorAll('#mobileTabBar .mobile-tab').forEach(b =>
+  document.querySelectorAll('#mobileTabBar .mobile-tab[data-filter]').forEach(b =>
     b.classList.toggle('active', b.dataset.filter === filterVal));
 }
 
 function initFilters() {
   // Header nav
-  document.querySelectorAll('#mainNav .nav-btn').forEach(btn => {
+  document.querySelectorAll('#mainNav .nav-btn[data-filter]').forEach(btn => {
     btn.addEventListener('click', () => {
       activeFilter = btn.dataset.filter;
       syncAllFilters(activeFilter);
@@ -2362,7 +2309,7 @@ function initFilters() {
   });
 
   // Filter chips
-  document.querySelectorAll('#filterRow .filter-chip').forEach(btn => {
+  document.querySelectorAll('#filterRow .filter-chip[data-filter]').forEach(btn => {
     btn.addEventListener('click', () => {
       activeFilter = btn.dataset.filter;
       syncAllFilters(activeFilter);
@@ -2396,8 +2343,12 @@ async function loadNews() {
     renderTrending(allItems);
 
   } catch (e) {
-    console.warn('Could not load news.json, showing demo mode:', e.message);
-    showDemoMode();
+    console.warn('Could not load news.json:', e.message);
+    const state = document.getElementById('loadingState');
+    state.innerHTML = '<p role="alert">ニュースを読み込めませんでした。</p><button type="button" id="retryNews">もう一度読み込む</button><a href="./guides.html">選び方ガイドを読む</a>';
+    document.getElementById('updateTime').textContent = '読み込み失敗';
+    document.getElementById('tickerLoading').textContent = 'ニュースの取得に失敗しました';
+    document.getElementById('retryNews').addEventListener('click', loadNews);
   }
 }
 
@@ -2410,38 +2361,6 @@ function showUI() {
   document.getElementById('filterRow').style.display = 'flex';
   document.getElementById('updatedBar').style.display = 'flex';
   document.getElementById('pageLayout').classList.add('is-visible');
-}
-
-function showDemoMode() {
-  const demo = [
-    { id:'1', title:'OpenAI、GPT-5の詳細を発表 — マルチモーダル対応を大幅強化', summary_ja:'次世代GPT-5が正式発表。画像・音声・動画をシームレス処理し、従来比3倍の推論速度を実現。', url:'#', source:'OpenAI Blog', lang:'en', category:'Research', date: new Date().toISOString(), score:10, reason:'業界最重要発表' },
-    { id:'2', title:'Google DeepMind、タンパク質折り畳み予測の新手法を論文公開', summary_ja:'AlphaFold後継モデルがNature掲載。創薬プロセスを大幅に短縮できる可能性。', url:'#', source:'Google DeepMind', lang:'en', category:'Research', date: new Date(Date.now()-3600000).toISOString(), score:9, reason:'Nature掲載・創薬応用' },
-    { id:'3', title:'日本政府、AI規制ガイドライン改定版を閣議決定', summary_ja:'内閣府が生成AI新ガイドラインを閣議決定。透明性確保義務と著作権保護を強化。', url:'#', source:'ITmedia AI+', lang:'ja', category:'Industry', date: new Date(Date.now()-7200000).toISOString(), score:9, reason:'国内規制の重要変化' },
-    { id:'4', title:'Meta、Llama 4 を OSS 公開 — ベンチマークで GPT-4 超え', summary_ja:'MetaがオープンソースLLM最新版を公開。MMLUスコアでGPT-4を上回ると主張。', url:'#', source:'TechCrunch AI', lang:'en', category:'AI', date: new Date(Date.now()-10800000).toISOString(), score:8, reason:'OSS公開・性能比較' },
-    { id:'5', title:'Anthropic、Claude の安全性評価レポートを公開', summary_ja:'Anthropicが最新モデルの安全性レポートを公開。バイオ・化学リスクのテスト結果を収録。', url:'#', source:'Alignment Forum', lang:'en', category:'Safety', date: new Date(Date.now()-14400000).toISOString(), score:8, reason:'AI安全性の透明性確保' },
-    { id:'6', title:'スタートアップへのAI投資が過去最高を記録 — Q1レポート', summary_ja:'AI関連VC投資が前年同期比2.8倍に急増。日本・韓国・東南アジアが特に伸長。', url:'#', source:'VentureBeat AI', lang:'en', category:'Industry', date: new Date(Date.now()-18000000).toISOString(), score:7, reason:'市場動向・投資トレンド' },
-    { id:'7', title:'Papers With Code — 週間トップ論文: 拡散モデルの高速化', summary_ja:'拡散モデルの推論を10倍高速化する手法が高評価。コード付きで即実装可能。', url:'#', source:'Papers With Code', lang:'en', category:'Research', date: new Date(Date.now()-21600000).toISOString(), score:7, reason:'実装可能な研究成果' },
-    { id:'8', title:'中国、独自AI半導体の量産体制を確立 — 輸出規制への対抗', summary_ja:'中国国産GPU「昇腾」シリーズの量産が本格化。米輸出規制の影響を軽減へ。', url:'#', source:'China AI Weekly', lang:'en', category:'Industry', date: new Date(Date.now()-25200000).toISOString(), score:7, reason:'地政学・半導体競争' },
-    { id:'9', title:'AI生成コンテンツ検出精度の限界 — Princeton研究者が警告', summary_ja:'主要AI検出ツールの精度は50〜60%程度にとどまると報告。著作権問題への影響を懸念。', url:'#', source:'AI Snake Oil', lang:'en', category:'Safety', date: new Date(Date.now()-28800000).toISOString(), score:6, reason:'AI検出技術の実態' },
-    { id:'10', title:'LINEヤフー、国産LLM「HanaBI」を企業向けに提供開始', summary_ja:'日本語特化型LLMをAPI公開。医療・法務・金融分野での活用を想定。', url:'#', source:'マイナビニュース', lang:'ja', category:'Industry', date: new Date(Date.now()-32400000).toISOString(), score:6, reason:'国産LLM参入' },
-    { id:'11', title:'経産省、AI活用推進に向け中小企業支援策を発表', summary_ja:'AI導入コストを最大2/3補助する中小企業向け新補助金制度を発表。申請は来月から。', url:'#', source:'経済産業省', lang:'ja', category:'Industry', date: new Date(Date.now()-36000000).toISOString(), score:6, reason:'国内補助金・政策' },
-    { id:'12', title:'The Gradient: LLMの推論能力と「本当の理解」の境界線', summary_ja:'LLMが示す推論能力は統計的パターンなのか真の理解なのか。最新研究を横断的に考察。', url:'#', source:'The Gradient', lang:'en', category:'Research', date: new Date(Date.now()-39600000).toISOString(), score:5, reason:'深い理論的考察' },
-    { id:'13', title:'This AI can lip-sync any video in real-time with 2ms latency', summary_ja:'わずか2msの遅延でリアルタイム口パク合成を実現するAIが登場。HNで▲1,240pt獲得。', url:'#', source:'HackerNews', lang:'en', category:'Wow', date: new Date(Date.now()-7200000).toISOString(), score:9, reason:'HN急上昇' },
-    { id:'14', title:'I trained a model on 10 years of my own journal entries — results were unsettling', summary_ja:'10年分の日記でモデルを訓練した開発者の体験談。自己理解とプライバシーの境界を問う。', url:'#', source:'r/MachineLearning', lang:'en', category:'Wow', date: new Date(Date.now()-14400000).toISOString(), score:8, reason:'バイラル体験談' },
-    { id:'15', title:'AI勉強会 Tokyo #42 — Claude API ハンズオン', summary_ja:'AnthropicのClaude APIを使ったアプリ開発を実践形式で学ぶ。初心者歓迎。', url:'#', source:'connpass', lang:'ja', category:'Events', date: new Date(Date.now()+86400000*3).toISOString(), score:5, reason:'イベント情報', event_date: new Date(Date.now()+86400000*3).toISOString().slice(0,10), event_place:'渋谷ヒカリエ', event_online:false },
-    { id:'16', title:'LLM Meetup Japan — オンライン勉強会', summary_ja:'最新LLM研究の論文読み会。英語論文を日本語で解説。Zoomで参加可能。', url:'#', source:'Doorkeeper', lang:'ja', category:'Events', date: new Date(Date.now()+86400000*7).toISOString(), score:5, reason:'イベント情報', event_date: new Date(Date.now()+86400000*7).toISOString().slice(0,10), event_place:'オンライン', event_online:true },
-    { id:'17', title:'System prompts that make Claude 3.5 dramatically better at coding', summary_ja:'Claude 3.5のコーディング精度を劇的に上げるシステムプロンプト集。実例付き解説。', url:'#', source:'Simon Willison', lang:'en', category:'Prompts', date: new Date(Date.now()-10800000).toISOString(), score:8, reason:'実用プロンプト解説' },
-    { id:'18', title:'Hugging Face: マルチモーダルモデル向けプロンプト設計ガイド', summary_ja:'画像+テキストを組み合わせたマルチモーダルプロンプトの設計パターンを体系化。', url:'#', source:'Hugging Face Blog', lang:'en', category:'Prompts', date: new Date(Date.now()-21600000).toISOString(), score:7, reason:'マルチモーダル活用' },
-    { id:'19', title:'Stable Diffusion 4.0 beta — photorealistic portraits with new architecture', summary_ja:'SD4.0ベータが公開。新アーキテクチャにより人物写真のリアリティが大幅向上。', url:'#', source:'Stability AI', lang:'en', category:'ImageVideo', date: new Date(Date.now()-5400000).toISOString(), score:9, reason:'SD最新版リリース' },
-    { id:'20', title:'Sora競合が続々登場 — 動画生成AI比較レビュー2025', summary_ja:'Runway Gen-3、Pika 2.0、PixVerseを実際に使い比較。用途別おすすめを解説。', url:'#', source:'r/MediaSynthesis', lang:'en', category:'ImageVideo', date: new Date(Date.now()-18000000).toISOString(), score:7, reason:'動画AI比較レビュー' },
-  ];
-  allItems = demo;
-  document.getElementById('updateTime').textContent = 'Demo Mode';
-  document.getElementById('updatedAt').textContent = `デモデータ表示中 — 本番では自動更新されます`;
-  showUI();
-  renderTicker(allItems);
-  applyFilter();
-  renderTrending(allItems);
 }
 
 // ════════════════════════════════
@@ -2632,7 +2551,8 @@ async function loadDigestHero() {
     if (!latest) return;
 
     const hero = document.getElementById('digestHero');
-    const digestUrl = `./digest.html?id=${encodeURIComponent(latest.id)}`;
+    const fileKey = latest.file_key || latest.date;
+    const digestUrl = `./digest.html?id=${encodeURIComponent(fileKey)}`;
     hero.href = digestUrl;
     hero.dataset.id = latest.id;
 
