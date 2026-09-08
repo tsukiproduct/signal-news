@@ -3,7 +3,7 @@
 <meta property="og:title" content="AIニュースのまとめ読み | SIGNAL"><meta property="og:description" content="AIニュースをまとめて読み、出典と活用のヒントを確認できます。"><meta property="og:url" content="https://signal.tsukilab.jp/digest.html"><meta property="og:type" content="website"><meta property="og:image" content="https://signal.tsukilab.jp/og-image.PNG"><meta name="twitter:card" content="summary_large_image">
 <link rel="stylesheet" href="/assets/reader.css"><script defer src="/assets/edition.js"></script><script defer src="/assets/revenue.js"></script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebPage", "name": "AIニュースのまとめ読み", "url": "https://signal.tsukilab.jp/digest.html", "inLanguage": "ja", "description": "AIニュースをまとめて読み、出典と活用のヒントを確認できます。"}</script><link rel="stylesheet" href="/assets/digest-reader.css"></head><body>
 <a class="skip" href="#main">本文へ移動</a>
-<header><div class="wrap masthead"><div><a class="brand" href="/" aria-label="SIGNAL">signal<i>.</i></a><p class="brand-note">AIのニュースを、日々の理解に。</p></div><div class="languages" aria-label="Language"><a href="/digest.html" lang="ja" hreflang="ja" aria-current="page">日本語</a><a href="/en/" lang="en" hreflang="en" >English news</a></div><nav aria-label="メイン"><a href="/">ニュース</a><a href="/guides.html">選び方ガイド</a><a href="/digest.html">まとめ読み</a><a href="/sources.html">情報源・編集方針</a><a href="https://buymeacoffee.com/tsuki_product" data-signal-event="support_click" target="_blank" rel="noopener noreferrer">SIGNALを応援</a></nav></div></header>
+<header><div class="wrap masthead"><div><a class="brand" href="/" aria-label="SIGNAL">signal<i>.</i></a><p class="brand-note">AIのニュースを、日々の理解に。</p></div><div class="languages" aria-label="Language"><a href="/digest.html" lang="ja" hreflang="ja" aria-current="page">日本語</a><a href="/en/" lang="en" hreflang="en" >English news</a></div><nav aria-label="メイン"><a href="/">ニュース</a><a href="/digest.html">まとめ読み</a><a href="/sources.html">情報源・編集方針</a><a href="https://buymeacoffee.com/tsuki_product" data-signal-event="support_click" target="_blank" rel="noopener noreferrer">SIGNALを応援</a></nav></div></header>
 <!-- MAIN --><main id="main" class="wrap main-wrap">
 
   <!-- LEFT: List / Reader -->
@@ -20,7 +20,7 @@
         <h1>まとめ読み</h1>
         <span class="digest-count" id="digestCount"></span>
       </div>
-      <div id="digestCards"></div>
+      <p>複数のニュースをひと続きで把握できます。詳細や最新条件は、記事内の出典から確認してください。</p><label>並び順 <select id="digest-sort"><option value="latest">新しい順</option><option value="oldest">古い順</option></select></label><div id="digestCards"></div><nav class="pagination" aria-label="まとめのページ"><button id="digest-prev" type="button">前へ</button><span id="digest-page" role="status"></span><button id="digest-next" type="button">次へ</button></nav>
     </div>
 
     <!-- Article Reader -->
@@ -39,12 +39,12 @@
 
     <div class="sidebar-block" style="padding:18px 16px;font-size:16px;line-height:1.8">
       <p>気になったAIを、自分の用途で選ぶ。</p>
-      <a href="./guides.html" data-signal-event="guide_open">選び方ガイドを読む →</a>
+      <a href="./guides.html" data-signal-event="guide_open">AI購入前チェック →</a>
     </div>
   </aside>
 
 </main><!-- FOOTER -->
-<footer><div class="wrap"><nav><a href="/sources.html">情報源・編集方針</a><a href="/guides.html">用途別ガイド</a><a href="/advertise.html">広告掲載の相談</a><a href="mailto:tsuki.product@gmail.com">お問い合わせ・訂正</a></nav><p>RSSの見出し・抜粋に基づくAI要約・機械翻訳を含みます。原文の全文翻訳ではありません。提案は未検証の編集案です。重要な条件は出典で確認してください。</p><p>保存した記事・既読・表示設定はこの端末内だけに保存します。アクセス解析の集計先は未導入です。 Amazonのアソシエイトとして、TSUKI PRODUCTは適格販売により収入を得ています。</p><p>© TSUKI PRODUCT · SIGNAL</p></div></footer><script>
+<footer><div class="wrap"><nav><a href="/sources.html">情報源・編集方針</a><a href="/guides.html">AI購入前チェック</a><a href="/advertise.html">広告掲載の相談</a><a href="mailto:tsuki.product@gmail.com">お問い合わせ・訂正</a></nav><p>RSSの見出し・抜粋に基づくAI要約・機械翻訳を含みます。原文の全文翻訳ではありません。提案は未検証の編集案です。重要な条件は出典で確認してください。</p><p>保存した記事・既読・表示設定はこの端末内だけに保存します。アクセス解析の集計先は未導入です。 Amazonのアソシエイトとして、TSUKI PRODUCTは適格販売により収入を得ています。</p><p>© TSUKI PRODUCT · SIGNAL</p></div></footer><script>
 // ── CONFIG ──────────────────────────────────────────────────────────────────
 const DIGESTS_URL  = './data/digests.json';
 const ARTICLES_URL = './articles/';
@@ -78,7 +78,7 @@ function renderSection(sec, idx) {
 
   if (sec.type === 'prompt_of_day') {
     return `
-      <div class="prompt-block section-block" style="animation-delay:${idx*80}ms">
+      <div id="section-${idx}" class="prompt-block section-block" style="animation-delay:${idx*80}ms">
         <div class="section-heading">
           <span class="section-icon">${meta.icon}</span> ${meta.label}
         </div>
@@ -96,7 +96,7 @@ function renderSection(sec, idx) {
 
   if (sec.type === 'deep_dive') {
     return `
-      <div class="deep-dive-block section-block" style="animation-delay:${idx*80}ms">
+      <div id="section-${idx}" class="deep-dive-block section-block" style="animation-delay:${idx*80}ms">
         <div class="section-heading">
           <span class="section-icon">${meta.icon}</span> ${meta.label}
         </div>
@@ -113,7 +113,7 @@ function renderSection(sec, idx) {
   }
 
   return `
-    <div class="section-block" style="animation-delay:${idx*80}ms">
+    <div id="section-${idx}" class="section-block" style="animation-delay:${idx*80}ms">
       <div class="section-heading">
         <span class="section-icon">${meta.icon}</span> ${meta.label}
       </div>
@@ -144,7 +144,7 @@ function renderArticle(article) {
       <span class="source-num">[${i+1}]</span>
       <div class="source-info">
         <div class="source-title">${esc(s.source)} — ${esc(s.title)}</div>
-        <div class="source-url"><a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.url)}</a></div>
+        <div class="source-url"><a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">出典の記事を読む ↗</a></div>
       </div>
     </div>`).join('');
 
@@ -198,18 +198,19 @@ function renderArticle(article) {
     <p class="article-summary">${esc(article.summary)}</p>
     <div class="article-tags">${tagsHtml}</div>
 
+    <nav class="digest-toc" aria-label="この記事の目次"><h2>この記事で読めること</h2><ol>${(article.sections||[]).map((sec,i)=>`<li><a href="#section-${i}">${esc(sec.heading||sec.prompt_title||'ニュース '+(i+1))}</a></li>`).join('')}</ol><a href="#digest-sources">詳しく確認する：出典一覧へ ↓</a></nav>
     ${sections}
 
     <!-- 引用元一覧（著作権法上の引用表示） -->
-    <div class="sources-block">
-      <div class="sources-heading">参照・引用元</div>
+    <div class="sources-block" id="digest-sources">
+      <h2 class="sources-heading">もっと詳しく読む</h2><p>発表の全文、実例、料金や利用条件はリンク先で確認できます。外部サイトに移動します。</p>
       ${sources || '<p style="font-size:12px;color:var(--text-dim);">参照元なし</p>'}
     </div>
 
     <div class="affiliate-block">
       <div class="affiliate-label">この記事を読んだ、その先へ</div>
       <p style="font-size:16px;line-height:1.8;margin-bottom:16px">課金・購入前の確認に。制作費の計算、PC環境、学び方を整理します。</p>
-      <a class="affiliate-btn" href="./guides.html" data-signal-event="guide_open">用途別の選び方を見る →</a>
+      <a class="affiliate-btn" href="./guides.html" data-signal-event="guide_open">AI購入前チェック →</a>
     </div>
 
     <!-- 法的表示 -->
@@ -264,6 +265,7 @@ async function openArticle(fileKey, pushHistory = true) {
 
 // ブラウザの戻る/進む対応
 window.addEventListener('popstate', (e) => {
+  if (/^#(section-|digest-sources)/.test(location.hash)) return;
   const params = new URLSearchParams(location.search);
   const id = params.get('id') || location.hash.slice(1);
   if (id && digestIndex.some(a => (a.file_key || a.date) === id)) {
@@ -274,7 +276,17 @@ window.addEventListener('popstate', (e) => {
 });
 
 // ── RENDER LIST ──────────────────────────────────────────────────────────────
+let digestPage = 1;
 function renderDigestList(articles) {
+  articles = [...articles].sort((a,b)=>String(b.file_key||b.date).localeCompare(String(a.file_key||a.date)));
+  if(document.getElementById('digest-sort').value==='oldest') articles.reverse();
+  const pages=Math.max(1,Math.ceil(articles.length/10));
+  digestPage=Math.max(1,Math.min(digestPage,pages));
+  document.getElementById('digest-page').textContent=`${digestPage} / ${pages}`;
+  document.getElementById('digest-prev').disabled=digestPage===1;
+  document.getElementById('digest-next').disabled=digestPage===pages;
+  document.getElementById('digestCount').textContent=`${articles.length}件・1ページ10件`;
+  articles=articles.slice((digestPage-1)*10,digestPage*10);
   const el = document.getElementById('digestCards');
   if (!articles.length) {
     el.innerHTML = '<div class="empty-state">まだ記事がありません。<br>GitHub Actionsが実行されると自動生成されます。</div>';
@@ -291,7 +303,7 @@ function renderDigestList(articles) {
       </div>
     </div>`).join('');
 
-  document.getElementById('digestCount').textContent = `${articles.length} articles`;
+
 }
 
 function slotLabel(fileKey) {
@@ -311,6 +323,8 @@ function renderSidebar(articles) {
     </div>`).join('');
 }
 
+document.getElementById('digest-sort').addEventListener('change',()=>{digestPage=1;renderDigestList(digestIndex);});
+['prev','next'].forEach(dir=>document.getElementById('digest-'+dir).addEventListener('click',()=>{digestPage+=dir==='next'?1:-1;renderDigestList(digestIndex);document.getElementById('digestList').scrollIntoView();}));
 // ── LOAD ─────────────────────────────────────────────────────────────────────
 async function init() {
   try {
