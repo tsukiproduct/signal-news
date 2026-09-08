@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "2026-09-08_evening-latest-ai-innovations-standardization-webgpu",
+      "date": "2026-09-08",
+      "file_key": "2026-09-08_evening",
+      "title": "最新AIイノベーション横断：標準化と加速の潮流",
+      "summary": "Cloudflare AI Gateway統合化とGeminiモデルの新機能展開が注目。Workers AIでのGLM-5.3提供やWebGPUカーネルの公開など、AIエコシステムの標準化とパフォーマンス向上の方向性が強調されている",
+      "tags": [
+        "AI標準化",
+        "エージェント型AI",
+        "WebGPU",
+        "LLM開発"
+      ],
+      "slug": "latest-ai-innovations-standardization-webgpu"
+    },
+    {
       "id": "2026-09-08_evening-ai-food-game-finance",
       "date": "2026-09-08",
       "file_key": "2026-09-08_evening",
@@ -437,21 +451,7 @@
         "ビジネス"
       ],
       "slug": "ai-hollywood-game-business"
-    },
-    {
-      "id": "2026-08-23_evening-ai-to-game-gear",
-      "date": "2026-08-23",
-      "file_key": "2026-08-23_evening",
-      "title": "AIとゲームグッズ最前線",
-      "summary": "AI技術と任天堂グッズ、最新コントローラ、画像生成まで幅広く解説",
-      "tags": [
-        "AI",
-        "Nintendo",
-        "ImageGeneration",
-        "Events"
-      ],
-      "slug": "ai-to-game-gear"
     }
   ],
-  "updated_at": "2026-09-08T08:50:17.852189+00:00"
+  "updated_at": "2026-09-08T14:53:40.660648+00:00"
 }
