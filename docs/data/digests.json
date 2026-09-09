@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "2026-09-09_evening-ai-agents-models-2026",
+      "date": "2026-09-09",
+      "file_key": "2026-09-09_evening",
+      "title": "AIエージェントとモデルの進化：最新情報をすべて把握",
+      "summary": "MetaのMus E AIエージェント導入、CloudflareのAI Gatewayバリュイング統合、Z.ai GLM-5.3のWorkers AI展開、そしてGeminiのエージェント的ビデオ理解など、2026年現在のAI開発トレンドを解説",
+      "tags": [],
+      "slug": "ai-agents-models-2026"
+    },
+    {
       "id": "2026-09-09_evening-ai-news-roundup-sep-2026",
       "date": "2026-09-09",
       "file_key": "2026-09-09_evening",
@@ -440,22 +449,7 @@
         "Microsoft"
       ],
       "slug": "ai-trends-business-and-generative-models"
-    },
-    {
-      "id": "2026-08-24_afternoon-ai-news-summary-20260825",
-      "date": "2026-08-24",
-      "file_key": "2026-08-24_afternoon",
-      "title": "AI技術の最新動向と今後の展望",
-      "summary": "2026年8月25日のAI関連ニュースを解説。価格変動、ロボット技術、画像生成AIの進展、イベント情報をカバー。",
-      "tags": [
-        "AI技術",
-        "画像生成AI",
-        "ロボット技術",
-        "イベント情報",
-        "プロンプト"
-      ],
-      "slug": "ai-news-summary-20260825"
     }
   ],
-  "updated_at": "2026-09-09T08:55:33.043591+00:00"
+  "updated_at": "2026-09-09T14:52:48.676767+00:00"
 }

@@ -1,7 +1,95 @@
 {
-  "fetched_at": "2026-09-09T08:52:47.815164+00:00",
-  "total": 47,
+  "fetched_at": "2026-09-09T14:50:39.614811+00:00",
+  "total": 45,
   "items": [
+    {
+      "id": "5f6bd3058b0b",
+      "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+      "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+      "summary": "Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped.",
+      "date": "2026-09-09T14:18:34+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "009e61788df2",
+      "title": "Students who use AI generally score worse at school",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
+      "summary": "Students who use AI to help them study tend to perform worse at school than those who don't, according to data from a global OECD educational report. The situation is more complex than it sounds though, with certain types of AI use giving learners a ",
+      "date": "2026-09-09T13:09:04+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "4c31ccfb47a0",
+      "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
+      "url": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
+      "summary": "Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The feature is only available with the English dub of the German series Maxton Hall for now, but Prime Video plans to expand it to \"a",
+      "date": "2026-09-09T13:04:40+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "12dcfd350baf",
+      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+      "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+      "summary": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
+      "date": "2026-09-09T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "489fd9472b6b",
+      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+      "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
+      "summary": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
+      "date": "2026-09-09T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "04755a5637fd",
+      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+      "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+      "summary": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
+      "date": "2026-09-09T12:05:34+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "99f3d494d264",
+      "title": "「菜の花がおかしい」――イラストレーター制作うたうマラソン大会ポスターに指摘相次ぐ 事務局がAI使用明かす【訂正あり】",
+      "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001308/",
+      "summary": "鹿児島県指宿市で開催するフルマラソン大会のポスターを巡り、X上で「生成AIで制作したのではないか」との指摘が相次いでいる。公式サイトでは「鹿児島県内でイベントポスター等作品を多数描かれているイラストレーター」が手掛けたとしていたが、大会事務局は9月8日、制作過程で生成AIを利用していたと明らかにし、同サイトの説明も訂正。正確には「グラフィックデザイナー」によるものだったと改めた。",
+      "date": "2026-09-09T10:57:45+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "77fd9d345378",
+      "title": "Worried Anthropic researchers warn that AI ‘could kill all humans’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+      "summary": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly r",
+      "date": "2026-09-09T10:28:36+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
     {
       "id": "f4d7f71a4f7c",
       "title": "LWiAI Podcast #256 - Fable 5.1, Astra Tease, Gemini 3.8 Flash",
@@ -14,44 +102,11 @@
       "priority": 2
     },
     {
-      "id": "8ca908547665",
-      "title": "サイバー犯罪は「産業化」へ、AI活用が加速するアフリカの脅威をインターポールが分析",
-      "url": "https://ascii.jp/elem/000/004/432/4432758/?rss",
-      "summary": "インターポール（国際刑事警察機構）のアフリカサイバー脅威評価レポート2026は、人工知能がサイバー犯罪をどのように産業化しているか、そして官民連携がなぜ不可欠であるかを示しています。",
-      "date": "2026-09-09T08:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "0ec3f141ec52",
       "title": "動画編集もAIにやってもらう時代？ 言葉で指示するAI編集ツール「Palmier Pro」を使ってみた",
       "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001311/",
       "summary": "AIの上に編集ツールのUIを被せたら、どうなるのか。その答えの1つが、macOS版のみで公開されている「Palmier Pro」だ。複数の生成AIモデルを一括課金で使え、無音部分の自動カットやBロール生成をこなす。さらにMCP経由でCursorやClaudeからタイムラインを直接編集できるという。実際の使い勝手を試してみた。",
       "date": "2026-09-09T07:29:28+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "389bd77b3018",
-      "title": "OpenAIが画像生成AI「ChatGPT Images 2.5」をリリースしたので使ってみた",
-      "url": "https://gigazine.net/news/20260909-chatgpt-images-gpt-image-2-5/",
-      "summary": "ChatGPTの画像生成機能が「ChatGPT Images 2.5」にアップデートされました。複雑な視覚的指示を理解できるほか、編集性能も向上しているとのこと。APIは高速な「GPT-Image-2.5 Flare」と高品質な「GPT-Image-2.5 Sunburst」の2種類が用意されています。ChatGPT Images 2.5は無料プランでも使用可能だったので実際に使ってみました。続きを読む...",
-      "date": "2026-09-09T05:49:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "99f3d494d264",
-      "title": "「菜の花がおかしい」――イラストレーター制作うたうマラソン大会ポスターに指摘相次ぐ 事務局がAI使用認め謝罪",
-      "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001308/",
-      "summary": "鹿児島県指宿市で開催するフルマラソン大会のポスターに対し、X上で「生成AIで制作したのではないか」との指摘が相次いでいる。大会事務局は9月8日、制作過程で生成AIを利用していたと明らかにし、公式サイトの説明も訂正。当初「イラストレーターの方に制作いただいた」としていた記述を、正確には「グラフィックデザイナー」だったと改めた。",
-      "date": "2026-09-09T04:47:39+00:00",
       "source": "ITmedia News",
       "lang": "ja",
       "category": "Tech",
@@ -102,39 +157,6 @@
       "priority": 1
     },
     {
-      "id": "41a7f2063622",
-      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
-      "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT",
-      "date": "2026-09-08T20:16:09+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "f903c7006640",
-      "title": "Meta bets on AI agent Muse to catch up in AI race",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
-      "summary": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion-dollar strategy overhaul designed to rev",
-      "date": "2026-09-08T20:06:40+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "b60588e37b2e",
-      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
-      "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believing they'd get more out of a to",
-      "date": "2026-09-08T19:32:39+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "20d984cb02eb",
       "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
       "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
@@ -154,39 +176,6 @@
       "source": "OpenAI Blog",
       "lang": "en",
       "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "d081e58264cf",
-      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
-      "date": "2026-09-08T16:20:31+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "95a190e6d2c5",
-      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
-      "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
-      "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
-      "date": "2026-09-08T15:04:09+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "f37bc5517ee7",
-      "title": "Mistral raises €3B as sovereign AI becomes big business",
-      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-      "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
-      "date": "2026-09-08T14:17:48+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
       "priority": 1
     },
     {
@@ -253,17 +242,6 @@
       "source": "Simon Willison",
       "lang": "en",
       "category": "Prompts",
-      "priority": 1
-    },
-    {
-      "id": "a91b380c0f01",
-      "title": "Opaque recurrence, and other AI terms that you should probably know",
-      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "date": "2026-09-07T19:24:00+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
       "priority": 1
     },
     {
