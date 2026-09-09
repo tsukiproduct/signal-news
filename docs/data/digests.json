@@ -1,6 +1,23 @@
 {
   "articles": [
     {
+      "id": "2026-09-09_evening-ai-news-roundup-sep-2026",
+      "date": "2026-09-09",
+      "file_key": "2026-09-09_evening",
+      "title": "ChatGPT画像生成2.5、Meta AIエージェントMuse、Chromeセキュリティ刷新──AI注目ニュース解説",
+      "summary": "OpenAIがChatGPT Images 2.5をリリースしスケッチ機能を追加。Metaが個人向けAIエージェントMuseを発表。CloudflareがAI Gatewayの請求機能とWorkers AIの新モデルを更新。Chromeの更新頻度も変更。",
+      "tags": [
+        "ChatGPT Images 2.5",
+        "Meta Muse",
+        "Cloudflare AI Gateway",
+        "GLM-5.3",
+        "Chromeセキュリティ",
+        "AIエージェント",
+        "画像生成AI"
+      ],
+      "slug": "ai-news-roundup-sep-2026"
+    },
+    {
       "id": "2026-09-08_evening-latest-ai-innovations-standardization-webgpu",
       "date": "2026-09-08",
       "file_key": "2026-09-08_evening",
@@ -438,20 +455,7 @@
         "プロンプト"
       ],
       "slug": "ai-news-summary-20260825"
-    },
-    {
-      "id": "2026-08-24_morning-ai-hollywood-game-business",
-      "date": "2026-08-24",
-      "file_key": "2026-08-24_morning",
-      "title": "AI活用で映画・ゲーム・ビジネスが変わる",
-      "summary": "映画・ゲーム制作とスタートアップ支援、最新AIツールとイベントを解説",
-      "tags": [
-        "AI",
-        "ゲーム開発",
-        "ビジネス"
-      ],
-      "slug": "ai-hollywood-game-business"
     }
   ],
-  "updated_at": "2026-09-08T14:53:40.660648+00:00"
+  "updated_at": "2026-09-09T08:55:33.043591+00:00"
 }

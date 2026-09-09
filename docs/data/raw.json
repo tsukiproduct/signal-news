@@ -1,7 +1,62 @@
 {
-  "fetched_at": "2026-09-08T23:46:42.354783+00:00",
-  "total": 44,
+  "fetched_at": "2026-09-09T08:52:47.815164+00:00",
+  "total": 47,
   "items": [
+    {
+      "id": "f4d7f71a4f7c",
+      "title": "LWiAI Podcast #256 - Fable 5.1, Astra Tease, Gemini 3.8 Flash",
+      "url": "https://lastweekin.ai/p/lwiai-podcast-256-fable-51-astra",
+      "summary": "Anthropic launches Claude Fable 5.1, OpenAI Is About (already has) to Release Its First AI Model With ‘Critical’ Cyber Abilities, OpenAI’s rogue AI model incident was worse than we thought",
+      "date": "2026-09-09T08:01:40+00:00",
+      "source": "Last Week in AI",
+      "lang": "en",
+      "category": "Research",
+      "priority": 2
+    },
+    {
+      "id": "8ca908547665",
+      "title": "サイバー犯罪は「産業化」へ、AI活用が加速するアフリカの脅威をインターポールが分析",
+      "url": "https://ascii.jp/elem/000/004/432/4432758/?rss",
+      "summary": "インターポール（国際刑事警察機構）のアフリカサイバー脅威評価レポート2026は、人工知能がサイバー犯罪をどのように産業化しているか、そして官民連携がなぜ不可欠であるかを示しています。",
+      "date": "2026-09-09T08:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "0ec3f141ec52",
+      "title": "動画編集もAIにやってもらう時代？ 言葉で指示するAI編集ツール「Palmier Pro」を使ってみた",
+      "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001311/",
+      "summary": "AIの上に編集ツールのUIを被せたら、どうなるのか。その答えの1つが、macOS版のみで公開されている「Palmier Pro」だ。複数の生成AIモデルを一括課金で使え、無音部分の自動カットやBロール生成をこなす。さらにMCP経由でCursorやClaudeからタイムラインを直接編集できるという。実際の使い勝手を試してみた。",
+      "date": "2026-09-09T07:29:28+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "389bd77b3018",
+      "title": "OpenAIが画像生成AI「ChatGPT Images 2.5」をリリースしたので使ってみた",
+      "url": "https://gigazine.net/news/20260909-chatgpt-images-gpt-image-2-5/",
+      "summary": "ChatGPTの画像生成機能が「ChatGPT Images 2.5」にアップデートされました。複雑な視覚的指示を理解できるほか、編集性能も向上しているとのこと。APIは高速な「GPT-Image-2.5 Flare」と高品質な「GPT-Image-2.5 Sunburst」の2種類が用意されています。ChatGPT Images 2.5は無料プランでも使用可能だったので実際に使ってみました。続きを読む...",
+      "date": "2026-09-09T05:49:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "99f3d494d264",
+      "title": "「菜の花がおかしい」――イラストレーター制作うたうマラソン大会ポスターに指摘相次ぐ 事務局がAI使用認め謝罪",
+      "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001308/",
+      "summary": "鹿児島県指宿市で開催するフルマラソン大会のポスターに対し、X上で「生成AIで制作したのではないか」との指摘が相次いでいる。大会事務局は9月8日、制作過程で生成AIを利用していたと明らかにし、公式サイトの説明も訂正。当初「イラストレーターの方に制作いただいた」としていた記述を、正確には「グラフィックデザイナー」だったと改めた。",
+      "date": "2026-09-09T04:47:39+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
     {
       "id": "888f8e60fc3f",
       "title": "Introducing ChatGPT Images 2.5",
@@ -12,6 +67,17 @@
       "lang": "en",
       "category": "Prompts",
       "priority": 1
+    },
+    {
+      "id": "5e00d64b97a6",
+      "title": "Why this month's Microsoft patch release is a doozy",
+      "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+      "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
+      "date": "2026-09-08T21:11:46+00:00",
+      "source": "Ars Technica",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
     },
     {
       "id": "baf4c2ebabc9",
@@ -245,17 +311,6 @@
       "priority": 1
     },
     {
-      "id": "c540530472dc",
-      "title": "Architecting memory and storage in the AI era",
-      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. T",
-      "date": "2026-09-04T18:39:19+00:00",
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
       "id": "2001b530f711",
       "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
       "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
@@ -275,17 +330,6 @@
       "source": "GitHub AI & ML",
       "lang": "en",
       "category": "Prompts",
-      "priority": 1
-    },
-    {
-      "id": "53901d2f49d0",
-      "title": "The Download: selling battlefield drone data and AI reshaping language",
-      "url": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University ",
-      "date": "2026-09-04T12:10:00+00:00",
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "category": "Research",
       "priority": 1
     },
     {
@@ -473,17 +517,6 @@
       "source": "Google DeepMind",
       "lang": "en",
       "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "47b246365a93",
-      "title": "Workers AI - Z.ai GLM-5.3 Flash now available on Workers AI",
-      "url": "https://developers.cloudflare.com/changelog/post/2026-08-26-glm-5.3-flash-workers-ai/",
-      "summary": "@cf/zai-org/glm-5.3-flash is now available on Workers AI. It is the first natively multimodal model in the GLM-5 series, built on a Mixture-of-Experts architecture with 320B total parameters and 18B active per token. GLM-5.3 Flash is the first GLM-fa",
-      "date": "2026-08-26T00:00:00+00:00",
-      "source": "Cloudflare Workers AI",
-      "lang": "en",
-      "category": "Tech",
       "priority": 1
     }
   ]
