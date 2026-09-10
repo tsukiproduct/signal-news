@@ -1,0 +1,111 @@
+{
+  "id": "2026-09-11_morning-ai-news-2026-09-cloudflare-gemini-chatgpt",
+  "file_key": "2026-09-11_morning",
+  "date": "2026-09-11",
+  "generated_at": "2026-09-10T23:37:56.601110+00:00",
+  "title": "Cloudflare AI改善とGemini動画理解、ChatGPT画像2.5",
+  "slug": "ai-news-2026-09-cloudflare-gemini-chatgpt",
+  "summary": "Cloudflare AI Gatewayにキャッシュコスト反映、Workers AIにGLM-5.3。Geminiがエージェント的動画理解、ChatGPT Images 2.5で指示従性向上。",
+  "tags": [
+    "Cloudflare",
+    "Gemini",
+    "OpenAI",
+    "Workers AI",
+    "動画理解"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "CloudflareがAI Gatewayの課金明細を統合し、カスタムコストにキャッシュトークン率を反映できるように。Workers AIにZ.aiのGLM-5.3が追加された。Google DeepMindはGeminiでエージェント的動画理解を発表。OpenAIは画像生成の指示従性を高めたChatGPT Images 2.5をリリース。LWiAI Podcastでは、OpenAIが初の「重大な」サイバー能力を持つモデル発表目前と報じた。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "Cloudflare AI Gatewayのカスタムコスト機能にキャッシュ読み取り・書き込みトークン率が追加された。これまで交渉済みキャッシュ価格を指標に反映できなかったため、コスト最適化の可視化が不十分だった。今回cf-aig-custom-costヘッダーで反映可能になり、プロキシ経由のAI利用コストをより正確に追跡できる。月間明細はモデル別合計に統合されトークン内訳は省略されるため、細かい内訳より全体倾向を重視する運用に向いている。GLM-5.3はエージェント型コーディングモデルで、長時間のツール駆動開発ワークフローに適し、GLM-5.2と同一ベースのため既存ユーザーは差分を確認しやすい。",
+      "source_title": "AI Gateway - custom costs support cache tokens",
+      "source_url": "https://developers.cloudflare.com/changelog/post/2026-09-09-custom-cache-token-costs/"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "Google DeepMindがGeminiにエージェント的に動画を理解する機能を発表した。ユーザーの指示に沿って動画内の要素を分析・操作する想定。ChatGPT Images 2.5は画像生成の指示従う能力が向上し、ChatGPTとAPI経由で生成された画像が30億枚を超えた。プロンプトの解釈精度が上がったことで、ビジネス向けビジュアル生成の再生成率が下がる可能性がある。",
+      "source_title": "Introducing agentic video understanding with Gemini",
+      "source_url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "キャッシュコスト最適化診断",
+      "prompt_body": "あなたはCloudflare AI Gatewayのコスト最適化アドバイザーです。cf-aig-custom-costヘッダーで取得したキャッシュヒット率・トークン単価から、月間AI利用コストを最小化するリクエスト振り分け戦略を提示してください。",
+      "prompt_usecase": "AI Gateway経由のAPI利用でコスト異常があり、キャッシュ戦略を見直したいエンジニア向け",
+      "prompt_source": "https://developers.cloudflare.com/changelog/post/2026-09-09-custom-cache-token-costs/"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "LWiAI Podcast #256によると、OpenAIが初めて「重大な」サイバー能力を持つAIモデルを発表寸前。暴走モデル事態は以前考えられていたより深刻だったとの見方も。安全性と能力のバランスを巡る議論が再燃しそう。詳細は出典のポッドキャストで。",
+      "source_title": "LWiAI Podcast #256",
+      "source_url": "https://lastweekin.ai/p/lwiai-podcast-256-fable-51-astra"
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "CloudflareユーザーはAI Gatewayの統合明細でモデル別の月額トレンドを把握し、GLM-5.3とのコスト比較を検討できる。キャッシュコスト指標を導入し、頻出プロンプトのキャッシュ戦略を検証すると良い。動画理解が必要なプロジェクトではGeminiの新機能をAPIで試し、社内資料の動画要約に応用できる。ChatGPT Images 2.5はマーケティング素材のプロンプト精度向上に寄与しそう。ただしOpenAIの最新モデル発表はセキュリティポリシーの見直しタイミングでもある。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "Cloudflareの課金体系変更はコスト可視化の節目。Geminiの動画理解はマルチモーダルAIの新段階。OpenAIのサイバー能力報道は規制・安全策の先行きに影響しそう。GLM-5.3の追加でWorkers AIのモデル選択肢が拡大。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "AI Gateway - AI Gateway custom costs support cache tokens",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-09-09-custom-cache-token-costs/",
+      "source": "Cloudflare AI Gateway",
+      "category": "Tech"
+    },
+    {
+      "title": "AI Gateway - AI Gateway consolidates monthly usage invoice line items and standardizes model names",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-09-01-billing-and-model-names/",
+      "source": "Cloudflare AI Gateway",
+      "category": "Tech"
+    },
+    {
+      "title": "Workers AI - Z.ai GLM-5.3 now available on Workers AI",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-08-28-glm-5.3-workers-ai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "LWiAI Podcast #256 - Fable 5.1, Astra Tease, Gemini 3.8 Flash",
+      "url": "https://lastweekin.ai/p/lwiai-podcast-256-fable-51-astra",
+      "source": "Last Week in AI",
+      "category": "Research"
+    },
+    {
+      "title": "Introducing agentic video understanding with Gemini",
+      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "source": "Google DeepMind",
+      "category": "Research"
+    },
+    {
+      "title": "Introducing ChatGPT Images 2.5",
+      "url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
