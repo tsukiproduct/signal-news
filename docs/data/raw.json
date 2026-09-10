@@ -1,14 +1,58 @@
 {
-  "fetched_at": "2026-09-10T08:51:50.692232+00:00",
-  "total": 42,
+  "fetched_at": "2026-09-10T14:40:50.019457+00:00",
+  "total": 40,
   "items": [
     {
-      "id": "86563630f912",
-      "title": "GPT-6 Astraが人気すぎてOpenAIのサーバーがピンチでProプランの新規サブスク契約が一時停止されるかも",
-      "url": "https://gigazine.net/news/20260910-openai-astra-high-growth/",
-      "summary": "AIエージェントとしての能力やコーディング能力が非常に高いOpenAIの最先端モデル「GPT-6 Astra」が2026年9月3日に公開され、「Plus」以上の有料プランで利用できるようになりました。ところが、あまりにも人気が高すぎて、ChatGPTの開発スタッフが「サブスクリプションの新規登録を一時停止しなければならないかもしれない」と発言したことが分かりました。続きを読む...",
-      "date": "2026-09-10T04:09:00+00:00",
+      "id": "02db8d403b1c",
+      "title": "チャットAIのClaudeに「カートに追加するボタンを青色にして」とウェブデザインの変更を依頼すると堂々巡りで全く完成しない様子を再現した「Opusfived」",
+      "url": "https://gigazine.net/news/20260910-opusfived/",
+      "summary": "Anthropicが2026年7月に発表した「Claude Opus 5」は、同社が2026年6月にリリースしたClaude Fable 5と同等の性能を半分の価格で実現したというAIモデルです。そんなClaude Opus 5を使ってオンラインショッピングサイトなどで配置されている「カートに追加」ボタンを青色にしようとした際の苛立たしいAIとのやり取りを、ノルウェーのビジネススクールで働くミロシュ・ノヴォヴィッチ氏が「Opusfived」というゲームにして公開しています。続きを読む...",
+      "date": "2026-09-10T12:00:00+00:00",
       "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "dcafb6d4ea46",
+      "title": "Powering AI is an architecture problem",
+      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+      "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time. Two years earlier, a single failed surg",
+      "date": "2026-09-10T11:00:00+00:00",
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "1c9e42201acf",
+      "title": "GMOの世界ロボット運動会出場、言い出しっぺは新卒1年目の社員？ プロジェクト統括までしていた",
+      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001384/",
+      "summary": "世界最大規模のヒト型ロボット運動会への出場を提案し、プロジェクトを統括したのは、新卒1年目の社員だった――。GMO AI&ロボティクス商事（東京都渋谷区）は9月8日、8月に中国・北京で開催された「第2回 世界ヒューマノイド運動会」への出場結果を報告した。発案者はこの春、GMOインターネットグループに入社したばかりの廣本一真氏。記者会見で登壇した廣本氏は、大会出場までの開発や現地でのトラブルなど、同大会での舞台裏を明かした。",
+      "date": "2026-09-10T09:49:11+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "a464529f9917",
+      "title": "Healthcare AI’s next test is integration",
+      "url": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
+      "summary": "The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the industry. Their models are increasingly capable of processing long clinical records, interpreting compl",
+      "date": "2026-09-10T08:58:01+00:00",
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "fc5904b8756f",
+      "title": "「AI社員」活用、NECは無人部署・DeNAには17体 南場社長「けなげ」と太鼓判",
+      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001380/",
+      "summary": "IT大手が人工知能（AI）に一般社員と同じ権限を付与して業務を任せる「AI社員」の活用に乗り出している。NECは8月にAIだけで運営する無人部署を新設。DeNAも6月からAI社員を配属した。AIによる効率化で、社員を付加価値の高い業務に配置転換するとともに、実績を基にAI社員のサービス展開を視野に入れる。",
+      "date": "2026-09-10T08:47:19+00:00",
+      "source": "ITmedia News",
       "lang": "ja",
       "category": "Tech",
       "priority": 2
@@ -36,17 +80,6 @@
       "priority": 1
     },
     {
-      "id": "b08ed86385ff",
-      "title": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI",
-      "url": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
-      "summary": "It's been about three years since Volvo discontinued its plug-in hybrid XC40. The mild hybrid version remains on sale in the US and elsewhere, alongside the electric EX40. Today, Volvo announced it was bringing back the PHEV version and giving it a m",
-      "date": "2026-09-09T22:31:34+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "a62cdeb365cc",
       "title": "OpenAI adds a prominent AI doomer to its board of directors",
       "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
@@ -58,19 +91,8 @@
       "priority": 1
     },
     {
-      "id": "65f77bd4eb92",
-      "title": "Suno releases its first AI music model made with record industry help",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
-      "summary": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not include the same data that our previous models were t",
-      "date": "2026-09-09T21:47:02+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "ef341c697e51",
-      "title": "4 groups caught using the same Chrome and Windows exploit kit",
+      "title": "Four groups caught using the same Chrome and Windows exploit kit",
       "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
       "summary": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
       "date": "2026-09-09T20:55:02+00:00",
@@ -96,17 +118,6 @@
       "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
       "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
       "date": "2026-09-09T19:21:48+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "c9b53fb8ed34",
-      "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
-      "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
-      "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
-      "date": "2026-09-09T18:08:35+00:00",
       "source": "TechCrunch AI",
       "lang": "en",
       "category": "Industry",
@@ -207,17 +218,6 @@
       "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
       "date": "2026-09-08T13:00:00+00:00",
       "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "f4a18652fbac",
-      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of f",
-      "date": "2026-09-08T10:34:00+00:00",
-      "source": "MIT Tech Review",
       "lang": "en",
       "category": "Research",
       "priority": 1
@@ -388,17 +388,6 @@
       "priority": 1
     },
     {
-      "id": "0f146bbd840c",
-      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "url": "https://huggingface.co/blog/webgpu-kernels",
-      "summary": "",
-      "date": "2026-09-01T00:00:00+00:00",
-      "source": "Hugging Face Blog",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1
-    },
-    {
       "id": "f313b5cbc196",
       "title": "AI Gateway - AI Gateway consolidates monthly usage invoice line items and standardizes model names",
       "url": "https://developers.cloudflare.com/changelog/post/2026-09-01-billing-and-model-names/",
@@ -448,17 +437,6 @@
       "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
       "summary": "",
       "date": "2026-08-27T16:11:32+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "a08e7f8cba31",
-      "title": "Piloting the world's first double-blind AI evaluations",
-      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-      "summary": "Piloting the world's first double-blind AI evaluations",
-      "date": "2026-08-27T12:59:16+00:00",
       "source": "Google DeepMind",
       "lang": "en",
       "category": "Research",

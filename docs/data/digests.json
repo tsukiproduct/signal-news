@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-09-10_evening-ai-news-2026-09",
+      "date": "2026-09-10",
+      "file_key": "2026-09-10_evening",
+      "title": "AIニュースで見る技術とプライバシーの新潮流",
+      "summary": "Apple Watchの音声AI、Cloudflareのコスト透明化、画像生成の進化など、AI技術とビジネスへの影響を解説。",
+      "tags": [
+        "AI",
+        "Privacy",
+        "Cost Management",
+        "Image Generation",
+        "Business"
+      ],
+      "slug": "ai-news-2026-09"
+    },
+    {
       "id": "2026-09-10_evening-cloudflare-gateway-multimodal-ai-sep2026",
       "date": "2026-09-10",
       "file_key": "2026-09-10_evening",
@@ -432,22 +447,7 @@
         "LLM Optimization"
       ],
       "slug": "humanoid-robots-memory-boom-ai-tools-2026"
-    },
-    {
-      "id": "2026-08-25_morning-ai-business-application",
-      "date": "2026-08-25",
-      "file_key": "2026-08-25_morning",
-      "title": "AIと企業活用の最前線",
-      "summary": "AI技術と実践的活用、最新トレンドを解説",
-      "tags": [
-        "AI",
-        "OpenSource",
-        "ImageGeneration",
-        "Events",
-        "Business"
-      ],
-      "slug": "ai-business-application"
     }
   ],
-  "updated_at": "2026-09-10T08:55:08.194647+00:00"
+  "updated_at": "2026-09-10T14:44:04.994932+00:00"
 }
