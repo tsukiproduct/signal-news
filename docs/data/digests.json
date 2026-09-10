@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-09-10_evening-cloudflare-gateway-multimodal-ai-sep2026",
+      "date": "2026-09-10",
+      "file_key": "2026-09-10_evening",
+      "title": "Cloudflare Gateway改善とマルチモーダルAI進化",
+      "summary": "Cloudflare AI Gatewayにキャッシュコスト反映と明細統合、Workers AIにGLM-5.3、Gemini動画理解、ChatGPT画像2.5と多岐にわたる。",
+      "tags": [
+        "Cloudflare",
+        "Workers AI",
+        "マルチモーダル"
+      ],
+      "slug": "cloudflare-gateway-multimodal-ai-sep2026"
+    },
+    {
       "id": "2026-09-09_evening-ai-agents-models-2026",
       "date": "2026-09-09",
       "file_key": "2026-09-09_evening",
@@ -434,22 +447,7 @@
         "Business"
       ],
       "slug": "ai-business-application"
-    },
-    {
-      "id": "2026-08-24_evening-ai-trends-business-and-generative-models",
-      "date": "2026-08-24",
-      "file_key": "2026-08-24_evening",
-      "title": "AIの今日の動向：ビジネス集中と生成モデルの台頭",
-      "summary": "MicrosoftのAIビジネスがOpenAIやTikTok、Metaに集中し、生成AIやプロンプトに関する注目話題が続々と浮上しています。",
-      "tags": [
-        "AIビジネス",
-        "生成AI",
-        "プロンプト",
-        "イベント",
-        "Microsoft"
-      ],
-      "slug": "ai-trends-business-and-generative-models"
     }
   ],
-  "updated_at": "2026-09-09T14:52:48.676767+00:00"
+  "updated_at": "2026-09-10T08:55:08.194647+00:00"
 }

@@ -1,7 +1,51 @@
 {
-  "fetched_at": "2026-09-09T23:43:39.005755+00:00",
-  "total": 43,
+  "fetched_at": "2026-09-10T08:51:50.692232+00:00",
+  "total": 42,
   "items": [
+    {
+      "id": "86563630f912",
+      "title": "GPT-6 Astraが人気すぎてOpenAIのサーバーがピンチでProプランの新規サブスク契約が一時停止されるかも",
+      "url": "https://gigazine.net/news/20260910-openai-astra-high-growth/",
+      "summary": "AIエージェントとしての能力やコーディング能力が非常に高いOpenAIの最先端モデル「GPT-6 Astra」が2026年9月3日に公開され、「Plus」以上の有料プランで利用できるようになりました。ところが、あまりにも人気が高すぎて、ChatGPTの開発スタッフが「サブスクリプションの新規登録を一時停止しなければならないかもしれない」と発言したことが分かりました。続きを読む...",
+      "date": "2026-09-10T04:09:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "e9590b50c0bc",
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+      "date": "2026-09-10T00:00:37+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "ca785e528de2",
+      "title": ".blend URL Viewer",
+      "url": "https://simonwillison.net/2026/Sep/9/blender-viewer/",
+      "summary": "Tool: .blend URL Viewer I'm continuing to have a lot of fun with GPT-6 Astra and Blender (see my TIL). As a big fan of the Imperial Fabergé Easter eggs, I've always thought it would be fun to make some new ones that celebrate popular culture. Yesterd",
+      "date": "2026-09-09T23:58:32+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
+    {
+      "id": "b08ed86385ff",
+      "title": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI",
+      "url": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
+      "summary": "It's been about three years since Volvo discontinued its plug-in hybrid XC40. The mild hybrid version remains on sale in the US and elsewhere, alongside the electric EX40. Today, Volvo announced it was bringing back the PHEV version and giving it a m",
+      "date": "2026-09-09T22:31:34+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
     {
       "id": "a62cdeb365cc",
       "title": "OpenAI adds a prominent AI doomer to its board of directors",
@@ -12,17 +56,6 @@
       "lang": "en",
       "category": "Industry",
       "priority": 1
-    },
-    {
-      "id": "a24122cc77c3",
-      "title": "AIとの対話で自己分析から選考管理まで完結。学生起点の就活スマートアプリ",
-      "url": "https://ascii.jp/elem/000/004/433/4433140/?rss",
-      "summary": "ライフイズテック株式会社は9月2日、大学生向け就活スマートアプリ「JRNY（ジャーニー）」のiOS版をリリースしたと発表した。LLM（大規模言語モデル）を活用した対話型自己分析から企業の推薦、選考ごとの振り返りまでを単一のアプリ内で完結させる構成が特徴だ。",
-      "date": "2026-09-09T22:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "65f77bd4eb92",
@@ -36,34 +69,12 @@
       "priority": 2
     },
     {
-      "id": "2ce844f1d2ca",
-      "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
-      "summary": "OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striking demonstration of just how rapidly AI is transfo",
-      "date": "2026-09-09T21:16:34+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "ef341c697e51",
       "title": "4 groups caught using the same Chrome and Windows exploit kit",
       "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
       "summary": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
       "date": "2026-09-09T20:55:02+00:00",
       "source": "Ars Technica",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "0a721c2e70b7",
-      "title": "Read the Apple document explaining how new listening features still protect your privacy",
-      "url": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
-      "summary": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition. Alongside its announcement, Apple released a document laying ou",
-      "date": "2026-09-09T20:44:43+00:00",
-      "source": "The Verge",
       "lang": "en",
       "category": "Tech",
       "priority": 2
@@ -102,22 +113,22 @@
       "priority": 1
     },
     {
-      "id": "974e0dc97a17",
-      "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
-      "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
-      "summary": "The company also argued that its on-device models offer consumers more privacy.",
-      "date": "2026-09-09T17:36:05+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
       "id": "bb894e920169",
       "title": "Paul Christiano joins OpenAI Foundation Board",
       "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
       "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
       "date": "2026-09-09T17:00:00+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "e50720e57461",
+      "title": "The AI policy window is open. We need to act.",
+      "url": "https://openai.com/index/ai-policy-window",
+      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+      "date": "2026-09-09T13:00:00+00:00",
       "source": "OpenAI Blog",
       "lang": "en",
       "category": "Research",
@@ -250,28 +261,6 @@
       "url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
       "summary": "The strongest argument I see for continuing to train much smarter models quickly is the need to build defensive systems against the dangers posed by other AI. [...] We will need powerful, aligned AI for defense; to secure infrastructure, to protect a",
       "date": "2026-09-07T22:26:25+00:00",
-      "source": "Simon Willison",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1
-    },
-    {
-      "id": "75f1553a0c01",
-      "title": "Video compressor",
-      "url": "https://simonwillison.net/2026/Sep/7/video-compressor/",
-      "summary": "Tool: Video compressor I recorded a short demo video of my Equal Earth animation on my phone and wanted to publish an optimized version of that video (using FFMPEG) on my blog, so I had Claude Fable 5.1 in Claude Code for web build me this tool using",
-      "date": "2026-09-07T18:29:07+00:00",
-      "source": "Simon Willison",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1
-    },
-    {
-      "id": "9e9908c7a8dc",
-      "title": "Mercator ↔ Equal Earth",
-      "url": "https://simonwillison.net/2026/Sep/7/equal-earth/",
-      "summary": "Tool: Mercator ↔ Equal Earth I got curious about the Equal Earth map projection that was recently voted on at the UN so I had GPT-6 Astra (medium) in ChatGPT Work build me this animated transition between Mercator and Equal Earth using D3. Tags: geos",
-      "date": "2026-09-07T16:24:16+00:00",
       "source": "Simon Willison",
       "lang": "en",
       "category": "Prompts",
