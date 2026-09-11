@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-09-11_evening-openai-data-agent-fake-receipts",
+      "date": "2026-09-11",
+      "file_key": "2026-09-11_evening",
+      "title": "OpenAIデータ活用強化と偽レシート脅威",
+      "summary": "ChatGPT Workデータエージェント登場、GPT-Live-1音声API、AI偽レシート対策が急務",
+      "tags": [
+        "ChatGPT",
+        "Enterprise AI",
+        "Voice API",
+        "Deepfake Countermeasures",
+        "Cloudflare"
+      ],
+      "slug": "openai-data-agent-fake-receipts"
+    },
+    {
       "id": "2026-09-11_evening-ai-access-security",
       "date": "2026-09-11",
       "file_key": "2026-09-11_evening",
@@ -429,22 +444,7 @@
         "イベント情報"
       ],
       "slug": "gates-ai-concerns-terminology-generation-advances"
-    },
-    {
-      "id": "2026-08-26_afternoon-ai-chip-generative-ai-business-strategy",
-      "date": "2026-08-26",
-      "file_key": "2026-08-26_afternoon",
-      "title": "AIチップと生成AIが示す次世代ビジネス戦略",
-      "summary": "AI推論チップや資金調達、バズるAI話題を解説し、実践的活用法を提案",
-      "tags": [
-        "AIチップ",
-        "生成AI",
-        "ビジネス応用",
-        "イベント",
-        "プロンプト"
-      ],
-      "slug": "ai-chip-generative-ai-business-strategy"
     }
   ],
-  "updated_at": "2026-09-11T08:53:46.180022+00:00"
+  "updated_at": "2026-09-11T14:42:26.853418+00:00"
 }
