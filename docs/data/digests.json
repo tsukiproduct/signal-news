@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-09-11_evening-ai-access-security",
+      "date": "2026-09-11",
+      "file_key": "2026-09-11_evening",
+      "title": "AI活用とサイバーセキュリティ最前線",
+      "summary": "政府向け無料AIライセンスとCloudflareのカスタム費用機能が追加、画像生成のリスクも",
+      "tags": [
+        "AI政策",
+        "コスト管理",
+        "画像生成"
+      ],
+      "slug": "ai-access-security"
+    },
+    {
       "id": "2026-09-11_morning-ai-news-2026-09-cloudflare-gemini-chatgpt",
       "date": "2026-09-11",
       "file_key": "2026-09-11_morning",
@@ -431,22 +444,7 @@
         "プロンプト"
       ],
       "slug": "ai-chip-generative-ai-business-strategy"
-    },
-    {
-      "id": "2026-08-26_morning-weekly-ai-news-quantization-onpremise-stablefunding",
-      "date": "2026-08-26",
-      "file_key": "2026-08-26_morning",
-      "title": "量子化革新と企業内AI：今週のAI業界を読み解く",
-      "summary": "Unslothの新量子化、企業内AIエージェント、Stability AIの資金調達など今週のAIトピックを整理。",
-      "tags": [
-        "AI",
-        "LLM",
-        "量子化",
-        "画像生成AI",
-        "企業内AI"
-      ],
-      "slug": "weekly-ai-news-quantization-onpremise-stablefunding"
     }
   ],
-  "updated_at": "2026-09-10T23:37:56.601860+00:00"
+  "updated_at": "2026-09-11T08:53:46.180022+00:00"
 }

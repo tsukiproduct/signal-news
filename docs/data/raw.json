@@ -1,14 +1,25 @@
 {
-  "fetched_at": "2026-09-10T23:35:57.098628+00:00",
-  "total": 43,
+  "fetched_at": "2026-09-11T08:49:07.869284+00:00",
+  "total": 39,
   "items": [
     {
-      "id": "b153a3eebb18",
-      "title": "ラスボスCOBOLを倒すために、7チームはなにを選択し、なにを捨てたのか？",
-      "url": "https://ascii.jp/elem/000/004/433/4433955/?rss",
-      "summary": "いよいよ3回目を迎えたAIモダナイゼーションのハッカソン「GitHub Copilot Quest Lv3」。今回のテーマはレガシーシステムの代名詞とも言えるCOBOL。古式ゆかしいCOBOL製の銀行夜間バッチは、GitHub CopilotとMicrosoft Azureでどのように生まれ変わるのか？ コメンテーターを務めたASCII編集部の大谷イビサがイベントの見どころと感想をお送りする。",
-      "date": "2026-09-10T22:00:00+00:00",
-      "source": "ASCII.jp",
+      "id": "af48dfb8184c",
+      "title": "本物そっくり“AI生成レシート“が経費精算の脅威に マネフォ「自力で見破るのは難しい」 企業はどう備える？",
+      "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001409/",
+      "summary": "「AIで偽造された領収書画像を見せられた場合、企業側が自力で見破ることは難しい」――生成AIで作ったコンビニのレシート画像が、本物と見分けにくいほど精巧だとしてXで話題になっている。画像は米OpenAIが9月8日（現地時間）に発表した画像生成機能「ChatGPT Images 2.5」で生成したもので、経費精算などへの悪用を懸念する声も上がっている。経費精算サービスを提供するマネーフォワードに有効な対策を聞いた。",
+      "date": "2026-09-11T08:28:06+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "133198607bfc",
+      "title": "簡単に画面録画し不要部分カット＆AI音声ノイズ除去＆ファイルサイズ削減まで全部1本で完結する「VideoProc Converter AI」を使ってみた",
+      "url": "https://gigazine.net/news/20260911-videoproc-converter-ai/",
+      "summary": "PC画面を録画して解説ムービーなどを作る場合、録画そのものは簡単でも、実際に人に見せられるムービーに仕上げようとすると「冒頭や末尾の不要部分を切る」「マイクに入ったノイズを消す」「ファイルサイズを小さくする」といった作業が必要になります。「VideoProc Converter AI」はPC画面の録画だけでなく編集やAIによる音声ノイズ除去、圧縮、変換などもまとめて実行できるということで、実際にVideoProc Converter AIだけを使ってPC画面の録画から完成品の書き出しまでやってみ",
+      "date": "2026-09-11T00:00:00+00:00",
+      "source": "Gigazine",
       "lang": "ja",
       "category": "Tech",
       "priority": 2
@@ -124,17 +135,6 @@
       "priority": 1
     },
     {
-      "id": "02db8d403b1c",
-      "title": "チャットAIのClaudeに「カートに追加するボタンを青色にして」とウェブデザインの変更を依頼すると堂々巡りで全く完成しない様子を再現した「Opusfived」",
-      "url": "https://gigazine.net/news/20260910-opusfived/",
-      "summary": "Anthropicが2026年7月に発表した「Claude Opus 5」は、同社が2026年6月にリリースしたClaude Fable 5と同等の性能を半分の価格で実現したというAIモデルです。そんなClaude Opus 5を使ってオンラインショッピングサイトなどで配置されている「カートに追加」ボタンを青色にしようとした際の苛立たしいAIとのやり取りを、ノルウェーのビジネススクールで働くミロシュ・ノヴォヴィッチ氏が「Opusfived」というゲームにして公開しています。続きを読む...",
-      "date": "2026-09-10T12:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "dcafb6d4ea46",
       "title": "Powering AI is an architecture problem",
       "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
@@ -146,17 +146,6 @@
       "priority": 1
     },
     {
-      "id": "1c9e42201acf",
-      "title": "GMOの世界ロボット運動会出場、言い出しっぺは新卒1年目の社員？ プロジェクト統括までしていた",
-      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001384/",
-      "summary": "世界最大規模のヒト型ロボット運動会への出場を提案し、プロジェクトを統括したのは、新卒1年目の社員だった――。GMO AI&ロボティクス商事（東京都渋谷区）は9月8日、8月に中国・北京で開催された「第2回 世界ヒューマノイド運動会」への出場結果を報告した。発案者はこの春、GMOインターネットグループに入社したばかりの廣本一真氏。記者会見で登壇した廣本氏は、大会出場までの開発や現地でのトラブルなど、同大会での舞台裏を明かした。",
-      "date": "2026-09-10T09:49:11+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "a464529f9917",
       "title": "Healthcare AI’s next test is integration",
       "url": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
@@ -166,17 +155,6 @@
       "lang": "en",
       "category": "Research",
       "priority": 1
-    },
-    {
-      "id": "fc5904b8756f",
-      "title": "「AI社員」活用、NECは無人部署・DeNAには17体 南場社長「けなげ」と太鼓判",
-      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001380/",
-      "summary": "IT大手が人工知能（AI）に一般社員と同じ権限を付与して業務を任せる「AI社員」の活用に乗り出している。NECは8月にAIだけで運営する無人部署を新設。DeNAも6月からAI社員を配属した。AIによる効率化で、社員を付加価値の高い業務に配置転換するとともに、実績を基にAI社員のサービス展開を視野に入れる。",
-      "date": "2026-09-10T08:47:19+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "3f77446f0e44",
@@ -298,17 +276,6 @@
       "lang": "en",
       "category": "Tech",
       "priority": 2
-    },
-    {
-      "id": "7938df540b92",
-      "title": "llm 0.35",
-      "url": "https://simonwillison.net/2026/Sep/7/llm/",
-      "summary": "Release: llm 0.35 New OpenAI model: gpt-6-astra for GPT-6 Astra. Tags: openai, llm, gpt-6-astra",
-      "date": "2026-09-07T23:54:54+00:00",
-      "source": "Simon Willison",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1
     },
     {
       "id": "91a5da582510",
@@ -463,17 +430,6 @@
       "lang": "en",
       "category": "Research",
       "priority": 2
-    },
-    {
-      "id": "54bcd41eb45a",
-      "title": "Workers AI - Z.ai GLM-5.3 now available on Workers AI",
-      "url": "https://developers.cloudflare.com/changelog/post/2026-08-28-glm-5.3-workers-ai/",
-      "summary": "@cf/zai-org/glm-5.3 is now available on Workers AI. It is Z.ai's flagship agentic coding model, built for long-running, tool-driven development workflows rather than single-turn chat. GLM-5.3 uses the same base model as GLM-5.2, with every gain comin",
-      "date": "2026-08-28T00:00:00+00:00",
-      "source": "Cloudflare Workers AI",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 1
     }
   ]
 }
