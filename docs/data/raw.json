@@ -1,7 +1,29 @@
 {
-  "fetched_at": "2026-09-12T08:32:48.587007+00:00",
-  "total": 38,
+  "fetched_at": "2026-09-12T13:47:28.969664+00:00",
+  "total": 40,
   "items": [
+    {
+      "id": "c2527567aa06",
+      "title": "AndroidユーザーならPixel Watchを選べ！ 決済もヘルスケアもAIも全力で使えるスマートウォッチを試してみた",
+      "url": "https://ascii.jp/elem/000/004/434/4434062/?rss",
+      "summary": "Androidユーザー必見の「Google Pixel Watch 5」レビューです。FeliCa対応で手首決済が可能になり、手首を上げて話すだけでAI（Gemini）が起動するなど使い勝手が大幅進化。AI補正でGPS精度が2倍に向上した点も魅力ですが、2日は持たないバッテリーやiPhone非対応には注意が必要です。",
+      "date": "2026-09-12T13:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "1c4263436427",
+      "title": "無料のオープンソースAIエージェント「goose」、デスクトップアプリ・CLI・APIなどコード・ワークフロー・その他あらゆる用途に対応",
+      "url": "https://gigazine.net/news/20260912-goose/",
+      "summary": "AIエージェントを使い始めると、用途や料金に応じてOpenAI・Claude・Google Gemini・ローカルLLMなどを使い分けたいケースがあります。そこで複数のAIプロバイダーを自由に切り替えながら、デスクトップアプリ・CLI・APIなどからMCPによるツール連携や自動化まで1つの環境で利用できるオープンソースのAIエージェント「goose」が公開されています。続きを読む...",
+      "date": "2026-09-12T09:00:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
     {
       "id": "571841775133",
       "title": "SpotifyのエンジニアがClaude Codeのトークン消費を約90％削減した方法とは?",
