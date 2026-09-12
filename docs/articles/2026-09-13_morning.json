@@ -1,0 +1,121 @@
+{
+  "id": "2026-09-13_morning-ai-data-work",
+  "file_key": "2026-09-13_morning",
+  "date": "2026-09-13",
+  "generated_at": "2026-09-12T23:41:58.231964+00:00",
+  "title": "AI活用でデータ活動が広がる",
+  "slug": "ai-data-work",
+  "summary": "ChatGPT WorkのDataエージェントで企業データを自然言語で分析・可視化、政府向け無料ライセンスやAIセキュリティ拡充、コスト削減手法まで幅広く展開。",
+  "tags": [
+    "AI",
+    "データ活用",
+    "企業"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "AI技術は企業だけでなく公共機関や個人へと浸透し、自然言語でデータを活用するツールが登場。これにより業務効率化や意思決定のスピード向上が期待され、さまざまな分野で新しい価値創出が進んでいます。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "OpenAIはChatGPT WorkにDataエージェントを搭載し、企業のさまざまなデータ源を自然言語で接続・分析できる機能を提供。ユーザーは「売上を月別に要約」や「在庫状況を可視化」などの指示だけでインタラクティブなダッシュボードを作成でき、意思決定のスピードが向上。同時に同社は政府向けに無料ライセンスと50%割引、サイバーセキュリティ支援を拡充し、公共機関のAI活用促進に寄与。さらに、Claude Codeのトークン削減やGitHubの多モデル連携など、コスト削減と品質向上の具体策も示され、企業のAI導入障壁が低減する。",
+      "source_title": "Now everyone can put data to work",
+      "source_url": "https://openai.com/index/put-data-to-work"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "ChatGPT Images 2.5で作成された精巧な偽レシートが企業の経費精算に混乱をもたらす。画像生成AIのリアルさが高く、見破りが困難なため、企業は偽造検出ツール導入や社内ルール制定で対策が必要になる。",
+      "source_title": "本物そっくり“AI生成レシート”が経費精算の脅威に マネフォ「自力で見破るのは難しい」 企業はどう備える？",
+      "source_url": "https://www.itmedia.co.jp/news/article/2609/11/2000001409/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "データ要約プロンプト",
+      "prompt_body": "ChatGPT WorkのDataエージェントに対し、過去12か月の売上データを月別に総計・増減率・主要要因を自然語でまとめてください。",
+      "prompt_usecase": "月次レポート作成や部門別業績分析に活用し、時間短縮と意思決定支援を図る。",
+      "prompt_source": "https://openai.com/index/put-data-to-work"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "AI生成の精巧な偽レシートが経費精算システムを騙し、企業の財務データを不正に改ざんするリスクが高まる。マネフォは自力での検知が困難とし、専用の検証ツールや定期的な監査が必須と警告。",
+      "source_title": "本物そっくり“AI生成レシート”が経費精算の脅威に マネフォ「自力で見破るのは難しい」 企業はどう備える？",
+      "source_url": "https://www.itmedia.co.jp/news/article/2609/11/2000001409/"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "本週のAIイベント情報はございません。",
+      "event_list": []
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "企業はChatGPT WorkのDataエージェントで日常業務のデータクエリを自然語に変換し、手作業のレポート作成を自動化できる。例えば、月次売上総括や在庫管理の要点を瞬時に把握し、経営判断の根拠を可視化。さらに、政府機関向けの無料ライセンスを活用し、公共事務のデータ分析でもコスト削減と透明性向上を実現できる。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "AIツールの無料提供とコスト削減策が企業の導入障壁を低減、画像生成AIの偽造リスクが課題となる中で、適切な利用ルールと検証手段の整備が求められている。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Now everyone can put data to work",
+      "url": "https://openai.com/index/put-data-to-work",
+      "source": "OpenAI Blog",
+      "category": "Research"
+    },
+    {
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "url": "https://openai.com/index/expanding-ai-access-us-government",
+      "source": "OpenAI Blog",
+      "category": "Research"
+    },
+    {
+      "title": "AI Gateway - AI Gateway custom costs support cache tokens",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-09-09-custom-cache-token-costs/",
+      "source": "Cloudflare AI Gateway",
+      "category": "Tech"
+    },
+    {
+      "title": "AI Gateway - AI Gateway consolidates monthly usage invoice line items and standardizes model names",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-09-01-billing-and-model-names/",
+      "source": "Cloudflare AI Gateway",
+      "category": "Tech"
+    },
+    {
+      "title": "SpotifyのエンジニアがClaude Codeのトークン消費を約90％削減した方法とは?",
+      "url": "https://gigazine.net/news/20260912-spotify-cut-claude-code-token-usage/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+      "source": "GitHub AI & ML",
+      "category": "Prompts"
+    },
+    {
+      "title": "本物そっくり“AI生成レシート“が経費精算の脅威に マネフォ「自力で見破るのは難しい」 企業はどう備える？",
+      "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001409/",
+      "source": "ITmedia News",
+      "category": "ImageVideo"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

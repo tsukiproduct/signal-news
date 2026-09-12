@@ -1,7 +1,62 @@
 {
-  "fetched_at": "2026-09-12T13:47:28.969664+00:00",
-  "total": 40,
+  "fetched_at": "2026-09-12T23:38:26.056531+00:00",
+  "total": 43,
   "items": [
+    {
+      "id": "552eadb73497",
+      "title": "OpenAI’s rogue AI tried to hack another company in May",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+      "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried",
+      "date": "2026-09-12T21:41:36+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "9276271a0e3f",
+      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement,",
+      "date": "2026-09-12T21:16:28+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "82c98d9b6abf",
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+      "date": "2026-09-12T19:34:44+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "423571cd7c5d",
+      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+      "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed ",
+      "date": "2026-09-12T16:23:40+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "bcfea4b7b186",
+      "title": "Trump is giving data centers a pass to pollute",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+      "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are ur",
+      "date": "2026-09-12T14:41:27+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
     {
       "id": "c2527567aa06",
       "title": "AndroidユーザーならPixel Watchを選べ！ 決済もヘルスケアもAIも全力で使えるスマートウォッチを試してみた",
@@ -80,19 +135,8 @@
       "priority": 1
     },
     {
-      "id": "c71016307bb8",
-      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
-      "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aa",
-      "date": "2026-09-11T20:44:25+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "12de205131c9",
-      "title": "Roundtables: AI’s apocalypse crisis",
+      "title": "Roundtables: Could AI really kill us all?",
       "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
       "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversatio",
       "date": "2026-09-11T20:05:06+00:00",
@@ -133,17 +177,6 @@
       "lang": "en",
       "category": "Prompts",
       "priority": 1
-    },
-    {
-      "id": "3409c3c31dfa",
-      "title": "Anthropic spent this week in hot water over cybersecurity",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
-      "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what Anthropic deems i",
-      "date": "2026-09-11T16:55:17+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "2b32e7002b96",

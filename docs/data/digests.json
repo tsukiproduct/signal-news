@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-09-13_morning-ai-data-work",
+      "date": "2026-09-13",
+      "file_key": "2026-09-13_morning",
+      "title": "AI活用でデータ活動が広がる",
+      "summary": "ChatGPT WorkのDataエージェントで企業データを自然言語で分析・可視化、政府向け無料ライセンスやAIセキュリティ拡充、コスト削減手法まで幅広く展開。",
+      "tags": [
+        "AI",
+        "データ活用",
+        "企業"
+      ],
+      "slug": "ai-data-work"
+    },
+    {
       "id": "2026-09-11_evening-openai-data-agent-fake-receipts",
       "date": "2026-09-11",
       "file_key": "2026-09-11_evening",
@@ -429,22 +442,7 @@
         "#Events"
       ],
       "slug": "ai-week-snapshot-waymo-vs-tesla-open-source-duck-more"
-    },
-    {
-      "id": "2026-08-26_evening-gates-ai-concerns-terminology-generation-advances",
-      "date": "2026-08-26",
-      "file_key": "2026-08-26_evening",
-      "title": "ビル・ゲイツが警鐘、AI用語の混乱と生成技術の進化",
-      "summary": "ゲイツ氏のAI懸念、用語定義の重要性、高速画像生成モデルFibo 1.5など最新動向を解説",
-      "tags": [
-        "AI安全性",
-        "画像生成",
-        "LLM開発",
-        "用語定義",
-        "イベント情報"
-      ],
-      "slug": "gates-ai-concerns-terminology-generation-advances"
     }
   ],
-  "updated_at": "2026-09-11T14:42:26.853418+00:00"
+  "updated_at": "2026-09-12T23:41:58.232677+00:00"
 }
