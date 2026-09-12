@@ -1,7 +1,29 @@
 {
-  "fetched_at": "2026-09-11T23:45:14.906634+00:00",
+  "fetched_at": "2026-09-12T08:32:48.587007+00:00",
   "total": 38,
   "items": [
+    {
+      "id": "571841775133",
+      "title": "SpotifyのエンジニアがClaude Codeのトークン消費を約90％削減した方法とは?",
+      "url": "https://gigazine.net/news/20260912-spotify-cut-claude-code-token-usage/",
+      "summary": "音楽ストリーミングサービスのSpotifyが、Claude Codeで大量のトークンを消費する単純作業を別のAIモデルに任せることでトークン消費を大幅に削減する手法を公開しました。Spotifyのディミトリ・マズマノフ氏は、この手法を検証した結果、大量のファイル読み込みを委譲するテストでClaude側のトークン消費を平均約90％削減できたと報告しています。 Portal by Spotify cut my Claude Code token usage by 90% | Spotify Engi",
+      "date": "2026-09-12T08:00:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "83a381a7bffe",
+      "title": "FMV直販、Ryzen AI 5 340+512GB SSD搭載の一体型デスクトップPCを24万4200円で販売中！",
+      "url": "https://ascii.jp/elem/000/004/433/4433765/?rss",
+      "summary": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
+      "date": "2026-09-12T07:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
     {
       "id": "c923ead07513",
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
@@ -113,15 +135,15 @@
       "priority": 1
     },
     {
-      "id": "0f968286db1d",
-      "title": "音楽生成AI「YuE2」が無料公開される、有料のSuno 5に近い性能で楽譜から楽曲生成可能＆日本語ボーカルも対応",
-      "url": "https://gigazine.net/news/20260911-yue2-music-generation-ai/",
-      "summary": "AI研究コミュニティのMultimodal Art Projectionが音楽生成AI「YuE2」を2026年9月10日に公開しました。開発チームは「Suno 5に匹敵するオープンな音楽生成モデル」とアピールしています。続きを読む...",
-      "date": "2026-09-11T12:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
+      "id": "bb3fa770c597",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "date": "2026-09-11T16:00:00+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
     },
     {
       "id": "af48dfb8184c",
@@ -130,17 +152,6 @@
       "summary": "「AIで偽造された領収書画像を見せられた場合、企業側が自力で見破ることは難しい」――生成AIで作ったコンビニのレシート画像が、本物と見分けにくいほど精巧だとしてXで話題になっている。画像は米OpenAIが9月8日（現地時間）に発表した画像生成機能「ChatGPT Images 2.5」で生成したもので、経費精算などへの悪用を懸念する声も上がっている。経費精算サービスを提供するマネーフォワードに有効な対策を聞いた。",
       "date": "2026-09-11T08:28:06+00:00",
       "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "133198607bfc",
-      "title": "簡単に画面録画し不要部分カット＆AI音声ノイズ除去＆ファイルサイズ削減まで全部1本で完結する「VideoProc Converter AI」を使ってみた",
-      "url": "https://gigazine.net/news/20260911-videoproc-converter-ai/",
-      "summary": "PC画面を録画して解説ムービーなどを作る場合、録画そのものは簡単でも、実際に人に見せられるムービーに仕上げようとすると「冒頭や末尾の不要部分を切る」「マイクに入ったノイズを消す」「ファイルサイズを小さくする」といった作業が必要になります。「VideoProc Converter AI」はPC画面の録画だけでなく編集やAIによる音声ノイズ除去、圧縮、変換などもまとめて実行できるということで、実際にVideoProc Converter AIだけを使ってPC画面の録画から完成品の書き出しまでやってみ",
-      "date": "2026-09-11T00:00:00+00:00",
-      "source": "Gigazine",
       "lang": "ja",
       "category": "Tech",
       "priority": 2
@@ -221,17 +232,6 @@
       "lang": "en",
       "category": "Tech",
       "priority": 2
-    },
-    {
-      "id": "e50720e57461",
-      "title": "The AI policy window is open. We need to act.",
-      "url": "https://openai.com/index/ai-policy-window",
-      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
-      "date": "2026-09-09T13:00:00+00:00",
-      "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
     },
     {
       "id": "f4d7f71a4f7c",
