@@ -1,0 +1,115 @@
+{
+  "id": "2026-09-14_morning-ai-news-2026-09-12",
+  "file_key": "2026-09-14_morning",
+  "date": "2026-09-14",
+  "generated_at": "2026-09-13T23:51:39.832858+00:00",
+  "title": "ChatGPT Workでデータ活用加速、偽レシートリスクも",
+  "slug": "ai-news-2026-09-12",
+  "summary": "OpenAIがChatGPT WorkのDataエージェントやGPT-Live-1APIを発表。政府機関への無償提供も開始。一方でAI生成偽レシートの経費詐欺リスクが指摘されている。",
+  "tags": [
+    "ChatGPT Work",
+    "生成AI",
+    "セキュリティ"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "OpenAIは企業データの自然言語分析を可能にするDataエージェントや双方向音声API「GPT-Live-1」を発表。政府機関への無償ライセンス提供も開始し、AIの実用基盤が拡大する。対照的に、ITmediaではChatGPT Images 2.5で作られた精巧な偽レシートが経費精算の脅威となり、見破りの難しさが報じられている。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "ChatGPT WorkのDataエージェントは、企業データソースを接続し自然言語でインサイトを抽出、インタラクティブダッシュボードを作成できる。従来はSQLやBIツールが必要だった分析が、チャットインターフェースに統合される可能性を示す。ただし、データ接続時の認証方式や保持期間、商用利用の制約については原典確認が必要。OpenAI-GSA連携では連邦・州・地方・部族政府に$0ライセンスと50%割引、サイバー防御サポートが拡充されるとされるが、対象機関の申請条件や継続期間はOpenAI Blogで確認されたい。",
+      "source_title": "Now everyone can put data to work",
+      "source_url": "https://openai.com/index/put-data-to-work"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "ChatGPT Images 2.5で作成されたAI生成レシートが本物そっくりであり、経費精算書類としてのリスクが浮上。マネフォは自力での見破りが困難と指摘しており、企業には取引先への直接確認やブロックチェーンに基づく検証などの対策が求められる。生成AIの高精细化に伴い、文書偽造への対応がセキュリティポリシーの重要項目となる。",
+      "source_title": "本物そっくり“AI生成レシート“が経費精算の脅威に",
+      "source_url": "https://www.itmedia.co.jp/news/article/2609/11/2000001409/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "OSMデータ活用ルート生成",
+      "prompt_body": "OpenStreetMapのデータを参照し、自宅から半径5km圏内の5Kおよび10Kランニングコースを3案生成して。標高変化や交通安全、夜間の照明状況を考慮し、各ルートの距離と所要時間を記載すること。",
+      "prompt_usecase": "ランニングプラン作成や地域の探索に。GPT-6 Astra(Max)など大規模モデルで空間データを処理する際の参考になる。",
+      "prompt_source": "https://simonwillison.net/2026/Sep/12/astra-running-routes/"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "Simon WillisonがGPT-6 Astra(Max)を使い、OpenStreetMapデータから自宅周辺のランニングルートを生成したところ、27分で要望通りの結果を得た。地理情報データと大規模言語モデルの連携が、日常のタスクを短时间で実現する事例として注目されている。",
+      "source_title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
+      "source_url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/"
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "Dataエージェントを導入する場合は、まず読み取り専用のテストデータソースを接続し、自然言語クエリの精度を検証すること。偽レシート対策としては、経費申請システムに取引先公式サイトとの照合機能を設ける、または領収書のQRコードや電子帳簿保存法への準拠を確認するフローを追加する。音声API「GPT-Live-1」はカスタマーサポートの双方向通話応用を検討できるが、テレphony規格との互性性和レイテンシは事前検証が必要。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "エージェント型AIによる業務データ活用が本格化しつつある一方、生成AIによる文書偽造リスクも現実の脅威として認識され始めた。政府機関への無償提供は公共部門のAI活用加速を示唆するが、セキュリティと利用規約の確認が不可欠。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Now everyone can put data to work",
+      "url": "https://openai.com/index/put-data-to-work",
+      "source": "OpenAI Blog",
+      "category": "Research"
+    },
+    {
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "url": "https://openai.com/index/expanding-ai-access-us-government",
+      "source": "OpenAI Blog",
+      "category": "Research"
+    },
+    {
+      "title": "AI Gateway - AI Gateway custom costs support cache tokens",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-09-09-custom-cache-token-costs/",
+      "source": "Cloudflare AI Gateway",
+      "category": "Tech"
+    },
+    {
+      "title": "AI Gateway - AI Gateway consolidates monthly usage invoice line items and standardizes model names",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-09-01-billing-and-model-names/",
+      "source": "Cloudflare AI Gateway",
+      "category": "Tech"
+    },
+    {
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "source": "OpenAI Blog",
+      "category": "Research"
+    },
+    {
+      "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
+      "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "本物そっくり“AI生成レシート“が経費精算の脅威に マネフォ「自力で見破るのは難しい」 企業はどう備える？",
+      "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001409/",
+      "source": "ITmedia News",
+      "category": "ImageVideo"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

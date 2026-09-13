@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-13T14:43:48.591891+00:00",
-  "fetched_at": "2026-09-13T14:43:42.260570+00:00",
-  "total": 35,
+  "updated_at": "2026-09-13T23:51:28.906694+00:00",
+  "fetched_at": "2026-09-13T23:49:40.815161+00:00",
+  "total": 42,
   "curated": true,
   "items": [
     {
@@ -293,30 +293,6 @@
       "translation_status": "machine"
     },
     {
-      "id": "b3b5bc18a7be",
-      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-      "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
-      "date": "2026-09-11T19:35:54+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1,
-      "score": 7,
-      "reason": "",
-      "summary_ja": "ムーンショットAI（K3）は利用状況が若干低下しているものの、OpenRouterデータによると、K3モデルが毎日最大300億トークンを生成している。",
-      "title_ja": "キミメーカー・ムーンショットAIが2億ドル収益目標を掲げる",
-      "title_en": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-      "summary_en": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
-      "useful_for_ja": "AI開発者・ビジネス側",
-      "useful_for_en": "AI startups, investors, product managers",
-      "try_next_ja": "K3の技術的課題や市場動向を詳しく調べる",
-      "try_next_en": "Analyze Moonshot AI's growth trajectory and competitive positioning",
-      "caveat_ja": "実際のユーザー体験やサービス品質については直接的な情報がない",
-      "caveat_en": "Verify current service status and user feedback from official channels",
-      "translation_status": "machine"
-    },
-    {
       "id": "2b32e7002b96",
       "title": "Quoting huggingface.co/security.txt",
       "url": "https://simonwillison.net/2026/Sep/11/hugging-face-security/",
@@ -605,11 +581,53 @@
       "translation_status": "machine"
     },
     {
+      "id": "ea5b19333782",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "date": "2026-09-14T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
+    },
+    {
+      "id": "35e81168b17c",
+      "title": "トランプ政権のサックス氏、AI「ペース調整」論に苦言 「規制がなければできないふりをやめろ」",
+      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001433/",
+      "summary": "大統領科学技術諮問委員会のデビッド・サックス共同議長は、AnthropicとOpenAIのトップによるAI開発減速の提案を批判した。減速を望むなら規制や他者の許可を待たずに自ら実行すべきだと指摘。減速を条件に規制の枠組みを要求する姿勢は政治への脅迫に見えると述べ、利己的な動機を装うのをやめるよう求めた。",
+      "date": "2026-09-13T23:14:08+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "大統領科学技術諮問委員会のデビッド・サックス共同議長は、AnthropicとOpenAIのトップによるAI開発減速の提案を批判した。減速を望むなら規制や他者の許可を待たずに自ら実行すべきだと指摘。減速を条件に規制の枠組みを要求する姿勢は政治への脅迫に見えると述べ、利己的な動機を装うのをやめるよう求めた。"
+    },
+    {
+      "id": "fc45c5f89034",
+      "title": "OpenAI「Astra」は何でもできる、だからこそ“プロの指示”が必要になる",
+      "url": "https://ascii.jp/elem/000/004/434/4434403/?rss",
+      "summary": "GPT-6 Astraで2Dゲームや学校の3D空間、馬のアニメーションを短時間で制作した。試行と専門家のフィードバックを重ねるほど品質が上がっていく。AI時代に人間の役割が「作業」から「判断」へと移っていく変化を感じた。",
+      "date": "2026-09-13T22:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "GPT-6 Astraで2Dゲームや学校の3D空間、馬のアニメーションを短時間で制作した。試行と専門家のフィードバックを重ねるほど品質が上がっていく。AI時代に人間の役割が「作業」から「判断」へと移っていく変化を感じた。"
+    },
+    {
       "id": "552eadb73497",
       "title": "OpenAI’s rogue AI tried to hack another company in May",
       "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
       "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried",
-      "date": "2026-09-12T21:41:36+00:00",
+      "date": "2026-09-13T20:54:00+00:00",
       "source": "The Verge",
       "lang": "en",
       "category": "Tech",
@@ -627,6 +645,48 @@
       "caveat_ja": "抜粋に検出手法・帰属の確実性・OpenAIの対応・再発防止策なし。詳細記事・一次情報を確認",
       "caveat_en": "Excerpt lacks detection method, attribution certainty, OpenAI response, or prevention; check full article and primary sources",
       "translation_status": "machine"
+    },
+    {
+      "id": "1d273e458a46",
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Ha",
+      "date": "2026-09-13T19:41:48+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Ha"
+    },
+    {
+      "id": "423bcba40c75",
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+      "date": "2026-09-13T19:40:15+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity."
+    },
+    {
+      "id": "6b54256d4afb",
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+      "date": "2026-09-13T16:30:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety."
     },
     {
       "id": "82c98d9b6abf",
@@ -653,6 +713,20 @@
       "translation_status": "machine"
     },
     {
+      "id": "12de205131c9",
+      "title": "Roundtables: Could AI really kill us all?",
+      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversatio",
+      "date": "2026-09-11T20:05:06+00:00",
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversatio"
+    },
+    {
       "id": "7d445be5f430",
       "title": "Quoting Boris Cherny",
       "url": "https://simonwillison.net/2026/Sep/11/boris-cherny/",
@@ -675,6 +749,20 @@
       "caveat_ja": "具体的なコード例や実装詳細は記事に記載されていない",
       "caveat_en": "Refer to official documentation for technical specifications",
       "translation_status": "machine"
+    },
+    {
+      "id": "2ba1ec749052",
+      "title": "Feeling sad about AI",
+      "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/",
+      "summary": "My comment on Feeling sad about AI — Hacker News.I'm not sure how useful it is to say this, but I think a lot of people (myself included, a few years ago now) have been through this moment of existential crisis and come out the other side. The initia",
+      "date": "2026-09-11T17:28:37+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "My comment on Feeling sad about AI — Hacker News.I'm not sure how useful it is to say this, but I think a lot of people (myself included, a few years ago now) have been through this moment of existential crisis and come out the other side. The initia"
     },
     {
       "id": "af48dfb8184c",

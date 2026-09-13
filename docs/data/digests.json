@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-09-14_morning-ai-news-2026-09-12",
+      "date": "2026-09-14",
+      "file_key": "2026-09-14_morning",
+      "title": "ChatGPT Workでデータ活用加速、偽レシートリスクも",
+      "summary": "OpenAIがChatGPT WorkのDataエージェントやGPT-Live-1APIを発表。政府機関への無償提供も開始。一方でAI生成偽レシートの経費詐欺リスクが指摘されている。",
+      "tags": [
+        "ChatGPT Work",
+        "生成AI",
+        "セキュリティ"
+      ],
+      "slug": "ai-news-2026-09-12"
+    },
+    {
       "id": "2026-09-13_morning-ai-data-work",
       "date": "2026-09-13",
       "file_key": "2026-09-13_morning",
@@ -427,22 +440,7 @@
         "AIバブル"
       ],
       "slug": "ai-weekly-talent-shuffle-qwen-new-model"
-    },
-    {
-      "id": "2026-08-28_morning-ai-week-snapshot-waymo-vs-tesla-open-source-duck-more",
-      "date": "2026-08-28",
-      "file_key": "2026-08-28_morning",
-      "title": "AI Week Snapshot: Waymo vs Tesla, Open-Source Duck & More",
-      "summary": "Quick look at AI news: autonomous driving debate, open-source robot, image‑AI tools, and upcoming events.",
-      "tags": [
-        "#AI",
-        "#OpenSource",
-        "#ComputerVision",
-        "#MachineLearning",
-        "#Events"
-      ],
-      "slug": "ai-week-snapshot-waymo-vs-tesla-open-source-duck-more"
     }
   ],
-  "updated_at": "2026-09-12T23:41:58.232677+00:00"
+  "updated_at": "2026-09-13T23:51:39.833569+00:00"
 }
