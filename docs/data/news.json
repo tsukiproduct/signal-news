@@ -1,9 +1,33 @@
 {
-  "updated_at": "2026-09-13T09:28:07.295755+00:00",
-  "fetched_at": "2026-09-13T09:24:49.746474+00:00",
-  "total": 40,
+  "updated_at": "2026-09-13T14:43:48.591891+00:00",
+  "fetched_at": "2026-09-13T14:43:42.260570+00:00",
+  "total": 35,
   "curated": true,
   "items": [
+    {
+      "id": "0dd87f86ad01",
+      "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
+      "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
+      "summary": "Here's a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning: I live at <my address>. Figure out 5K and 10K running routes from me that loop from my house. Use OSM data. It worked for 27 minutes and produced exactly what I'd asked fo",
+      "date": "2026-09-12T23:56:42+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1,
+      "score": 9,
+      "reason": "Concrete released-capability demo with measurable result.",
+      "summary_ja": "GPT-6 Astra(Max)で自宅周辺の5K/10KルートをOSMデータから生成。27分で完了し要望通りの結果に。",
+      "title_ja": "GPT-6 Astraでランニングコースを自動生成",
+      "title_en": "Generating running routes with GPT-6 Astra and ChatGPT Work",
+      "summary_en": "Used ChatGPT Work + GPT-6 Astra (Max) to generate 5K/10K running routes from home using OSM data; completed in 27 min.",
+      "useful_for_ja": "GPT-6 Astraの実用例を探しているランナー・クリエイター",
+      "useful_for_en": "Users evaluating GPT-6 Astra practical tasks",
+      "try_next_ja": "自宅住所で同様のルート生成を試す",
+      "try_next_en": "Replicate with your own address",
+      "caveat_ja": "GPT-6 Astraのアクセス権・OSMデータ利用条件を確認",
+      "caveat_en": "Verify GPT-6 Astra access and OSM terms",
+      "translation_status": "machine"
+    },
     {
       "id": "d86fa96aa31a",
       "title": "Now everyone can put data to work",
@@ -581,20 +605,6 @@
       "translation_status": "machine"
     },
     {
-      "id": "0dd87f86ad01",
-      "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
-      "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
-      "summary": "Here's a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning: I live at <my address>. Figure out 5K and 10K running routes from me that loop from my house. Use OSM data. It worked for 27 minutes and produced exactly what I'd asked fo",
-      "date": "2026-09-12T23:56:42+00:00",
-      "source": "Simon Willison",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1,
-      "score": 5,
-      "reason": "未評価",
-      "summary_ja": "Here's a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning: I live at <my address>. Figure out 5K and 10K running routes from me that loop from my house. Use OSM data. It worked for 27 minutes and produced exactly what I'd asked fo"
-    },
-    {
       "id": "552eadb73497",
       "title": "OpenAI’s rogue AI tried to hack another company in May",
       "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
@@ -617,20 +627,6 @@
       "caveat_ja": "抜粋に検出手法・帰属の確実性・OpenAIの対応・再発防止策なし。詳細記事・一次情報を確認",
       "caveat_en": "Excerpt lacks detection method, attribution certainty, OpenAI response, or prevention; check full article and primary sources",
       "translation_status": "machine"
-    },
-    {
-      "id": "9276271a0e3f",
-      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
-      "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement,",
-      "date": "2026-09-12T21:16:28+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2,
-      "score": 5,
-      "reason": "未評価",
-      "summary_ja": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement,"
     },
     {
       "id": "82c98d9b6abf",
@@ -657,48 +653,6 @@
       "translation_status": "machine"
     },
     {
-      "id": "423571cd7c5d",
-      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-      "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed ",
-      "date": "2026-09-12T16:23:40+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2,
-      "score": 5,
-      "reason": "未評価",
-      "summary_ja": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed "
-    },
-    {
-      "id": "bcfea4b7b186",
-      "title": "Trump is giving data centers a pass to pollute",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-      "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are ur",
-      "date": "2026-09-12T14:41:27+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2,
-      "score": 5,
-      "reason": "未評価",
-      "summary_ja": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are ur"
-    },
-    {
-      "id": "12de205131c9",
-      "title": "Roundtables: Could AI really kill us all?",
-      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-      "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversatio",
-      "date": "2026-09-11T20:05:06+00:00",
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1,
-      "score": 5,
-      "reason": "未評価",
-      "summary_ja": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversatio"
-    },
-    {
       "id": "7d445be5f430",
       "title": "Quoting Boris Cherny",
       "url": "https://simonwillison.net/2026/Sep/11/boris-cherny/",
@@ -721,20 +675,6 @@
       "caveat_ja": "具体的なコード例や実装詳細は記事に記載されていない",
       "caveat_en": "Refer to official documentation for technical specifications",
       "translation_status": "machine"
-    },
-    {
-      "id": "2ba1ec749052",
-      "title": "Feeling sad about AI",
-      "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/",
-      "summary": "My comment on Feeling sad about AI — Hacker News.I'm not sure how useful it is to say this, but I think a lot of people (myself included, a few years ago now) have been through this moment of existential crisis and come out the other side. The initia",
-      "date": "2026-09-11T17:28:37+00:00",
-      "source": "Simon Willison",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1,
-      "score": 5,
-      "reason": "未評価",
-      "summary_ja": "My comment on Feeling sad about AI — Hacker News.I'm not sure how useful it is to say this, but I think a lot of people (myself included, a few years ago now) have been through this moment of existential crisis and come out the other side. The initia"
     },
     {
       "id": "af48dfb8184c",

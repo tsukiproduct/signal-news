@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-13T09:24:49.746474+00:00",
-  "total": 40,
+  "fetched_at": "2026-09-13T14:43:42.260570+00:00",
+  "total": 39,
   "items": [
     {
       "id": "0dd87f86ad01",
@@ -52,17 +52,6 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
       "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed ",
       "date": "2026-09-12T16:23:40+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "bcfea4b7b186",
-      "title": "Trump is giving data centers a pass to pollute",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-      "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are ur",
-      "date": "2026-09-12T14:41:27+00:00",
       "source": "The Verge",
       "lang": "en",
       "category": "Tech",
