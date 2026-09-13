@@ -1,7 +1,18 @@
 {
-  "fetched_at": "2026-09-12T23:38:26.056531+00:00",
-  "total": 43,
+  "fetched_at": "2026-09-13T09:24:49.746474+00:00",
+  "total": 40,
   "items": [
+    {
+      "id": "0dd87f86ad01",
+      "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
+      "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
+      "summary": "Here's a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning: I live at <my address>. Figure out 5K and 10K running routes from me that loop from my house. Use OSM data. It worked for 27 minutes and produced exactly what I'd asked fo",
+      "date": "2026-09-12T23:56:42+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
     {
       "id": "552eadb73497",
       "title": "OpenAI’s rogue AI tried to hack another company in May",
@@ -54,50 +65,6 @@
       "date": "2026-09-12T14:41:27+00:00",
       "source": "The Verge",
       "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "c2527567aa06",
-      "title": "AndroidユーザーならPixel Watchを選べ！ 決済もヘルスケアもAIも全力で使えるスマートウォッチを試してみた",
-      "url": "https://ascii.jp/elem/000/004/434/4434062/?rss",
-      "summary": "Androidユーザー必見の「Google Pixel Watch 5」レビューです。FeliCa対応で手首決済が可能になり、手首を上げて話すだけでAI（Gemini）が起動するなど使い勝手が大幅進化。AI補正でGPS精度が2倍に向上した点も魅力ですが、2日は持たないバッテリーやiPhone非対応には注意が必要です。",
-      "date": "2026-09-12T13:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "1c4263436427",
-      "title": "無料のオープンソースAIエージェント「goose」、デスクトップアプリ・CLI・APIなどコード・ワークフロー・その他あらゆる用途に対応",
-      "url": "https://gigazine.net/news/20260912-goose/",
-      "summary": "AIエージェントを使い始めると、用途や料金に応じてOpenAI・Claude・Google Gemini・ローカルLLMなどを使い分けたいケースがあります。そこで複数のAIプロバイダーを自由に切り替えながら、デスクトップアプリ・CLI・APIなどからMCPによるツール連携や自動化まで1つの環境で利用できるオープンソースのAIエージェント「goose」が公開されています。続きを読む...",
-      "date": "2026-09-12T09:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "571841775133",
-      "title": "SpotifyのエンジニアがClaude Codeのトークン消費を約90％削減した方法とは?",
-      "url": "https://gigazine.net/news/20260912-spotify-cut-claude-code-token-usage/",
-      "summary": "音楽ストリーミングサービスのSpotifyが、Claude Codeで大量のトークンを消費する単純作業を別のAIモデルに任せることでトークン消費を大幅に削減する手法を公開しました。Spotifyのディミトリ・マズマノフ氏は、この手法を検証した結果、大量のファイル読み込みを委譲するテストでClaude側のトークン消費を平均約90％削減できたと報告しています。 Portal by Spotify cut my Claude Code token usage by 90% | Spotify Engi",
-      "date": "2026-09-12T08:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "83a381a7bffe",
-      "title": "FMV直販、Ryzen AI 5 340+512GB SSD搭載の一体型デスクトップPCを24万4200円で販売中！",
-      "url": "https://ascii.jp/elem/000/004/433/4433765/?rss",
-      "summary": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
-      "date": "2026-09-12T07:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
       "category": "Tech",
       "priority": 2
     },

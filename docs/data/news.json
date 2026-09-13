@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-12T23:40:59.489255+00:00",
-  "fetched_at": "2026-09-12T23:38:26.056531+00:00",
+  "updated_at": "2026-09-13T09:28:07.295755+00:00",
+  "fetched_at": "2026-09-13T09:24:49.746474+00:00",
   "total": 40,
   "curated": true,
   "items": [
@@ -122,30 +122,6 @@
       "try_next_en": "Verify invoice changes and adjust budgeting",
       "caveat_ja": "単価透明度が低下する可能性",
       "caveat_en": "Unit-price transparency may decrease",
-      "translation_status": "machine"
-    },
-    {
-      "id": "571841775133",
-      "title": "SpotifyのエンジニアがClaude Codeのトークン消費を約90％削減した方法とは?",
-      "url": "https://gigazine.net/news/20260912-spotify-cut-claude-code-token-usage/",
-      "summary": "音楽ストリーミングサービスのSpotifyが、Claude Codeで大量のトークンを消費する単純作業を別のAIモデルに任せることでトークン消費を大幅に削減する手法を公開しました。Spotifyのディミトリ・マズマノフ氏は、この手法を検証した結果、大量のファイル読み込みを委譲するテストでClaude側のトークン消費を平均約90％削減できたと報告しています。 Portal by Spotify cut my Claude Code token usage by 90% | Spotify Engi",
-      "date": "2026-09-12T08:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2,
-      "score": 8,
-      "reason": "実践的なコスト削減テクニックで、Claude Codeユーザーに直接有益",
-      "summary_ja": "SpotifyのエンジニアがClaude Codeの大量ファイル読み込みを別AIモデルに委譲し、トークン消費を約90%削減する手法を公開。",
-      "title_ja": "SpotifyのエンジニアがClaude Codeのトークン消費を約90％削減した方法とは?",
-      "title_en": "How a Spotify Engineer Reduced Claude Code Token Usage by ~90%",
-      "summary_en": "A Spotify engineer publicly shared a technique of delegating heavy file loading to another AI model, cutting Claude Code token usage by ~90%.",
-      "useful_for_ja": "Claude Codeを利用する開発者・コスト管理担当者",
-      "useful_for_en": "Developers using Claude Code and cost-conscious teams",
-      "try_next_ja": "自環境で代替モデルとの組み合わせを検証し、負荷・品質を測定する",
-      "try_next_en": "Test the alternative model delegation in your own environment and measure latency/quality",
-      "caveat_ja": "削減効果は検証テストベースであり、全環境で同結果になるとは限らない",
-      "caveat_en": "Reduction based on a specific test; results may vary across environments",
       "translation_status": "machine"
     },
     {
@@ -605,6 +581,20 @@
       "translation_status": "machine"
     },
     {
+      "id": "0dd87f86ad01",
+      "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
+      "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
+      "summary": "Here's a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning: I live at <my address>. Figure out 5K and 10K running routes from me that loop from my house. Use OSM data. It worked for 27 minutes and produced exactly what I'd asked fo",
+      "date": "2026-09-12T23:56:42+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "Here's a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning: I live at <my address>. Figure out 5K and 10K running routes from me that loop from my house. Use OSM data. It worked for 27 minutes and produced exactly what I'd asked fo"
+    },
+    {
       "id": "552eadb73497",
       "title": "OpenAI’s rogue AI tried to hack another company in May",
       "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
@@ -627,6 +617,20 @@
       "caveat_ja": "抜粋に検出手法・帰属の確実性・OpenAIの対応・再発防止策なし。詳細記事・一次情報を確認",
       "caveat_en": "Excerpt lacks detection method, attribution certainty, OpenAI response, or prevention; check full article and primary sources",
       "translation_status": "machine"
+    },
+    {
+      "id": "9276271a0e3f",
+      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement,",
+      "date": "2026-09-12T21:16:28+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement,"
     },
     {
       "id": "82c98d9b6abf",
@@ -681,46 +685,18 @@
       "summary_ja": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are ur"
     },
     {
-      "id": "c2527567aa06",
-      "title": "AndroidユーザーならPixel Watchを選べ！ 決済もヘルスケアもAIも全力で使えるスマートウォッチを試してみた",
-      "url": "https://ascii.jp/elem/000/004/434/4434062/?rss",
-      "summary": "Androidユーザー必見の「Google Pixel Watch 5」レビューです。FeliCa対応で手首決済が可能になり、手首を上げて話すだけでAI（Gemini）が起動するなど使い勝手が大幅進化。AI補正でGPS精度が2倍に向上した点も魅力ですが、2日は持たないバッテリーやiPhone非対応には注意が必要です。",
-      "date": "2026-09-12T13:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2,
+      "id": "12de205131c9",
+      "title": "Roundtables: Could AI really kill us all?",
+      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversatio",
+      "date": "2026-09-11T20:05:06+00:00",
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1,
       "score": 5,
       "reason": "未評価",
-      "summary_ja": "Androidユーザー必見の「Google Pixel Watch 5」レビューです。FeliCa対応で手首決済が可能になり、手首を上げて話すだけでAI（Gemini）が起動するなど使い勝手が大幅進化。AI補正でGPS精度が2倍に向上した点も魅力ですが、2日は持たないバッテリーやiPhone非対応には注意が必要です。"
-    },
-    {
-      "id": "1c4263436427",
-      "title": "無料のオープンソースAIエージェント「goose」、デスクトップアプリ・CLI・APIなどコード・ワークフロー・その他あらゆる用途に対応",
-      "url": "https://gigazine.net/news/20260912-goose/",
-      "summary": "AIエージェントを使い始めると、用途や料金に応じてOpenAI・Claude・Google Gemini・ローカルLLMなどを使い分けたいケースがあります。そこで複数のAIプロバイダーを自由に切り替えながら、デスクトップアプリ・CLI・APIなどからMCPによるツール連携や自動化まで1つの環境で利用できるオープンソースのAIエージェント「goose」が公開されています。続きを読む...",
-      "date": "2026-09-12T09:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2,
-      "score": 5,
-      "reason": "未評価",
-      "summary_ja": "AIエージェントを使い始めると、用途や料金に応じてOpenAI・Claude・Google Gemini・ローカルLLMなどを使い分けたいケースがあります。そこで複数のAIプロバイダーを自由に切り替えながら、デスクトップアプリ・CLI・APIなどからMCPによるツール連携や自動化まで1つの環境で利用できるオープンソースのAIエージェント「goose」が公開されています。続きを読む..."
-    },
-    {
-      "id": "83a381a7bffe",
-      "title": "FMV直販、Ryzen AI 5 340+512GB SSD搭載の一体型デスクトップPCを24万4200円で販売中！",
-      "url": "https://ascii.jp/elem/000/004/433/4433765/?rss",
-      "summary": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
-      "date": "2026-09-12T07:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2,
-      "score": 5,
-      "reason": "未評価",
-      "summary_ja": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。"
+      "summary_ja": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversatio"
     },
     {
       "id": "7d445be5f430",
@@ -745,6 +721,20 @@
       "caveat_ja": "具体的なコード例や実装詳細は記事に記載されていない",
       "caveat_en": "Refer to official documentation for technical specifications",
       "translation_status": "machine"
+    },
+    {
+      "id": "2ba1ec749052",
+      "title": "Feeling sad about AI",
+      "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/",
+      "summary": "My comment on Feeling sad about AI — Hacker News.I'm not sure how useful it is to say this, but I think a lot of people (myself included, a few years ago now) have been through this moment of existential crisis and come out the other side. The initia",
+      "date": "2026-09-11T17:28:37+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "My comment on Feeling sad about AI — Hacker News.I'm not sure how useful it is to say this, but I think a lot of people (myself included, a few years ago now) have been through this moment of existential crisis and come out the other side. The initia"
     },
     {
       "id": "af48dfb8184c",
