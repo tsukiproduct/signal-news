@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-09-15_morning-ai-data-government-access",
+      "date": "2026-09-15",
+      "file_key": "2026-09-15_morning",
+      "title": "AI業務データ連携と政府向けアクセス拡大",
+      "summary": "ChatGPT WorkのデータエージェントとOpenAI-GSA連携、政府向けAI利用拡大の動向",
+      "tags": [
+        "ChatGPT Work",
+        "政府向けAI",
+        "AIガバナンス"
+      ],
+      "slug": "ai-data-government-access"
+    },
+    {
       "id": "2026-09-14_evening-ai-news-2026-09-agent-practical",
       "date": "2026-09-14",
       "file_key": "2026-09-14_evening",
@@ -423,22 +436,7 @@
         "ComfyUI"
       ],
       "slug": "ai-weekly-roundup-august-2026-industry-restructuring"
-    },
-    {
-      "id": "2026-08-28_afternoon-ai-news-roundup-august-28-2026",
-      "date": "2026-08-28",
-      "file_key": "2026-08-28_afternoon",
-      "title": "AIニュース解説：ウォーシュ議長講演とClaude Code自動化の今週の動向",
-      "summary": "FRBウォーシュ議長の講演、Claude Code Opus 5の自動モード、Roblox×AIハンズオンなど注目のAIトピックを解説。",
-      "tags": [
-        "AIニュース",
-        "Claude Code",
-        "金融政策",
-        "Roblox",
-        "開発ツール"
-      ],
-      "slug": "ai-news-roundup-august-28-2026"
     }
   ],
-  "updated_at": "2026-09-14T09:45:14.360810+00:00"
+  "updated_at": "2026-09-14T16:42:32.447947+00:00"
 }
