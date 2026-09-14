@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-09-14_evening-ai-news-2026-09-agent-practical",
+      "date": "2026-09-14",
+      "file_key": "2026-09-14_evening",
+      "title": "エージェント型AIの実用化が加速、政府提供と音声APIも進化",
+      "summary": "ChatGPT WorkのDataエージェントで企業データ分析が容易に。政府機関へ無償提供開始。音声APIとカスタムコスト機能も更新。",
+      "tags": [
+        "エージェントAI",
+        "API",
+        "ビジネス活用"
+      ],
+      "slug": "ai-news-2026-09-agent-practical"
+    },
+    {
       "id": "2026-09-14_morning-ai-news-2026-09-12",
       "date": "2026-09-14",
       "file_key": "2026-09-14_morning",
@@ -425,22 +438,7 @@
         "開発ツール"
       ],
       "slug": "ai-news-roundup-august-28-2026"
-    },
-    {
-      "id": "2026-08-28_morning-ai-weekly-talent-shuffle-qwen-new-model",
-      "date": "2026-08-28",
-      "file_key": "2026-08-28_morning",
-      "title": "AI人材大移動とQwen新モデル──今週の注目動向",
-      "summary": "OpenAI→Googleの人材移動、Qwen3.8-Flash-Next公開、AIバブル論まで。主要5トピックを解説。",
-      "tags": [
-        "AI人材",
-        "オープンウェイトモデル",
-        "Qwen",
-        "動画生成AI",
-        "AIバブル"
-      ],
-      "slug": "ai-weekly-talent-shuffle-qwen-new-model"
     }
   ],
-  "updated_at": "2026-09-13T23:51:39.833569+00:00"
+  "updated_at": "2026-09-14T09:45:14.360810+00:00"
 }
