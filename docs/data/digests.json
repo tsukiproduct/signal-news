@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "id": "2026-09-15_evening-ai-news-weekly-2026-sep",
+      "date": "2026-09-15",
+      "file_key": "2026-09-15_evening",
+      "title": "Apple AIサブスク、OpenAI政府連携、MicrosoftAI行動規範――今週のAI見どころ",
+      "summary": "AppleがHomeKitにAI機能をサブスクリプションで追加、OpenAIが政府・企業向けにサービス拡大、MicrosoftがAIモデルの行動規範を策定。インフラ・セキュリティ・利用形態の変化をまとめる。",
+      "tags": [
+        "Apple",
+        "OpenAI",
+        "Microsoft",
+        "Cloudflare",
+        "AI安全性",
+        "サブスクリプション"
+      ],
+      "slug": "ai-news-weekly-2026-sep"
+    },
+    {
       "id": "2026-09-15_morning-ai-news-roundup-home-security-government-access",
       "date": "2026-09-15",
       "file_key": "2026-09-15_morning",
@@ -423,20 +439,7 @@
         "業界動向"
       ],
       "slug": "ai-tech-current-overview"
-    },
-    {
-      "id": "2026-08-29_afternoon-english-slug",
-      "date": "2026-08-29",
-      "file_key": "2026-08-29_afternoon",
-      "title": "記事タイトル（40字以内）",
-      "summary": "要約（80字以内）",
-      "tags": [
-        "タグ1",
-        "タグ2",
-        "タグ3"
-      ],
-      "slug": "english-slug"
     }
   ],
-  "updated_at": "2026-09-15T00:10:16.767647+00:00"
+  "updated_at": "2026-09-15T09:22:48.228033+00:00"
 }
