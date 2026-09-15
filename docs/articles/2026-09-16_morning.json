@@ -1,0 +1,120 @@
+{
+  "id": "2026-09-16_morning-enterprise-ai-updates-data-government-video",
+  "file_key": "2026-09-16_morning",
+  "date": "2026-09-16",
+  "generated_at": "2026-09-15T15:22:34.178454+00:00",
+  "title": "企業AIが進化：データ分析・政府向け・動画理解が一新",
+  "slug": "enterprise-ai-updates-data-government-video",
+  "summary": "OpenAIのWorkデータ機能、政府向け無償化、Geminiの動画理解、Cloudflareコスト制御など、実務に直結するAI動向を解説。",
+  "tags": [
+    "OpenAI",
+    "ChatGPT Work",
+    "政府向けAI",
+    "Gemini",
+    "Cloudflare",
+    "AI Gateway",
+    "動画理解",
+    "データ分析"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "今週のAIニュースは、企業や個人がAIを実務に組み込む「裾野の拡大」がテーマです。OpenAIはChatGPT Workのデータ機能で社内データの自然言語分析を強化し、政府向けには無償・割引ライセンスを拡大。一方、Google DeepMindはエージェント的な動画理解をGeminiに搭載し、CloudflareはAI Gatewayのカスタムコストにキャッシュトークン対応を追加しました。これらはいずれも「AIを業務インフラに近づける」方向性を示しており、利用者側の判断基準（コスト・データ統合・出力品質）が整理されつつあります。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説：ChatGPT Workのデータ機能と政府向け無償化",
+      "body": "OpenAIが「Now everyone can put data to work」で発表したChatGPT WorkのDataエージェントは、企業が保有するデータソースを接続し、自然言語でインサイトを抽出し、インタラクティブなダッシュボードを作成できる機能です。従来のBIツールと異なり、SQLやダッシュボード設計の知識がなくても質問から可視化が生成される点が特徴です。価格や提供地域、商用利用の上限についてはOpenAI Blogの該当ページで要確認です。\n\n同ブログではもう一つ、OpenAIとGSA（米国総務管理局）の連携により、連邦・州・地方・部族政府に対して$0ライセンスと利用50%割引、サイバー防御サポートの拡充を発表しました。政府機関がAIを導入する際の初期コストが大幅に下がる一方、セキュリティ面の担保が重視されていることがうかがえます。導入条件や適用対象の詳細はOpenAIの公式ページで確認が必要です。",
+      "source_title": "Now everyone can put data to work / Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "source_url": "https://openai.com/index/put-data-to-work / https://openai.com/index/expanding-ai-access-us-government"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "Google DeepMindは「Introducing agentic video understanding with Gemini」で、Geminiがエージェント的に動画を理解する機能を発表しました。単なる動画認識ではなく、複数フレームを横断的に分析し、動きや因果関係を推論する点がポイントです。現時点での提供地域や利用条件、商用利用の可否はDeepMindブログの該当記事で要確認です。",
+      "source_title": "Introducing agentic video understanding with Gemini",
+      "source_url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "社内データ分析の起点に",
+      "prompt_body": "以下のプロンプトをChatGPT WorkのDataエージェントに渡して、社内データからインサイトを抽出できます。\n\n「過去1か月の売上データから、地域別・商品カテゴリ別の売上トレンドを分析し、顕著な変化があれば3つの仮説と検証方法を提案してください。結果をインタラクティブダッシュボードとしてまとめてください。」",
+      "prompt_usecase": "営業・マーケティングチームが週次で社内DBを確認する際の起点に。ダッシュボード生成を依頼すれば、BI担当者がいなくても可視化が始められます。",
+      "prompt_source": "https://openai.com/index/put-data-to-work"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "Simon WillisonがGPT-6 Astra(Max)を使って自宅周辺の5K/10KランニングルートをOpenStreetMapデータから生成した事例が話題になりました。わずか27分で要望通りのルートが完成し、複数の制約条件（坂道の回避、景色の良い区間など）を自然な指示で反映できる点が評価されています。地理空間データとLLMの組み合わせが、アウトドアや都市計画など幅広い場面で活用できる可能性を示唆しています。",
+      "source_title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
+      "source_url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "今回のニュースにイベント情報は含まれていません。AI関連のイベントは各社の公式ブログやコミュニティ（例：Last Week in AI、Hugging Face）で随時配信されています。",
+      "event_list": []
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "これらの動向をビジネスに活かすには、まず社内データを整理してChatGPT WorkのDataエージェントに接続し、自然言語での分析を試すことが有効です。政府機関や公共団体は$0ライセンスの対象要件を確認し、セキュリティ評価を踏んだ上で導入を検討できます。動画理解機能は、撮影した作業動画の分析や品質検査への応用が期待されます。\n\nコスト面では、Cloudflare AI Gatewayのカスタムコスト機能にキャッシュ読み取り・書き込みのトークン率が対応されたことで、既にキャッシュ済みリクエストのコスト可視化がしやすくなりました。大量のプロンプトを送信するアプリケーションでは、キャッシュ戦略の見直しが直接的なコスト削減につながります。\n\n個人用途では、Astraのようなマルチモーダルモデルで地図データを扱う活用が広がりそうです。ルート生成に留まらず、現場調査や物流の最適化にも応用できます。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "今回のニュースからは「AIが業務ツールに深く溶け込む」というトレンドが浮かび上がります。データ分析、政府向け無償化、コスト制御、マルチモーダル理解の4つの柱が整いつつあり、利用者は「AIをどう運用するか」に注力する時期です。次回のアップデートでは、API価格帯や提供地域の拡大、セキュリティ認証の動向を要確認です。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Now everyone can put data to work",
+      "url": "https://openai.com/index/put-data-to-work",
+      "source": "OpenAI Blog",
+      "category": "Research"
+    },
+    {
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "url": "https://openai.com/index/expanding-ai-access-us-government",
+      "source": "OpenAI Blog",
+      "category": "Research"
+    },
+    {
+      "title": "AI Gateway - AI Gateway custom costs support cache tokens",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-09-09-custom-cache-token-costs/",
+      "source": "Cloudflare AI Gateway",
+      "category": "Tech"
+    },
+    {
+      "title": "LWiAI Podcast #256 - Fable 5.1, Astra Tease, Gemini 3.8 Flash",
+      "url": "https://lastweekin.ai/p/lwiai-podcast-256-fable-51-astra",
+      "source": "Last Week in AI",
+      "category": "Research"
+    },
+    {
+      "title": "Introducing agentic video understanding with Gemini",
+      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "source": "Google DeepMind",
+      "category": "Research"
+    },
+    {
+      "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
+      "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
