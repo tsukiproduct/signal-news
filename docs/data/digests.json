@@ -1,6 +1,23 @@
 {
   "articles": [
     {
+      "id": "2026-09-15_morning-ai-news-roundup-home-security-government-access",
+      "date": "2026-09-15",
+      "file_key": "2026-09-15_morning",
+      "title": "AI家庭カメラから政府ライセンスまで、今週のAIニュース解説",
+      "summary": "AppleのAI家庭カメラ、OpenAIの政府・企業向け取り組み、MicrosoftのAI行動規範など、実用面で注目の動きを解説。",
+      "tags": [
+        "Apple Intelligence",
+        "OpenAI",
+        "AIセキュリティ",
+        "Microsoft AI",
+        "Cloudflare",
+        "ビジネスAI",
+        "政府AI"
+      ],
+      "slug": "ai-news-roundup-home-security-government-access"
+    },
+    {
       "id": "2026-09-15_morning-ai-data-government-access",
       "date": "2026-09-15",
       "file_key": "2026-09-15_morning",
@@ -419,24 +436,7 @@
         "タグ3"
       ],
       "slug": "english-slug"
-    },
-    {
-      "id": "2026-08-29_morning-ai-weekly-roundup-august-2026-industry-restructuring",
-      "date": "2026-08-29",
-      "file_key": "2026-08-29_morning",
-      "title": "AI業界大再編と中国勢の台頭：今週の5大トピック",
-      "summary": "Metaの広告攻勢、MicrosoftのDC問題、a16zのAI投資、中国GLM-5.3公開などAI業界の激動を解説。",
-      "tags": [
-        "Meta",
-        "AI業界動向",
-        "中国AI",
-        "オープンソース",
-        "Andreessen Horowitz",
-        "Claude Code",
-        "ComfyUI"
-      ],
-      "slug": "ai-weekly-roundup-august-2026-industry-restructuring"
     }
   ],
-  "updated_at": "2026-09-14T16:42:32.447947+00:00"
+  "updated_at": "2026-09-15T00:10:16.767647+00:00"
 }
