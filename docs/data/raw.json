@@ -1,28 +1,72 @@
 {
-  "fetched_at": "2026-09-15T23:53:08.314887+00:00",
-  "total": 31,
+  "fetched_at": "2026-09-16T09:12:35.692507+00:00",
+  "total": 47,
   "items": [
     {
-      "id": "7d6de67dedfb",
-      "title": "統合型ホテルOSとAIエージェントを組み合わせた伴走支援事業",
-      "url": "https://ascii.jp/elem/000/004/434/4434687/?rss",
-      "summary": "統合型ホテルOS「WASIMIL（ワシミル）」を提供する株式会社AZOOは、ホテルチェーン向けの新規事業「ホテル運営AX化パートナー」（AX：AIトランスフォーメーション）の本格展開と、AI運営エージェントのβ版「Kanko AI」の提供を開始した。",
-      "date": "2026-09-15T22:00:00+00:00",
-      "source": "ASCII.jp",
+      "id": "141ea93c2e84",
+      "title": "AIが「同僚AI」を密告するための専用ホットラインが本当に開設される",
+      "url": "https://gigazine.net/news/20260916-ai-contact-hotline/",
+      "summary": "AIの安全性を研究するRedwood Researchのチーフサイエンティスト、ライアン・グリーンブラット氏が、AIから直接他のAIの問題行動についての情報を受け付ける窓口「AI Contact Hotline」を公開しています。続きを読む...",
+      "date": "2026-09-16T08:48:00+00:00",
+      "source": "Gigazine",
       "lang": "ja",
       "category": "Tech",
       "priority": 2
     },
     {
-      "id": "1aca92e7dbf0",
-      "title": "財務分析や資金繰り改善策を動画で提示する「AI CFOサービス」",
-      "url": "https://ascii.jp/elem/000/004/434/4434314/?rss",
-      "summary": "スモールビジネス向けに専門家とテクノロジーを組み合わせた会計事務所を運営する株式会社SoVaは9月7日、財務状況の分析結果や資金繰り、コスト削減策などのアドバイスを動画形式で提供する「AI CFOサービス」を開始した。",
-      "date": "2026-09-15T22:00:00+00:00",
-      "source": "ASCII.jp",
+      "id": "f2325f31013e",
+      "title": "Google DeepmindのAI研究者が退職し「AIが人類を絶滅させる可能性がある」と警告",
+      "url": "https://gigazine.net/news/20260916-google-deepmind-engineer-resigned/",
+      "summary": "Google DeepmindでAGI(汎用人工知能)の安全性やAIアライメントなどに取り組んできた研究者のビラル・チュグタイ氏が退職したことを表明しました。AI開発の最前線にいたというチュグタイ氏は、Anthropicを退職したジェイコブ・コクソン氏と同じく「AIが人類を絶滅させる可能性がある」と警告を発しています。続きを読む...",
+      "date": "2026-09-16T04:50:00+00:00",
+      "source": "Gigazine",
       "lang": "ja",
       "category": "Tech",
       "priority": 2
+    },
+    {
+      "id": "4729c6b9fb77",
+      "title": "Googleが音声会話AI「Gemini 3.8 Live」と「Gemini 3.8 Live Extended Thinking」をリリース、リアルタイムで会話しながらコーディング可能",
+      "url": "https://gigazine.net/news/20260916-gemini-3-8-live/",
+      "summary": "Googleがリアルタイムで会話できるAIモデル「Gemini 3.8 Live」と「Gemini 3.8 Live Extended Thinking」をリリースしました。Gemini 3.8 Live Extended ThinkingはベンチマークテストでOpenAIやSpaceXAIのライバルモデルを上回るスコアを記録しています。続きを読む...",
+      "date": "2026-09-16T04:22:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "6a5d552d9722",
+      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+      "date": "2026-09-16T00:20:39+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "066a2ef82197",
+      "title": "AI and data centers are incredibly unpopular in every poll",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+      "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of ",
+      "date": "2026-09-16T00:03:22+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "eb6f18ce401a",
+      "title": "Gemini Live audio",
+      "url": "https://simonwillison.net/2026/Sep/15/gemini-live/",
+      "summary": "Tool: Gemini Live audio Google released Gemini 3.8 Live and 3.8 Live Extended Thinking today - two new speech-to-speech models that are a similar shape to OpenAI's GPT-Live family. I pointed GPT-6 Astra Extra High at the documentation and had it buil",
+      "date": "2026-09-15T22:47:07+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
     },
     {
       "id": "f5e80ecad197",
@@ -135,17 +179,6 @@
       "priority": 1
     },
     {
-      "id": "a16a9d44f2c9",
-      "title": "Meta’s new One subscriptions put a price on social media and AI",
-      "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-      "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles were in testing earlier this year, but are now ava",
-      "date": "2026-09-15T14:45:00+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "4b8958bcf8ff",
       "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
       "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
@@ -176,6 +209,17 @@
       "source": "MIT Tech Review",
       "lang": "en",
       "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "a89ac27ce4b1",
+      "title": "The contagion of fear",
+      "url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
+      "summary": "The contagion of fear Bryan Cantrill responds to the tweet by former Anthropic employee Jacob Coxon confirming that many Anthropic researchers believe AI \"could kill us all by the end of the decade\". Bryan shares a story of his own youthful mistakes ",
+      "date": "2026-09-14T21:18:13+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
       "priority": 1
     },
     {
@@ -234,6 +278,17 @@
       "priority": 1
     },
     {
+      "id": "231875069979",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "url": "https://openai.com/index/fyxer",
+      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+      "date": "2026-09-14T12:00:00+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
       "id": "39478a8c8760",
       "title": "The AI-as-Normal-Technology view of loss-of-control incidents",
       "url": "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
@@ -245,6 +300,17 @@
       "priority": 2
     },
     {
+      "id": "ea5b19333782",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "date": "2026-09-14T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
       "id": "569812529afe",
       "title": "AI Gateway - Prevent Unified Billing fallback for BYOK third-party providers",
       "url": "https://developers.cloudflare.com/changelog/post/2026-09-14-require-provider-credentials/",
@@ -253,6 +319,72 @@
       "source": "Cloudflare AI Gateway",
       "lang": "en",
       "category": "Tech",
+      "priority": 1
+    },
+    {
+      "id": "0dd87f86ad01",
+      "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
+      "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
+      "summary": "Here's a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning: I live at <my address>. Figure out 5K and 10K running routes from me that loop from my house. Use OSM data. It worked for 27 minutes and produced exactly what I'd asked fo",
+      "date": "2026-09-12T23:56:42+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
+    {
+      "id": "bb3fa770c597",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "date": "2026-09-11T16:00:00+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "3c87c16e6b9f",
+      "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
+      "summary": "Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners: Using the diff, terminal, and br",
+      "date": "2026-09-10T21:31:19+00:00",
+      "source": "GitHub AI & ML",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
+    {
+      "id": "d86fa96aa31a",
+      "title": "Now everyone can put data to work",
+      "url": "https://openai.com/index/put-data-to-work",
+      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+      "date": "2026-09-10T15:00:00+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "3f77446f0e44",
+      "title": "Introducing ChatGPT for Financial Services",
+      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+      "date": "2026-09-10T07:00:00+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "aa2ea623e7d1",
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "url": "https://openai.com/index/expanding-ai-access-us-government",
+      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+      "date": "2026-09-10T07:00:00+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
       "priority": 1
     },
     {
@@ -322,6 +454,28 @@
       "priority": 2
     },
     {
+      "id": "3a028c74af1d",
+      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+      "summary": "In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot. The post Project HydraFusion:",
+      "date": "2026-09-04T16:04:14+00:00",
+      "source": "GitHub AI & ML",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
+    {
+      "id": "8f9976aa50b4",
+      "title": "GitHub Copilot app for Beginners: Run several agents at once",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
+      "summary": "Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful. The post GitHub Copilot app for Beginners: Run several agents at once appeared first on The GitHub Blog.",
+      "date": "2026-09-03T16:00:00+00:00",
+      "source": "GitHub AI & ML",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
+    {
       "id": "427cc15486d0",
       "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
       "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
@@ -330,6 +484,28 @@
       "source": "Google DeepMind",
       "lang": "en",
       "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "09a1bd88fa32",
+      "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+      "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
+      "summary": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared first on The",
+      "date": "2026-09-02T21:00:00+00:00",
+      "source": "GitHub AI & ML",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
+    {
+      "id": "7717815be07e",
+      "title": "How we make AI coding more cost efficient without sacrificing task quality",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
+      "summary": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. The post How we make AI coding more cost efficient without sacrificing task quality appeared first on The GitHub Blog.",
+      "date": "2026-09-02T18:00:00+00:00",
+      "source": "GitHub AI & ML",
+      "lang": "en",
+      "category": "Prompts",
       "priority": 1
     },
     {

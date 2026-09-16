@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "2026-09-16_evening-ai-access-cyber-defense",
+      "date": "2026-09-16",
+      "file_key": "2026-09-16_evening",
+      "title": "AIのアクセス拡大とサイバー防御の進展",
+      "summary": "OpenAIとGSAが政府機関にAIサービスの割引とセキュリティ支援を拡充。GoogleはGemini 3.8シリーズをリリースし、MetaはAIエージェントによるWhatsApp Businessの自動化を進める。",
+      "tags": [
+        "AIアクセス",
+        "政府向けAI",
+        "コーディングAI",
+        "Cybersecurity"
+      ],
+      "slug": "ai-access-cyber-defense"
+    },
+    {
       "id": "2026-09-16_morning-enterprise-ai-updates-data-government-video",
       "date": "2026-09-16",
       "file_key": "2026-09-16_morning",
@@ -429,22 +443,7 @@
         "AIガバナンス"
       ],
       "slug": "eu-ai-regulation-meta-robotics-image-generation"
-    },
-    {
-      "id": "2026-08-31_morning-caterpillar-ai-deployment-and-weekly-ai-trends",
-      "date": "2026-08-31",
-      "file_key": "2026-08-31_morning",
-      "title": "Caterpillarの鉱山自動化に学ぶAI展開と今週の注目AI動向",
-      "summary": "建機のCaterpillarが鉱山自動化で培った知見をAI展開に転用。Flint可視化言語やTencentのHy4など今週の技術動向も解説。",
-      "tags": [
-        "産業AI",
-        "自律走行",
-        "可視化",
-        "オープンウェイトLLM",
-        "AI用語論"
-      ],
-      "slug": "caterpillar-ai-deployment-and-weekly-ai-trends"
     }
   ],
-  "updated_at": "2026-09-15T15:22:34.179220+00:00"
+  "updated_at": "2026-09-16T09:15:58.131822+00:00"
 }
