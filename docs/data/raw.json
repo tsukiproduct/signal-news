@@ -1,7 +1,117 @@
 {
-  "fetched_at": "2026-09-17T09:20:51.190343+00:00",
+  "fetched_at": "2026-09-17T15:20:32.133317+00:00",
   "total": 44,
   "items": [
+    {
+      "id": "e95f62cf60ae",
+      "title": "AI is feared globally as the destroyer of jobs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
+      "summary": "Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income inequality. The survey questioned 42,151 people across 37 countries from February 8th to May 13th - well ",
+      "date": "2026-09-17T14:18:57+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "5d18789efa07",
+      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+      "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+      "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
+      "date": "2026-09-17T14:06:14+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "354af6386954",
+      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
+      "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+      "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions.",
+      "date": "2026-09-17T13:46:16+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "3451114a7901",
+      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+      "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+      "summary": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
+      "date": "2026-09-17T13:38:33+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "74a1f4fa23b1",
+      "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+      "url": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
+      "summary": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation. It should come as no surprise that Mustafa has strong opinions on",
+      "date": "2026-09-17T13:36:43+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "f0ff77c8dc9e",
+      "title": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plugins",
+      "url": "https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst",
+      "summary": "Lunacy, purveyor of fine VST plugins like Cube, a synth that you control by moving a ball around a 3D space, has just launched Nova, a platform where creators can build custom music tools using AI and sell them to others. At first, there will be a ha",
+      "date": "2026-09-17T13:30:04+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "b976cf94b51b",
+      "title": "Inside the suddenly explosive world of AI safety",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
+      "summary": "On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building. They had come together for a \"war room\" to dissect the high-profile cybersecurity incident that had rocked the",
+      "date": "2026-09-17T12:49:56+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "5e58afaf6a6d",
+      "title": "FMVの「目玉品」に注目！ 23.8型ディスプレーの一体型デスクトップPCが、Ryzen AI 5 340搭載で24万円台！",
+      "url": "https://ascii.jp/elem/000/004/435/4435937/?rss",
+      "summary": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
+      "date": "2026-09-17T11:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "37754e848460",
+      "title": "デジタル相に古川俊治氏 AI戦略やサイバー安保も担当 外科医で弁護士、MBAも取得",
+      "url": "https://www.itmedia.co.jp/news/article/2609/17/2000001594/",
+      "summary": "木原稔官房長官は9月17日の記者会見で、第2次高市改造内閣の閣僚名簿を公表し、デジタル大臣に自民党の古川俊治参院議員（63）を起用すると明らかにした。古川氏は初入閣で、AI・デジタル改革推進やサイバー安全保障、人工知能戦略なども担当する。",
+      "date": "2026-09-17T10:36:13+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "fd1a0831b51f",
+      "title": "iPhoneで撮影した写真がAI生成されていない「本物」だと証明する「Apple Reference Image」はどういう仕組みなのか？",
+      "url": "https://gigazine.net/news/20260917-apple-reference-image/",
+      "summary": "生成AIによって写実的な画像を作成できるようになり、写真の見た目だけで実際に撮影されたものかどうかを判断することは難しくなっています。Appleは2026年9月10日に開催された新製品発表イベント「Surprise and shine.」で、iPhone 18 Pro／Pro Maxと共に、iPhoneで撮影された写真が実際のカメラセンサーの記録に基づくことを示す新技術「Apple Reference Image」を発表しました。このApple Reference Imageについて、Apple",
+      "date": "2026-09-17T10:00:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
     {
       "id": "d90d9672d7c3",
       "title": "Last Week in AI #344 - Navier–Stokes, Pacing the Frontier, AI Misuse",
@@ -17,7 +127,7 @@
       "id": "4f879da66298",
       "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
       "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-      "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+      "summary": "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,",
       "date": "2026-09-17T05:00:00+00:00",
       "source": "TechCrunch AI",
       "lang": "en",
@@ -58,61 +168,6 @@
       "priority": 1
     },
     {
-      "id": "a4f0cae5cc3a",
-      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
-      "date": "2026-09-16T21:07:24+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "c623aea4a21f",
-      "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
-      "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
-      "summary": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely with AI is so bad that it might just make viewers hat",
-      "date": "2026-09-16T21:03:21+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "418dbc769c8c",
-      "title": "The AI data center e-waste problem is huge — and getting bigger",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
-      "summary": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six times if lined up in a row. It's a s",
-      "date": "2026-09-16T20:40:46+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "ab2a2f0bede5",
-      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
-      "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
-      "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like Meta's Muse and Gemini's Spar",
-      "date": "2026-09-16T20:10:47+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "f60a2a4ca838",
-      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
-      "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
-      "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
-      "date": "2026-09-16T18:25:25+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
       "id": "6d64d4432b82",
       "title": "Claude Cowork and chat are now one Claude",
       "url": "https://simonwillison.net/2026/Sep/16/one-claude/",
@@ -121,28 +176,6 @@
       "source": "Simon Willison",
       "lang": "en",
       "category": "Prompts",
-      "priority": 1
-    },
-    {
-      "id": "bdc341c04479",
-      "title": "Apple might make servers again to cash in on the AI rush",
-      "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
-      "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But th",
-      "date": "2026-09-16T17:41:18+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "eb823604160e",
-      "title": "Your AI agents can now control your Google Home devices",
-      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
-      "date": "2026-09-16T17:00:00+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
       "priority": 1
     },
     {
@@ -278,17 +311,6 @@
       "priority": 1
     },
     {
-      "id": "03f235e72691",
-      "title": "What’s at stake in AI’s trillion-dollar gamble",
-      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-      "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what",
-      "date": "2026-09-15T10:00:00+00:00",
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
       "id": "a89ac27ce4b1",
       "title": "The contagion of fear",
       "url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
@@ -309,17 +331,6 @@
       "lang": "en",
       "category": "Tech",
       "priority": 2
-    },
-    {
-      "id": "f4964ed02dfb",
-      "title": "The AI industry has taken a doomer turn. What now?",
-      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amode",
-      "date": "2026-09-14T17:54:22+00:00",
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
     },
     {
       "id": "f8a70a087364",
@@ -473,17 +484,6 @@
       "source": "GitHub AI & ML",
       "lang": "en",
       "category": "Prompts",
-      "priority": 1
-    },
-    {
-      "id": "427cc15486d0",
-      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-      "summary": "",
-      "date": "2026-09-03T15:02:08+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
       "priority": 1
     }
   ]
