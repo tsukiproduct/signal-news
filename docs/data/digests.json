@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-09-17_evening-cloudflare-ai-gateway-auth-cache-costs",
+      "date": "2026-09-17",
+      "file_key": "2026-09-17_evening",
+      "title": "Cloudflare AI Gatewayに認証必須化とキャッシュコスト対応",
+      "summary": "CloudflareがAI GatewayでBYOK認証を必須化、キャッシュトークンのカスタムコスト対応を追加。開発者のコスト管理が強化。",
+      "tags": [
+        "Cloudflare",
+        "AI運用",
+        "コスト最適化"
+      ],
+      "slug": "cloudflare-ai-gateway-auth-cache-costs"
+    },
+    {
       "id": "2026-09-16_evening-ai-access-cyber-defense",
       "date": "2026-09-16",
       "file_key": "2026-09-16_evening",
@@ -427,23 +440,7 @@
         "business AI"
       ],
       "slug": "ai-boom-meets-practical-limits-and-new-tools"
-    },
-    {
-      "id": "2026-08-31_evening-eu-ai-regulation-meta-robotics-image-generation",
-      "date": "2026-08-31",
-      "file_key": "2026-08-31_evening",
-      "title": "EU規制と企業実践の最前線：AIガバナンスと業務自動化の交差点",
-      "summary": "EUのDSA規制がAIサービスに拡大適用へ。Metaはデータセンター作業のロボット自動化を推進。画像生成AIではLoRA技術が進化。",
-      "tags": [
-        "EU規制",
-        "DSA",
-        "Metaロボット",
-        "StableDiffusion",
-        "ChatGPTWork",
-        "AIガバナンス"
-      ],
-      "slug": "eu-ai-regulation-meta-robotics-image-generation"
     }
   ],
-  "updated_at": "2026-09-16T09:15:58.131822+00:00"
+  "updated_at": "2026-09-17T09:27:31.767716+00:00"
 }
