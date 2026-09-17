@@ -1,7 +1,117 @@
 {
-  "fetched_at": "2026-09-17T15:20:32.133317+00:00",
+  "fetched_at": "2026-09-17T23:50:21.668866+00:00",
   "total": 44,
   "items": [
+    {
+      "id": "e3285a711c8c",
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular “AI factories”",
+      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "summary": "The round values the data center giant at $30.9 billion.",
+      "date": "2026-09-17T23:25:52+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "1f172f85d3ea",
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
+      "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+      "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
+      "date": "2026-09-17T22:34:09+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "787bbd73daf7",
+      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+      "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+      "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
+      "date": "2026-09-17T22:14:59+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "3ea45800d948",
+      "title": "地方総合病院から生まれたデータとAIを組み合わせた医療機関向け基幹システム",
+      "url": "https://ascii.jp/elem/000/004/435/4435533/?rss",
+      "summary": "医療機関向けAI事業を手がける株式会社Albatrusは9月10日、電子カルテなどの院内データとAIエージェントによる業務自動化を統合した病院向け基幹システム「Apollo AI」の正式提供を開始した。2024年から提供してきた従来製品「メディラクAI」の機能を刷新したアップデート版となる。",
+      "date": "2026-09-17T22:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "85b0b4814d51",
+      "title": "The AI Superintelligence Slowdown",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+      "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of l",
+      "date": "2026-09-17T21:22:19+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "5e7cc4bf41d7",
+      "title": "The fix for rogue AI agents could be more AI",
+      "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+      "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
+      "date": "2026-09-17T20:34:47+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "41da7ed56ef0",
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
+      "date": "2026-09-17T20:34:24+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "9d61eb9bd1c6",
+      "title": "Is the AI safety debate about safety or control?",
+      "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+      "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
+      "date": "2026-09-17T20:19:37+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "22b6bd9b8747",
+      "title": "UN turns to Google to make its global data ready for AI agents",
+      "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+      "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+      "date": "2026-09-17T20:00:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "f0feb3e3451d",
+      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+      "summary": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents, each project h",
+      "date": "2026-09-17T18:59:57+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
     {
       "id": "e95f62cf60ae",
       "title": "AI is feared globally as the destroyer of jobs",
@@ -12,39 +122,6 @@
       "lang": "en",
       "category": "Tech",
       "priority": 2
-    },
-    {
-      "id": "5d18789efa07",
-      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-      "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
-      "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
-      "date": "2026-09-17T14:06:14+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "354af6386954",
-      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
-      "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
-      "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions.",
-      "date": "2026-09-17T13:46:16+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "3451114a7901",
-      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
-      "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
-      "summary": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
-      "date": "2026-09-17T13:38:33+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
     },
     {
       "id": "74a1f4fa23b1",
@@ -58,56 +135,12 @@
       "priority": 2
     },
     {
-      "id": "f0ff77c8dc9e",
-      "title": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plugins",
-      "url": "https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst",
-      "summary": "Lunacy, purveyor of fine VST plugins like Cube, a synth that you control by moving a ball around a 3D space, has just launched Nova, a platform where creators can build custom music tools using AI and sell them to others. At first, there will be a ha",
-      "date": "2026-09-17T13:30:04+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "b976cf94b51b",
-      "title": "Inside the suddenly explosive world of AI safety",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
-      "summary": "On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building. They had come together for a \"war room\" to dissect the high-profile cybersecurity incident that had rocked the",
-      "date": "2026-09-17T12:49:56+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "5e58afaf6a6d",
-      "title": "FMVの「目玉品」に注目！ 23.8型ディスプレーの一体型デスクトップPCが、Ryzen AI 5 340搭載で24万円台！",
-      "url": "https://ascii.jp/elem/000/004/435/4435937/?rss",
-      "summary": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
-      "date": "2026-09-17T11:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "37754e848460",
       "title": "デジタル相に古川俊治氏 AI戦略やサイバー安保も担当 外科医で弁護士、MBAも取得",
       "url": "https://www.itmedia.co.jp/news/article/2609/17/2000001594/",
       "summary": "木原稔官房長官は9月17日の記者会見で、第2次高市改造内閣の閣僚名簿を公表し、デジタル大臣に自民党の古川俊治参院議員（63）を起用すると明らかにした。古川氏は初入閣で、AI・デジタル改革推進やサイバー安全保障、人工知能戦略なども担当する。",
       "date": "2026-09-17T10:36:13+00:00",
       "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "fd1a0831b51f",
-      "title": "iPhoneで撮影した写真がAI生成されていない「本物」だと証明する「Apple Reference Image」はどういう仕組みなのか？",
-      "url": "https://gigazine.net/news/20260917-apple-reference-image/",
-      "summary": "生成AIによって写実的な画像を作成できるようになり、写真の見た目だけで実際に撮影されたものかどうかを判断することは難しくなっています。Appleは2026年9月10日に開催された新製品発表イベント「Surprise and shine.」で、iPhone 18 Pro／Pro Maxと共に、iPhoneで撮影された写真が実際のカメラセンサーの記録に基づくことを示す新技術「Apple Reference Image」を発表しました。このApple Reference Imageについて、Apple",
-      "date": "2026-09-17T10:00:00+00:00",
-      "source": "Gigazine",
       "lang": "ja",
       "category": "Tech",
       "priority": 2
@@ -124,28 +157,6 @@
       "priority": 2
     },
     {
-      "id": "4f879da66298",
-      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-      "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-      "summary": "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,",
-      "date": "2026-09-17T05:00:00+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "b7c7d891caa0",
-      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-      "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. R",
-      "date": "2026-09-17T03:30:00+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
       "id": "7d3425004c51",
       "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
       "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
@@ -157,14 +168,14 @@
       "priority": 1
     },
     {
-      "id": "546ee7cd8ec8",
-      "title": "Al Gore says the real AI risk isn’t data centers",
-      "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-      "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
-      "date": "2026-09-16T23:43:09+00:00",
-      "source": "TechCrunch AI",
+      "id": "28064af8f2f1",
+      "title": "Workers AI - Reject busy synchronous inference requests",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-09-17-reject-if-busy/",
+      "summary": "The rejectIfBusy option lets synchronous Workers AI inference requests fail when capacity is unavailable. Use it when your application should not wait in a capacity queue. Pass the option as the third argument to the Workers AI binding: const respons",
+      "date": "2026-09-17T00:00:00+00:00",
+      "source": "Cloudflare Workers AI",
       "lang": "en",
-      "category": "Industry",
+      "category": "Tech",
       "priority": 1
     },
     {
@@ -470,17 +481,6 @@
       "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
       "summary": "In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot. The post Project HydraFusion:",
       "date": "2026-09-04T16:04:14+00:00",
-      "source": "GitHub AI & ML",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1
-    },
-    {
-      "id": "8f9976aa50b4",
-      "title": "GitHub Copilot app for Beginners: Run several agents at once",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
-      "summary": "Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful. The post GitHub Copilot app for Beginners: Run several agents at once appeared first on The GitHub Blog.",
-      "date": "2026-09-03T16:00:00+00:00",
       "source": "GitHub AI & ML",
       "lang": "en",
       "category": "Prompts",
