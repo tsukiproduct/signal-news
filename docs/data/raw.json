@@ -1,17 +1,138 @@
 {
-  "fetched_at": "2026-09-16T15:11:47.257105+00:00",
+  "fetched_at": "2026-09-16T23:59:51.343218+00:00",
   "total": 42,
   "items": [
     {
-      "id": "45890a1118c8",
-      "title": "The sexy AI-powered dating app scams are here",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
-      "summary": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, she's a 41-year-old Sagittarius with red hair, blue ",
-      "date": "2026-09-16T14:40:56+00:00",
+      "id": "92e8cccc9b53",
+      "title": "Anthropic、Claudeの「チャット」と「Cowork」を統合 資料作成の「Docs」「Slides」も",
+      "url": "https://www.itmedia.co.jp/news/article/2609/17/2000001565/",
+      "summary": "AnthropicがAIアシスタント「Claude」のチャットと作業環境「Claude Cowork」を統合した。簡単な対話から複数手順の複雑な作業までを1つの会話内で完結でき、文書作成「Claude Docs」やスライド作成機能も追加。ProやMax向けから段階的に展開する。",
+      "date": "2026-09-16T23:05:35+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "a4f0cae5cc3a",
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+      "date": "2026-09-16T21:07:24+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "c623aea4a21f",
+      "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+      "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+      "summary": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely with AI is so bad that it might just make viewers hat",
+      "date": "2026-09-16T21:03:21+00:00",
       "source": "The Verge",
       "lang": "en",
       "category": "Tech",
       "priority": 2
+    },
+    {
+      "id": "8fbe1a4d19f6",
+      "title": "Claude Fable 5.1が370年前の未解読暗号「Cyphral Distich」を1日足らずで解読",
+      "url": "https://gigazine.net/news/20260917-fable-solves-cyphral-distich/",
+      "summary": "AIモデル「Claude Fable 5.1」が370年以上未解読とされてきた謎の暗号「Cyphral Distich」をわずか1日足らずで解読したというニュースが飛び込んできました。1899年に「Notes and Queries」誌で未解決問題として提示されて以来、「Cyphral Distich」は多くの暗号研究者たちの挑戦を退けてきた難問でした。AIが具体的にどのようにして暗号を解読したかについて、AI研究者のゲビー・ジャフ氏がブログにて語っています。続きを読む...",
+      "date": "2026-09-16T21:00:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "418dbc769c8c",
+      "title": "The AI data center e-waste problem is huge — and getting bigger",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+      "summary": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six times if lined up in a row. It's a s",
+      "date": "2026-09-16T20:40:46+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "ab2a2f0bede5",
+      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+      "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+      "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like Meta's Muse and Gemini's Spar",
+      "date": "2026-09-16T20:10:47+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "f60a2a4ca838",
+      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+      "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+      "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
+      "date": "2026-09-16T18:25:25+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "6d64d4432b82",
+      "title": "Claude Cowork and chat are now one Claude",
+      "url": "https://simonwillison.net/2026/Sep/16/one-claude/",
+      "summary": "Claude Cowork and chat are now one Claude In hopefully good news for anyone who, like me, was increasingly confused at Cowork v.s. Claude v.s. Claude Code: Starting today, Claude Cowork and chat are merging into one Claude. Bring a quick question, or",
+      "date": "2026-09-16T18:09:49+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
+    {
+      "id": "bdc341c04479",
+      "title": "Apple might make servers again to cash in on the AI rush",
+      "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+      "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But th",
+      "date": "2026-09-16T17:41:18+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "eb823604160e",
+      "title": "Your AI agents can now control your Google Home devices",
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
+      "date": "2026-09-16T17:00:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "b4b0475ed0c8",
+      "title": "Anthropic merges Claude chat and Cowork in one interface",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+      "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+      "date": "2026-09-16T16:30:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "2c7667f6e80a",
+      "title": "Helping older adults use AI in everyday life",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "date": "2026-09-16T16:00:00+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
     },
     {
       "id": "d2e2a131de12",
@@ -22,17 +143,6 @@
       "source": "OpenAI Blog",
       "lang": "en",
       "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "766bd696566c",
-      "title": "Former Infosys chief’s AI startup nabs another $53M",
-      "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
-      "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
-      "date": "2026-09-16T13:00:00+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
       "priority": 1
     },
     {
@@ -58,47 +168,25 @@
       "priority": 1
     },
     {
-      "id": "0c77d4bbe647",
-      "title": "A brief history of AI executives calling for regulation",
-      "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-      "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofou",
-      "date": "2026-09-16T11:14:55+00:00",
-      "source": "The Verge",
+      "id": "ddf43229688c",
+      "title": "How to connect AI usage to business value",
+      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+      "date": "2026-09-16T12:00:00+00:00",
+      "source": "OpenAI Blog",
       "lang": "en",
-      "category": "Tech",
-      "priority": 2
+      "category": "Research",
+      "priority": 1
     },
     {
-      "id": "6eba3d1ff029",
-      "title": "iPhoneの画像生成AIがアップデートされたので使ってみた、無料で使えるが品質はかなり低め",
-      "url": "https://gigazine.net/news/20260916-image-playground-ios-27/",
-      "summary": "日本時間の2026年9月15日にiOS 27が正式リリースされ、Apple製の画像生成AIアプリ「Image Playground」もアップデートされました。どれくらいの品質で画像を生成できるのか気になったので実際に使ってみました。続きを読む...",
-      "date": "2026-09-16T10:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "141ea93c2e84",
-      "title": "AIが「同僚AI」を密告するための専用ホットラインが本当に開設される",
-      "url": "https://gigazine.net/news/20260916-ai-contact-hotline/",
-      "summary": "AIの安全性を研究するRedwood Researchのチーフサイエンティスト、ライアン・グリーンブラット氏が、AIから直接他のAIの問題行動についての情報を受け付ける窓口「AI Contact Hotline」を公開しています。続きを読む...",
-      "date": "2026-09-16T08:48:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "6a5d552d9722",
-      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
-      "date": "2026-09-16T00:20:39+00:00",
-      "source": "TechCrunch AI",
+      "id": "f80091762901",
+      "title": "How workers are unlocking new ways of working",
+      "url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+      "date": "2026-09-16T09:00:00+00:00",
+      "source": "OpenAI Blog",
       "lang": "en",
-      "category": "Industry",
+      "category": "Research",
       "priority": 1
     },
     {
@@ -110,17 +198,6 @@
       "source": "Simon Willison",
       "lang": "en",
       "category": "Prompts",
-      "priority": 1
-    },
-    {
-      "id": "f5e80ecad197",
-      "title": "The AI data center boom is colliding with cities scarred by big industry",
-      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
-      "date": "2026-09-15T21:47:38+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
       "priority": 1
     },
     {
@@ -278,28 +355,6 @@
       "priority": 1
     },
     {
-      "id": "0dd87f86ad01",
-      "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
-      "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
-      "summary": "Here's a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning: I live at <my address>. Figure out 5K and 10K running routes from me that loop from my house. Use OSM data. It worked for 27 minutes and produced exactly what I'd asked fo",
-      "date": "2026-09-12T23:56:42+00:00",
-      "source": "Simon Willison",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1
-    },
-    {
-      "id": "bb3fa770c597",
-      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-      "date": "2026-09-11T16:00:00+00:00",
-      "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
       "id": "3c87c16e6b9f",
       "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
       "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
@@ -308,28 +363,6 @@
       "source": "GitHub AI & ML",
       "lang": "en",
       "category": "Prompts",
-      "priority": 1
-    },
-    {
-      "id": "d86fa96aa31a",
-      "title": "Now everyone can put data to work",
-      "url": "https://openai.com/index/put-data-to-work",
-      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-      "date": "2026-09-10T15:00:00+00:00",
-      "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "3f77446f0e44",
-      "title": "Introducing ChatGPT for Financial Services",
-      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-      "date": "2026-09-10T07:00:00+00:00",
-      "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
       "priority": 1
     },
     {
@@ -426,39 +459,6 @@
       "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
       "summary": "",
       "date": "2026-09-03T15:02:08+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "09a1bd88fa32",
-      "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-      "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
-      "summary": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared first on The",
-      "date": "2026-09-02T21:00:00+00:00",
-      "source": "GitHub AI & ML",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1
-    },
-    {
-      "id": "7717815be07e",
-      "title": "How we make AI coding more cost efficient without sacrificing task quality",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
-      "summary": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. The post How we make AI coding more cost efficient without sacrificing task quality appeared first on The GitHub Blog.",
-      "date": "2026-09-02T18:00:00+00:00",
-      "source": "GitHub AI & ML",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1
-    },
-    {
-      "id": "43c527ed827d",
-      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-      "summary": "",
-      "date": "2026-09-02T16:18:31+00:00",
       "source": "Google DeepMind",
       "lang": "en",
       "category": "Research",
