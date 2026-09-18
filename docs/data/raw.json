@@ -1,10 +1,87 @@
 {
-  "fetched_at": "2026-09-17T23:50:21.668866+00:00",
-  "total": 44,
+  "fetched_at": "2026-09-18T08:55:39.034118+00:00",
+  "total": 46,
   "items": [
     {
+      "id": "0feaed36955f",
+      "title": "生成AIで物議のレベルファイブ、東京ゲームショウ当日の様子は……現地を見てきた",
+      "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001633/",
+      "summary": "9月10日のオンライン発表会でAI生成動画を利用し、SNSで物議を醸したレベルファイブ。数日後に「東京ゲームショウ2026」（幕張メッセ）の開催を控えての炎上になったが、イベント当日の様子はどうか。現地を実際に見てきたので、写真を交えて紹介する。",
+      "date": "2026-09-18T07:52:09+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "810c0016157e",
+      "title": "「上司に言いにくい」をAIが拾う 豊中市教委、職員の本音を匿名で集めるアプリを試験導入 自治体初",
+      "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001630/",
+      "summary": "大阪府豊中市教育委員会は、職員の気づきや悩みを匿名で集めて管理職に届けるアプリ「ココボイス」を試験導入した。自治体での導入は初めて。生成AIとの対話で、対面では伝えにくい本音を職場の改善につなげる。",
+      "date": "2026-09-18T07:01:57+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "091ca2d92507",
+      "title": "世界37カ国のうち日本を含むほとんどの国で「AIは雇用増加ではなく雇用喪失を引き起こす」と予想されていることが判明",
+      "url": "https://gigazine.net/news/20260918-more-people-expect-ai-job-loss/",
+      "summary": "生成AIはこれまで人間の労働者が担っていたさまざまなタスクを代替することが可能で、AIの導入によって雇用が減少するのではないかとの懸念が高まっています。中には「AIは産業革命のように、一部の仕事を消し去る代わりに新たな仕事も生み出す」という意見もありますが、アメリカのピュー研究所が世界37カ国を対象に行った調査では、日本を含むほとんどの国で「AIは雇用喪失を引き起こす」と予想されていることが判明しました。続きを読む...",
+      "date": "2026-09-18T06:00:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "2d283446f8f4",
+      "title": "「Qwen3.8-Omni-Flash」リリース、Gemini 3.8 Flashに匹敵する音声・映像処理性能を達成",
+      "url": "https://gigazine.net/news/20260918-qwen-3-8-omni-flash/",
+      "summary": "中国の大手テクノロジー企業であるアリババが開発するAIモデル・Qwenシリーズに、次世代ネイティブオムニモーダルモデルの「Qwen3.8-Omni-Flash」が追加されました。動画編集・ミュージックビデオ制作・映画制作・オーディオビジュアル要約・リアルタイム会話などのワークフロー全体で優れた成果を実現しています。続きを読む...",
+      "date": "2026-09-18T05:20:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "67c27c83f296",
+      "title": "ローソン「生成AIが考えた商品」発売 「ピクルス風味のレモンタルト」など",
+      "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001621/",
+      "summary": "生成AIに「今までにない組み合わせや味」「商品や商品名を見た瞬間に『なんだこりゃ？』と思われる」「食べてみたらおいしい」といったテーマでアイデアを出させた。",
+      "date": "2026-09-18T05:07:59+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "fd7cfe642cee",
+      "title": "ゲーム開発者の生成AI活用が8割超に CESAが初調査 「業務効率化」に最大の期待",
+      "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001618/",
+      "summary": "コンピュータエンターテインメント協会（CESA）は9月17日、年次レポート「CESAゲーム産業レポート2026 プレビュー版」を発刊した。初の独自調査で、ゲーム開発者の85.8％が生成AIを業務で活用していると分かった。",
+      "date": "2026-09-18T04:43:35+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "3aca3e862c50",
+      "title": "How To Write With An LLM",
+      "url": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/",
+      "summary": "How To Write With An LLM Thomas Ptacek on using LLMs as copyeditors, not as writing assistants: Rule Number One: You may not use a single word an LLM suggests to you. [...] I think that as a form of intellectual personal protective equipment you shou",
+      "date": "2026-09-17T23:37:27+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
+    {
       "id": "e3285a711c8c",
-      "title": "Crusoe raises $3.9B to build massive data centers and small modular “AI factories”",
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
       "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
       "summary": "The round values the data center giant at $30.9 billion.",
       "date": "2026-09-17T23:25:52+00:00",
@@ -34,17 +111,6 @@
       "lang": "en",
       "category": "Industry",
       "priority": 1
-    },
-    {
-      "id": "3ea45800d948",
-      "title": "地方総合病院から生まれたデータとAIを組み合わせた医療機関向け基幹システム",
-      "url": "https://ascii.jp/elem/000/004/435/4435533/?rss",
-      "summary": "医療機関向けAI事業を手がける株式会社Albatrusは9月10日、電子カルテなどの院内データとAIエージェントによる業務自動化を統合した病院向け基幹システム「Apollo AI」の正式提供を開始した。2024年から提供してきた従来製品「メディラクAI」の機能を刷新したアップデート版となる。",
-      "date": "2026-09-17T22:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "85b0b4814d51",
@@ -113,12 +179,12 @@
       "priority": 2
     },
     {
-      "id": "e95f62cf60ae",
-      "title": "AI is feared globally as the destroyer of jobs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
-      "summary": "Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income inequality. The survey questioned 42,151 people across 37 countries from February 8th to May 13th - well ",
-      "date": "2026-09-17T14:18:57+00:00",
-      "source": "The Verge",
+      "id": "35cb1838bc98",
+      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+      "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
+      "date": "2026-09-17T18:33:13+00:00",
+      "source": "Ars Technica",
       "lang": "en",
       "category": "Tech",
       "priority": 2
@@ -131,17 +197,6 @@
       "date": "2026-09-17T13:36:43+00:00",
       "source": "The Verge",
       "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "37754e848460",
-      "title": "デジタル相に古川俊治氏 AI戦略やサイバー安保も担当 外科医で弁護士、MBAも取得",
-      "url": "https://www.itmedia.co.jp/news/article/2609/17/2000001594/",
-      "summary": "木原稔官房長官は9月17日の記者会見で、第2次高市改造内閣の閣僚名簿を公表し、デジタル大臣に自民党の古川俊治参院議員（63）を起用すると明らかにした。古川氏は初入閣で、AI・デジタル改革推進やサイバー安全保障、人工知能戦略なども担当する。",
-      "date": "2026-09-17T10:36:13+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
       "category": "Tech",
       "priority": 2
     },
@@ -322,17 +377,6 @@
       "priority": 1
     },
     {
-      "id": "a89ac27ce4b1",
-      "title": "The contagion of fear",
-      "url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
-      "summary": "The contagion of fear Bryan Cantrill responds to the tweet by former Anthropic employee Jacob Coxon confirming that many Anthropic researchers believe AI \"could kill us all by the end of the decade\". Bryan shares a story of his own youthful mistakes ",
-      "date": "2026-09-14T21:18:13+00:00",
-      "source": "Simon Willison",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1
-    },
-    {
       "id": "29ba46951f8a",
       "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
       "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
@@ -375,17 +419,6 @@
       "lang": "en",
       "category": "Safety",
       "priority": 2
-    },
-    {
-      "id": "ea5b19333782",
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-      "date": "2026-09-14T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
     },
     {
       "id": "569812529afe",
@@ -462,17 +495,6 @@
       "source": "Last Week in AI",
       "lang": "en",
       "category": "Research",
-      "priority": 2
-    },
-    {
-      "id": "2001b530f711",
-      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
-      "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
-      "summary": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
-      "date": "2026-09-04T17:18:12+00:00",
-      "source": "Ars Technica",
-      "lang": "en",
-      "category": "Tech",
       "priority": 2
     },
     {

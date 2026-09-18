@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-09-18_evening-ai-news-2026-09-claude-code-watermark-cost",
+      "date": "2026-09-18",
+      "file_key": "2026-09-18_evening",
+      "title": "Claude Code刷新、ウォーターマーキングリスク、コスト管理強化",
+      "summary": "Claude CodeにProjects機能、Claude統合、ウォーターマーキング副作用、Cloudflare認証強化、GitHub HydraFusionと幅広い動き。",
+      "tags": [
+        "Claude Code",
+        "Cloudflare AI Gateway",
+        "ウォーターマーキング",
+        "GitHub Copilot",
+        "Anthropic"
+      ],
+      "slug": "ai-news-2026-09-claude-code-watermark-cost"
+    },
+    {
       "id": "2026-09-17_evening-cloudflare-ai-gateway-auth-cache-costs",
       "date": "2026-09-17",
       "file_key": "2026-09-17_evening",
@@ -424,23 +439,7 @@
         "セキュリティAI"
       ],
       "slug": "ai-agriculture-agi-definition-debate"
-    },
-    {
-      "id": "2026-09-01_morning-ai-boom-meets-practical-limits-and-new-tools",
-      "date": "2026-09-01",
-      "file_key": "2026-09-01_morning",
-      "title": "AIブーム、実用的な限界と新ツールに直面",
-      "summary": "データセンターへの大規模投資から消費者の技術疲労まで、AIの急成長は現実的な課題に直面していますが、新たなツールやイベントが企業の活用を支援しています。",
-      "tags": [
-        "AI adoption",
-        "data centers",
-        "prompt engineering",
-        "image generation",
-        "AI events",
-        "business AI"
-      ],
-      "slug": "ai-boom-meets-practical-limits-and-new-tools"
     }
   ],
-  "updated_at": "2026-09-17T09:27:31.767716+00:00"
+  "updated_at": "2026-09-18T08:57:21.469843+00:00"
 }
