@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-09-18_evening-ai-agent-management",
+      "date": "2026-09-18",
+      "file_key": "2026-09-18_evening",
+      "title": "AIエージェント管理とビジネス活用",
+      "summary": "Claude Code Projectsが刷新され、クラウド上で複数AIエージェントを共通メモリで管理可能に。",
+      "tags": [
+        "AIエージェント",
+        "クラウドサービス",
+        "業務自動化"
+      ],
+      "slug": "ai-agent-management"
+    },
+    {
       "id": "2026-09-18_evening-ai-news-2026-09-claude-code-watermark-cost",
       "date": "2026-09-18",
       "file_key": "2026-09-18_evening",
@@ -424,22 +437,7 @@
         "NVIDIA GB300"
       ],
       "slug": "meta-muse-voice-transcribe-world-model-atlas"
-    },
-    {
-      "id": "2026-09-01_evening-ai-agriculture-agi-definition-debate",
-      "date": "2026-09-01",
-      "file_key": "2026-09-01_evening",
-      "title": "農業AIからAGI競争まで：実用化加速と定義の揺らぎ",
-      "summary": "Deereの農業AIアシスタントとMiniMaxのAGI野心、AI定義巡る議論が示す実用化と過熱の両面",
-      "tags": [
-        "農業AI",
-        "AGI",
-        "生成AI実装",
-        "AI定義",
-        "セキュリティAI"
-      ],
-      "slug": "ai-agriculture-agi-definition-debate"
     }
   ],
-  "updated_at": "2026-09-18T08:57:21.469843+00:00"
+  "updated_at": "2026-09-18T14:46:24.501304+00:00"
 }
