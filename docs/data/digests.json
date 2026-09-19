@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "2026-09-19_evening-ai-trend-2026-overview",
+      "date": "2026-09-19",
+      "file_key": "2026-09-19_evening",
+      "title": "AI分野の現状分析：規制、セキュリティ、業務効率化の三本柱",
+      "summary": "Virginia知事がAIタスクフォースを設置しデータセンター規制強化中。OpenAIへの脅威検出もあり、Workers AIでは不必要な同期推論リクエストが抑制され、Cloudflare AI Gatewayでは第三者プロバイダーへの認証要件が強化。生成AIによるゲーム開発もTGSで活発化。",
+      "tags": [],
+      "slug": "ai-trend-2026-overview"
+    },
+    {
       "id": "2026-09-18_evening-ai-agent-management",
       "date": "2026-09-18",
       "file_key": "2026-09-18_evening",
@@ -421,23 +430,7 @@
         "プロンプト"
       ],
       "slug": "4k-120hz-ust-projector"
-    },
-    {
-      "id": "2026-09-02_evening-meta-muse-voice-transcribe-world-model-atlas",
-      "date": "2026-09-02",
-      "file_key": "2026-09-02_evening",
-      "title": "Metaのリアルタイム音声AIと世界モデルAtlasが示す新潮流",
-      "summary": "Metaのリアルタイム文字起こしAIとWorld Labsの世界モデルAtlasなど、最新のAI技術動向を解説。",
-      "tags": [
-        "リアルタイム音声認識",
-        "世界モデル",
-        "Meta",
-        "World Labs",
-        "生成AI",
-        "NVIDIA GB300"
-      ],
-      "slug": "meta-muse-voice-transcribe-world-model-atlas"
     }
   ],
-  "updated_at": "2026-09-18T14:46:24.501304+00:00"
+  "updated_at": "2026-09-19T08:44:02.502992+00:00"
 }

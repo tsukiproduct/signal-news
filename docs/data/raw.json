@@ -1,10 +1,54 @@
 {
-  "fetched_at": "2026-09-18T23:47:23.731821+00:00",
+  "fetched_at": "2026-09-19T08:42:54.033884+00:00",
   "total": 46,
   "items": [
     {
+      "id": "4fcac3a1d335",
+      "title": "テキストAIの透かし・ウォーターマークは技術的に困難な上に簡単に削除できる",
+      "url": "https://gigazine.net/news/20260919-text-ai-watermarks/",
+      "summary": "2026年8月より欧州連合(EU)でAI法が施行され、EU域内ではAIによって生成されたコンテンツであることを検出可能にする義務が課されるようになり、EU域内で事業を行う大規模言語モデル(LLM)プロバイダーに対してAI生成物であることを示す「ウォーターマーク」の適用が事実上義務付けられるようになりました。しかしながら、テキストに対するAIウォーターマーク技術には技術的な難しさに加えて実効性に関する課題があると言われています。ソフトウェアエンジニアのショーン・グーデッケ氏は自身のブログにて、テキ",
+      "date": "2026-09-19T07:00:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "b33e31220f59",
+      "title": "東京ゲームショウと生成AI ゲームの祭典で商談見込むベンダーたち",
+      "url": "https://www.itmedia.co.jp/news/article/2609/19/2000001639/",
+      "summary": "ゲームでのAI活用と言えば、オンライン発表会での動画生成AI使用が物議を醸したレベルファイブをはじめ、まだまだユーザー側の拒否感が強い領域でもある。こうした状況下で、ベンダーはどういったソリューションを、どんな企業にプッシュしようとしているのか。TGS2026現地で何社かに話を聞いてみた。",
+      "date": "2026-09-19T03:00:00+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "d8747de7e501",
+      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+      "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "date": "2026-09-19T00:12:07+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "e43332e97231",
+      "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+      "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+      "summary": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI Gemini finally caught up on Felony Bench! The hacks, which the company confirmed on Friday, occurred in May as part of a test run by the company Irregular, which was also involved i",
+      "date": "2026-09-18T23:57:57+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
+    {
       "id": "43903881cded",
-      "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
       "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
       "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
       "date": "2026-09-18T23:25:01+00:00",
@@ -43,17 +87,6 @@
       "date": "2026-09-18T21:28:12+00:00",
       "source": "The Verge",
       "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "8640d1ec06b3",
-      "title": "2in1でペン入力できる10型UMPC「Note Pro AI」が13万円台で発売開始",
-      "url": "https://ascii.jp/elem/000/004/436/4436472/?rss",
-      "summary": "天空がCore Ultra 5 125Uを搭載した10型の2in1 UMPC「TENKU Note Pro AI」をダイレクトストアで先行販売を開始しました",
-      "date": "2026-09-18T21:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
       "category": "Tech",
       "priority": 2
     },
@@ -113,28 +146,6 @@
       "priority": 1
     },
     {
-      "id": "f5578060dc95",
-      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
-      "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
-      "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
-      "date": "2026-09-18T17:59:53+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "37655c8141e2",
-      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-      "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-      "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
-      "date": "2026-09-18T17:33:50+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
       "id": "a6e3cc386b2a",
       "title": "What Hollywood thinks about existential AI warnings",
       "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
@@ -174,6 +185,17 @@
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtab",
       "date": "2026-09-18T12:10:00+00:00",
       "source": "MIT Tech Review",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "48d4db25a29d",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+      "date": "2026-09-18T12:00:00+00:00",
+      "source": "OpenAI Blog",
       "lang": "en",
       "category": "Research",
       "priority": 1
@@ -228,17 +250,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001630/",
       "summary": "大阪府豊中市教育委員会は、職員の気づきや悩みを匿名で集めて管理職に届けるアプリ「ココボイス」を試験導入した。自治体での導入は初めて。生成AIとの対話で、対面では伝えにくい本音を職場の改善につなげる。",
       "date": "2026-09-18T07:01:57+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "67c27c83f296",
-      "title": "ローソン「生成AIが考えた商品」発売 「ピクルス風味のレモンタルト」など",
-      "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001621/",
-      "summary": "生成AIに「今までにない組み合わせや味」「商品や商品名を見た瞬間に『なんだこりゃ？』と思われる」「食べてみたらおいしい」といったテーマでアイデアを出させた。",
-      "date": "2026-09-18T05:07:59+00:00",
       "source": "ITmedia News",
       "lang": "ja",
       "category": "Tech",
@@ -360,17 +371,6 @@
       "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
       "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
       "date": "2026-09-16T12:00:00+00:00",
-      "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "f80091762901",
-      "title": "How workers are unlocking new ways of working",
-      "url": "https://openai.com/index/unlocking-new-ways-of-working",
-      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
-      "date": "2026-09-16T09:00:00+00:00",
       "source": "OpenAI Blog",
       "lang": "en",
       "category": "Research",
