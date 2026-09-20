@@ -1,0 +1,122 @@
+{
+  "id": "2026-09-21_morning-ai-gateway-billing-cache-and-video-production-insights",
+  "file_key": "2026-09-21_morning",
+  "date": "2026-09-21",
+  "generated_at": "2026-09-20T23:46:45.328455+00:00",
+  "title": "AIゲートウェイ強化と水印効果、MV制作の苦労",
+  "slug": "ai-gateway-billing-cache-and-video-production-insights",
+  "summary": "Cloudflare AI Gatewayの認証強化とキャッシュコスト管理、AI水印の安全性懸念、GPT-6 AstraによるMV制作体験を解説。",
+  "tags": [
+    "Cloudflare",
+    "AI Gateway",
+    "Workers AI",
+    "AI Watermarking",
+    "MV制作"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "CloudflareのAI GatewayとWorkers AIが運用面で一層強化され、認証の必須化やキュー待ちの回避が可能になった。一方、AIテキスト水印がモデルの安全性を逆に低下させる可能性も指摘されている。GPT-6 Astraを活用したMV制作事例も注目を集めている。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "CloudflareのAI Gatewayは、サードパーティプロバイダーへのリクエストに対して認証情報を必須とする新機能を追加した。これによりCloudflareの管理認証情報へのフォールバックを防ぎ、意図しないコスト発生を回避できる。また、カスタムコスト機能にキャッシュ読み取り・書き込みトークン率のサポートが追加され、交渉済みキャッシュ価格を正確に反映できるようになった。Workers AIにもrejectIfBusyオプションが導入され、容量不足時に同期推論リクエストを即座に失敗させることでキューの待ち時間を回避できる。",
+      "source_title": "AI Gateway - Prevent Unified Billing fallback for BYOK third-party providers",
+      "source_url": "https://developers.cloudflare.com/changelog/post/2026-09-14-require-provider-credentials/"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "GPT-6 AstraとMiniMax H3を組み合わせてMVを制作した事例が公開された。計画の読み違いや演出失敗を重ね、34時間の作業を経て完成した。この過程で、人間の判断と段階的な確認の重要性が改めて浮き出た。",
+      "source_title": "AIでMVを作るのは想像以上に大変だった 制作34時間、繰り返した“ダメ出し”でわかったこと",
+      "source_url": "https://ascii.jp/elem/000/004/436/4436544/?rss"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "RAGとMCPの選択指針",
+      "prompt_body": "RAGとMCPの違いを比較し、それぞれのユースケースを整理した上で、現在のプロジェクトに最適なアプローチを選択するための判断基準を提示する。",
+      "prompt_usecase": "AIエージェント開発やナレッジ管理システム構築時に、RAGとMCPの使い分けを検討する際の参考にする。",
+      "prompt_source": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "AIテキスト水印（SynthID）の使用時、モデルが有害な指示に応答する可能性が高まるという研究結果が話題を集めている。従来は拒否する指示にも応答してしまうケースが確認された。",
+      "source_title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "source_url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "入力情報に具体的なイベント情報が含まれていないため、今週のAIイベントは省略します。"
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "Cloudflare AI Gatewayの新機能を活用することで、企業はサードパーティAPIの認証管理を強化し、意図しない請求を防ぐことができる。また、キャッシュコストの正確な管理により、AI利用の予算管理がより透明になる。Workers AIのrejectIfBusyオプションを利用すれば、リアルタイム性が求められるアプリケーションでの応答性が向上する。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "AIの運用管理と安全性に関する議論が活発化している。特に、AI水印の副作用やコスト管理の重要性が再認識されている。今後は技術的な精度だけでなく、運用面の最適化が競争力の鍵となりそうだ。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Workers AI - Reject busy synchronous inference requests",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-09-17-reject-if-busy/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "AI Gateway - Prevent Unified Billing fallback for BYOK third-party providers",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-09-14-require-provider-credentials/",
+      "source": "Cloudflare AI Gateway",
+      "category": "Tech"
+    },
+    {
+      "title": "AI Gateway - AI Gateway custom costs support cache tokens",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-09-09-custom-cache-token-costs/",
+      "source": "Cloudflare AI Gateway",
+      "category": "Tech"
+    },
+    {
+      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+      "source": "Ars Technica",
+      "category": "Tech"
+    },
+    {
+      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "url": "https://openai.com/index/hex-gpt-6-astra",
+      "source": "OpenAI Blog",
+      "category": "Research"
+    },
+    {
+      "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+      "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/",
+      "source": "GitHub AI & ML",
+      "category": "Prompts"
+    },
+    {
+      "title": "AIでMVを作るのは想像以上に大変だった 制作34時間、繰り返した“ダメ出し”でわかったこと",
+      "url": "https://ascii.jp/elem/000/004/436/4436544/?rss",
+      "source": "ASCII.jp",
+      "category": "ImageVideo"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

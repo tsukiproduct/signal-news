@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-09-21_morning-ai-gateway-billing-cache-and-video-production-insights",
+      "date": "2026-09-21",
+      "file_key": "2026-09-21_morning",
+      "title": "AIゲートウェイ強化と水印効果、MV制作の苦労",
+      "summary": "Cloudflare AI Gatewayの認証強化とキャッシュコスト管理、AI水印の安全性懸念、GPT-6 AstraによるMV制作体験を解説。",
+      "tags": [
+        "Cloudflare",
+        "AI Gateway",
+        "Workers AI",
+        "AI Watermarking",
+        "MV制作"
+      ],
+      "slug": "ai-gateway-billing-cache-and-video-production-insights"
+    },
+    {
       "id": "2026-09-19_evening-ai-trend-2026-overview",
       "date": "2026-09-19",
       "file_key": "2026-09-19_evening",
@@ -415,22 +430,7 @@
         "イベント"
       ],
       "slug": "ai-business-trends"
-    },
-    {
-      "id": "2026-09-03_evening-4k-120hz-ust-projector",
-      "date": "2026-09-03",
-      "file_key": "2026-09-03_evening",
-      "title": "4K 120Hz USTプロジェクタとAI最新動向",
-      "summary": "4K 120Hz USTプロジェクタとAI法的・投資・実践トレンドを解説",
-      "tags": [
-        "AI",
-        "テクノロジー",
-        "投資",
-        "イベント",
-        "プロンプト"
-      ],
-      "slug": "4k-120hz-ust-projector"
     }
   ],
-  "updated_at": "2026-09-19T08:44:02.502992+00:00"
+  "updated_at": "2026-09-20T23:46:45.329201+00:00"
 }
