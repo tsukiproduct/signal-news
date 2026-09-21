@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "2026-09-21_evening-cloudflare-ai-updates-llm-watermarking-hex-visuals",
+      "date": "2026-09-21",
+      "file_key": "2026-09-21_evening",
+      "title": "Cloudflare AI Updates, LLM Watermarking Risks, and New Hex Visuals",
+      "summary": "Recent updates tighten AI service controls, reveal watermarking trade‑offs, and introduce visual reporting tools. Practical guidance covers Workers AI reliability, AI Gateway billing, Hex with GPT‑6 Astra, and prompt strategy debates.",
+      "tags": [
+        "Cloudflare",
+        "Workers AI",
+        "AI Gateway",
+        "LLM watermarking",
+        "GPT‑6 Astra",
+        "Hex",
+        "prompt engineering",
+        "generative AI"
+      ],
+      "slug": "cloudflare-ai-updates-llm-watermarking-hex-visuals"
+    },
+    {
       "id": "2026-09-21_morning-ai-gateway-billing-cache-and-video-production-insights",
       "date": "2026-09-21",
       "file_key": "2026-09-21_morning",
@@ -414,23 +432,7 @@
         "イベント"
       ],
       "slug": "openai-rogue-agents-ai-today"
-    },
-    {
-      "id": "2026-09-03_evening-ai-business-trends",
-      "date": "2026-09-03",
-      "file_key": "2026-09-03_evening",
-      "title": "AIとビジネスの最新動向と活用法",
-      "summary": "AIインフラ、投資、製造業、音楽AI、基礎解説、プロンプト、バイラル情報、イベントを解説",
-      "tags": [
-        "AI",
-        "クラウド",
-        "ロボティクス",
-        "投資",
-        "画像生成",
-        "イベント"
-      ],
-      "slug": "ai-business-trends"
     }
   ],
-  "updated_at": "2026-09-20T23:46:45.329201+00:00"
+  "updated_at": "2026-09-21T09:54:47.046674+00:00"
 }
