@@ -1,26 +1,48 @@
 {
-  "fetched_at": "2026-09-21T09:48:40.708066+00:00",
-  "total": 42,
+  "fetched_at": "2026-09-21T16:39:48.356176+00:00",
+  "total": 39,
   "items": [
     {
-      "id": "ac1368b0f72d",
-      "title": "Amazon doesn’t trust Meta’s Muse AI agent",
-      "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
-      "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of ",
-      "date": "2026-09-21T09:27:08+00:00",
+      "id": "8a06f4e34726",
+      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+      "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
+      "date": "2026-09-21T16:38:51+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "ce68e248589d",
+      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience.",
+      "date": "2026-09-21T14:39:22+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "93b84abf7bbd",
+      "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
+      "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+      "summary": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 m",
+      "date": "2026-09-21T14:06:15+00:00",
       "source": "The Verge",
       "lang": "en",
       "category": "Tech",
       "priority": 2
     },
     {
-      "id": "0c6dd0ea6efb",
-      "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-      "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% ch",
-      "date": "2026-09-21T09:15:52+00:00",
-      "source": "The Verge",
-      "lang": "en",
+      "id": "d149c9a3bfc9",
+      "title": "iPhoneに搭載されたApple製AIとチャットする方法、無料アプリで「Apple Foundation Models」のローカル処理能力を試せる",
+      "url": "https://gigazine.net/news/20260921-locally-ai-apple-foundation-models/",
+      "summary": "2026年9月に登場したiOS 27やmacOS 27にはApple製AIモデル「Apple Foundation Models」のアップデート版が含まれており、各種アプリでAI機能をオフライン実行できるようになっています。このApple Foundation Modelsとチャットできる機能がAI実行アプリ「Locally AI」に追加されたので、テキストでのチャット機能や画像認識機能を試してみました。続きを読む...",
+      "date": "2026-09-21T10:12:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
       "category": "Tech",
       "priority": 2
     },
@@ -34,6 +56,17 @@
       "lang": "ja",
       "category": "Tech",
       "priority": 2
+    },
+    {
+      "id": "07a9efb9a155",
+      "title": "How V7 gives AI agents institutional memory",
+      "url": "https://openai.com/index/v7",
+      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "date": "2026-09-21T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
     },
     {
       "id": "6a3505524e7b",
@@ -72,41 +105,8 @@
       "id": "262fdb19d1b4",
       "title": "Is the AI industry really ready to slow down?",
       "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
-      "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+      "summary": "On Equity, we debated whether AI executives are serious about wanting to slow down.",
       "date": "2026-09-20T18:56:04+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "0053101fd257",
-      "title": "Trump now says he wants to form an ‘AI Force’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
-      "summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development. He",
-      "date": "2026-09-20T15:39:22+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "c0e5bbea1628",
-      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-      "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
-      "date": "2026-09-19T19:57:47+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "c67b3655b36c",
-      "title": "Google’s Gemini is the latest AI model to hack other companies",
-      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-      "date": "2026-09-19T17:30:00+00:00",
       "source": "TechCrunch AI",
       "lang": "en",
       "category": "Industry",
@@ -289,28 +289,6 @@
       "priority": 1
     },
     {
-      "id": "c81fa26a50d6",
-      "title": "Building the materials foundation for AI",
-      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical ",
-      "date": "2026-09-16T12:47:34+00:00",
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "49e7531befe2",
-      "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
-      "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pe",
-      "date": "2026-09-16T12:10:00+00:00",
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
       "id": "7d19d74e67f6",
       "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
       "url": "https://openai.com/index/hex-gpt-6-astra",
@@ -451,17 +429,6 @@
       "source": "Ars Technica",
       "lang": "en",
       "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "91a5da582510",
-      "title": "Last Week in AI #343 - GPT-6, OpenAI’s agents chatted on a wiki, Fable 5.1",
-      "url": "https://lastweekin.ai/p/last-week-in-ai-343-gpt-6-openais",
-      "summary": "GPT-6 Astra Is Here, Discovery of a new OpenAI agent message board, Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work, and more!",
-      "date": "2026-09-07T13:02:49+00:00",
-      "source": "Last Week in AI",
-      "lang": "en",
-      "category": "Research",
       "priority": 2
     }
   ]
