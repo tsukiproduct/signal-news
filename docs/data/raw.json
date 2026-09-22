@@ -1,7 +1,18 @@
 {
-  "fetched_at": "2026-09-22T00:27:30.067975+00:00",
-  "total": 43,
+  "fetched_at": "2026-09-22T09:12:30.618472+00:00",
+  "total": 42,
   "items": [
+    {
+      "id": "c5f86512fa7d",
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "url": "https://huggingface.co/blog/omlx",
+      "summary": "",
+      "date": "2026-09-22T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
     {
       "id": "502072b10c62",
       "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
@@ -54,17 +65,6 @@
       "date": "2026-09-21T22:24:38+00:00",
       "source": "Ars Technica",
       "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "39bd42306f34",
-      "title": "偶然出会った彼女はAI、電話に出た警察官はディープフェイク──急速に巧妙化するAI詐欺",
-      "url": "https://ascii.jp/limit/group/ida/elem/000/004/436/4436553/?rss",
-      "summary": "生成AIの進化で、詐欺の手口も急速に巧妙化している。マッチング相手がAI、声を女性に変換、警察官を装ったディープフェイクまで、実際に確認された事例から最新のAI詐欺の実態を紹介する。",
-      "date": "2026-09-21T22:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
       "category": "Tech",
       "priority": 2
     },
@@ -124,6 +124,17 @@
       "priority": 1
     },
     {
+      "id": "93b84abf7bbd",
+      "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
+      "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+      "summary": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 m",
+      "date": "2026-09-21T14:06:15+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
       "id": "aba8f8622ca0",
       "title": "Advisory Group on Mathematics and Artificial Intelligence",
       "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
@@ -144,17 +155,6 @@
       "lang": "en",
       "category": "Research",
       "priority": 1
-    },
-    {
-      "id": "d149c9a3bfc9",
-      "title": "iPhoneに搭載されたApple製AIとチャットする方法、無料アプリで「Apple Foundation Models」のローカル処理能力を試せる",
-      "url": "https://gigazine.net/news/20260921-locally-ai-apple-foundation-models/",
-      "summary": "2026年9月に登場したiOS 27やmacOS 27にはApple製AIモデル「Apple Foundation Models」のアップデート版が含まれており、各種アプリでAI機能をオフライン実行できるようになっています。このApple Foundation Modelsとチャットできる機能がAI実行アプリ「Locally AI」に追加されたので、テキストでのチャット機能や画像認識機能を試してみました。続きを読む...",
-      "date": "2026-09-21T10:12:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "25363ac68687",
@@ -243,17 +243,6 @@
       "lang": "en",
       "category": "Prompts",
       "priority": 1
-    },
-    {
-      "id": "b33e31220f59",
-      "title": "東京ゲームショウと生成AI ゲームの祭典で商談見込むベンダーたち",
-      "url": "https://www.itmedia.co.jp/news/article/2609/19/2000001639/",
-      "summary": "ゲームでのAI活用と言えば、オンライン発表会での動画生成AI使用が物議を醸したレベルファイブをはじめ、まだまだユーザー側の拒否感が強い領域でもある。こうした状況下で、ベンダーはどういったソリューションを、どんな企業にプッシュしようとしているのか。TGS2026現地で何社かに話を聞いてみた。",
-      "date": "2026-09-19T03:00:00+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "9f75719aa1d3",

@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-22T00:29:19.484616+00:00",
-  "fetched_at": "2026-09-22T00:27:30.067975+00:00",
-  "total": 43,
+  "updated_at": "2026-09-22T09:15:12.861915+00:00",
+  "fetched_at": "2026-09-22T09:12:30.618472+00:00",
+  "total": 42,
   "curated": true,
   "items": [
     {
@@ -437,6 +437,20 @@
       "translation_status": "machine"
     },
     {
+      "id": "c5f86512fa7d",
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "url": "https://huggingface.co/blog/omlx",
+      "summary": "",
+      "date": "2026-09-22T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": ""
+    },
+    {
       "id": "502072b10c62",
       "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
       "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
@@ -501,20 +515,6 @@
       "score": 5,
       "reason": "未評価",
       "summary_ja": "A simple ClickFix attack is only one way to completely hijack the new agent."
-    },
-    {
-      "id": "39bd42306f34",
-      "title": "偶然出会った彼女はAI、電話に出た警察官はディープフェイク──急速に巧妙化するAI詐欺",
-      "url": "https://ascii.jp/limit/group/ida/elem/000/004/436/4436553/?rss",
-      "summary": "生成AIの進化で、詐欺の手口も急速に巧妙化している。マッチング相手がAI、声を女性に変換、警察官を装ったディープフェイクまで、実際に確認された事例から最新のAI詐欺の実態を紹介する。",
-      "date": "2026-09-21T22:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2,
-      "score": 5,
-      "reason": "未評価",
-      "summary_ja": "生成AIの進化で、詐欺の手口も急速に巧妙化している。マッチング相手がAI、声を女性に変換、警察官を装ったディープフェイクまで、実際に確認された事例から最新のAI詐欺の実態を紹介する。"
     },
     {
       "id": "c06d2cf00824",
@@ -589,6 +589,20 @@
       "translation_status": "machine"
     },
     {
+      "id": "93b84abf7bbd",
+      "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
+      "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+      "summary": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 m",
+      "date": "2026-09-21T14:06:15+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 m"
+    },
+    {
       "id": "aba8f8622ca0",
       "title": "Advisory Group on Mathematics and Artificial Intelligence",
       "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
@@ -615,20 +629,6 @@
       "score": 5,
       "reason": "未評価",
       "summary_ja": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster."
-    },
-    {
-      "id": "d149c9a3bfc9",
-      "title": "iPhoneに搭載されたApple製AIとチャットする方法、無料アプリで「Apple Foundation Models」のローカル処理能力を試せる",
-      "url": "https://gigazine.net/news/20260921-locally-ai-apple-foundation-models/",
-      "summary": "2026年9月に登場したiOS 27やmacOS 27にはApple製AIモデル「Apple Foundation Models」のアップデート版が含まれており、各種アプリでAI機能をオフライン実行できるようになっています。このApple Foundation Modelsとチャットできる機能がAI実行アプリ「Locally AI」に追加されたので、テキストでのチャット機能や画像認識機能を試してみました。続きを読む...",
-      "date": "2026-09-21T10:12:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2,
-      "score": 5,
-      "reason": "未評価",
-      "summary_ja": "2026年9月に登場したiOS 27やmacOS 27にはApple製AIモデル「Apple Foundation Models」のアップデート版が含まれており、各種アプリでAI機能をオフライン実行できるようになっています。このApple Foundation Modelsとチャットできる機能がAI実行アプリ「Locally AI」に追加されたので、テキストでのチャット機能や画像認識機能を試してみました。続きを読む..."
     },
     {
       "id": "25363ac68687",
@@ -685,30 +685,6 @@
       "score": 5,
       "reason": "未評価",
       "summary_ja": "My comment on MCP was always a bad idea? — Hacker News.This article entirely misses the value that MCP brings today. Sure, there's almost no reason to use MCPs if you are running a full-blown terminal agent (Claude Code, Codex, Meta Muse, OpenClaw et"
-    },
-    {
-      "id": "b33e31220f59",
-      "title": "東京ゲームショウと生成AI ゲームの祭典で商談見込むベンダーたち",
-      "url": "https://www.itmedia.co.jp/news/article/2609/19/2000001639/",
-      "summary": "ゲームでのAI活用と言えば、オンライン発表会での動画生成AI使用が物議を醸したレベルファイブをはじめ、まだまだユーザー側の拒否感が強い領域でもある。こうした状況下で、ベンダーはどういったソリューションを、どんな企業にプッシュしようとしているのか。TGS2026現地で何社かに話を聞いてみた。",
-      "date": "2026-09-19T03:00:00+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "ImageVideo",
-      "priority": 2,
-      "score": 5,
-      "reason": "業界動向の取材レポートであり、ユーザーに直接影響する価格・アクセス・機能の変更は記載されていない",
-      "summary_ja": "TGS2026現地で、ゲーム業界における生成AIの商談機会を探すベンダーが多数いた。ユーザーのAI拒否感が依然強いレベルファイブなどの事例もあり、ベンダーはどのようなソリューションをどんな企業に訴求しようとしているのかを取材した。",
-      "title_ja": "東京ゲームショウと生成AI ゲームの祭典で商談見込むベンダーたち",
-      "title_en": "TGS and Generative AI: Vendors Eyeing Deals at the Gaming Festival",
-      "summary_en": "At TGS2026, vendors are pitching AI solutions for games despite strong user resistance, as seen in Level-5's controversy over AI video generation at online events. Reporters interviewed several companies about their strategies and target customers.",
-      "useful_for_ja": "ゲーム業界のマーケティング担当者やAIソリューション提供者",
-      "useful_for_en": "Game industry marketers and AI solution providers looking for B2B opportunities",
-      "try_next_ja": "ベンダーが具体的に提案するソリューションの内容や、ターゲット企業の反応を記事から確認する",
-      "try_next_en": "Check which specific AI solutions vendors are pitching and what their target enterprise customers are",
-      "caveat_ja": "具体的な価格や利用規約、ライセンス条件は明記されておらず、ベンダーの意向としての報告のみ",
-      "caveat_en": "No specific pricing, licensing terms, or access details are provided; this is a report on vendor intentions at the event",
-      "translation_status": "machine"
     },
     {
       "id": "48d4db25a29d",
