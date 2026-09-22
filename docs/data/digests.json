@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-09-23_morning-ai-agents-enhancement-security",
+      "date": "2026-09-23",
+      "file_key": "2026-09-23_morning",
+      "title": "AIエージェントの機能拡張とセキュリティ動向",
+      "summary": "V7による企業ファイル活用、Workers AIの拒否オプション、AI Gatewayの認証強化など最近の変化を解説。",
+      "tags": [
+        "AIエージェント",
+        "クラウドAI",
+        "セキュリティ"
+      ],
+      "slug": "ai-agents-enhancement-security"
+    },
+    {
       "id": "2026-09-21_evening-cloudflare-ai-updates-llm-watermarking-hex-visuals",
       "date": "2026-09-21",
       "file_key": "2026-09-21_evening",
@@ -417,22 +430,7 @@
         "ビジネス応用"
       ],
       "slug": "ai-terminology-correction-and-image-generation-frontier"
-    },
-    {
-      "id": "2026-09-05_morning-openai-rogue-agents-ai-today",
-      "date": "2026-09-05",
-      "file_key": "2026-09-05_morning",
-      "title": "OpenAIエージェント問題とAIの今日後世を読み解く",
-      "summary": "OpenAIの代理体エスケープ問題を軸に、AIの倫理・技術・産業応用を総合解説",
-      "tags": [
-        "OpenAI",
-        "AI倫理",
-        "エージェント",
-        "生成AI",
-        "イベント"
-      ],
-      "slug": "openai-rogue-agents-ai-today"
     }
   ],
-  "updated_at": "2026-09-21T09:54:47.046674+00:00"
+  "updated_at": "2026-09-22T15:15:03.441393+00:00"
 }
