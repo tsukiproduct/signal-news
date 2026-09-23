@@ -1,0 +1,96 @@
+{
+  "id": "2026-09-23_evening-edge-ai-acceleration-rabbit-cloud",
+  "file_key": "2026-09-23_evening",
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T09:15:22.384464+00:00",
+  "title": "エッジAI加速、Rabbitはクラウド独立動作へ",
+  "slug": "edge-ai-acceleration-rabbit-cloud",
+  "summary": "Qualcommがローカル300億パラメータ実行の新チップ、RabbitはR1不要のクラウドエージェントを展開。Meta Museにゼロデイも報告されセキュリティ警戒が必要。",
+  "tags": [
+    "エッジAI",
+    "AIエージェント",
+    "セキュリティ",
+    "クラウドAI"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "今週のAIニュースは、ハードウェアとエージェントの二つの軸で変化が速い。QualcommがAI推論をデバイスに近づける新チップを発表し、エッジでの大規模モデル実行が現実味を帯びてきた。一方、Rabbitは専用ハードウェアR1を不要にし、クラウドベースのエージェントOSへ移行した。セキュリティ面ではMetaのアシスタントMuseにゼロデイが報告されており、AIツールの導入時のアクセス制御見直しが求められる。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "Qualcommの新チップは、300億パラメータの混合専門家モデル（MoE）をスマートフォン上でローカル実行できるとしている。これにより、クラウド接続が不安定な環境や、データを外部に送りたくない場面で推論が可能になる。ただし、実際の応答速度や消費電力はデバイスの散热・バッテリーに依存し、RSS要約だけでは判断できない。ユーザーは自機種の対応可否と、継続利用時の発熱・バッテリーへの影響をメーカー公式情報で確認すべきだ。Rabbit側はOS3によりR1不要のスタンドアロン運用を打ち出しており、既存ユーザーのハードウェア投資の価値が変化する可能性がある。",
+      "source_title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "source_url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "RAG評価チェックリスト",
+      "prompt_body": "以下の観点でRAGパイプラインを評価する改善提案を出力せよ。1) 検索品質: クエリとチャンクの意味的距離 2) コンテキスト長: トークン制約内での情報密度 3) ハルシネーションリスク: 生成文と参照文の整合率 4) レイテンシ: 初回応答までの時間。各項目で現状の課題と、MVPで検証できる1つの改善案を示せ。",
+      "prompt_usecase": "RAG導入前に現状を棚卸しし、優先順位をつけたい開発者向け。GitHubブログのRAG論争を踏まえた実践的チェックリスト。",
+      "prompt_source": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/"
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "エッジAI推論が身近になると、リアルタイム画像認識やオフライン音声アシスタントが低遅延で動作するようになる。企業はまず、既存のクラウドAPI依存度を洗い出し、どの処理をデバイス側に移せるかを検討すべきだ。Rabbitのクラウドエージェント移行は、専用ハードウェアを持たない中小企業にとって導入ハードルを下げる一方、API利用量と課金体系の変更がないかベンダーに確認が必要。セキュリティでは、Meta Museのゼロデイのように権限の高いAIアシスタントは、最低限のアクセス権限原則とClickFix型フィッシングへの教育を組み合わせた対策が有効。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "エッジAIの性能向上とAIエージェントの独立動作という二つのトレンドが、ユーザーのデバイス選択と運用設計に影響を与え始めている。ハードウェア依存からクラウド柔軟性へ移行するRabbitの動きと、ローカル推論を可能にするQualcommのチップは、表裏の関係にある。一方でMuseのゼロデイは、AIアシスタントの権限が大きくなるほど攻撃表面も広がることを示唆しており、導入時のセキュリティレビューを軽視できない。今後はエッジとクラウドの分担境界が、コスト・速度・セキュリティの三要素で再定義されていくと予想される。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "source": "TechCrunch AI",
+      "category": "Industry"
+    },
+    {
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "source": "OpenAI Blog",
+      "category": "Research"
+    },
+    {
+      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+      "source": "Ars Technica",
+      "category": "Tech"
+    },
+    {
+      "title": "Workers AI - Reject busy synchronous inference requests",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-09-17-reject-if-busy/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+      "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/",
+      "source": "GitHub AI & ML",
+      "category": "Prompts"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
