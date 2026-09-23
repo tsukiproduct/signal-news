@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-09-24_morning-ai-new-models-cost-efficiency",
+      "date": "2026-09-24",
+      "file_key": "2026-09-24_morning",
+      "title": "AI新モデル続々登場 コスト効率と性能の両面で大きく前進",
+      "summary": "OpenAIとAnthropicが新モデルを相次ぎ発表。API料金引下げや性能向上で、開発者やビジネスの選択肢が広がる",
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "GPT-6",
+        "Claude",
+        "AIモデル"
+      ],
+      "slug": "ai-new-models-cost-efficiency"
+    },
+    {
       "id": "2026-09-23_evening-edge-ai-acceleration-rabbit-cloud",
       "date": "2026-09-23",
       "file_key": "2026-09-23_evening",
@@ -409,24 +424,7 @@
         "生成AI"
       ],
       "slug": "ai-agents-aaas-future"
-    },
-    {
-      "id": "2026-09-06_evening-gpt-6-astra-and-ai-practicalization-this-week",
-      "date": "2026-09-06",
-      "file_key": "2026-09-06_evening",
-      "title": "GPT-6 Astra登場と生成AIの実用化が加速する今週",
-      "summary": "GPT-6 Astraの開発者向け発表を皮切りに、AI用語をめぐる議論、画像生成AIのコミュニティ活動、生成AIを活用したイベントまで。今週のAI情報を総括する。",
-      "tags": [
-        "GPT-6",
-        "生成AI",
-        "StableDiffusion",
-        "AI用語論",
-        "Pixel 11",
-        "MCP",
-        "機械学習"
-      ],
-      "slug": "gpt-6-astra-and-ai-practicalization-this-week"
     }
   ],
-  "updated_at": "2026-09-23T09:15:22.385228+00:00"
+  "updated_at": "2026-09-23T15:14:16.429386+00:00"
 }
