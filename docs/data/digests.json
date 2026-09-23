@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "2026-09-23_morning-new-ai-models-evolution",
+      "date": "2026-09-23",
+      "file_key": "2026-09-23_morning",
+      "title": "新しいAIモデルの進化",
+      "summary": "AnthropicのClaude Opus 5.5が40%のコスト削減を実現し、OpenAIのGPT-6 Sol/Lunaが料金の半額化を告げた。今後の競争激化とコスト効率向上が注目される",
+      "tags": [
+        "AIモデルの進化",
+        "コスト効率",
+        "生成AI",
+        "ビジネスアプリケーション"
+      ],
+      "slug": "new-ai-models-evolution"
+    },
+    {
       "id": "2026-09-23_morning-ai-agents-enhancement-security",
       "date": "2026-09-23",
       "file_key": "2026-09-23_morning",
@@ -413,24 +427,7 @@
         "プロンプト設計"
       ],
       "slug": "ai-agent-misalignment-copyright-news-september-2026"
-    },
-    {
-      "id": "2026-09-05_evening-ai-terminology-correction-and-image-generation-frontier",
-      "date": "2026-09-05",
-      "file_key": "2026-09-05_evening",
-      "title": "「全部AI」は終焉か？AI呼 称正碓化の波と画像生成の最前線",
-      "summary": "機械学習の泰斗が唱える「AI呼称正碓化」と、Stable DiffusionやGPT-6 Astraの進化など、今週のAI動向を総まとめ。",
-      "tags": [
-        "AI用語正碓化",
-        "MCP",
-        "StableDiffusion",
-        "GPT-6",
-        "機械学習",
-        "画像生成AI",
-        "ビジネス応用"
-      ],
-      "slug": "ai-terminology-correction-and-image-generation-frontier"
     }
   ],
-  "updated_at": "2026-09-22T15:15:03.441393+00:00"
+  "updated_at": "2026-09-23T00:16:31.186607+00:00"
 }
