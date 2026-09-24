@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-09-25_morning-gemini-tts-meta-muse-cloudflare-updates",
+      "date": "2026-09-25",
+      "file_key": "2026-09-25_morning",
+      "title": "Gemini TTS公開、Meta Museに脆弱性、Cloudflare更新",
+      "summary": "Googleが音声生成TTS公開、MetaのMuseにゼロデイ、CloudflareがAI推論制御を強化",
+      "tags": [
+        "音声生成",
+        "AIセキュリティ",
+        "クラウドAI"
+      ],
+      "slug": "gemini-tts-meta-muse-cloudflare-updates"
+    },
+    {
       "id": "2026-09-24_morning-ai-weekly-youtube-openai-meta-sep2026",
       "date": "2026-09-24",
       "file_key": "2026-09-24_morning",
@@ -412,22 +425,7 @@
         "Business"
       ],
       "slug": "ai-senryoku-enkou"
-    },
-    {
-      "id": "2026-09-07_evening-ai-drug-aging-image-generation-weekly",
-      "date": "2026-09-07",
-      "file_key": "2026-09-07_evening",
-      "title": "AIが発見した若返り薬、画像生成AIの進化…注目まとめ",
-      "summary": "AIで開発された実験的薬が老化マーカーを逆転、画像生成AIの高精度化も進む。ビジネス活用のヒントを解説。",
-      "tags": [
-        "AI創薬",
-        "画像生成AI",
-        "機械学習",
-        "生成AI活用",
-        "イベント"
-      ],
-      "slug": "ai-drug-aging-image-generation-weekly"
     }
   ],
-  "updated_at": "2026-09-24T00:27:41.453685+00:00"
+  "updated_at": "2026-09-24T15:49:28.901745+00:00"
 }

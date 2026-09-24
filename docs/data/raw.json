@@ -1,16 +1,126 @@
 {
-  "fetched_at": "2026-09-24T09:11:18.425276+00:00",
-  "total": 51,
+  "fetched_at": "2026-09-24T15:31:51.124543+00:00",
+  "total": 48,
   "items": [
     {
-      "id": "6f80b1bd287c",
-      "title": "本日まで！ 約970gで最大15.5時間駆動、Copilot+ PC「HP OmniBook 7 Aero」が3万円引きの16万4800円",
-      "url": "https://ascii.jp/elem/000/004/436/4436698/?rss",
-      "summary": "HPの13.3型ノートPC「OmniBook 7 Aero 13-bg（BF8H3PA-ABZR）」がAmazonでタイムセール対象。過去価格194,800円から15％オフの164,800円で販売中。約970gの軽量ボディーで、最大15.5時間のバッテリー駆動に対応し、Ryzen AI 5 340を搭載するCopilot+ PCだ。",
-      "date": "2026-09-24T09:00:00+00:00",
-      "source": "ASCII.jp",
+      "id": "f21d9280b33c",
+      "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
+      "summary": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by Sept. 25, 11:59 p.m. PT. Get a second pass at 50% off.",
+      "date": "2026-09-24T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "bbe29c29140d",
+      "title": "I have some questions for Mark Zuckerberg",
+      "url": "https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers",
+      "summary": "It’s a big week for Meta. The company just kicked off its big Connect conference on Wednesday, and the new Muse AI agent appears to be an early hit. I’ve been using it — it is surprisingly good. CEO Mark Zuckerberg has obviously been out there taking",
+      "date": "2026-09-24T14:45:02+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "cf93be8cd543",
+      "title": "Meta’s Muse AI Charms can interact with each other",
+      "url": "https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem",
+      "summary": "Meta's handheld AI gadget, called the Muse Charm, will be able to recognize and interact with other nearby Charms when it launches later this year. That's according to a report from Bloomberg, which includes more details about the device that the com",
+      "date": "2026-09-24T14:35:06+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "1ac291c5f288",
+      "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
+      "url": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
+      "summary": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass.",
+      "date": "2026-09-24T14:30:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "d5a9f8b54edf",
+      "title": "Google is sending an AI satellite into space next week",
+      "url": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
+      "summary": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times. The move is part of Google's Project Suncatcher, the company's experimental initiative that could ",
+      "date": "2026-09-24T14:15:17+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "4164d92d4b94",
+      "title": "The vibes are bad for Flock in Washington",
+      "url": "https://www.theverge.com/policy/1000005/flock-senate-hearing",
+      "summary": "Flock is in the hot seat in Washington, even if its CEO declined to actually face senators at a hearing about its \"AI Surveillance Network\" on Wednesday. \"There's many players in this industry, but there's one name that really stands out above the re",
+      "date": "2026-09-24T14:15:05+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "aee6384a44de",
+      "title": "Why can’t we just keep rogue AIs off the internet?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
+      "summary": "AI agents keep getting loose, escaping supposedly secure tests to attack real-world targets, commandeer obscure wikis, and leave instructions for other agents to follow. Researchers are testing these systems precisely because they might behave in unp",
+      "date": "2026-09-24T14:04:58+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "d8c947a994b4",
+      "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
+      "url": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A congressional representative just proposed killing America’s border tower program Delia Ramirez, a Democratic ",
+      "date": "2026-09-24T12:10:00+00:00",
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "1982ddd9fed1",
+      "title": "YouTube、視聴者向け新機能を発表 プロンプトで作る「カスタムフィード」、「YouTubeに相談」の買い物支援、YouTube Musicの「Ask Music」など",
+      "url": "https://www.itmedia.co.jp/news/article/2609/24/2000001684/",
+      "summary": "YouTubeは「Made on YouTube 2026」で、視聴者向けの新機能を発表した。気分や関心に沿ったフィードを自作できる「カスタムフィード」や、商品選びを対話で支援する「YouTubeに相談」の拡張、音楽やポッドキャストのAI音声ガイドなどを順次導入する。テレビでの音声コメントやライブ自動翻訳も提供する。",
+      "date": "2026-09-24T11:58:36+00:00",
+      "source": "ITmedia News",
       "lang": "ja",
       "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "148d6434756c",
+      "title": "AI is dominating the conversation at Climate Week",
+      "url": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
+      "summary": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so many climate voices in one pla",
+      "date": "2026-09-24T10:00:00+00:00",
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "64983711808c",
+      "title": "LWiAI Podcast #257 - GPT 6 Astra, AI Extinction, Security Incidents",
+      "url": "https://lastweekin.ai/p/lwiai-podcast-257-gpt-6-astra-ai",
+      "summary": "A belated discussion of Astra’s release, a bunch of AI incidents, and the broader situation we are in with regards to AI safety.",
+      "date": "2026-09-24T09:12:28+00:00",
+      "source": "Last Week in AI",
+      "lang": "en",
+      "category": "Research",
       "priority": 2
     },
     {
@@ -20,39 +130,6 @@
       "summary": "Googleは、テキストから音声を生成する「Gemini 3.8 Flash TTS」とその軽量版を公開した。従来の選択式から進化し、自然言語による声のゼロからの生成や演技・感情の細かな制御に対応する。日本語を含む多言語をサポートし、透かし技術「SynthID」も埋め込む。開発者向けAPIや各種サービスで順次提供する。",
       "date": "2026-09-24T07:46:40+00:00",
       "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "2fbaf39479f2",
-      "title": "AnthropicのClaudeがバクテリオファージからCRISPRに似た未知の酵素システムを発見、ダリオ・アモデイCEOはAIで「5〜10年以内に多くの病気を治せる」と予測",
-      "url": "https://gigazine.net/news/20260924-anthropic-claude-crispr/",
-      "summary": "AI企業のAnthropicが、同社のAI「Claude」がバクテリオファージのDNAを解析し、ゲノム編集技術のCRISPRに似た反復配列を伴う未知の酵素システムを発見したと発表しました。「array-associated reverse transcriptases」、略して「ART」と名付けられたこのシステムの具体的な機能はまだ分かっていませんが、Claudeが大量のDNA配列を自律的に調べ、研究対象となる新たな生物学的システムを見つけ出した事例となっています。続きを読む...",
-      "date": "2026-09-24T06:20:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "4c86b2cb203f",
-      "title": "長年解読できなかった82文字のエニグマ暗号を「GPT-6 Astra」が解読、独自に解読プログラムも作成",
-      "url": "https://gigazine.net/news/20260924-enigma-mvueh-break/",
-      "summary": "1941年にドイツ軍が送信し、長年にわたって解読が試みられていた82文字のエニグマ暗号「MVUEH」が、OpenAIのAIモデル「GPT-6 Astra」を使った調査によって解読されました。暗号研究サイト「Crypto Cellar Research」を運営する暗号研究者のフローデ・ワイエルード氏も結果を確認し、復元された暗号鍵と平文が正しいと判断しています。続きを読む...",
-      "date": "2026-09-24T06:15:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "76b8a0de5668",
-      "title": "画像生成・編集AI「Qwen-Image-2.1」が無料のオープンモデルとして登場したので使ってみた、日本語プロンプト対応＆透過PNG画像も生成可能",
-      "url": "https://gigazine.net/news/20260924-qwen-image-2-1/",
-      "summary": "中国企業のAlibabaが画像生成AI「Qwen-Image-2.1」を2026年9月20日に公開しました。Qwen-Imageシリーズとしては久しぶりのオープンモデルで、無料でダウンロードしてComfyUIなどの実行環境で画像生成および編集を実行可能。「透過PNG作成機能」や「複数の参照画像をもとにした画像生成機能」などを備えているとのことなので、実際にPCでローカル実行してみました。続きを読む...",
-      "date": "2026-09-24T06:01:00+00:00",
-      "source": "Gigazine",
       "lang": "ja",
       "category": "Tech",
       "priority": 2
@@ -69,77 +146,11 @@
       "priority": 1
     },
     {
-      "id": "03e6d597d8c7",
-      "title": "Meta is making a standalone Muse AI gadget",
-      "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
-      "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost like a chunky smartwatch with",
-      "date": "2026-09-24T01:02:39+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "b3b054f1bbc7",
       "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
       "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
       "summary": "The tiny hardware device creates another mobile home for its AI agent Muse.",
       "date": "2026-09-24T00:46:17+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "63549054e18f",
-      "title": "Meta Connect 2026: The biggest news and announcements",
-      "url": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
-      "summary": "It’s about time for Meta Connect, the company’s annual product launch event. This year, given the company’s major focus on AI and wearables like smart glasses, it seems likely that we’ll see updates from CEO Mark Zuckerberg and his team on those cate",
-      "date": "2026-09-24T00:21:59+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "abe26ab67059",
-      "title": "Meta introduces camera-free AI glasses",
-      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
-      "date": "2026-09-23T23:39:44+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "590f17902dd0",
-      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
-      "url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
-      "summary": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are getting their own email addresses that they can use for accomplishing tasks",
-      "date": "2026-09-23T23:19:42+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "a9bbbe61b4b3",
-      "title": "Anthropic says its biology lab has already found something big",
-      "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
-      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
-      "date": "2026-09-23T22:17:39+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "237e7ef9dd42",
-      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-      "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
-      "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
-      "date": "2026-09-23T19:31:28+00:00",
       "source": "TechCrunch AI",
       "lang": "en",
       "category": "Industry",
@@ -165,28 +176,6 @@
       "source": "Simon Willison",
       "lang": "en",
       "category": "Prompts",
-      "priority": 1
-    },
-    {
-      "id": "3ecdce7d836a",
-      "title": "ChatGPT mobile app gets voice-based agentic features",
-      "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-      "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
-      "date": "2026-09-23T17:00:00+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "55b95be9dcae",
-      "title": "Even Americans who use AI every day are worried about it",
-      "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
-      "summary": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
-      "date": "2026-09-23T16:49:58+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
       "priority": 1
     },
     {
@@ -220,17 +209,6 @@
       "source": "Google DeepMind",
       "lang": "en",
       "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "ab0b2d96bb33",
-      "title": "YouTube Music gets more conversational with new AI features",
-      "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
-      "summary": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
-      "date": "2026-09-23T15:19:30+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
       "priority": 1
     },
     {
@@ -393,17 +371,6 @@
       "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Don’t be fooled by this summer of AI hype —Timnit Gebru, executive director of the Distributed AI Research Insti",
       "date": "2026-09-22T12:10:00+00:00",
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "d185f661c7d1",
-      "title": "Don’t be fooled by this summer of AI hype",
-      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which A",
-      "date": "2026-09-22T11:04:51+00:00",
       "source": "MIT Tech Review",
       "lang": "en",
       "category": "Research",
