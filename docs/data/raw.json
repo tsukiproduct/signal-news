@@ -1,7 +1,106 @@
 {
-  "fetched_at": "2026-09-24T00:09:31.925865+00:00",
+  "fetched_at": "2026-09-24T09:11:18.425276+00:00",
   "total": 51,
   "items": [
+    {
+      "id": "6f80b1bd287c",
+      "title": "本日まで！ 約970gで最大15.5時間駆動、Copilot+ PC「HP OmniBook 7 Aero」が3万円引きの16万4800円",
+      "url": "https://ascii.jp/elem/000/004/436/4436698/?rss",
+      "summary": "HPの13.3型ノートPC「OmniBook 7 Aero 13-bg（BF8H3PA-ABZR）」がAmazonでタイムセール対象。過去価格194,800円から15％オフの164,800円で販売中。約970gの軽量ボディーで、最大15.5時間のバッテリー駆動に対応し、Ryzen AI 5 340を搭載するCopilot+ PCだ。",
+      "date": "2026-09-24T09:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "d3b02edf4278",
+      "title": "ゼロから声を作れる音声生成モデル「Gemini 3.8 Flash TTS」公開 「Gemini Notebook」でも利用可能に",
+      "url": "https://www.itmedia.co.jp/news/article/2609/24/2000001703/",
+      "summary": "Googleは、テキストから音声を生成する「Gemini 3.8 Flash TTS」とその軽量版を公開した。従来の選択式から進化し、自然言語による声のゼロからの生成や演技・感情の細かな制御に対応する。日本語を含む多言語をサポートし、透かし技術「SynthID」も埋め込む。開発者向けAPIや各種サービスで順次提供する。",
+      "date": "2026-09-24T07:46:40+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "2fbaf39479f2",
+      "title": "AnthropicのClaudeがバクテリオファージからCRISPRに似た未知の酵素システムを発見、ダリオ・アモデイCEOはAIで「5〜10年以内に多くの病気を治せる」と予測",
+      "url": "https://gigazine.net/news/20260924-anthropic-claude-crispr/",
+      "summary": "AI企業のAnthropicが、同社のAI「Claude」がバクテリオファージのDNAを解析し、ゲノム編集技術のCRISPRに似た反復配列を伴う未知の酵素システムを発見したと発表しました。「array-associated reverse transcriptases」、略して「ART」と名付けられたこのシステムの具体的な機能はまだ分かっていませんが、Claudeが大量のDNA配列を自律的に調べ、研究対象となる新たな生物学的システムを見つけ出した事例となっています。続きを読む...",
+      "date": "2026-09-24T06:20:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "4c86b2cb203f",
+      "title": "長年解読できなかった82文字のエニグマ暗号を「GPT-6 Astra」が解読、独自に解読プログラムも作成",
+      "url": "https://gigazine.net/news/20260924-enigma-mvueh-break/",
+      "summary": "1941年にドイツ軍が送信し、長年にわたって解読が試みられていた82文字のエニグマ暗号「MVUEH」が、OpenAIのAIモデル「GPT-6 Astra」を使った調査によって解読されました。暗号研究サイト「Crypto Cellar Research」を運営する暗号研究者のフローデ・ワイエルード氏も結果を確認し、復元された暗号鍵と平文が正しいと判断しています。続きを読む...",
+      "date": "2026-09-24T06:15:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "76b8a0de5668",
+      "title": "画像生成・編集AI「Qwen-Image-2.1」が無料のオープンモデルとして登場したので使ってみた、日本語プロンプト対応＆透過PNG画像も生成可能",
+      "url": "https://gigazine.net/news/20260924-qwen-image-2-1/",
+      "summary": "中国企業のAlibabaが画像生成AI「Qwen-Image-2.1」を2026年9月20日に公開しました。Qwen-Imageシリーズとしては久しぶりのオープンモデルで、無料でダウンロードしてComfyUIなどの実行環境で画像生成および編集を実行可能。「透過PNG作成機能」や「複数の参照画像をもとにした画像生成機能」などを備えているとのことなので、実際にPCでローカル実行してみました。続きを読む...",
+      "date": "2026-09-24T06:01:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "a58dd3909ca1",
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+      "date": "2026-09-24T01:13:32+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "03e6d597d8c7",
+      "title": "Meta is making a standalone Muse AI gadget",
+      "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+      "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost like a chunky smartwatch with",
+      "date": "2026-09-24T01:02:39+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "b3b054f1bbc7",
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "summary": "The tiny hardware device creates another mobile home for its AI agent Muse.",
+      "date": "2026-09-24T00:46:17+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "63549054e18f",
+      "title": "Meta Connect 2026: The biggest news and announcements",
+      "url": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
+      "summary": "It’s about time for Meta Connect, the company’s annual product launch event. This year, given the company’s major focus on AI and wearables like smart glasses, it seems likely that we’ll see updates from CEO Mark Zuckerberg and his team on those cate",
+      "date": "2026-09-24T00:21:59+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
     {
       "id": "abe26ab67059",
       "title": "Meta introduces camera-free AI glasses",
@@ -25,28 +124,6 @@
       "priority": 2
     },
     {
-      "id": "1982ddd9fed1",
-      "title": "YouTube、視聴者向け新機能を発表 プロンプトで作る「カスタムフィード」、Ask YouTubeの買い物支援、YouTube Musicの「Ask Music」など",
-      "url": "https://www.itmedia.co.jp/news/article/2609/24/2000001684/",
-      "summary": "YouTubeは「Made on YouTube 2026」で、視聴者向けの新機能を発表した。気分や関心に沿ったフィードを自作できるCustom Feedsや、商品選びを対話で支援するAsk YouTubeの拡張、音楽やポッドキャストのAI音声ガイドなどを順次導入する。テレビでの音声コメントやライブ自動翻訳も提供する。",
-      "date": "2026-09-23T23:10:00+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "63549054e18f",
-      "title": "Meta Connect 2026: The biggest news and announcements",
-      "url": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
-      "summary": "It’s about time for Meta Connect, the company’s annual product launch event. This year, given the company’s major focus on AI and wearables like smart glasses, it seems likely that we’ll see updates from CEO Mark Zuckerberg and his team on those cate",
-      "date": "2026-09-23T22:43:58+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "a9bbbe61b4b3",
       "title": "Anthropic says its biology lab has already found something big",
       "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
@@ -56,28 +133,6 @@
       "lang": "en",
       "category": "Industry",
       "priority": 1
-    },
-    {
-      "id": "8ea63809f41a",
-      "title": "自分らしさを損なわずにAIで文章を手直しするための2つのルール",
-      "url": "https://gigazine.net/news/20260924-ai-writing-copyeditor/",
-      "summary": "AIに文章の手直しを頼むと、整いすぎた言い回しを提案されたり、原稿を必要以上に褒められたりすることがあります。開発者向けパブリッククラウドのFly.ioで働くセキュリティ研究者・ソフトウェア開発者のトーマス・H・プタチェク氏が、自分らしさを損なわずに大規模言語モデル(LLM)で文章を手直しする方法を自身のブログで説明しています。続きを読む...",
-      "date": "2026-09-23T21:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "1d134fb11a1b",
-      "title": "Microsoft’s new Surface Mouse has haptic feedback and a customizable action button",
-      "url": "https://www.theverge.com/news/999211/microsoft-surface-mouse-haptic-feedback",
-      "summary": "Microsoft is launching a second generation of its Surface Mouse next month that includes haptic feedback support. The Surface Mouse also has a customizable action button for the first time, which is primarily designed for quick access to Copilot (of ",
-      "date": "2026-09-23T20:24:59+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "237e7ef9dd42",
@@ -179,28 +234,6 @@
       "priority": 1
     },
     {
-      "id": "0869f53f8a88",
-      "title": "YouTube will let you build your own algorithm with AI",
-      "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
-      "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
-      "date": "2026-09-23T14:30:00+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "fe603b600b7e",
-      "title": "YouTube releases new AI features for creators within its Studio app",
-      "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
-      "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
-      "date": "2026-09-23T14:30:00+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
       "id": "3f94f55217dd",
       "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
       "url": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
@@ -287,39 +320,6 @@
       "lang": "en",
       "category": "Prompts",
       "priority": 1
-    },
-    {
-      "id": "22367b429dcc",
-      "title": "トランプ大統領、国連演説で「AI」を「Super Intelligence」に改称すると表明",
-      "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001676/",
-      "summary": "トランプ米大統領は国連総会の一般討論演説で、AIの呼称を「Super Intelligence（SI）」に変更すると表明した。米国の全公文書で採用し、他国にも同調を促す。国際的なAI管理の枠組みを拒否し、地球温暖化論争になぞらえて脅威論を一蹴した上で、成長を支援して開発競争をリードする姿勢を強調した。",
-      "date": "2026-09-23T01:36:07+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "70fc10c11a00",
-      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-      "url": "https://openai.com/index/airbnb-gpt-6-astra",
-      "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
-      "date": "2026-09-23T01:00:00+00:00",
-      "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "62fbd0984082",
-      "title": "OpenAI、「GPT-6 Sol」と「GPT-6 Luna」公開 API料金は前世代の半額に",
-      "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001674/",
-      "summary": "OpenAIは新モデル「GPT-6 Sol」と「GPT-6 Luna」を公開した。最上位のAstraと同様の手法で訓練し、前世代からAPI料金を半額に引き下げた。ChatGPTやCodexで順次提供する。アライメント改善が進む一方、思考過程で評価を察知する兆候が増加するなど監視上の課題も残る。",
-      "date": "2026-09-23T00:12:02+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "3535d8809ec9",
