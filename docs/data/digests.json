@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "id": "2026-09-24_morning-ai-weekly-youtube-openai-meta-sep2026",
+      "date": "2026-09-24",
+      "file_key": "2026-09-24_morning",
+      "title": "AIが日常に浸透する今週：YouTube対話型AI、OpenAI料金半額、Meta脆弱性",
+      "summary": "YouTubeが対話型音楽検索とカスタムアルゴリズムを追加、OpenAIがGPT-6系APIを前世代半額で公開、一方でMetaのMuseに深刻なゼロデイ脆弱性が発見された。",
+      "tags": [
+        "YouTube AI",
+        "OpenAI GPT-6",
+        "Meta Muse",
+        "セキュリティ",
+        "RAG",
+        "Cloudflare Workers AI"
+      ],
+      "slug": "ai-weekly-youtube-openai-meta-sep2026"
+    },
+    {
       "id": "2026-09-24_morning-ai-new-models-cost-efficiency",
       "date": "2026-09-24",
       "file_key": "2026-09-24_morning",
@@ -411,20 +427,7 @@
         "イベント"
       ],
       "slug": "ai-drug-aging-image-generation-weekly"
-    },
-    {
-      "id": "2026-09-07_morning-ai-agents-aaas-future",
-      "date": "2026-09-07",
-      "file_key": "2026-09-07_morning",
-      "title": "AIエージェントとAaaSが変える業務効率の未来",
-      "summary": "AIエージェントの出力最適化とAaaS台頭、生成AI満足度ランキングなど最新動向を解説。",
-      "tags": [
-        "AIエージェント",
-        "AaaS",
-        "生成AI"
-      ],
-      "slug": "ai-agents-aaas-future"
     }
   ],
-  "updated_at": "2026-09-23T15:14:16.429386+00:00"
+  "updated_at": "2026-09-24T00:27:41.453685+00:00"
 }
