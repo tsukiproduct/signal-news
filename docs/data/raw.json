@@ -1,7 +1,84 @@
 {
-  "fetched_at": "2026-09-25T09:30:52.877239+00:00",
-  "total": 43,
+  "fetched_at": "2026-09-25T15:35:41.148296+00:00",
+  "total": 41,
   "items": [
+    {
+      "id": "c9621711fc22",
+      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+      "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+      "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development Save up to $200 on your pass before today ends.",
+      "date": "2026-09-25T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "abe9d485ffa0",
+      "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
+      "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
+      "summary": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment later, it buzzed again. I pulled it out, glanced down, and saw a \"motion",
+      "date": "2026-09-25T13:35:25+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "7c931ccb3826",
+      "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+      "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+      "summary": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents. As part of the launch, Microsoft is also r",
+      "date": "2026-09-25T13:14:27+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "b0fa98e8b274",
+      "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
+      "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie detector The US government wants to spend $30.3 millio",
+      "date": "2026-09-25T12:10:00+00:00",
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "1e834f707615",
+      "title": "Microsoftが次世代「Copilot」を発表=「Home」「Code」「Autopilot」でAI時代の働き方を再定義",
+      "url": "https://ascii.jp/elem/000/004/437/4437076/?rss",
+      "summary": "次世代「Microsoft Copilot」は従来のオフィスツールと連携しつつ、生成AIとの対話から自律的なタスク実行、ノーコードでのアプリ開発までを一体化させた新しいプラットフォームへと進化します",
+      "date": "2026-09-25T12:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "ec271bbabc2b",
+      "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
+      "url": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
+      "summary": "Remember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and a half years later, Microsoft and Qualcomm seem to be admi",
+      "date": "2026-09-25T11:11:10+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "b50925bd3c97",
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that ",
+      "date": "2026-09-25T09:16:25+00:00",
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
     {
       "id": "bb5c1e3c8a7d",
       "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
@@ -12,28 +89,6 @@
       "lang": "en",
       "category": "Industry",
       "priority": 1
-    },
-    {
-      "id": "ec271bbabc2b",
-      "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
-      "url": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
-      "summary": "Remember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and a half years later, Microsoft and Qualcomm seem to be admi",
-      "date": "2026-09-25T01:25:53+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "6c25baed85f2",
-      "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currentl",
-      "date": "2026-09-24T20:00:34+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "401fbf3dbcdc",
@@ -58,17 +113,6 @@
       "priority": 1
     },
     {
-      "id": "9e8b00989e31",
-      "title": "Jensen Huang talks about AI and climate change like a supervillain",
-      "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
-      "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of The Ezra Klein ",
-      "date": "2026-09-24T18:04:44+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "72339274d890",
       "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
       "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
@@ -77,39 +121,6 @@
       "source": "TechCrunch AI",
       "lang": "en",
       "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "1ac6e3fa768e",
-      "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
-      "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
-      "summary": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
-      "date": "2026-09-24T17:00:00+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "84fff2272860",
-      "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
-      "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
-      "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.",
-      "date": "2026-09-24T16:35:13+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "0970685988e4",
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "summary": "",
-      "date": "2026-09-24T16:20:39+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
       "priority": 1
     },
     {
@@ -168,34 +179,12 @@
       "priority": 1
     },
     {
-      "id": "8f839c0d3f32",
-      "title": "Advancing Private AI Compute with secure, server-side memory",
-      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-      "date": "2026-09-23T16:00:57+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
       "id": "cd65d3ae79b3",
       "title": "Two years of OpenAI Academy",
       "url": "https://openai.com/index/two-years-of-openai-academy",
       "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
       "date": "2026-09-23T16:00:00+00:00",
       "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "31ef9b5263a3",
-      "title": "Gemini 3.8 text-to-speech says hello",
-      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-      "summary": "",
-      "date": "2026-09-23T15:25:14+00:00",
-      "source": "Google DeepMind",
       "lang": "en",
       "category": "Research",
       "priority": 1
@@ -407,17 +396,6 @@
       "source": "Cloudflare Workers AI",
       "lang": "en",
       "category": "Tech",
-      "priority": 1
-    },
-    {
-      "id": "392b6ec46b4e",
-      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-      "summary": "",
-      "date": "2026-09-15T17:05:57+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
       "priority": 1
     },
     {
