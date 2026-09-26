@@ -1,12 +1,23 @@
 {
-  "fetched_at": "2026-09-26T00:17:54.855104+00:00",
-  "total": 40,
+  "fetched_at": "2026-09-26T09:15:48.947049+00:00",
+  "total": 42,
   "items": [
+    {
+      "id": "eba8f3f78a8e",
+      "title": "「AI家庭教師と人間の専門家による指導の学習効果は同等」という研究結果、正答率の向上にかかる費用は918分の1",
+      "url": "https://gigazine.net/news/20260926-ai-tutor-human-gre-cost/",
+      "summary": "勉強中に分からないところを気軽に聞ける家庭教師がいれば心強いものの、人間の専門家に1対1で教わるには高い指導料がかかります。AI家庭教師でも同じだけ学べるのかを調べるため、Handshake AI Researchのカーティス・ノースカット氏らはアメリカの大学院進学に使われる試験「GRE」の対策で学習効果と費用を比較しました。続きを読む...",
+      "date": "2026-09-26T01:00:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
     {
       "id": "4dc5a9b388b9",
       "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
       "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-      "summary": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.",
+      "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
       "date": "2026-09-25T23:11:10+00:00",
       "source": "TechCrunch AI",
       "lang": "en",
@@ -80,28 +91,6 @@
       "priority": 1
     },
     {
-      "id": "137693ab52f6",
-      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
-      "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
-      "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
-      "date": "2026-09-25T17:29:46+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "c01ce16603fc",
-      "title": "One company is at the center of a wave of rogue AI attacks",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
-      "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has f",
-      "date": "2026-09-25T16:51:08+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "0a72912534ee",
       "title": "Meta makes the Muse filesystem even more accessible",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
@@ -143,6 +132,17 @@
       "source": "GitHub AI & ML",
       "lang": "en",
       "category": "Prompts",
+      "priority": 1
+    },
+    {
+      "id": "0970685988e4",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "summary": "",
+      "date": "2026-09-24T16:20:39+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
       "priority": 1
     },
     {
@@ -201,12 +201,34 @@
       "priority": 1
     },
     {
+      "id": "8f839c0d3f32",
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+      "date": "2026-09-23T16:00:57+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
       "id": "cd65d3ae79b3",
       "title": "Two years of OpenAI Academy",
       "url": "https://openai.com/index/two-years-of-openai-academy",
       "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
       "date": "2026-09-23T16:00:00+00:00",
       "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "31ef9b5263a3",
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "summary": "",
+      "date": "2026-09-23T15:25:14+00:00",
+      "source": "Google DeepMind",
       "lang": "en",
       "category": "Research",
       "priority": 1
@@ -388,6 +410,17 @@
       "priority": 1
     },
     {
+      "id": "392b6ec46b4e",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "summary": "",
+      "date": "2026-09-15T17:05:57+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
       "id": "5537902aa439",
       "title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/",
@@ -397,17 +430,6 @@
       "lang": "en",
       "category": "Tech",
       "priority": 1
-    },
-    {
-      "id": "29ba46951f8a",
-      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-      "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-      "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
-      "date": "2026-09-14T21:04:32+00:00",
-      "source": "Ars Technica",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "f8a70a087364",
