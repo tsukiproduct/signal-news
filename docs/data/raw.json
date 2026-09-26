@@ -1,7 +1,18 @@
 {
-  "fetched_at": "2026-09-26T09:15:48.947049+00:00",
+  "fetched_at": "2026-09-26T14:46:48.063763+00:00",
   "total": 42,
   "items": [
+    {
+      "id": "974092efe5bb",
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "date": "2026-09-26T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
     {
       "id": "eba8f3f78a8e",
       "title": "「AI家庭教師と人間の専門家による指導の学習効果は同等」という研究結果、正答率の向上にかかる費用は918分の1",
@@ -47,6 +58,17 @@
       "priority": 1
     },
     {
+      "id": "3aa3a6348b5a",
+      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+      "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+      "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point f",
+      "date": "2026-09-25T22:13:20+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
       "id": "0192a09d7c87",
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
       "url": "https://openai.com/index/proaction",
@@ -69,17 +91,6 @@
       "priority": 1
     },
     {
-      "id": "b1b0ef608ef5",
-      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-      "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 mode",
-      "date": "2026-09-25T18:22:47+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
       "id": "1feb84b6f88b",
       "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
       "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/",
@@ -89,17 +100,6 @@
       "lang": "en",
       "category": "Prompts",
       "priority": 1
-    },
-    {
-      "id": "0a72912534ee",
-      "title": "Meta makes the Muse filesystem even more accessible",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
-      "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren't meant to see, not leas",
-      "date": "2026-09-25T16:49:53+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "b0fa98e8b274",
