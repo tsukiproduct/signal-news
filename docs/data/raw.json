@@ -1,7 +1,18 @@
 {
-  "fetched_at": "2026-09-27T00:05:07.289288+00:00",
-  "total": 41,
+  "fetched_at": "2026-09-27T09:55:38.798392+00:00",
+  "total": 42,
   "items": [
+    {
+      "id": "7fbf00bb0a9a",
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "date": "2026-09-27T01:30:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
     {
       "id": "db474621d18a",
       "title": "Insurers claim AI is already increasing healthcare costs",
