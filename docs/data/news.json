@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-27T10:02:00.096874+00:00",
-  "fetched_at": "2026-09-27T09:55:38.798392+00:00",
-  "total": 39,
+  "updated_at": "2026-09-27T15:31:17.961549+00:00",
+  "fetched_at": "2026-09-27T15:24:45.356148+00:00",
+  "total": 40,
   "curated": true,
   "items": [
     {
@@ -98,6 +98,30 @@
       "try_next_en": "Apply rejectIfBusy in an endpoint and verify error responses.",
       "caveat_ja": "このオプションは、リージョンやプランによって利用不可の場合あり。ドキュメントで確認が必要。",
       "caveat_en": "Check availability per region/plan; may not be enabled everywhere.",
+      "translation_status": "machine"
+    },
+    {
+      "id": "392b6ec46b4e",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "summary": "",
+      "date": "2026-09-15T17:05:57+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1,
+      "score": 9,
+      "reason": "新製品の発表であり、AI利用者に直接影響を与える具体的な新機能（リアルタイム対話・拡張思考）の追加が含まれる",
+      "summary_ja": "Google DeepMindが、新たにGemini 3.8 Liveおよび3.8 Live Extended Thinkingを発表した。これにより、リアルタイム対話および拡張思考機能を備えた新しいAIモデルが利用可能になった。",
+      "title_ja": "Gemini 3.8 Liveおよび3.8 Live Extended Thinkingを発表",
+      "title_en": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "summary_en": "Google DeepMind introduced Gemini 3.8 Live and 3.8 Live Extended Thinking, adding new real-time conversational and extended reasoning capabilities to its AI model lineup.",
+      "useful_for_ja": "Gemini APIを利用する開発者、企業ユーザー、およびGoogle DeepMindのAIモデルを活用するAIアプリケーション開発者",
+      "useful_for_en": "Gemini APIを利用する開発者、企業ユーザー、およびGoogle DeepMindのAIモデルを活用するAIアプリケーション構築者",
+      "try_next_ja": "Gemini 3.8 Liveと3.8 Live Extended Thinkingの価格、利用可能なリージョン、API仕様、機能の詳細をGoogle DeepMindの公式ページで確認する",
+      "try_next_en": "Check Google DeepMind's official page for pricing, region availability, API specs, and feature details of Gemini 3.8 Live and Extended Thinking",
+      "caveat_ja": "記事タイトルから製品発売が確認できるが、価格設定、利用可能リージョン、機能の制限などは原文を確認する必要がある",
+      "caveat_en": "Product launch confirmed from title; pricing, region availability, and feature limitations require checking the original article",
       "translation_status": "machine"
     },
     {
@@ -485,6 +509,34 @@
       "translation_status": "machine"
     },
     {
+      "id": "e7b3b67c648d",
+      "title": "MicrosoftとQualcommが展開してきた「Copilot+ PC」ブランドが実質的に消滅",
+      "url": "https://gigazine.net/news/20260927-microsoft-copilot-plus-brand-is-dead/",
+      "summary": "MicrosoftとQualcommが、特定のシステム要件を満たしたPCを対象として2024年から展開してきた「Copilot+ PC」ブランドが、公式な発表はあいものの実質的に消滅したことが明らかになりました。続きを読む...",
+      "date": "2026-09-27T14:55:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "MicrosoftとQualcommが、特定のシステム要件を満たしたPCを対象として2024年から展開してきた「Copilot+ PC」ブランドが、公式な発表はあいものの実質的に消滅したことが明らかになりました。続きを読む..."
+    },
+    {
+      "id": "8156b9511cb2",
+      "title": "画像・動画生成AIのAPIを安さや制限の緩さで選んで簡単に使えるようにする「Comfy Router」が登場、OpenRouterのコンテンツ生成版",
+      "url": "https://gigazine.net/news/20260927-comfy-router/",
+      "summary": "画像生成AIや動画生成AIをPCでローカル実行できるアプリ「ComfyUI」を開発するComfyが、サービスごとの画像・動画生成AIのAPIをまとめて扱えるようにする「Comfy Router」を2026年9月23日にリリースしました。続きを読む...",
+      "date": "2026-09-27T10:00:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "ImageVideo",
+      "priority": 2,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "画像生成AIや動画生成AIをPCでローカル実行できるアプリ「ComfyUI」を開発するComfyが、サービスごとの画像・動画生成AIのAPIをまとめて扱えるようにする「Comfy Router」を2026年9月23日にリリースしました。続きを読む..."
+    },
+    {
       "id": "7fbf00bb0a9a",
       "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
       "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
@@ -727,20 +779,6 @@
       "translation_status": "machine"
     },
     {
-      "id": "7c9a1180e3e3",
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-      "date": "2026-09-23T12:00:00+00:00",
-      "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1,
-      "score": 5,
-      "reason": "未評価",
-      "summary_ja": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council."
-    },
-    {
       "id": "edaeeef0c798",
       "title": "The AI Hype Index: AI loves cheating",
       "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
@@ -775,8 +813,18 @@
       "category": "Prompts",
       "priority": 1,
       "score": 5,
-      "reason": "未評価",
-      "summary_ja": ""
+      "reason": "オープンソースコミュニティへの支援に関する発表であり、開発者にとって関連性はあるが、具体的な変更や新機能の詳細が不足している",
+      "summary_ja": "oMLXの作成者兼メンテナであるJun Kim氏が、Hugging Faceに加入し、MLXコミュニティの支援を行う。",
+      "title_ja": "Jun Kim、oMLX作成者兼メンテナがHugging Faceに加入しMLXコミュニティを支援",
+      "title_en": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "summary_en": "Jun Kim, creator and maintainer of oMLX, has joined Hugging Face to support the MLX community.",
+      "useful_for_ja": "MLXフレームワークを利用する開発者およびHugging Face上のオープンソースモデルコミュニティ",
+      "useful_for_en": "MLXフレームワークを利用する開発者や、Hugging Faceプラットフォーム上で動作するオープンモデルコミュニティ",
+      "try_next_ja": "Jun Kim氏がMLXコミュニティのために具体的にどのような支援を行うのか、Hugging Faceブログの詳細記事を確認する",
+      "try_next_en": "Check the Hugging Face blog for details on what specific support will be provided for the MLX community",
+      "caveat_ja": "要約が極めて短く、具体的な支援内容や新機能の追加、有無は原文を確認する必要がある",
+      "caveat_en": "Summary is very brief; specific support details or new capabilities require the full article",
+      "translation_status": "machine"
     },
     {
       "id": "d90d9672d7c3",
@@ -801,20 +849,6 @@
       "caveat_ja": "要約記事のため、具体的な詳細や数値は各元記事の確認が必要。記事の主張は検証されていない",
       "caveat_en": "This is a roundup summary; specific details and numbers require checking original sources. Claims are not independently verified",
       "translation_status": "machine"
-    },
-    {
-      "id": "392b6ec46b4e",
-      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-      "summary": "",
-      "date": "2026-09-15T17:05:57+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1,
-      "score": 5,
-      "reason": "未評価",
-      "summary_ja": ""
     },
     {
       "id": "39478a8c8760",

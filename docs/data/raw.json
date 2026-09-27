@@ -1,7 +1,29 @@
 {
-  "fetched_at": "2026-09-27T09:55:38.798392+00:00",
-  "total": 42,
+  "fetched_at": "2026-09-27T15:24:45.356148+00:00",
+  "total": 44,
   "items": [
+    {
+      "id": "e7b3b67c648d",
+      "title": "MicrosoftとQualcommが展開してきた「Copilot+ PC」ブランドが実質的に消滅",
+      "url": "https://gigazine.net/news/20260927-microsoft-copilot-plus-brand-is-dead/",
+      "summary": "MicrosoftとQualcommが、特定のシステム要件を満たしたPCを対象として2024年から展開してきた「Copilot+ PC」ブランドが、公式な発表はあいものの実質的に消滅したことが明らかになりました。続きを読む...",
+      "date": "2026-09-27T14:55:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "8156b9511cb2",
+      "title": "画像・動画生成AIのAPIを安さや制限の緩さで選んで簡単に使えるようにする「Comfy Router」が登場、OpenRouterのコンテンツ生成版",
+      "url": "https://gigazine.net/news/20260927-comfy-router/",
+      "summary": "画像生成AIや動画生成AIをPCでローカル実行できるアプリ「ComfyUI」を開発するComfyが、サービスごとの画像・動画生成AIのAPIをまとめて扱えるようにする「Comfy Router」を2026年9月23日にリリースしました。続きを読む...",
+      "date": "2026-09-27T10:00:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
     {
       "id": "7fbf00bb0a9a",
       "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
