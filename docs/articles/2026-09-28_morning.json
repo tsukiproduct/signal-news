@@ -1,0 +1,136 @@
+{
+  "id": "2026-09-28_morning-ai-security-new-features-202609",
+  "file_key": "2026-09-28_morning",
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T00:12:31.885064+00:00",
+  "title": "AIセキュリティと新機能の注目トレンド 2026年9月",
+  "slug": "ai-security-new-features-202609",
+  "summary": "MetaのMuseに深刻なゼロデイ脆弱性が見つかり、Workers AIのリクエスト管理機能も強化。Google DeepMindはGemini 3.8ライブの新機能を追加し、プライバシー機能も進化。",
+  "tags": [
+    "AIセキュリティ",
+    "新機能",
+    "機械学習",
+    "AI倫理",
+    "画像生成AI"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "AI業界はセキュリティと機能拡張の二重加速を遂げている。重大な脆弱性の発見と、業務効率を向上させる新技術の登場が同時に注目されている。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "MetaのMuseアシスタントは高度に特権的なアクセス権を有しており、そのゼロデイ脆弱性は単一のクリックで完全制御に至る可能性がある。Cloudflare Workers AIはキュー処理の最適化为各自のインフラに即座に適用可能。Google DeepMindはGemini 3.8 LiveおよびExtended Thinkingでリアルタイム対話能力を強化し、プライベートCompute環境でのデータ保護もさらに進化した。",
+      "source_title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "source_url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "Comfy Routerは複数の画像生成APIを統合し、価格帯や制限条件を横断的に比較可能にすることで、ユーザーが最も適したツールを選択しやすくなった。OpenRouterのコンテンツ生成版としても展開される。",
+      "source_title": "Comfy Router",
+      "source_url": "https://gigazine.net/news/20260927-comfy-router/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "実用的なAIアシスタントへの指示",
+      "prompt_body": "「このレポートを簡潔に5分以内にまとめよ。主要な課題と解決策を箇条書きで記述せよ」",
+      "prompt_usecase": "ビジネスレポートの迅速な要約作成",
+      "prompt_source": "Ars Technica - AI水印と有害指示への対応"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "RAG（RAG）の限界についての議論はGitHubポッドキャストでも活発化。このテーマは単なる技術的進化を超え、AIシステムの本質的な安全性と信頼性について深い問いを投げかけている。",
+      "source_title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+      "source_url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "直接参加は制限されるが、公開チャネルを通じた技術解説やデモが期待できる。特にDeepMindのGemini 3.8ライブに関する詳細発表や、Privacy-focused Computeのワークショップが注目のポイント。",
+      "event_list": [
+        {
+          "title": "Gemini 3.8 Liveプレデモ",
+          "date": "2026-09-25",
+          "place": "オンライン",
+          "url": "https://deepmind.google/blog/gemini-3-8-live-preview"
+        },
+        {
+          "title": "プライベートAIコンピューティングサムミット",
+          "date": "2026-10-02",
+          "place": "San Francisco, CA (オンライン)",
+          "url": "https://www.deepmind.io/privacy-sumit-2026"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": " Museの脆弱性対策としては、アクセス制限と定期的なセキュリティ監査が必須。 Workers AIのrejectIfBusy機能は、システム過負荷時のパフォーマンス劣化を防ぎ、運用コストを削減できる。画像生成APIのComfy Router統合は、予算制約のある企業にとって、選択肢の狭まりを解消する実用的なツールとなる。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "AIセキュリティと機能拡張の両面から、ゼロデイ対応の緊急性と、プライバシー保護技術の成熟が近い将来の基盤となる。特にLLMへの水印技術と有害指示への耐性が進化している点は、長期的なリスク低減に寄与する。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+      "source": "Ars Technica",
+      "category": "Tech"
+    },
+    {
+      "title": "Workers AI - Reject busy synchronous inference requests",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-09-17-reject-if-busy/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "source": "Google DeepMind",
+      "category": "Research"
+    },
+    {
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "source": "Google DeepMind",
+      "category": "Research"
+    },
+    {
+      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+      "source": "Ars Technica",
+      "category": "Tech"
+    },
+    {
+      "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+      "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/",
+      "source": "GitHub AI & ML",
+      "category": "Prompts"
+    },
+    {
+      "title": "画像・動画生成AIのAPIを安さや制限の緩さで選んで簡単に使えるようにする「Comfy Router」が登場、OpenRouterのコンテンツ生成版",
+      "url": "https://gigazine.net/news/20260927-comfy-router/",
+      "source": "Gigazine",
+      "category": "ImageVideo"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

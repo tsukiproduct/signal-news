@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-09-28_morning-ai-security-new-features-202609",
+      "date": "2026-09-28",
+      "file_key": "2026-09-28_morning",
+      "title": "AIセキュリティと新機能の注目トレンド 2026年9月",
+      "summary": "MetaのMuseに深刻なゼロデイ脆弱性が見つかり、Workers AIのリクエスト管理機能も強化。Google DeepMindはGemini 3.8ライブの新機能を追加し、プライバシー機能も進化。",
+      "tags": [
+        "AIセキュリティ",
+        "新機能",
+        "機械学習",
+        "AI倫理",
+        "画像生成AI"
+      ],
+      "slug": "ai-security-new-features-202609"
+    },
+    {
       "id": "2026-09-27_evening-microsoft-copilot-refresh-muse-vulnerability-cloudflare-ai-gateway-update",
       "date": "2026-09-27",
       "file_key": "2026-09-27_evening",
@@ -412,21 +427,7 @@
         "画像生成AI"
       ],
       "slug": "ai-news-roundup-sep-2026"
-    },
-    {
-      "id": "2026-09-08_evening-latest-ai-innovations-standardization-webgpu",
-      "date": "2026-09-08",
-      "file_key": "2026-09-08_evening",
-      "title": "最新AIイノベーション横断：標準化と加速の潮流",
-      "summary": "Cloudflare AI Gateway統合化とGeminiモデルの新機能展開が注目。Workers AIでのGLM-5.3提供やWebGPUカーネルの公開など、AIエコシステムの標準化とパフォーマンス向上の方向性が強調されている",
-      "tags": [
-        "AI標準化",
-        "エージェント型AI",
-        "WebGPU",
-        "LLM開発"
-      ],
-      "slug": "latest-ai-innovations-standardization-webgpu"
     }
   ],
-  "updated_at": "2026-09-27T10:02:26.076731+00:00"
+  "updated_at": "2026-09-28T00:12:31.885783+00:00"
 }
