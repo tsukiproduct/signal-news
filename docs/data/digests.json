@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-09-29_evening-ai-weekly-update-6-key-developments",
+      "date": "2026-09-29",
+      "file_key": "2026-09-29_evening",
+      "title": "AI Weekly Update: 6 Key Developments",
+      "summary": "OpenAI支援拡大、プライベートメモリ導入、Meta Museのゼロデイ、Workers AI の混雑対策、Anthropicのリスク警告、RAGとMCPの論争",
+      "tags": [
+        "AI研究",
+        "セキュリティ",
+        "実務活用"
+      ],
+      "slug": "ai-weekly-update-6-key-developments"
+    },
+    {
       "id": "2026-09-29_afternoon-ai-landscape-funding-flaws-new-controls",
       "date": "2026-09-29",
       "file_key": "2026-09-29_afternoon",
@@ -416,16 +429,7 @@
         "マルチモーダル"
       ],
       "slug": "cloudflare-gateway-multimodal-ai-sep2026"
-    },
-    {
-      "id": "2026-09-09_evening-ai-agents-models-2026",
-      "date": "2026-09-09",
-      "file_key": "2026-09-09_evening",
-      "title": "AIエージェントとモデルの進化：最新情報をすべて把握",
-      "summary": "MetaのMus E AIエージェント導入、CloudflareのAI Gatewayバリュイング統合、Z.ai GLM-5.3のWorkers AI展開、そしてGeminiのエージェント的ビデオ理解など、2026年現在のAI開発トレンドを解説",
-      "tags": [],
-      "slug": "ai-agents-models-2026"
     }
   ],
-  "updated_at": "2026-09-29T01:26:01.904562+00:00"
+  "updated_at": "2026-09-29T10:38:41.471850+00:00"
 }

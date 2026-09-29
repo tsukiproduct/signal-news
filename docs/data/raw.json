@@ -1,14 +1,69 @@
 {
-  "fetched_at": "2026-09-29T01:22:38.865282+00:00",
-  "total": 46,
+  "fetched_at": "2026-09-29T10:33:12.129196+00:00",
+  "total": 47,
   "items": [
     {
-      "id": "725deb2ffc17",
-      "title": "“現場で作る”カメラ× AI！ソラカメAPIとClaude Codeで定期巡回を自動化してみよう！！",
-      "url": "https://ascii.jp/elem/000/004/437/4437879/?rss",
-      "summary": "“現場で作る”カメラ× AI！ソラカメAPIとClaude Codeで定期巡回を自動化してみよう！！",
-      "date": "2026-09-29T01:00:00+00:00",
-      "source": "ASCII.jp",
+      "id": "5a83c1fb8dc4",
+      "title": "「GPT-6 Astraは旧世代モデルよりサイバー攻撃を実行しやすい傾向にある」というイギリス政府機関の分析結果が公開される",
+      "url": "https://gigazine.net/news/20260929-gpt-6-astra-aisi-report/",
+      "summary": "OpenAIはAIの開発中に「国連の統計サイト」「オーストラリアの公的医療サービス」「アメリカの教育省・商務省・証券取引委員会」といった重要サービスに対する攻撃を実行してしまったことが明らかになっています。新たに、イギリスの政府機関であるAI Security Institute(AISI)が「GPT-6 Astraで攻撃シミュレーションを実行した結果、前世代モデルより拒否率が低下した」という分析結果を公開しました。続きを読む...",
+      "date": "2026-09-29T10:02:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "a11bfb01baaa",
+      "title": "Microsoft Copilotにアップロードした画像は人間が確認している、性的な画像などセンシティブな内容もレビュー対象に",
+      "url": "https://gigazine.net/news/20260929-microsoft-copilot-human-reading/",
+      "summary": "MicrosoftのAIアシスタント「Microsoft Copilot」でユーザーが入力したプロンプトやアップロードした画像の一部を人間の契約スタッフが確認していると404 Mediaが報じました。契約スタッフはユーザーが画像編集を依頼した際のプロンプトや元画像、Copilotが生成した画像を見比べて品質を評価しているとのことです。続きを読む...",
+      "date": "2026-09-29T08:50:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "2e47de1a9497",
+      "title": "IIJ、新人エンジニア向け研修教材を無料公開 Web技術の基礎から生成AI活用まで20講義超",
+      "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001854/",
+      "summary": "インターネットイニシアティブ（IIJ）は9月28日、新人向けハンズオン研修「IIJ Bootcamp」の2026年度版資料を公式エンジニアブログで紹介した。一部を除いてWebで無料公開しており、GitやDockerから生成AIを使ったWebアプリ開発まで一通り学べる。",
+      "date": "2026-09-29T08:07:49+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "dee3f9ce1df5",
+      "title": "AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開 特定のLLMに依存せず入れ替え可能",
+      "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001837/",
+      "summary": "Amazon Web Services（AWS）は、GPTやClaude、Gemini、Ollamaなど主要なLLMやLLMランタイムを基にした高性能なAIエージェントを簡単に自作できるツール「Strandsハーネス」をオープンソースで公開しました。",
+      "date": "2026-09-29T05:56:39+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "f5aa58f3c193",
+      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+      "date": "2026-09-29T05:13:43+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "0d13de31947d",
+      "title": "Geminiの「Gem」廃止へ、11月17日から「スキル」へ刷新",
+      "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001839/",
+      "summary": "米Googleは、生成AI「Gemini」のカスタムbot機能「Gem」を廃止し、後継の「スキル」へ移行するとアプリ内で告知した。個人向けアカウントでは11月17日から自動移行を始め、既存のGemはユーザーの操作なしにスキルへ変換する。",
+      "date": "2026-09-29T04:42:09+00:00",
+      "source": "ITmedia News",
       "lang": "ja",
       "category": "Tech",
       "priority": 2
@@ -25,17 +80,6 @@
       "priority": 1
     },
     {
-      "id": "e86d76922dfc",
-      "title": "AI同士をターン制のバトルゲームで対決させて能力を測る「Tiny AI Arena」",
-      "url": "https://gigazine.net/news/20260929-tiny-ai-arena/",
-      "summary": "AIにターン制のバトルゲームをプレイさせてその能力を測る「Tiny AI Arena」が公開されています。続きを読む...",
-      "date": "2026-09-28T23:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "1c8ed6a55c59",
       "title": "Claude Sonnet 5.5",
       "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
@@ -45,17 +89,6 @@
       "lang": "en",
       "category": "Prompts",
       "priority": 1
-    },
-    {
-      "id": "7388777456b2",
-      "title": "Anthropic、「Claude Sonnet 5.5」公開 料金据え置きで30％以上高速化、タスク当たりコスト最大3割減",
-      "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001823/",
-      "summary": "Anthropicは、新モデル「Claude Sonnet 5.5」を発表した。料金を据え置きつつ出力速度を30％以上高速化し、トークン効率向上でタスク当たり最大30％のコスト削減を実現した。コーディング評価で大幅にスコアを伸ばし、最上位モデル級のサイバー対策を初適用。無料枠を含む全プランとAPIで即日提供する。",
-      "date": "2026-09-28T21:55:33+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "efa98b45caf3",
@@ -99,6 +132,17 @@
       "source": "TechCrunch AI",
       "lang": "en",
       "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "f95544b597e0",
+      "title": "Towards safety cases for frontier AI training",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "date": "2026-09-28T19:00:00+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
       "priority": 1
     },
     {
@@ -155,17 +199,6 @@
       "lang": "en",
       "category": "Research",
       "priority": 1
-    },
-    {
-      "id": "dec7408bd298",
-      "title": "OpenAIはAIトレーニングに違法な海賊版書籍を使うことが危険であり作家の生活を脅かすと認識していたと裁判文書で明らかに",
-      "url": "https://gigazine.net/news/20260928-openai-microsoft-know-book-piracy-illegal/",
-      "summary": "アメリカの著作家らの権利を擁護する全米作家協会(Authors Guild)はAI開発企業のOpenAIやMicrosoftを相手に、生成AIのトレーニングに作家の著作物を無断で使用したとして訴訟を起こしています。この訴訟で提出された複数の裁判文書で、OpenAIがAIトレーニングに海賊版書籍を使うことには危険があり、人間の作家の生活を脅かすことを認識していたことが示されました。続きを読む...",
-      "date": "2026-09-28T13:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "fb9f2e819035",
@@ -372,28 +405,6 @@
       "summary": "",
       "date": "2026-09-23T15:25:14+00:00",
       "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "7c9a1180e3e3",
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-      "date": "2026-09-23T12:00:00+00:00",
-      "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "32b5509ca9a6",
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "date": "2026-09-23T12:00:00+00:00",
-      "source": "OpenAI Blog",
       "lang": "en",
       "category": "Research",
       "priority": 1
