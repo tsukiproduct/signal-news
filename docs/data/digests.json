@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-09-29_afternoon-ai-landscape-funding-flaws-new-controls",
+      "date": "2026-09-29",
+      "file_key": "2026-09-29_afternoon",
+      "title": "AIの動向：資金拡充、脆弱性、新制御",
+      "summary": "OpenAIの助成金拡大、プライベートメモリの導入、MetaのMuse脆弱性、開発者向けリジェクトオプション、ウォーターマーキングの副作用、RAG対スキル設計の議論がAIを形作る。",
+      "tags": [
+        "AI研究",
+        "セキュリティ",
+        "開発者ツール",
+        "プライバシー",
+        "LLM"
+      ],
+      "slug": "ai-landscape-funding-flaws-new-controls"
+    },
+    {
       "id": "2026-09-28_morning-ai-security-new-features-202609",
       "date": "2026-09-28",
       "file_key": "2026-09-28_morning",
@@ -410,24 +425,7 @@
       "summary": "MetaのMus E AIエージェント導入、CloudflareのAI Gatewayバリュイング統合、Z.ai GLM-5.3のWorkers AI展開、そしてGeminiのエージェント的ビデオ理解など、2026年現在のAI開発トレンドを解説",
       "tags": [],
       "slug": "ai-agents-models-2026"
-    },
-    {
-      "id": "2026-09-09_evening-ai-news-roundup-sep-2026",
-      "date": "2026-09-09",
-      "file_key": "2026-09-09_evening",
-      "title": "ChatGPT画像生成2.5、Meta AIエージェントMuse、Chromeセキュリティ刷新──AI注目ニュース解説",
-      "summary": "OpenAIがChatGPT Images 2.5をリリースしスケッチ機能を追加。Metaが個人向けAIエージェントMuseを発表。CloudflareがAI Gatewayの請求機能とWorkers AIの新モデルを更新。Chromeの更新頻度も変更。",
-      "tags": [
-        "ChatGPT Images 2.5",
-        "Meta Muse",
-        "Cloudflare AI Gateway",
-        "GLM-5.3",
-        "Chromeセキュリティ",
-        "AIエージェント",
-        "画像生成AI"
-      ],
-      "slug": "ai-news-roundup-sep-2026"
     }
   ],
-  "updated_at": "2026-09-28T00:12:31.885783+00:00"
+  "updated_at": "2026-09-29T01:26:01.904562+00:00"
 }
