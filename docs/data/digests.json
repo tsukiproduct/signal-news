@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "2026-09-30_morning-ai-latest-updates-zeroday-private-compute",
+      "date": "2026-09-30",
+      "file_key": "2026-09-30_morning",
+      "title": "AI最新情報：ゼロデイ脆弱性からプライベート計算まで",
+      "summary": "MetaのAIアシスタントにゼロデイ脆弱性、DeepMindのプライベート計算、OpenAIの研究支援など、今週のAI業界動向を解説",
+      "tags": [
+        "AIセキュリティ",
+        "プライベートAI",
+        "研究支援",
+        "ゼロデイ脆弱性"
+      ],
+      "slug": "ai-latest-updates-zeroday-private-compute"
+    },
+    {
       "id": "2026-09-29_evening-ai-weekly-update-6-key-developments",
       "date": "2026-09-29",
       "file_key": "2026-09-29_evening",
@@ -416,20 +430,7 @@
         "Business"
       ],
       "slug": "ai-news-2026-09"
-    },
-    {
-      "id": "2026-09-10_evening-cloudflare-gateway-multimodal-ai-sep2026",
-      "date": "2026-09-10",
-      "file_key": "2026-09-10_evening",
-      "title": "Cloudflare Gateway改善とマルチモーダルAI進化",
-      "summary": "Cloudflare AI Gatewayにキャッシュコスト反映と明細統合、Workers AIにGLM-5.3、Gemini動画理解、ChatGPT画像2.5と多岐にわたる。",
-      "tags": [
-        "Cloudflare",
-        "Workers AI",
-        "マルチモーダル"
-      ],
-      "slug": "cloudflare-gateway-multimodal-ai-sep2026"
     }
   ],
-  "updated_at": "2026-09-29T10:38:41.471850+00:00"
+  "updated_at": "2026-09-29T16:41:58.663568+00:00"
 }
