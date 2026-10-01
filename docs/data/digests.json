@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "2026-10-01_evening-ai-industry-trends-reddit-ai-models",
+      "date": "2026-10-01",
+      "file_key": "2026-10-01_evening",
+      "title": "AI業界の動向：Redditの制限と新モデル展開",
+      "summary": "RedditはAIボット対策でRSSフィード停止と公開APIアクセス終了。OpenAIはGPT-6.1 Solで低価格・高性能モデルの登場。GoogleもGemini 4 Argonをリリース。研究支援プログラムも拡大。",
+      "tags": [],
+      "slug": "ai-industry-trends-reddit-ai-models"
+    },
+    {
       "id": "2026-09-30_morning-ai-latest-updates-zeroday-private-compute",
       "date": "2026-09-30",
       "file_key": "2026-09-30_morning",
@@ -415,22 +424,7 @@
         "動画理解"
       ],
       "slug": "ai-news-2026-09-cloudflare-gemini-chatgpt"
-    },
-    {
-      "id": "2026-09-10_evening-ai-news-2026-09",
-      "date": "2026-09-10",
-      "file_key": "2026-09-10_evening",
-      "title": "AIニュースで見る技術とプライバシーの新潮流",
-      "summary": "Apple Watchの音声AI、Cloudflareのコスト透明化、画像生成の進化など、AI技術とビジネスへの影響を解説。",
-      "tags": [
-        "AI",
-        "Privacy",
-        "Cost Management",
-        "Image Generation",
-        "Business"
-      ],
-      "slug": "ai-news-2026-09"
     }
   ],
-  "updated_at": "2026-09-29T16:41:58.663568+00:00"
+  "updated_at": "2026-10-01T10:55:38.565712+00:00"
 }
