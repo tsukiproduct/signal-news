@@ -1,7 +1,84 @@
 {
-  "fetched_at": "2026-10-01T17:09:43.284362+00:00",
-  "total": 45,
+  "fetched_at": "2026-10-02T01:13:11.399923+00:00",
+  "total": 41,
   "items": [
+    {
+      "id": "fd9616d36eb9",
+      "title": "IBM iユーザー向けAIサービスに「CData Connect AI」が採用 350以上のデータソースとセキュアに接続",
+      "url": "https://ascii.jp/elem/000/004/438/4438701/?rss",
+      "summary": "CData Software Japanは、ベル・データが提供する「IBM i」ユーザー向けのAIサービス「生成AI連携サービス for i」の大型アップデートにおいて、同社のマネージドMCPプラットフォーム「CData Connect AI」が採用されたことを発表した。",
+      "date": "2026-10-02T01:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "c3e3f87fd90c",
+      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+      "date": "2026-10-01T21:08:11+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "2ea0f44586ad",
+      "title": "Google’s new Guided Vision feature can help you read the fine print",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+      "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with thing",
+      "date": "2026-10-01T19:47:51+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "33280aa886ac",
+      "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+      "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+      "summary": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
+      "date": "2026-10-01T17:50:19+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "73e415512ac9",
+      "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+      "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+      "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters.",
+      "date": "2026-10-01T17:17:36+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "2210ff8abe46",
+      "title": "The eternal complement",
+      "url": "https://openai.com/index/the-eternal-complement",
+      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+      "date": "2026-10-01T17:00:00+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "9003e361fe6d",
+      "title": "Sony brings AI graphics upscaling to the regular PS5",
+      "url": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr",
+      "summary": "Sony is launching a new AI upscaling technology specifically for the regular PS5. The new tech, called Quick Spectral Super Resolution (QSSR), is a \"new performance tier of AI upscaling\" that's a result of Sony's Project Amethyst work with AMD, accor",
+      "date": "2026-10-01T16:53:39+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
     {
       "id": "4aa9873d3078",
       "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
@@ -36,61 +113,6 @@
       "priority": 1
     },
     {
-      "id": "800f6ad00c94",
-      "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
-      "url": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
-      "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah. The idea was to build the world’s biggest data center — a 40,000-acre AI campus with nine gigawatts ",
-      "date": "2026-10-01T14:39:48+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "cdc4b946eb25",
-      "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-      "summary": "At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walked onstage to cheers and announced Dots, a \"real-d",
-      "date": "2026-10-01T14:38:29+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "3f4ea9f16a21",
-      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-      "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-      "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
-      "date": "2026-10-01T14:00:00+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "45c2da46582d",
-      "title": "Inside Microsoft’s big Copilot rethink",
-      "url": "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad",
-      "summary": "Last week, Microsoft CEO Satya Nadella hosted an intimate, invite-only event for leaders from some of its key enterprise customers. Instead of a flashy media event, Nadella outlined the future of Copilot directly to the customers Microsoft really car",
-      "date": "2026-10-01T13:58:11+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "b2aa71ddeef4",
-      "title": "Hearing tech startup Legato launches its AI hearing glasses",
-      "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
-      "summary": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
-      "date": "2026-10-01T13:00:00+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
       "id": "7fccf5d66ec7",
       "title": "Workers AI - Introducing Clef: Cloudflare's first open-source decision models, now on Workers AI",
       "url": "https://developers.cloudflare.com/changelog/post/2026-10-01-clef-workers-ai/",
@@ -113,17 +135,6 @@
       "priority": 1
     },
     {
-      "id": "28a5cadf6619",
-      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-      "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-      "date": "2026-10-01T12:00:00+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
       "id": "e49f8e259be3",
       "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
       "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
@@ -132,39 +143,6 @@
       "source": "MIT Tech Review",
       "lang": "en",
       "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "695e2ace1ec6",
-      "title": "米連邦取引委がAI大手の調査開始 AnthropicやOpenAIなど、暴走や悪用の懸念",
-      "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001931/",
-      "summary": "米主要メディアは9月30日、米連邦取引委員会（FTC）が人工知能（AI）開発企業に対する広範な調査を開始したと報じた。",
-      "date": "2026-10-01T07:01:45+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "b0e8a6f4f58b",
-      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-      "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
-      "date": "2026-09-30T23:43:07+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "1531fa606099",
-      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-      "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
-      "date": "2026-09-30T21:07:40+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
       "priority": 1
     },
     {
@@ -311,10 +289,10 @@
       "priority": 1
     },
     {
-      "id": "66cfd105295e",
-      "title": "DevDay 2026 Recap",
-      "url": "https://openai.com/index/devday-2026-recap",
-      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "id": "dd3f81de3324",
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
       "date": "2026-09-29T10:00:00+00:00",
       "source": "OpenAI Blog",
       "lang": "en",
@@ -322,10 +300,10 @@
       "priority": 1
     },
     {
-      "id": "dd3f81de3324",
-      "title": "Introducing GPT-6.1 Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "id": "66cfd105295e",
+      "title": "DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
       "date": "2026-09-29T10:00:00+00:00",
       "source": "OpenAI Blog",
       "lang": "en",
@@ -352,17 +330,6 @@
       "source": "Simon Willison",
       "lang": "en",
       "category": "Prompts",
-      "priority": 1
-    },
-    {
-      "id": "f95544b597e0",
-      "title": "Towards safety cases for frontier AI training",
-      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "date": "2026-09-28T19:00:00+00:00",
-      "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
       "priority": 1
     },
     {
@@ -470,17 +437,6 @@
       "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
       "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
       "date": "2026-09-22T19:45:47+00:00",
-      "source": "Ars Technica",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "64b9f3c8af56",
-      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
-      "summary": "A simple ClickFix attack is only one way to completely hijack the new agent.",
-      "date": "2026-09-21T22:24:38+00:00",
       "source": "Ars Technica",
       "lang": "en",
       "category": "Tech",

@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "id": "2026-10-02_afternoon-ai-model-evolution-and-payment-innovation-week",
+      "date": "2026-10-02",
+      "file_key": "2026-10-02_afternoon",
+      "title": "AIモデル進化と支払い革新の週",
+      "summary": "GPT-6.1 Sol登場、Shopify AIサイト構築、Cloudflare決定モデルとMachine PaymentsなどAIエコシステムが急速に進化",
+      "tags": [
+        "AI",
+        "GPT-6.1 Sol",
+        "Shopify",
+        "Cloudflare",
+        "Machine Payments",
+        "Private AI"
+      ],
+      "slug": "ai-model-evolution-and-payment-innovation-week"
+    },
+    {
       "id": "2026-10-01_evening-ai-industry-trends-reddit-ai-models",
       "date": "2026-10-01",
       "file_key": "2026-10-01_evening",
@@ -409,22 +425,7 @@
         "画像生成"
       ],
       "slug": "ai-access-security"
-    },
-    {
-      "id": "2026-09-11_morning-ai-news-2026-09-cloudflare-gemini-chatgpt",
-      "date": "2026-09-11",
-      "file_key": "2026-09-11_morning",
-      "title": "Cloudflare AI改善とGemini動画理解、ChatGPT画像2.5",
-      "summary": "Cloudflare AI Gatewayにキャッシュコスト反映、Workers AIにGLM-5.3。Geminiがエージェント的動画理解、ChatGPT Images 2.5で指示従性向上。",
-      "tags": [
-        "Cloudflare",
-        "Gemini",
-        "OpenAI",
-        "Workers AI",
-        "動画理解"
-      ],
-      "slug": "ai-news-2026-09-cloudflare-gemini-chatgpt"
     }
   ],
-  "updated_at": "2026-10-01T10:55:38.565712+00:00"
+  "updated_at": "2026-10-02T01:15:12.325260+00:00"
 }
