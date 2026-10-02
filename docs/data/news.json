@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-02T01:14:44.481988+00:00",
-  "fetched_at": "2026-10-02T01:13:11.399923+00:00",
-  "total": 38,
+  "updated_at": "2026-10-02T10:26:03.590061+00:00",
+  "fetched_at": "2026-10-02T10:24:34.625360+00:00",
+  "total": 41,
   "curated": true,
   "items": [
     {
@@ -601,28 +601,46 @@
       "translation_status": "machine"
     },
     {
-      "id": "fd9616d36eb9",
-      "title": "IBM iユーザー向けAIサービスに「CData Connect AI」が採用 350以上のデータソースとセキュアに接続",
-      "url": "https://ascii.jp/elem/000/004/438/4438701/?rss",
-      "summary": "CData Software Japanは、ベル・データが提供する「IBM i」ユーザー向けのAIサービス「生成AI連携サービス for i」の大型アップデートにおいて、同社のマネージドMCPプラットフォーム「CData Connect AI」が採用されたことを発表した。",
-      "date": "2026-10-02T01:00:00+00:00",
-      "source": "ASCII.jp",
+      "id": "190c03ca19ef",
+      "title": "AI music maker Suno now generates spoken words",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simulta",
+      "date": "2026-10-02T09:42:19+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simulta"
+    },
+    {
+      "id": "ef9e9013cfe1",
+      "title": "女性のAI活用に「自信の壁」 民間団体が白書公表、専門家「挑戦してみて」",
+      "url": "https://www.itmedia.co.jp/news/article/2610/02/2000001967/",
+      "summary": "生成AI（人工知能）は女性のキャリアにどんな影響を与えているのか。民間団体「Women AI Initiative Japan（WAIJ）」が公表した「女性AI人材白書2026」からは、時間削減の実感と裏腹に、活用を阻む「自信の壁」が浮かび上がった。",
+      "date": "2026-10-02T06:23:01+00:00",
+      "source": "ITmedia News",
       "lang": "ja",
       "category": "Tech",
       "priority": 2,
       "score": 5,
-      "reason": "Integration announcement relevant to specific Japanese enterprise niche; no broad user-facing change",
-      "summary_ja": "ベル・データのIBM iユーザー向けAIサービス大型アップデートで、CData Connect AI（マネージドMCPプラットフォーム）が採用され、350以上のデータソースとの安全な接続が可能に。",
-      "title_ja": "IBM i向け生成AI連携サービスがCData Connect AIを採用、350超のデータソースとセキュア接続",
-      "title_en": "IBM i Generative AI Service Adopts CData Connect AI for 350+ Secure Data Source Connections",
-      "summary_en": "CData Connect AI, a managed MCP platform, has been adopted in Bell Data's major update for IBM i generative AI service, enabling secure connections to over 350 data sources.",
-      "useful_for_ja": "IBM i環境で社内データを生成AIに接続したい日本企業のIT担当者",
-      "useful_for_en": "Japanese enterprise IT staff connecting on-prem IBM i data to generative AI",
-      "try_next_ja": "ベル・データのサービスページで対応データソース一覧と導入フローを確認する",
-      "try_next_en": "Check Bell Data's service page for supported data sources and onboarding steps",
-      "caveat_ja": "料金・提供リージョン・MCP仕様の詳細は本文に記載なし。ベンダーに要確認",
-      "caveat_en": "Pricing, regions, and MCP spec details absent—verify with vendor",
-      "translation_status": "machine"
+      "reason": "未評価",
+      "summary_ja": "生成AI（人工知能）は女性のキャリアにどんな影響を与えているのか。民間団体「Women AI Initiative Japan（WAIJ）」が公表した「女性AI人材白書2026」からは、時間削減の実感と裏腹に、活用を阻む「自信の壁」が浮かび上がった。"
+    },
+    {
+      "id": "c3e3f87fd90c",
+      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+      "date": "2026-10-01T21:08:11+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro."
     },
     {
       "id": "33280aa886ac",
@@ -645,6 +663,20 @@
       "caveat_ja": "限られたサンプルに基づく；広範なデータで検証してください。",
       "caveat_en": "Based on limited samples; verify with broader data before reliance.",
       "translation_status": "machine"
+    },
+    {
+      "id": "73e415512ac9",
+      "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+      "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+      "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters.",
+      "date": "2026-10-01T17:17:36+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters."
     },
     {
       "id": "2210ff8abe46",
@@ -741,6 +773,20 @@
       "translation_status": "machine"
     },
     {
+      "id": "8d6a4fe54890",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "summary": "",
+      "date": "2026-09-30T20:01:45+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": ""
+    },
+    {
       "id": "e0ba6a4a3da5",
       "title": "OpenAI DevDay 2026 live blog",
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
@@ -786,30 +832,6 @@
       "try_next_en": "Check the detailed 2026 list when available",
       "caveat_ja": "定期刊行物であり、具体的な変更内容は記載されていない",
       "caveat_en": "It's a recurring publication; no specific changes are documented here",
-      "translation_status": "machine"
-    },
-    {
-      "id": "2665823bec02",
-      "title": "Making AI an asset, not an expense",
-      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-      "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conv",
-      "date": "2026-09-29T10:43:45+00:00",
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1,
-      "score": 5,
-      "reason": "cost-optimization discussion without concrete pricing data in excerpt",
-      "summary_ja": "AIコストの話はトークン価格で終わりがちだが、必ずしも最新クラウドモデルが必要とは限らない。コスト最適化の視点を提示。",
-      "title_ja": "AIを経費ではなく資産にする考え方",
-      "title_en": "Making AI an asset, not an expense",
-      "summary_en": "AI cost discussions often end at token prices, but latest cloud models aren't always needed; offers cost-optimization perspective.",
-      "useful_for_ja": "AI導入コストを最適化したい意思決定者",
-      "useful_for_en": "decision-makers optimizing AI adoption costs",
-      "try_next_ja": "自組織のモデル必要度をトークン単価と比較検討する",
-      "try_next_en": "Compare model needs vs token pricing for your org",
-      "caveat_ja": "具体的な数値や推奨モデルは記事本文を要確認",
-      "caveat_en": "verify specific numbers/model recs in full article",
       "translation_status": "machine"
     },
     {
