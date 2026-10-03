@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "2026-10-03_morning-ai-agent-risk-infrastructure",
+      "date": "2026-10-03",
+      "file_key": "2026-10-03_morning",
+      "title": "AIエージェントのリスク対策と新インフラ",
+      "summary": "Appleがディスクアクセス制限、Cloudflareが検索・決済・判断モデルを提供、GPT-6 Solが低コスト化",
+      "tags": [
+        "AIエージェント",
+        "セキュリティ",
+        "Cloudflare",
+        "LLMコスト"
+      ],
+      "slug": "ai-agent-risk-infrastructure"
+    },
+    {
       "id": "2026-10-02_afternoon-ai-model-evolution-and-payment-innovation-week",
       "date": "2026-10-02",
       "file_key": "2026-10-02_afternoon",
@@ -412,20 +426,7 @@
         "Cloudflare"
       ],
       "slug": "openai-data-agent-fake-receipts"
-    },
-    {
-      "id": "2026-09-11_evening-ai-access-security",
-      "date": "2026-09-11",
-      "file_key": "2026-09-11_evening",
-      "title": "AI活用とサイバーセキュリティ最前線",
-      "summary": "政府向け無料AIライセンスとCloudflareのカスタム費用機能が追加、画像生成のリスクも",
-      "tags": [
-        "AI政策",
-        "コスト管理",
-        "画像生成"
-      ],
-      "slug": "ai-access-security"
     }
   ],
-  "updated_at": "2026-10-02T01:15:12.325260+00:00"
+  "updated_at": "2026-10-03T00:57:04.518911+00:00"
 }

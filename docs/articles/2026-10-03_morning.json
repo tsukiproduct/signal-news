@@ -1,0 +1,113 @@
+{
+  "id": "2026-10-03_morning-ai-agent-risk-infrastructure",
+  "file_key": "2026-10-03_morning",
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T00:57:04.518196+00:00",
+  "title": "AIエージェントのリスク対策と新インフラ",
+  "slug": "ai-agent-risk-infrastructure",
+  "summary": "Appleがディスクアクセス制限、Cloudflareが検索・決済・判断モデルを提供、GPT-6 Solが低コスト化",
+  "tags": [
+    "AIエージェント",
+    "セキュリティ",
+    "Cloudflare",
+    "LLMコスト"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "AIエージェントの実用化に向け、セキュリティ強化とインフラ整備が並行して進んでいる。AppleはmacOSでフルディスクアクセスを制限し、ユーザー明示の許可が必要な仕組みを導入。一方Cloudflareは、エージェントがウェブ検索・意思決定・マイクロペイメントを実行できる一連のAPIをベータ公開した。モデル側ではGPT-6 Solが高性能を低コストで提供し始めており、エージェント運用のハードルが下がりつつある。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "Appleの新制御は、AIエージェントがファイルシステム全体を読み書きできるリスクへの対応だ。従来の「フルディスクアクセス」一括許可から、アプリごと・目的ごとの細かい許可へ移行する。開発者はエージェント機能を組み込む際、ユーザーに必要最小限の権限だけ求める設計が必須になる。\n\nCloudflareの3件はエージェント実行基盤の穴を埋めるものだ。Web Search APIでモデルの知識カットオフを補い、Clef/Clef-Flashで「次のアクション選択」という判断タスクに特化した軽量モデルを提供、Machine Payments（x402）で推論コストの従量課金をウォレット直払いにした。これらを組み合わせると、検索→判断→実行→支払いのループを人間介在なしで回せる。\n\nAINOWのリスク整理は、権限付与・行動ログ・説明責任の3点を管理の柱として提示している。導入検討時はこのフレームワークで社内合意を取るのが現実的だ。",
+      "source_title": "Apple will limit Mac disk access as AI agents 'substantially' increase risk / AI Gateway, Web Search API / Workers AI - Introducing Clef / AI Gateway - Pay for AI inference with Machine Payments / AIエージェントの10大リスクと事故事例から学ぶ管理の進め方",
+      "source_url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "本ニュース群に画像・動画生成関連の更新は含まれていない。"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "エージェント権限設計チェックリスト",
+      "prompt_body": "以下の業務フローでAIエージェントがアクセスすべき最小限のリソースを列挙し、各リソースについて『読取/書込/実行』の必要権限と『ユーザー確認が必要か』を表形式で出力してください。業務フロー：[ここに具体的な業務を記入]",
+      "prompt_usecase": "Appleの新権限モデルや社内セキュリティレビューに備え、エージェントへの付与権限を最小化して文書化する際に使う。",
+      "prompt_source": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "Simon Willison氏がGPT-6 Solについて「Astraに近い知能を5分の1の価格で」と紹介し、HackerNewsで議論になった。モデル名・価格・性能の詳細はいずれも原典確認が必要だが、高性能モデルのコスト低下トレンドがエージェント実装の経済性を大きく変える可能性がある。",
+      "source_title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "source_url": "https://simonwillison.net/2026/Sep/29/hn-49898129/"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "本ニュース群にイベント情報は含まれていない。"
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "社内でエージェント導入を検討する場合、まずAINOWのリスク分類（権限・行動・情報漏洩・説明責任）を経営・法務・現場で共有し、許容ラインを決める。技術面では、Cloudflare Workers AI上でClefを判断エンジン、Web Search APIを情報取得、AI GatewayのMachine Paymentsをコスト制御に使う最小構成をPoCで試せる。Apple端末を業務利用しているなら、macOSの新権限ダイアログに対応したエージェント配布パッケージを早めに検証し、ユーザー操作フローを整えておく。料金・提供リージョン・商用利用条件・レート制限はいずれも原典確認。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "macOSの権限変更が正式リリースされた際の開発者ドキュメント更新、Cloudflare各APIのGA時期とSLA、GPT-6 Sol系モデルのベンチマーク公開とAPI価格の一次情報。エージェント実行基盤の標準化（MCP等）との兼ね合いも含め、来月以降のアップデートを追う。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "AI Gateway, Web Search API - Introducing Web Search API",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+      "source": "Cloudflare AI Gateway",
+      "category": "Tech"
+    },
+    {
+      "title": "Workers AI - Introducing Clef: Cloudflare's first open-source decision models, now on Workers AI",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-01-clef-workers-ai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "AI Gateway - Pay for AI inference with Machine Payments",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-09-30-machine-payments/",
+      "source": "Cloudflare AI Gateway",
+      "category": "Tech"
+    },
+    {
+      "title": "AIエージェントの10大リスクと事故事例から学ぶ管理の進め方",
+      "url": "https://ainow.ai/2026/09/30/278404/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae10%25e5%25a4%25a7%25e3%2583%25aa%25e3%2582%25b9%25e3%2582%25af%25e3%2581%25a8%25e4%25ba%258b%25e6%2595%2585%25e4%25ba%258b%25e4%25be%258b%25e3%2581%258b%25e3%2582%2589%25e5%25ad%25a6%25e3%2581%25b6%25e7%25ae%25a1",
+      "source": "AINOW",
+      "category": "AI"
+    },
+    {
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "url": "https://simonwillison.net/2026/Sep/29/hn-49898129/",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
