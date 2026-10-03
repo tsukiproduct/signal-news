@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-03T09:48:15.649563+00:00",
-  "fetched_at": "2026-10-03T09:46:27.339444+00:00",
-  "total": 39,
+  "updated_at": "2026-10-03T14:59:34.566033+00:00",
+  "fetched_at": "2026-10-03T14:58:07.166832+00:00",
+  "total": 41,
   "curated": true,
   "items": [
     {
@@ -194,6 +194,30 @@
       "try_next_en": "Compare Sol vs Astra pricing on OpenAI's site",
       "caveat_ja": "地域・プランによる価格・可用性の違いを要確認",
       "caveat_en": "verify regional availability and plan-specific pricing",
+      "translation_status": "machine"
+    },
+    {
+      "id": "572d71e25752",
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so yo",
+      "date": "2026-10-02T21:08:37+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2,
+      "score": 8,
+      "reason": "オープンソースコードの提供によりユーザーが実際にガジェットを作成できる具体的な変更点があるため高スコア",
+      "summary_ja": "Metaはオープンソース化したコードを提供し、ユーザーは自分自身のMuseガジェットを作れるようになった。新しいAIエージェントを搭載し、カラーE InkディスプレイにMuseを読み込んでリマインダーを表示したり、HDMIスティックに追加するなどのプロジェクトが提案されている",
+      "title_ja": "MetaがMuse AIガジェット作成用コードをオープンソース化",
+      "title_en": "Meta open sources code to let you make Muse AI gadgets",
+      "summary_en": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so yo",
+      "useful_for_ja": "ハードウェアハッカーズ、IoT開発者、AI愛好家",
+      "useful_for_en": "Hardware hackers, IoT developers, AI enthusiasts",
+      "try_next_ja": "オープンソースコードをダウンロードして、提案されたプロジェクトのいずれかを試す",
+      "try_next_en": "Download the open-source code and try one of the suggested projects",
+      "caveat_ja": "抜粋に利用可能性や制限についての記載がありません",
+      "caveat_en": "The excerpt does not specify availability or limitations.",
       "translation_status": "machine"
     },
     {
@@ -459,6 +483,30 @@
       "translation_status": "machine"
     },
     {
+      "id": "8f839c0d3f32",
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+      "date": "2026-09-23T16:00:57+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1,
+      "score": 7,
+      "reason": "新機能の発表であり、具体的な提供状況が不明なためやや高めの中程度スコア",
+      "summary_ja": "パーソナルAI向けPrivate AI Computeにプライベートなサーバーサイドメモリを導入",
+      "title_ja": "セキュアなサーバーサイドメモリによるPrivate AI Computeの進歩",
+      "title_en": "Advancing Private AI Compute with secure, server-side memory",
+      "summary_en": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+      "useful_for_ja": "パーソナルAIを開発・利用する開発者やエンドユーザー",
+      "useful_for_en": "Developers and end-users building or using personal AI",
+      "try_next_ja": "Private AI Computeのドキュメントを確認して新しいメモリ機能を試す",
+      "try_next_en": "Check the Private AI Compute documentation to try the new memory feature",
+      "caveat_ja": "抜粋に利用可能性や制限についての記載がありません",
+      "caveat_en": "The excerpt does not specify availability or limitations.",
+      "translation_status": "machine"
+    },
+    {
       "id": "ed3e2a2adf67",
       "title": "Last Week in AI #345 - 5 new models, 9 misalignment incidents, some Dots",
       "url": "https://lastweekin.ai/p/last-week-in-ai-345-5-new-models",
@@ -579,6 +627,20 @@
       "translation_status": "machine"
     },
     {
+      "id": "6ae30ec75fda",
+      "title": "All the AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "date": "2026-10-03T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+    },
+    {
       "id": "f8f9945809c1",
       "title": "Sean Parker is rebuilding Stability AI around music",
       "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
@@ -591,20 +653,6 @@
       "score": 5,
       "reason": "未評価",
       "summary_ja": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money."
-    },
-    {
-      "id": "572d71e25752",
-      "title": "Meta open sources code to let you make Muse AI gadgets",
-      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-      "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so yo",
-      "date": "2026-10-02T21:08:37+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2,
-      "score": 5,
-      "reason": "未評価",
-      "summary_ja": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so yo"
     },
     {
       "id": "6a225a11d9fc",
@@ -661,20 +709,6 @@
       "score": 5,
       "reason": "未評価",
       "summary_ja": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second."
-    },
-    {
-      "id": "0b1cf3414054",
-      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-      "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
-      "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test dummies\" to solve that.",
-      "date": "2026-10-02T17:00:00+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1,
-      "score": 5,
-      "reason": "未評価",
-      "summary_ja": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test dummies\" to solve that."
     },
     {
       "id": "ed9dd57bde82",
@@ -782,6 +816,30 @@
       "try_next_en": "Explore the AI mind‑reading research paper and battery‑application blog posts for more details.",
       "caveat_ja": "これらのツールや用途はまだ研究段階であり、製品化や公開には時間がかかる可能性があります。",
       "caveat_en": "Excerpt does not specify commercial availability or release timeline.",
+      "translation_status": "machine"
+    },
+    {
+      "id": "c5fa622132a0",
+      "title": "Introducing SynthID Bio",
+      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "date": "2026-09-30T15:03:07+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1,
+      "score": 5,
+      "reason": "概念実証であり、現時点でユーザー向けの提供は示されていないため中程度スコア",
+      "summary_ja": "AI生成タンパク質に透かしを入れつつ生物学的機能を保持する概念実証",
+      "title_ja": "SynthID Bioの紹介",
+      "title_en": "Introducing SynthID Bio",
+      "summary_en": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "useful_for_ja": "タンパク質設計やバイオインフォマティクスの研究者",
+      "useful_for_en": "Researchers in protein design and bioinformatics",
+      "try_next_ja": "概念実証の詳細を読んで実験環境で試す",
+      "try_next_en": "Read the proof-of-concept details and try it in an experimental setting",
+      "caveat_ja": "抜粋に利用可能性や制限についての記載がありません",
+      "caveat_en": "The excerpt does not specify availability or limitations.",
       "translation_status": "machine"
     },
     {

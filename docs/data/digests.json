@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-10-04_morning-ai-weekly-new-models-agent-security-search-api",
+      "date": "2026-10-04",
+      "file_key": "2026-10-04_morning",
+      "title": "新モデルとAIエージェントの安全策、検索APIが登場",
+      "summary": "Opus 5.5とGPT-6 Sol/Lunaが低価格化、Appleがフルディスクアクセス制限、CloudflareがWeb検索API提供開始",
+      "tags": [
+        "LLM",
+        "AIエージェント",
+        "セキュリティ",
+        "API",
+        "企業導入"
+      ],
+      "slug": "ai-weekly-new-models-agent-security-search-api"
+    },
+    {
       "id": "2026-10-03_evening-ai-news-opus-5-5-gpt-6-sol",
       "date": "2026-10-03",
       "file_key": "2026-10-03_evening",
@@ -412,20 +427,7 @@
         "セキュリティ"
       ],
       "slug": "ai-news-2026-09-12"
-    },
-    {
-      "id": "2026-09-13_morning-ai-data-work",
-      "date": "2026-09-13",
-      "file_key": "2026-09-13_morning",
-      "title": "AI活用でデータ活動が広がる",
-      "summary": "ChatGPT WorkのDataエージェントで企業データを自然言語で分析・可視化、政府向け無料ライセンスやAIセキュリティ拡充、コスト削減手法まで幅広く展開。",
-      "tags": [
-        "AI",
-        "データ活用",
-        "企業"
-      ],
-      "slug": "ai-data-work"
     }
   ],
-  "updated_at": "2026-10-03T09:49:00.573026+00:00"
+  "updated_at": "2026-10-03T15:01:26.179281+00:00"
 }
