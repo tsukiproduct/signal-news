@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "2026-10-03_evening-ai-news-opus-5-5-gpt-6-sol",
+      "date": "2026-10-03",
+      "file_key": "2026-10-03_evening",
+      "title": "AI最新動向：Opus 5.5とGPT-6 Solが性能とコストを両立",
+      "summary": "AnthropicとOpenAIの新モデルが性能向上とコスト削減を実現。AppleのAIエージェント対策やCloudflareのWeb検索APIも注目。",
+      "tags": [
+        "AIモデル",
+        "クラウドサービス",
+        "セキュリティ",
+        "ビジネス活用"
+      ],
+      "slug": "ai-news-opus-5-5-gpt-6-sol"
+    },
+    {
       "id": "2026-10-03_morning-ai-agent-risk-infrastructure",
       "date": "2026-10-03",
       "file_key": "2026-10-03_morning",
@@ -411,22 +425,7 @@
         "企業"
       ],
       "slug": "ai-data-work"
-    },
-    {
-      "id": "2026-09-11_evening-openai-data-agent-fake-receipts",
-      "date": "2026-09-11",
-      "file_key": "2026-09-11_evening",
-      "title": "OpenAIデータ活用強化と偽レシート脅威",
-      "summary": "ChatGPT Workデータエージェント登場、GPT-Live-1音声API、AI偽レシート対策が急務",
-      "tags": [
-        "ChatGPT",
-        "Enterprise AI",
-        "Voice API",
-        "Deepfake Countermeasures",
-        "Cloudflare"
-      ],
-      "slug": "openai-data-agent-fake-receipts"
     }
   ],
-  "updated_at": "2026-10-03T00:57:04.518911+00:00"
+  "updated_at": "2026-10-03T09:49:00.573026+00:00"
 }
