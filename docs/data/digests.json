@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "id": "2026-10-05_morning-latest-ai-trends-price-access",
+      "date": "2026-10-05",
+      "file_key": "2026-10-05_morning",
+      "title": "最新AI開発トレンド：価格下落と権限管理の進化",
+      "summary": "Opus 5.5のコスト削減、GPT-6 Solの低価格化、そしてAppleのAIエージェント権限管理強化など、AI分野での主要な動向がまとめられています",
+      "tags": [
+        "AI開発",
+        "価格競争",
+        "セキュリティ",
+        "オープンソース",
+        "Web検索",
+        "エネルギー効率"
+      ],
+      "slug": "latest-ai-trends-price-access"
+    },
+    {
       "id": "2026-10-04_morning-ai-weekly-new-models-agent-security-search-api",
       "date": "2026-10-04",
       "file_key": "2026-10-04_morning",
@@ -414,20 +430,7 @@
         "ビジネス活用"
       ],
       "slug": "ai-news-2026-09-agent-practical"
-    },
-    {
-      "id": "2026-09-14_morning-ai-news-2026-09-12",
-      "date": "2026-09-14",
-      "file_key": "2026-09-14_morning",
-      "title": "ChatGPT Workでデータ活用加速、偽レシートリスクも",
-      "summary": "OpenAIがChatGPT WorkのDataエージェントやGPT-Live-1APIを発表。政府機関への無償提供も開始。一方でAI生成偽レシートの経費詐欺リスクが指摘されている。",
-      "tags": [
-        "ChatGPT Work",
-        "生成AI",
-        "セキュリティ"
-      ],
-      "slug": "ai-news-2026-09-12"
     }
   ],
-  "updated_at": "2026-10-03T15:01:26.179281+00:00"
+  "updated_at": "2026-10-04T15:31:43.947601+00:00"
 }
