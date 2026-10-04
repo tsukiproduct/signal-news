@@ -1,7 +1,18 @@
 {
-  "fetched_at": "2026-10-04T00:16:50.037632+00:00",
-  "total": 42,
+  "fetched_at": "2026-10-04T10:29:57.391263+00:00",
+  "total": 43,
   "items": [
+    {
+      "id": "ae3320af7686",
+      "title": "個人向けGeminiのモデル選択が厳格化 無料ユーザーが使えるのは「Flash-Lite」のみに",
+      "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001987/",
+      "summary": "Googleは、個人向けGeminiで利用可能なモデルを契約プランごとに見直すと告知した。無料ユーザーは利用可能モデルが「Flash-Lite」のみに制限され、「Flash」は「AI Plus」以上、「Pro」は「AI Pro」以上の契約が必要となる。無料枠には順次適用され、個人アカウントのモデル選択肢が階層化される。",
+      "date": "2026-10-04T02:27:25+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
     {
       "id": "cc9d67938b46",
       "title": "Capcom is preparing for a ‘future where we create games together with AI’",
