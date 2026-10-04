@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-03T14:59:34.566033+00:00",
-  "fetched_at": "2026-10-03T14:58:07.166832+00:00",
-  "total": 41,
+  "updated_at": "2026-10-04T00:19:11.845728+00:00",
+  "fetched_at": "2026-10-04T00:16:50.037632+00:00",
+  "total": 42,
   "curated": true,
   "items": [
     {
@@ -290,30 +290,6 @@
       "try_next_en": "open the User Insights section in the dashboard, review usage of a selected model and any suggested optimization actions",
       "caveat_ja": "機能の提供範囲や詳細な指標はプランによって異なる場合があり、利用可能かどうかは Cloudflare のドキュメントで確認してください",
       "caveat_en": "availability and granularity of metrics may differ by plan; verify details in Cloudflare documentation",
-      "translation_status": "machine"
-    },
-    {
-      "id": "1c8ed6a55c59",
-      "title": "Claude Sonnet 5.5",
-      "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
-      "summary": "Claude Sonnet 5.5 New Sonnet model from Anthropic today. They say it \"runs 30%+ faster, and costs up to 30% less for most work\" - it's priced the same as Sonnet 5 but appears to beat it on every benchmark, and should be cheaper to run as well. Here a",
-      "date": "2026-09-28T22:07:38+00:00",
-      "source": "Simon Willison",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1,
-      "score": 8,
-      "reason": "Concrete product improvement with measurable benefits for users considering this model.",
-      "summary_ja": "Anthropicの新しいSonnet 5.5モデルは30%以上高速化、ほとんどのタスクでコスト30%削減。Sonnet 5と同価格だがベンチマークで優位。",
-      "title_ja": "Claude Sonnet 5.5 発表：30%以上高速化、30%削減コストでベンチマークでも優位",
-      "title_en": "Claude Sonnet 5.5",
-      "summary_en": "The new Claude Sonnet 5.5 model runs 30%+ faster and costs up to 30% less for most tasks—priced the same as Sonnet 5 but outperforms it on all benchmarks.",
-      "useful_for_ja": "Claudeモデルを使用する開発者、企業",
-      "useful_for_en": "Developers using Claude models, enterprise users",
-      "try_next_ja": "他のAnthropicモデルとの性能比較を試す",
-      "try_next_en": "Compare performance against other Anthropic models",
-      "caveat_ja": "実際のベンチマーク結果と価格設定の詳細を確認する",
-      "caveat_en": "Verify actual benchmark results and pricing details",
       "translation_status": "machine"
     },
     {
@@ -627,6 +603,34 @@
       "translation_status": "machine"
     },
     {
+      "id": "cc9d67938b46",
+      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook a",
+      "date": "2026-10-03T16:49:10+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook a"
+    },
+    {
+      "id": "6b3471ffae71",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "date": "2026-10-03T16:30:01+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job."
+    },
+    {
       "id": "6ae30ec75fda",
       "title": "All the AI agents that can live in your text messages",
       "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
@@ -683,32 +687,18 @@
       "summary_ja": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executi"
     },
     {
-      "id": "398e0e7a6913",
-      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-      "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executi",
-      "date": "2026-10-02T17:48:16+00:00",
-      "source": "TechCrunch AI",
+      "id": "177ca5e89d7b",
+      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+      "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+      "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (T",
+      "date": "2026-10-02T17:19:41+00:00",
+      "source": "The Verge",
       "lang": "en",
-      "category": "Industry",
-      "priority": 1,
+      "category": "Tech",
+      "priority": 2,
       "score": 5,
       "reason": "未評価",
-      "summary_ja": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executi"
-    },
-    {
-      "id": "03c99bd3ec42",
-      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-      "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
-      "date": "2026-10-02T17:32:05+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1,
-      "score": 5,
-      "reason": "未評価",
-      "summary_ja": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second."
+      "summary_ja": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (T"
     },
     {
       "id": "ed9dd57bde82",
@@ -733,20 +723,6 @@
       "caveat_ja": "投資の数値や動向は業界レポートに基づいており、記事には詳細な制約情報が記載されていません。",
       "caveat_en": "Investment figures and industry context are reported; the excerpt does not specify limits or availability.",
       "translation_status": "machine"
-    },
-    {
-      "id": "4c79879ae695",
-      "title": "赤沢経産相、パワー半導体事業の国内再編「後押しする」 ロームなど統合協議難航受け",
-      "url": "https://www.itmedia.co.jp/news/article/2610/02/2000001977/",
-      "summary": "赤沢亮正経済産業相は10月2日の閣議後記者会見で、自動車や人工知能（AI）、データセンターなどに欠かせないパワー半導体事業の再編を経済産業省としても後押しするとの意向を示した。",
-      "date": "2026-10-02T09:58:32+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2,
-      "score": 5,
-      "reason": "未評価",
-      "summary_ja": "赤沢亮正経済産業相は10月2日の閣議後記者会見で、自動車や人工知能（AI）、データセンターなどに欠かせないパワー半導体事業の再編を経済産業省としても後押しするとの意向を示した。"
     },
     {
       "id": "2210ff8abe46",
@@ -819,6 +795,20 @@
       "translation_status": "machine"
     },
     {
+      "id": "8d6a4fe54890",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "summary": "",
+      "date": "2026-09-30T20:01:45+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": ""
+    },
+    {
       "id": "c5fa622132a0",
       "title": "Introducing SynthID Bio",
       "url": "https://deepmind.google/blog/introducing-synthid-bio/",
@@ -840,30 +830,6 @@
       "try_next_en": "Read the proof-of-concept details and try it in an experimental setting",
       "caveat_ja": "抜粋に利用可能性や制限についての記載がありません",
       "caveat_en": "The excerpt does not specify availability or limitations.",
-      "translation_status": "machine"
-    },
-    {
-      "id": "e0ba6a4a3da5",
-      "title": "OpenAI DevDay 2026 live blog",
-      "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
-      "summary": "I'm at OpenAI DevDay today, in Fort Mason, San Francisco. Same as last year I'll be live blogging the keynote and some other notes during the day. OpenAI gave me a free ticket and a seat in the \"creator\" area for the keynote. Tags: ai, openai, genera",
-      "date": "2026-09-29T15:55:13+00:00",
-      "source": "Simon Willison",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1,
-      "score": 5,
-      "reason": "",
-      "summary_ja": "シミュレーションで、オープンAI DevDay 2026 のライブブログを更新中。サンフランシスコのフォートメイソンで開催され、キーノートやその他のノートをリアルタイムで記録している。",
-      "title_ja": "オープンAI DevDay 2026 ライブブログ",
-      "title_en": "OpenAI DevDay 2026 live blog",
-      "summary_en": "Live blogging OpenAI DevDay 2026 in San Francisco. Covers keynote and other session notes in real time at Fort Mason.",
-      "useful_for_ja": "技術系クリエイター・開発者",
-      "useful_for_en": "AI/ML開発者・研究者",
-      "try_next_ja": "イベント後の分析記事を読む",
-      "try_next_en": "Read post-event analysis articles",
-      "caveat_ja": "最新情報はイベント直後に公開される可能性がある",
-      "caveat_en": "Latest updates may be published shortly after the event",
       "translation_status": "machine"
     },
     {
@@ -891,6 +857,20 @@
       "translation_status": "machine"
     },
     {
+      "id": "0970685988e4",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "summary": "",
+      "date": "2026-09-24T16:20:39+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": ""
+    },
+    {
       "id": "64983711808c",
       "title": "LWiAI Podcast #257 - GPT 6 Astra, AI Extinction, Security Incidents",
       "url": "https://lastweekin.ai/p/lwiai-podcast-257-gpt-6-astra-ai",
@@ -913,6 +893,20 @@
       "caveat_ja": "Astraの具体内容、インシデントの詳細、安全対策の効果は本文抜粋に記載がない。",
       "caveat_en": "The excerpt does not detail Astra, the incidents, or the effectiveness of proposed safeguards.",
       "translation_status": "machine"
+    },
+    {
+      "id": "31ef9b5263a3",
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "summary": "",
+      "date": "2026-09-23T15:25:14+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": ""
     }
   ]
 }

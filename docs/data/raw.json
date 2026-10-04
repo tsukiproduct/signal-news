@@ -1,7 +1,29 @@
 {
-  "fetched_at": "2026-10-03T14:58:07.166832+00:00",
-  "total": 44,
+  "fetched_at": "2026-10-04T00:16:50.037632+00:00",
+  "total": 42,
   "items": [
+    {
+      "id": "cc9d67938b46",
+      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook a",
+      "date": "2026-10-03T16:49:10+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "6b3471ffae71",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "date": "2026-10-03T16:30:01+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
     {
       "id": "6ae30ec75fda",
       "title": "All the AI agents that can live in your text messages",
@@ -91,26 +113,15 @@
       "priority": 1
     },
     {
-      "id": "398e0e7a6913",
-      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-      "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executi",
-      "date": "2026-10-02T17:48:16+00:00",
-      "source": "TechCrunch AI",
+      "id": "177ca5e89d7b",
+      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+      "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+      "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (T",
+      "date": "2026-10-02T17:19:41+00:00",
+      "source": "The Verge",
       "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "03c99bd3ec42",
-      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-      "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
-      "date": "2026-10-02T17:32:05+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
+      "category": "Tech",
+      "priority": 2
     },
     {
       "id": "d8bea22f6536",
@@ -155,17 +166,6 @@
       "lang": "en",
       "category": "Tech",
       "priority": 1
-    },
-    {
-      "id": "4c79879ae695",
-      "title": "赤沢経産相、パワー半導体事業の国内再編「後押しする」 ロームなど統合協議難航受け",
-      "url": "https://www.itmedia.co.jp/news/article/2610/02/2000001977/",
-      "summary": "赤沢亮正経済産業相は10月2日の閣議後記者会見で、自動車や人工知能（AI）、データセンターなどに欠かせないパワー半導体事業の再編を経済産業省としても後押しするとの意向を示した。",
-      "date": "2026-10-02T09:58:32+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "f5331f1181a0",
@@ -333,17 +333,6 @@
       "priority": 1
     },
     {
-      "id": "e0ba6a4a3da5",
-      "title": "OpenAI DevDay 2026 live blog",
-      "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
-      "summary": "I'm at OpenAI DevDay today, in Fort Mason, San Francisco. Same as last year I'll be live blogging the keynote and some other notes during the day. OpenAI gave me a free ticket and a seat in the \"creator\" area for the keynote. Tags: ai, openai, genera",
-      "date": "2026-09-29T15:55:13+00:00",
-      "source": "Simon Willison",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1
-    },
-    {
       "id": "66cfd105295e",
       "title": "DevDay 2026 Recap",
       "url": "https://openai.com/index/devday-2026-recap",
@@ -363,17 +352,6 @@
       "source": "Cloudflare AI Gateway",
       "lang": "en",
       "category": "Tech",
-      "priority": 1
-    },
-    {
-      "id": "1c8ed6a55c59",
-      "title": "Claude Sonnet 5.5",
-      "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
-      "summary": "Claude Sonnet 5.5 New Sonnet model from Anthropic today. They say it \"runs 30%+ faster, and costs up to 30% less for most work\" - it's priced the same as Sonnet 5 but appears to beat it on every benchmark, and should be cheaper to run as well. Here a",
-      "date": "2026-09-28T22:07:38+00:00",
-      "source": "Simon Willison",
-      "lang": "en",
-      "category": "Prompts",
       "priority": 1
     },
     {
