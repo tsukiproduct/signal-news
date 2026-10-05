@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-10-06_morning-ai-agents-implementation-and-countermeasures",
+      "date": "2026-10-06",
+      "file_key": "2026-10-06_morning",
+      "title": "AIエージェントの実装と対策が加速",
+      "summary": "Wikipedia障害とボット対策、ChatGPT広告導入、Cloudflare検索API、Apple権限変更、GitHub CopilotキャンバスなどAIエージェント周辺の動きを整理",
+      "tags": [
+        "AIエージェント",
+        "Web検索API",
+        "GitHub Copilot",
+        "プラットフォーム対策",
+        "ChatGPT広告"
+      ],
+      "slug": "ai-agents-implementation-and-countermeasures"
+    },
+    {
       "id": "2026-10-05_evening-ai-advertising-security-latest",
       "date": "2026-10-05",
       "file_key": "2026-10-05_evening",
@@ -419,20 +434,7 @@
         "政府AI"
       ],
       "slug": "ai-news-roundup-home-security-government-access"
-    },
-    {
-      "id": "2026-09-15_morning-ai-data-government-access",
-      "date": "2026-09-15",
-      "file_key": "2026-09-15_morning",
-      "title": "AI業務データ連携と政府向けアクセス拡大",
-      "summary": "ChatGPT WorkのデータエージェントとOpenAI-GSA連携、政府向けAI利用拡大の動向",
-      "tags": [
-        "ChatGPT Work",
-        "政府向けAI",
-        "AIガバナンス"
-      ],
-      "slug": "ai-data-government-access"
     }
   ],
-  "updated_at": "2026-10-05T11:21:08.662226+00:00"
+  "updated_at": "2026-10-05T19:32:58.308622+00:00"
 }
