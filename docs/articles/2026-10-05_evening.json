@@ -1,0 +1,114 @@
+{
+  "id": "2026-10-05_evening-ai-advertising-security-latest",
+  "file_key": "2026-10-05_evening",
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T11:21:08.661521+00:00",
+  "title": "AI広告革新と安全対策、最新動向まとめ",
+  "slug": "ai-advertising-security-latest",
+  "summary": "広告フォーマット、検索API、OS権限変更などAIの最新動向を解説。",
+  "tags": [
+    "AI広告",
+    "セキュリティ",
+    "Web検索API",
+    "業務効率化",
+    "モデル進化"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "AIは広告表示からOSセキュリティまで幅広く進化しています。OpenAIがChatGPTに視覚広告を導入し、CloudflareがWeb検索APIを公開、AppleがAIエージェントの権限悪用を防止するためOSを更新しました。さらにAnthropicとOpenAIが新モデルを低価格でリリースし、企業の業務効率化が加速しています。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "OpenAIはChatGPTに新しい視覚型広告フォーマットを導入しました。これにより、ユーザーが自然な会話の中で広告を目にできるようになります。広告主向けには測定ツールやアトリビューションパートナーシップが強化され、ブランドの安全性も拡大されています。一方、AppleはAIエージェントによるフルディスクアクセス権の悪用を防ぐため、macOSの権限設定を変更しました。MetaがFDA権限の不足を指摘した事件を受け、Appleはセキュリティ強化に注力しています。CloudflareもAIエージェント向けにWeb Search APIをベータ公開し、ライブ情報に基づく回答が可能になりました。",
+      "source_title": "Building advertising for the way people use AI",
+      "source_url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "本ニュースには画像・動画生成AIに関する具体的な情報は含まれていません。"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "業務効率化アシスタント",
+      "prompt_body": "以下のタスクを自動化するためのワークフローを設計してください：資料作成、メール送信、データ集計。各ステップで必要なツールや注意点を列挙し、時間短縮の見込みを示してください。",
+      "prompt_usecase": "業務プロセスの最適化やチーム内ツール導入の検討に活用できます。",
+      "prompt_source": "https://openai.com/index/chatham-financial"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "GPT-6 SolがAstraレベルの性能を5分の1の価格で提供可能になったという話題がHackerNewsで話題になっています。このコストパフォーマンスの向上により、より多くの開発者や企業が高性能モデルを利用できるようになるでしょう。",
+      "source_title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "source_url": "https://simonwillison.net/2026/Sep/29/hn-49898129/"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "入力されたニュースには今週のイベント情報は含まれていません。"
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "Chatham FinancialがOpenAIのCodexとGPT-5.6を活用して取引検証を30分から4分未満に短縮した事例は、金融業をはじめ多くの業種で参考になります。業務プロセスの自動化には、まず頻繁に行われるルーチンタスクを特定し、AIモデルに処理を委ねることが重要です。特にデータ入力や検証作業は、AIの得意分野であり、導入効果も大きいです。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "AIの進化はモデル性能だけでなく、安全性やユーザー体験も重要な課題となっています。広告フォーマットの進化、OSのセキュリティ強化、検索能力の拡張など、AIが社会に浸透する過程で生じる様々な課題に対する対応が注目されます。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Building advertising for the way people use AI",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "source": "OpenAI Blog",
+      "category": "Research"
+    },
+    {
+      "title": "LWiAI Podcast #258 - Opus 5.5, Sol and Luna, Muse, DeepSeek-V4.1-Flash, Xi",
+      "url": "https://lastweekin.ai/p/lwiai-podcast-258-opus-55-sol-and",
+      "source": "Last Week in AI",
+      "category": "Research"
+    },
+    {
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "source": "Ars Technica",
+      "category": "Tech"
+    },
+    {
+      "title": "AI Gateway, Web Search API - Introducing Web Search API",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+      "source": "Cloudflare AI Gateway",
+      "category": "Tech"
+    },
+    {
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "url": "https://openai.com/index/chatham-financial",
+      "source": "OpenAI Blog",
+      "category": "Research"
+    },
+    {
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "url": "https://simonwillison.net/2026/Sep/29/hn-49898129/",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

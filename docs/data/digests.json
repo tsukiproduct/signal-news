@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-10-05_evening-ai-advertising-security-latest",
+      "date": "2026-10-05",
+      "file_key": "2026-10-05_evening",
+      "title": "AI広告革新と安全対策、最新動向まとめ",
+      "summary": "広告フォーマット、検索API、OS権限変更などAIの最新動向を解説。",
+      "tags": [
+        "AI広告",
+        "セキュリティ",
+        "Web検索API",
+        "業務効率化",
+        "モデル進化"
+      ],
+      "slug": "ai-advertising-security-latest"
+    },
+    {
       "id": "2026-10-05_morning-latest-ai-trends-price-access",
       "date": "2026-10-05",
       "file_key": "2026-10-05_morning",
@@ -417,20 +432,7 @@
         "AIガバナンス"
       ],
       "slug": "ai-data-government-access"
-    },
-    {
-      "id": "2026-09-14_evening-ai-news-2026-09-agent-practical",
-      "date": "2026-09-14",
-      "file_key": "2026-09-14_evening",
-      "title": "エージェント型AIの実用化が加速、政府提供と音声APIも進化",
-      "summary": "ChatGPT WorkのDataエージェントで企業データ分析が容易に。政府機関へ無償提供開始。音声APIとカスタムコスト機能も更新。",
-      "tags": [
-        "エージェントAI",
-        "API",
-        "ビジネス活用"
-      ],
-      "slug": "ai-news-2026-09-agent-practical"
     }
   ],
-  "updated_at": "2026-10-04T15:31:43.947601+00:00"
+  "updated_at": "2026-10-05T11:21:08.662226+00:00"
 }
