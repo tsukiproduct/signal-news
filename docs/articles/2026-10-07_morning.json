@@ -1,0 +1,95 @@
+{
+  "id": "2026-10-07_morning-google-gemini-ai-advertising-search-api",
+  "file_key": "2026-10-07_morning",
+  "date": "2026-10-07",
+  "generated_at": "2026-10-06T16:59:34.689236+00:00",
+  "title": "Google Gemini制限とAI広告・検索APIの動向",
+  "slug": "google-gemini-ai-advertising-search-api",
+  "summary": "Googleが無料GeminiをFlash-Liteに制限、OpenAIが広告フォーマット追加、CloudflareがWeb Search API公開",
+  "tags": [
+    "Gemini",
+    "広告フォーマット",
+    "Web Search API"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "2026年10月以降、Googleは無料ユーザー向けGeminiを軽量モデルFlash-Liteのみに制限し、有料プランでも上位モデルへのアクセスが段階的に変わっています。一方、OpenAIはChatGPTに視覚型広告フォーマットを導入し、測定ツールやブランド適合性を拡張。CloudflareはAIエージェントが最新ウェブ情報を取得できるWeb Search APIをベータ公開し、情報の鮮度を担保する仕組みを提供しています。これらの動向は、AIサービスの利用形態とビジネスモデルに影響を与えます。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "Googleは2026年10月9日から、個人の無料ユーザーが利用できるGeminiを軽量モデル「Flash-Lite」のみに限定すると発表しました。これにより、無料プランでは高度な推論やマルチモーダル機能が利用できなくなり、FlashやProモデルへのアクセスはAI Plus加入者に限られます。背景には、計算リソースの最適化とサービスの持続可能性があり、無料ユーザーには軽量かつ高速な応答が求められる用途へのシフトが促されます。影響としては、無料での実験や学習が制限され、より高度なタスクを試したいユーザーは有料プランへの移行を検討せざるを得なくなります。また、開発者側は無料 tier の制約を考慮したアプリ設計や、代替モデルの検討が必要になります。",
+      "source_title": "Googleが無料・下位プランで使えるGeminiのモデルを制限",
+      "source_url": "https://gigazine.net/news/20261006-google-gemini-ai-subscription/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "Canvasワークフロー作成プロンプト",
+      "prompt_body": "GitHub Copilotのチャットで「新しいキャンバスを作成し、シンプルなCI/CDパイプラインの手順をマークダウンでリストアップしてください。各ステップには名前、必要なアクション、成功条件を簡潔に記述してください。」と指示します。",
+      "prompt_usecase": "Copilotチャットに貼り付けるだけで、キャンバスベースのタスクフローの雛形が生成され、プロジェクトのドキュメントやIssueテンプレートとしてすぐに利用できます。",
+      "prompt_source": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/"
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "CloudflareのWeb Search APIを活用すれば、AIエージェントが最新の市場ニュースや株価、規制情報をリアルタイムで取得し、レポート生成や意思決定支援に組み込むことができます。たとえば、毎朝の市場サマリーを作成するワークフローでは、APIにクエリを投げて直近24時間のヘッドラインを取得し、要約モデルで読みやすいブリーフィングに変換します。これにより、モデルの学習カットオフに依存せず、常に最新情報を反映したアウトプットが可能になります。利用時はAPIのレートリミットと利用規約を確認し、必要に応じてキャッシュ戦略を検討してください。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "今回のニュースから、AIサービスは機能別・価格別の階層化が進み、無料ユーザーには軽量モデルが中心となる傾向が見られます。同時に、広告や検索連携など、AIエージェントが外部データと結びつく仕組みが標準化されつつあります。これらの要素は、企業がAIを業務に組み込む際のコスト計算やデータ鮮度管理に直接影響を与えるため、利用プランの見直しとAPI連携の設計を早期に検討することが推奨されます。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Googleが無料・下位プランで使えるGeminiのモデルを制限",
+      "url": "https://gigazine.net/news/20261006-google-gemini-ai-subscription/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "Building advertising for the way people use AI",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "source": "OpenAI Blog",
+      "category": "Research"
+    },
+    {
+      "title": "LWiAI Podcast #258 - Opus 5.5, Sol and Luna, Muse, DeepSeek-V4.1-Flash, Xi",
+      "url": "https://lastweekin.ai/p/lwiai-podcast-258-opus-55-sol-and",
+      "source": "Last Week in AI",
+      "category": "Research"
+    },
+    {
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "source": "Ars Technica",
+      "category": "Tech"
+    },
+    {
+      "title": "AI Gateway, Web Search API - Introducing Web Search API",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+      "source": "Cloudflare AI Gateway",
+      "category": "Tech"
+    },
+    {
+      "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/",
+      "source": "GitHub AI & ML",
+      "category": "Prompts"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
