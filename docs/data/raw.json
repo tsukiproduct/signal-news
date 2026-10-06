@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-10-05T19:29:54.763408+00:00",
-  "total": 46,
+  "fetched_at": "2026-10-06T01:59:50.426870+00:00",
+  "total": 45,
   "items": [
     {
-      "id": "a2264bd4ba73",
-      "title": "All the drama around AI’s takeover of mathematics",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
-      "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of ",
-      "date": "2026-10-05T19:28:59+00:00",
+      "id": "a2b98cad80f6",
+      "title": "Gemini Call for Me might tell your mom you’re running late",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that includ",
+      "date": "2026-10-05T23:09:55+00:00",
       "source": "The Verge",
       "lang": "en",
       "category": "Tech",
@@ -18,11 +18,55 @@
       "title": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
       "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
       "summary": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia pla",
-      "date": "2026-10-05T19:05:19+00:00",
+      "date": "2026-10-05T22:22:32+00:00",
       "source": "The Verge",
       "lang": "en",
       "category": "Tech",
       "priority": 2
+    },
+    {
+      "id": "212da1d35ed9",
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "date": "2026-10-05T20:36:48+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "5b8c439bb621",
+      "title": "This startup is issuing AI-generated acne prescriptions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+      "summary": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously ",
+      "date": "2026-10-05T20:14:57+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "a2264bd4ba73",
+      "title": "All the drama around AI’s takeover of mathematics",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+      "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of ",
+      "date": "2026-10-05T19:42:41+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "13557b75794f",
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own ",
+      "date": "2026-10-05T19:33:53+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
     },
     {
       "id": "a8ac03afa12d",
@@ -45,17 +89,6 @@
       "lang": "en",
       "category": "Industry",
       "priority": 1
-    },
-    {
-      "id": "abe17cd905b6",
-      "title": "Sam Altman says ‘some bad things’ will happen, but AI is totally worth it",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
-      "summary": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way. The OpenAI CEO pointed to hacks, scams, and \"other bad things\" as costs society should expect to tolerate because \"peop",
-      "date": "2026-10-05T17:54:27+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "d31c63ac3bf4",
@@ -102,33 +135,11 @@
       "priority": 1
     },
     {
-      "id": "d7313f1ab511",
-      "title": "15万円台でタブレットにもなる10型ミニノートPC＝「TENKU Note Pro AI」実機レビュー",
-      "url": "https://ascii.jp/limit/group/ida/elem/000/004/439/4439844/?rss",
-      "summary": "360度ディスプレー回転型の2in1 PCで、タッチとペン操作ができるミニノートを使ってみました",
-      "date": "2026-10-05T15:01:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "78ad6176e726",
       "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
       "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
       "date": "2026-10-05T15:00:00+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "b70963ac4f5c",
-      "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
-      "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-      "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
-      "date": "2026-10-05T14:35:09+00:00",
       "source": "TechCrunch AI",
       "lang": "en",
       "category": "Industry",
@@ -377,17 +388,6 @@
       "priority": 1
     },
     {
-      "id": "92506a30955d",
-      "title": "Quoting Anthropic Frontier Red Team",
-      "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
-      "summary": "We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks in 4% of the trials; Claude Mythos Preview did so in 6%. Although GLM-5.3 perform",
-      "date": "2026-09-29T22:20:28+00:00",
-      "source": "Simon Willison",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1
-    },
-    {
       "id": "d95996a5e1d8",
       "title": "AI Gateway - Identify model overuse and potential savings with User Insights",
       "url": "https://developers.cloudflare.com/changelog/post/2026-09-29-user-insights-task-analysis/",
@@ -496,17 +496,6 @@
       "lang": "en",
       "category": "Research",
       "priority": 1
-    },
-    {
-      "id": "90435c878e92",
-      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
-      "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
-      "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
-      "date": "2026-09-22T19:45:47+00:00",
-      "source": "Ars Technica",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
     }
   ]
 }
