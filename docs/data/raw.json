@@ -1,28 +1,94 @@
 {
-  "fetched_at": "2026-10-06T16:57:56.498920+00:00",
-  "total": 39,
+  "fetched_at": "2026-10-07T01:09:34.684735+00:00",
+  "total": 36,
   "items": [
     {
-      "id": "23d4205c2c0b",
-      "title": "Mirror Particle is building a ‘world model’ of human behavior",
-      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-      "summary": "Mirror Particle will launch at TechCrunch Disrupt Startup Battlefield with a world model built from scratch to predict human behavior, arguing LLM roleplay falls short for market research and brand strategy.",
-      "date": "2026-10-06T16:35:00+00:00",
+      "id": "2a3f95fef02a",
+      "title": "llm-openai-decisions 0.1a0",
+      "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
+      "summary": "Release: llm-openai-decisions 0.1a0 OpenAI released their new Jev-style Decisions API, as previously announced at last week's DevDay. Since I already have an llm-typesafe plugin for talking to Jev, I had GPT-6 Astra read the new OpenAI API documentat",
+      "date": "2026-10-06T23:04:13+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
+    {
+      "id": "a31b24b061cb",
+      "title": "llm-mistral 0.16",
+      "url": "https://simonwillison.net/2026/Oct/6/llm-mistral/",
+      "summary": "Release: llm-mistral 0.16 Adds support for reasoning models, such as the newly released Mistral Large 4. Tags: llm, mistral, llm-reasoning",
+      "date": "2026-10-06T21:32:34+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
+    {
+      "id": "aedc083d210f",
+      "title": "How AI decision models could change content moderation",
+      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+      "date": "2026-10-06T20:35:20+00:00",
       "source": "TechCrunch AI",
       "lang": "en",
       "category": "Industry",
       "priority": 1
     },
     {
-      "id": "9208b0a8180b",
-      "title": "We can’t just change the definition of ‘recording’",
-      "url": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
-      "summary": "With AI hardware, tech companies are pushing the definition of what does and doesn't constitute a recording. For most of gadget history, it'd be reasonable to assume that a device with a microphone or camera is either recording you or it isn't; it's ",
-      "date": "2026-10-06T16:29:44+00:00",
-      "source": "The Verge",
+      "id": "c6c0f9e409ef",
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+      "date": "2026-10-06T20:00:30+00:00",
+      "source": "TechCrunch AI",
       "lang": "en",
-      "category": "Tech",
-      "priority": 2
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "159ed2438ba1",
+      "title": "The next hurdle for AI agents: getting websites to let them in",
+      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
+      "date": "2026-10-06T19:56:50+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "47e6fb94fc92",
+      "title": "Hark releases an AI personal assistant with a focus on privacy",
+      "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+      "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+      "date": "2026-10-06T18:22:45+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "d9a88140e753",
+      "title": "Mistral Large 4",
+      "url": "https://simonwillison.net/2026/Oct/6/hn-49982139/",
+      "summary": "My comment on Mistral Large 4 — Hacker News. wren6991: The benchmark is saturated. Frontier models are tested with an armadillo in fishnet tights jaywalking on Mars. OK well I couldn't resist this one: llm -m claude-opus-5.5 'Generate an SVG of an ar",
+      "date": "2026-10-06T18:20:58+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
+    {
+      "id": "23d4205c2c0b",
+      "title": "Mirror Particle is building a ‘world model’ of human behavior",
+      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
+      "date": "2026-10-06T16:35:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
     },
     {
       "id": "e5ed95e929ea",
@@ -47,36 +113,25 @@
       "priority": 1
     },
     {
-      "id": "56c07856ac05",
-      "title": "Scrimshaw Jukebox",
-      "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
-      "summary": "Tool: Scrimshaw Jukebox I wanted to see if Claude Opus 5.5 could compose music, so I tried this: I want you to write some computer game music for me. First design simple text based format for the music and build an artifact that can play it out loud ",
-      "date": "2026-10-06T15:17:39+00:00",
-      "source": "Simon Willison",
+      "id": "b89eed70c4cf",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "url": "https://openai.com/index/jump-trading",
+      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "date": "2026-10-06T12:00:00+00:00",
+      "source": "OpenAI Blog",
       "lang": "en",
-      "category": "Prompts",
+      "category": "Research",
       "priority": 1
     },
     {
-      "id": "8653701588de",
-      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
-      "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
-      "summary": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
-      "date": "2026-10-06T14:33:16+00:00",
-      "source": "TechCrunch AI",
+      "id": "8ab2e904076c",
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "date": "2026-10-06T12:00:00+00:00",
+      "source": "OpenAI Blog",
       "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "8a2aa9dafacd",
-      "title": "Pinterest’s AI now turns beauty Pins into action plans",
-      "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
-      "summary": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs.",
-      "date": "2026-10-06T14:00:49+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
+      "category": "Research",
       "priority": 1
     },
     {
@@ -102,6 +157,17 @@
       "priority": 2
     },
     {
+      "id": "93f348179aae",
+      "title": "Advancing computer use with Ironclad",
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+      "date": "2026-10-06T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
       "id": "807faee26a0e",
       "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
       "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
@@ -113,25 +179,14 @@
       "priority": 1
     },
     {
-      "id": "212da1d35ed9",
-      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
-      "date": "2026-10-05T20:36:48+00:00",
-      "source": "TechCrunch AI",
+      "id": "7593ab442eb7",
+      "title": "AI Gateway - Standardize provider credential error responses in AI Gateway",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-05-provider-credential-errors/",
+      "summary": "AI Gateway's REST API now returns consistent responses when an AI provider rejects credentials. The change applies to POST /ai/run ↗︎. Scenario Previous AI Gateway response New AI Gateway response ElevenLabs Provider-specific UserCredentialsError wit",
+      "date": "2026-10-06T00:00:00+00:00",
+      "source": "Cloudflare AI Gateway",
       "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "13557b75794f",
-      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-      "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own ",
-      "date": "2026-10-05T19:33:53+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
+      "category": "Tech",
       "priority": 1
     },
     {
@@ -154,17 +209,6 @@
       "source": "OpenAI Blog",
       "lang": "en",
       "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "a2f2350a0db1",
-      "title": "Qwen3.8 27B addition in words",
-      "url": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
-      "summary": "Research: Qwen3.8 27B addition in words Colin Frasier posted on Bluesky about an experiment he ran over two years ago using GPT-4o to see how well it could \"compute the sum but return the answer in words\" across increasingly large numbers. Here's the",
-      "date": "2026-10-04T23:34:00+00:00",
-      "source": "Simon Willison",
-      "lang": "en",
-      "category": "Prompts",
       "priority": 1
     },
     {
@@ -234,28 +278,6 @@
       "priority": 1
     },
     {
-      "id": "cb48e18aa061",
-      "title": "pwasm 0.2a0",
-      "url": "https://simonwillison.net/2026/Oct/1/pwasm/",
-      "summary": "Release: pwasm 0.2a0 pwasm is one of my folly projects - an entirely vibe-coded pure Python WebAssembly engine that I built in January during my first bout of AI mania. I hadn't touched it since January, so I decided to let Claude Opus 5.5 loose on i",
-      "date": "2026-10-01T17:10:31+00:00",
-      "source": "Simon Willison",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1
-    },
-    {
-      "id": "2210ff8abe46",
-      "title": "The eternal complement",
-      "url": "https://openai.com/index/the-eternal-complement",
-      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
-      "date": "2026-10-01T17:00:00+00:00",
-      "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
       "id": "ca0f89f3f4dd",
       "title": "A big-tent or small-tent AI safety movement?",
       "url": "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
@@ -275,28 +297,6 @@
       "source": "Cloudflare Workers AI",
       "lang": "en",
       "category": "Tech",
-      "priority": 1
-    },
-    {
-      "id": "8d6a4fe54890",
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "summary": "",
-      "date": "2026-09-30T20:01:45+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "c5fa622132a0",
-      "title": "Introducing SynthID Bio",
-      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-      "date": "2026-09-30T15:03:07+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
       "priority": 1
     },
     {
@@ -377,17 +377,6 @@
       "priority": 1
     },
     {
-      "id": "0970685988e4",
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "summary": "",
-      "date": "2026-09-24T16:20:39+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
       "id": "64983711808c",
       "title": "LWiAI Podcast #257 - GPT 6 Astra, AI Extinction, Security Incidents",
       "url": "https://lastweekin.ai/p/lwiai-podcast-257-gpt-6-astra-ai",
@@ -407,28 +396,6 @@
       "source": "GitHub AI & ML",
       "lang": "en",
       "category": "Prompts",
-      "priority": 1
-    },
-    {
-      "id": "8f839c0d3f32",
-      "title": "Advancing Private AI Compute with secure, server-side memory",
-      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-      "date": "2026-09-23T16:00:57+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "31ef9b5263a3",
-      "title": "Gemini 3.8 text-to-speech says hello",
-      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-      "summary": "",
-      "date": "2026-09-23T15:25:14+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
       "priority": 1
     }
   ]
