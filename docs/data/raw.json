@@ -1,7 +1,18 @@
 {
-  "fetched_at": "2026-10-07T01:09:34.684735+00:00",
-  "total": 36,
+  "fetched_at": "2026-10-07T10:57:44.634081+00:00",
+  "total": 34,
   "items": [
+    {
+      "id": "4ee3f64d8ae7",
+      "title": "「FDEが開発したAIエージェントの7割は使われず、単なるコンサルティングが販売される」 ガートナー予測",
+      "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002098/",
+      "summary": "米調査会社のガートナーは、ベンダーのFDE（フォワードデプロイドエンジニアあるいはフォワードデプロイドエンジニアリング）によって開発されたAIエージェントの70％が2028年までに企業に使われずに放棄される（Gartner Predicts 70% of Enterprises Will Abandon Agentic AI Built by Vendor Forward-Deployed Engineering by 2028）」という予測を明らかにしました。",
+      "date": "2026-10-07T08:24:32+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
     {
       "id": "2a3f95fef02a",
       "title": "llm-openai-decisions 0.1a0",
@@ -69,17 +80,6 @@
       "priority": 1
     },
     {
-      "id": "d9a88140e753",
-      "title": "Mistral Large 4",
-      "url": "https://simonwillison.net/2026/Oct/6/hn-49982139/",
-      "summary": "My comment on Mistral Large 4 — Hacker News. wren6991: The benchmark is saturated. Frontier models are tested with an armadillo in fishnet tights jaywalking on Mars. OK well I couldn't resist this one: llm -m claude-opus-5.5 'Generate an SVG of an ar",
-      "date": "2026-10-06T18:20:58+00:00",
-      "source": "Simon Willison",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1
-    },
-    {
       "id": "23d4205c2c0b",
       "title": "Mirror Particle is building a ‘world model’ of human behavior",
       "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
@@ -133,28 +133,6 @@
       "lang": "en",
       "category": "Research",
       "priority": 1
-    },
-    {
-      "id": "9d57eba47f38",
-      "title": "Googleが無料・下位プランで使えるGeminiのモデルを制限",
-      "url": "https://gigazine.net/news/20261006-google-gemini-ai-subscription/",
-      "summary": "Googleが2026年10月9日から、個人の無料ユーザーが利用できるGeminiを軽量高速モデルの「Flash-Lite」のみに制限します。サブスクリプションの「AI Plus」ならその上位の「Flash」まで利用可能で、Gemini Proの利用には「AI Pro」か「AI Ultra」への加入が必要です。続きを読む...",
-      "date": "2026-10-06T11:42:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "3cf1eaefc57d",
-      "title": "ノルウェー、「AI眼鏡」規制法案提出へ 盗撮など高まる懸念……各国も対応加速",
-      "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002064/",
-      "summary": "ノルウェー政府は5日、公園や海水浴場など、公共の場で人工知能（AI）を搭載したスマートグラス（AI眼鏡）の使用を規制する法案を提出する計画を明らかにしたと、英Reutersが報じた。",
-      "date": "2026-10-06T10:19:49+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "93f348179aae",

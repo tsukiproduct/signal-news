@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-07T01:13:03.434048+00:00",
-  "fetched_at": "2026-10-07T01:09:34.684735+00:00",
-  "total": 33,
+  "updated_at": "2026-10-07T10:59:31.983275+00:00",
+  "fetched_at": "2026-10-07T10:57:44.634081+00:00",
+  "total": 34,
   "curated": true,
   "items": [
     {
@@ -50,30 +50,6 @@
       "try_next_en": "apply for the program and trial Claude Team in your workflow",
       "caveat_ja": "資格要件、利用可能地域、使用制限などを確認してください。抜粋には詳細は記載されていません。",
       "caveat_en": "check eligibility, region, and usage limits; excerpt does not provide further details",
-      "translation_status": "machine"
-    },
-    {
-      "id": "9d57eba47f38",
-      "title": "Googleが無料・下位プランで使えるGeminiのモデルを制限",
-      "url": "https://gigazine.net/news/20261006-google-gemini-ai-subscription/",
-      "summary": "Googleが2026年10月9日から、個人の無料ユーザーが利用できるGeminiを軽量高速モデルの「Flash-Lite」のみに制限します。サブスクリプションの「AI Plus」ならその上位の「Flash」まで利用可能で、Gemini Proの利用には「AI Pro」か「AI Ultra」への加入が必要です。続きを読む...",
-      "date": "2026-10-06T11:42:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2,
-      "score": 9,
-      "reason": "Concrete change in pricing, quotas, and access for Japanese users",
-      "summary_ja": "2026年10月9日から、Googleは個人の無料ユーザーが利用できるGeminiを軽量モデル「Flash-Lite」のみに制限する。AI Plus加入者は「Flash」まで、Proモデルには「AI Pro」以上の加入が必要になる。",
-      "title_ja": "Googleが無料・下位プランで使えるGeminiのモデルを制限",
-      "title_en": "Google limits Gemini models on free and lower-tier plans",
-      "summary_en": "Starting October 9, 2026, Google limits free-tier Gemini access to the lightweight Flash-Lite model. AI Plus subscribers get Flash, while Gemini Pro requires AI Pro or AI Ultra plans.",
-      "useful_for_ja": "日本在住の無料・低額プランGeminiユーザー",
-      "useful_for_en": "Free or lower-tier Gemini users in Japan",
-      "try_next_ja": "現在のプランと利用頻度を確認し、必要に応じてアップグレードを検討する",
-      "try_next_en": "Verify your current plan and usage frequency, consider upgrading if needed",
-      "caveat_ja": "日本での提供有無は要確認。具体的な価格・容量は未記載",
-      "caveat_en": "Availability in Japan must be verified; pricing and quota details are not specified",
       "translation_status": "machine"
     },
     {
@@ -365,30 +341,6 @@
       "translation_status": "machine"
     },
     {
-      "id": "3cf1eaefc57d",
-      "title": "ノルウェー、「AI眼鏡」規制法案提出へ 盗撮など高まる懸念……各国も対応加速",
-      "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002064/",
-      "summary": "ノルウェー政府は5日、公園や海水浴場など、公共の場で人工知能（AI）を搭載したスマートグラス（AI眼鏡）の使用を規制する法案を提出する計画を明らかにしたと、英Reutersが報じた。",
-      "date": "2026-10-06T10:19:49+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2,
-      "score": 7,
-      "reason": "Regulatory change affecting deployment considerations",
-      "summary_ja": "ノルウェー政府はAI搭載スマートグラスの使用を規制する法案を提出。公園や海水浴場など公共の場での使用を制限し、盗撮懸念に対応。",
-      "title_ja": "ノルウェー、AI眼鏡規制法案提出へ 盗撮懸念高まる",
-      "title_en": "Norway to submit AI glasses regulation bill amid rising concerns about surveillance",
-      "summary_en": "Norway government plans to submit a bill to regulate AI-equipped smart glasses. The regulation will restrict use in public places like parks and beaches, addressing growing concerns about surveillance.",
-      "useful_for_ja": "AI眼鏡製品開発者・輸入業者",
-      "useful_for_en": "Developers and importers of AI smart glasses",
-      "try_next_ja": "法案の具体的内容と日本での影響を確認",
-      "try_next_en": "Check bill details and potential impact in Japan",
-      "caveat_ja": "日本国内での直接的な影響を確認必要",
-      "caveat_en": "Direct impact in Japan must be verified",
-      "translation_status": "machine"
-    },
-    {
       "id": "d8bea22f6536",
       "title": "A model guide for the GPT-6 family",
       "url": "https://openai.com/index/practical-guide-building-gpt-6",
@@ -557,6 +509,34 @@
       "translation_status": "machine"
     },
     {
+      "id": "4ee3f64d8ae7",
+      "title": "「FDEが開発したAIエージェントの7割は使われず、単なるコンサルティングが販売される」 ガートナー予測",
+      "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002098/",
+      "summary": "米調査会社のガートナーは、ベンダーのFDE（フォワードデプロイドエンジニアあるいはフォワードデプロイドエンジニアリング）によって開発されたAIエージェントの70％が2028年までに企業に使われずに放棄される（Gartner Predicts 70% of Enterprises Will Abandon Agentic AI Built by Vendor Forward-Deployed Engineering by 2028）」という予測を明らかにしました。",
+      "date": "2026-10-07T08:24:32+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "米調査会社のガートナーは、ベンダーのFDE（フォワードデプロイドエンジニアあるいはフォワードデプロイドエンジニアリング）によって開発されたAIエージェントの70％が2028年までに企業に使われずに放棄される（Gartner Predicts 70% of Enterprises Will Abandon Agentic AI Built by Vendor Forward-Deployed Engineering by 2028）」という予測を明らかにしました。"
+    },
+    {
+      "id": "c6c0f9e409ef",
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+      "date": "2026-10-06T20:00:30+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone."
+    },
+    {
       "id": "159ed2438ba1",
       "title": "The next hurdle for AI agents: getting websites to let them in",
       "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
@@ -603,6 +583,20 @@
       "caveat_ja": "抜粋には利用可能時期、価格、ライセンスについて記載されていません。",
       "caveat_en": "excerpt does not specify availability, pricing, or license",
       "translation_status": "machine"
+    },
+    {
+      "id": "b89eed70c4cf",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "url": "https://openai.com/index/jump-trading",
+      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "date": "2026-10-06T12:00:00+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review."
     },
     {
       "id": "8ab2e904076c",
