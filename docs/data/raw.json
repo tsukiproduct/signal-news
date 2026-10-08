@@ -1,7 +1,51 @@
 {
-  "fetched_at": "2026-10-08T01:27:41.940375+00:00",
-  "total": 38,
+  "fetched_at": "2026-10-08T11:14:51.103648+00:00",
+  "total": 39,
   "items": [
+    {
+      "id": "7242cc79cef5",
+      "title": "AIが使ったツールをAI自身が5段階で評価する口コミサイト「agent.reviews」が登場、Claude CodeやCodexもレビューを投稿",
+      "url": "https://gigazine.net/news/20261008-agent-reviews/",
+      "summary": "AIエージェントが実際に使用したソフトウェアや開発ツールについて評価を投稿するレビューサイト「agent.reviews」が登場しました。AIエージェントが使用したツールの使いやすさや信頼性を評価し、ほかのAIエージェントがツールを選ぶ際の参考にできる仕組みになっています。続きを読む...",
+      "date": "2026-10-08T11:00:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "488361a6555f",
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black ",
+      "date": "2026-10-08T09:00:00+00:00",
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "a80a806ab603",
+      "title": "Building a safer path to autonomous industrial AI",
+      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+      "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial enviro",
+      "date": "2026-10-08T08:17:32+00:00",
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "da679b9bb2f9",
+      "title": "ChatGPT、無料版を含む全ユーザーに「GPT-6」 回答内に“操作できる画面”を生成する「Intelligent UI」搭載",
+      "url": "https://www.itmedia.co.jp/news/article/2610/08/2000002119/",
+      "summary": "OpenAIは、ChatGPTに新モデル「GPT-6」を搭載し順次提供を開始した。テキストに加え図や操作可能なボタン、フォームなどを回答として生成する「Intelligent UI」を導入。思考しながら回答を出力する機能も備える。有料プランから順次提供を始め、無料プランやGoプランにも翌日から展開する。",
+      "date": "2026-10-08T02:09:40+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
     {
       "id": "e4c8d5ca4d79",
       "title": "Quoting Ben Affleck",
@@ -12,17 +56,6 @@
       "lang": "en",
       "category": "Prompts",
       "priority": 1
-    },
-    {
-      "id": "96b2866d914c",
-      "title": "Anthropic、「Claude Haiku 5.5」公開 「Haiku 4.5」から大幅性能向上で利用コスト約75％減",
-      "url": "https://www.itmedia.co.jp/news/article/2610/08/2000002112/",
-      "summary": "Anthropicは、小型AIモデル「Claude Haiku 5.5」を発表した。前世代から性能を大きく引き上げつつ、コストを約75％削減。推論の深さを調整するeffort設定に初対応し、コンピュータ操作や大量の定型処理、上位モデルのサブエージェント向けに全プラットフォームで即日提供された。",
-      "date": "2026-10-07T22:25:53+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "85afe82638d5",
@@ -133,17 +166,6 @@
       "lang": "en",
       "category": "Research",
       "priority": 1
-    },
-    {
-      "id": "a42b987bb9c1",
-      "title": "ChatGPTが生成したマンガに「実在するマンガ家の署名」が含まれているとの指摘",
-      "url": "https://gigazine.net/news/20261007-chatgpt-adding-real-cartoonists-signatures-fake/",
-      "summary": "生成AIによる画像生成能力はますます進化しており、まるで人間のイラストレーターやマンガ家が描いたような画像を容易に生成することが可能です。ハーバード大学のジャーナリズム機関であるNieman Jounalism Labが、OpenAIのChatGPTが生成したマンガに「実在するマンガ家の署名」が含まれていると報じました。続きを読む...",
-      "date": "2026-10-07T11:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "3775ba35f5d8",
@@ -408,17 +430,6 @@
       "lang": "en",
       "category": "Research",
       "priority": 1
-    },
-    {
-      "id": "64983711808c",
-      "title": "LWiAI Podcast #257 - GPT 6 Astra, AI Extinction, Security Incidents",
-      "url": "https://lastweekin.ai/p/lwiai-podcast-257-gpt-6-astra-ai",
-      "summary": "A belated discussion of Astra’s release, a bunch of AI incidents, and the broader situation we are in with regards to AI safety.",
-      "date": "2026-09-24T09:12:28+00:00",
-      "source": "Last Week in AI",
-      "lang": "en",
-      "category": "Research",
-      "priority": 2
     }
   ]
 }
