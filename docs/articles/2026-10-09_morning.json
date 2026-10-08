@@ -1,0 +1,95 @@
+{
+  "id": "2026-10-09_morning-ai-agents-offline-note-2026-10",
+  "file_key": "2026-10-09_morning",
+  "date": "2026-10-09",
+  "generated_at": "2026-10-08T17:39:44.984799+00:00",
+  "title": "AIエージェントとオフラインノートが進展",
+  "slug": "ai-agents-offline-note-2026-10",
+  "summary": "スマートリング、オフラインノート、ビジネスエージェント、GPT-6 UIなど今週のAI動向を解説",
+  "tags": [
+    "AIエージェント",
+    "オフラインAI",
+    "ビジネス自動化"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "今週は、指に装着する99ドルのAIエージェントリングや、macOSで完全オフライン動作するGoogleの会議録音メモ帳、評価額15億ドルに到達したNous Researchのビジネス向けAIエージェント、そしてティーン向けChatGPTの大学申請支援機能、GPT-6のインタラクティブUI、OpenAIの新Decisions APIなど、ハードウェアからソフトウェアまで多様な進展が見られた。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "Nous ResearchはシリーズBで90百万ドルを調達し、評価額を1.5億ドルにまで高めた。同時に発表したHermes Agentは、企業向けにタスク自動化、データ分析、ワークフロー連携を自然言語で指示できるAIエージェントプラットフォームだ。既存のCRMやERPとAPIで連携し、オンプレミスまたはクラウドで稼働させられるため、データセキュリティ要件の厳しい業界でも導入が見込まれる。これにより、中小企業でも専門のAIエンジニアを雇わずに業務プロセスの一部を自動化できる可能性が広がる。",
+      "source_title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "source_url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "Decisions APIでタスクフローを設計",
+      "prompt_body": "「次の手順を決めてください：1) ユーザーからの問い合わせを分類し、2) 該当するFAQを取得、3) 回答が不明なら人間オペレーターにエスカレート。結果はJSONで返却してください。」",
+      "prompt_usecase": "このプロンプトをDecisions APIのエンドポイントにPOSTし、返却されたJSONをアプリケーションのルーティングロジックに組み込むことで、ノーコードで意思決定フローを構築できる。",
+      "prompt_source": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/"
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "Googleのオフライン会議メモ帳は、インターネット接続が不安定な現場や機密扱いの会議でも音声を文字起こしし、ローカルに保存できる。このテキストをNous ResearchのHermes Agentに渡せば、議事録の要約、アクションアイテムの抽出、次のミーティングの agenda 作成までを自動化できる。さらに、エージェントは抽出したタスクをプロジェクト管理ツールへ自動登録し、進捗をダッシュボードに反映させることで、会議から実行へのリードタイムを大幅に短縮できる。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "今週のトレンドは、エッジデバイスでのAI実装（スマートリング、オフラインノート）、ビジネス向けエージェントプラットフォームの商用化、そしてティーン層への教育特化AIの拡大。これらは、AIがハードウェアに密接に結びつき、特定ユーザー層に合わせたカスタマイズが進むことを示している。今後は、プライバシー保護とオフライン機能がさらに重要になるだろう。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Natura’s $99 smart ring puts AI agents on your finger",
+      "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+      "source": "TechCrunch AI",
+      "category": "Industry"
+    },
+    {
+      "title": "Google’s AI note-taking app transcribes your meetings completely offline",
+      "url": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "source": "TechCrunch AI",
+      "category": "Industry"
+    },
+    {
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "source": "OpenAI Blog",
+      "category": "Research"
+    },
+    {
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "source": "OpenAI Blog",
+      "category": "Research"
+    },
+    {
+      "title": "llm-openai-decisions 0.1a0",
+      "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
