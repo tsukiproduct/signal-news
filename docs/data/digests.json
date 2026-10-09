@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-10-09_afternoon-anthropic-oss-scanner-gemini-agentic",
+      "date": "2026-10-09",
+      "file_key": "2026-10-09_afternoon",
+      "title": "Anthropic無料スキャンとGeminiエージェント化",
+      "summary": "AnthropicがOSS向け無料セキュリティスキャン開始、Geminiが企業向けエージェント機能を搭載、GPT-6がIntelligent UIで提供開始",
+      "tags": [
+        "Anthropic",
+        "Google Gemini",
+        "OpenAI GPT-6"
+      ],
+      "slug": "anthropic-oss-scanner-gemini-agentic"
+    },
+    {
       "id": "2026-10-09_morning-ai-agents-offline-note-2026-10",
       "date": "2026-10-09",
       "file_key": "2026-10-09_morning",
@@ -409,25 +422,7 @@
         "Cybersecurity"
       ],
       "slug": "ai-access-cyber-defense"
-    },
-    {
-      "id": "2026-09-16_morning-enterprise-ai-updates-data-government-video",
-      "date": "2026-09-16",
-      "file_key": "2026-09-16_morning",
-      "title": "企業AIが進化：データ分析・政府向け・動画理解が一新",
-      "summary": "OpenAIのWorkデータ機能、政府向け無償化、Geminiの動画理解、Cloudflareコスト制御など、実務に直結するAI動向を解説。",
-      "tags": [
-        "OpenAI",
-        "ChatGPT Work",
-        "政府向けAI",
-        "Gemini",
-        "Cloudflare",
-        "AI Gateway",
-        "動画理解",
-        "データ分析"
-      ],
-      "slug": "enterprise-ai-updates-data-government-video"
     }
   ],
-  "updated_at": "2026-10-08T17:39:44.985336+00:00"
+  "updated_at": "2026-10-09T01:39:17.272729+00:00"
 }
