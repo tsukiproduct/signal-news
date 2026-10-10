@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "id": "2026-10-10_evening-ai-weekly-cloudflare-openai-apple-updates",
+      "date": "2026-10-10",
+      "file_key": "2026-10-10_evening",
+      "title": "AI最新動向：音声AI、学生支援、検索APIが進化",
+      "summary": "Cloudflareの音声動画AI、OpenAIの学生向け機能、Appleの権限強化など、今週のAIニュースを解説",
+      "tags": [
+        "AIモデル",
+        "Cloudflare",
+        "OpenAI",
+        "プライバシー",
+        "音声AI",
+        "教育テクノロジー"
+      ],
+      "slug": "ai-weekly-cloudflare-openai-apple-updates"
+    },
+    {
       "id": "2026-10-10_afternoon-portable-ai-tools",
       "date": "2026-10-10",
       "file_key": "2026-10-10_afternoon",
@@ -409,20 +425,7 @@
         "Anthropic"
       ],
       "slug": "ai-news-2026-09-claude-code-watermark-cost"
-    },
-    {
-      "id": "2026-09-17_evening-cloudflare-ai-gateway-auth-cache-costs",
-      "date": "2026-09-17",
-      "file_key": "2026-09-17_evening",
-      "title": "Cloudflare AI Gatewayに認証必須化とキャッシュコスト対応",
-      "summary": "CloudflareがAI GatewayでBYOK認証を必須化、キャッシュトークンのカスタムコスト対応を追加。開発者のコスト管理が強化。",
-      "tags": [
-        "Cloudflare",
-        "AI運用",
-        "コスト最適化"
-      ],
-      "slug": "cloudflare-ai-gateway-auth-cache-costs"
     }
   ],
-  "updated_at": "2026-10-10T01:27:54.958442+00:00"
+  "updated_at": "2026-10-10T10:34:17.395243+00:00"
 }

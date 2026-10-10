@@ -1,7 +1,18 @@
 {
-  "fetched_at": "2026-10-10T01:25:19.379999+00:00",
-  "total": 39,
+  "fetched_at": "2026-10-10T10:30:52.643603+00:00",
+  "total": 36,
   "items": [
+    {
+      "id": "6ee00924066c",
+      "title": "My brief romance with an AI bird feeder",
+      "url": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
+      "summary": "It started off promising enough. Dozens of tiny, colorful birds were drawn to my garden just a few weeks after I mounted a $350 $269 Kiwibit Bird Feeder 2 Pro. \"Looks like Great Tit!\" read the first AI-driven alert sent to my phone. \"Looks like Euras",
+      "date": "2026-10-10T07:15:33+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
     {
       "id": "3fc0fe8ac680",
       "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
@@ -100,17 +111,6 @@
       "lang": "en",
       "category": "Industry",
       "priority": 1
-    },
-    {
-      "id": "35aac40c3530",
-      "title": "MSIのポータブルゲーミングPCが、すごく進化してる。持ち歩ける8インチ大画面＆120Hz駆動は最高だ",
-      "url": "https://ascii.jp/elem/000/004/440/4440449/?rss",
-      "summary": "MSI「Claw-8-EX-AI+CG3EM-406JP」は、次世代の「Arc G3 Extreme」による高いGPUパワーを備えたポータブルゲーミングPCです。",
-      "date": "2026-10-09T13:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "0334faf72ea9",
@@ -245,17 +245,6 @@
       "priority": 1
     },
     {
-      "id": "85afe82638d5",
-      "title": "Claude Haiku 5.5",
-      "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
-      "summary": "As previously promised, here's Anthropic's new fast, low cost model: Introducing Claude Haiku 5.5. The previous Haiku, 4.5, was very much showing its age. It came out almost a year ago, and was priced at $1/million input and $5/million output - relat",
-      "date": "2026-10-07T20:56:21+00:00",
-      "source": "Simon Willison",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1
-    },
-    {
       "id": "2283ab4e5d08",
       "title": "Helping teens learn, plan, and shape the future of AI",
       "url": "https://openai.com/index/teens-learn-and-plan",
@@ -352,28 +341,6 @@
       "source": "Cloudflare Workers AI",
       "lang": "en",
       "category": "Tech",
-      "priority": 1
-    },
-    {
-      "id": "8d6a4fe54890",
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "summary": "",
-      "date": "2026-09-30T20:01:45+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "c5fa622132a0",
-      "title": "Introducing SynthID Bio",
-      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-      "date": "2026-09-30T15:03:07+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
       "priority": 1
     },
     {
