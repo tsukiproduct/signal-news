@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "2026-10-10_afternoon-portable-ai-tools",
+      "date": "2026-10-10",
+      "file_key": "2026-10-10_afternoon",
+      "title": "ポータブルAIハードウェアと新機能",
+      "summary": "MSIが8インチ120HzのポータブルゲーミングPCを発表。CloudflareがWorkers AIに音声/動画入力を追加。OpenAIがティーン向けCollege Plannerを提供。AppleがAIエージェントの権限を制限。AnthropicとOpenAIが新型モデルを発表。",
+      "tags": [
+        "hardware",
+        "permissions",
+        "education",
+        "multimodal"
+      ],
+      "slug": "portable-ai-tools"
+    },
+    {
       "id": "2026-10-09_afternoon-anthropic-oss-scanner-gemini-agentic",
       "date": "2026-10-09",
       "file_key": "2026-10-09_afternoon",
@@ -408,21 +422,7 @@
         "コスト最適化"
       ],
       "slug": "cloudflare-ai-gateway-auth-cache-costs"
-    },
-    {
-      "id": "2026-09-16_evening-ai-access-cyber-defense",
-      "date": "2026-09-16",
-      "file_key": "2026-09-16_evening",
-      "title": "AIのアクセス拡大とサイバー防御の進展",
-      "summary": "OpenAIとGSAが政府機関にAIサービスの割引とセキュリティ支援を拡充。GoogleはGemini 3.8シリーズをリリースし、MetaはAIエージェントによるWhatsApp Businessの自動化を進める。",
-      "tags": [
-        "AIアクセス",
-        "政府向けAI",
-        "コーディングAI",
-        "Cybersecurity"
-      ],
-      "slug": "ai-access-cyber-defense"
     }
   ],
-  "updated_at": "2026-10-09T01:39:17.272729+00:00"
+  "updated_at": "2026-10-10T01:27:54.958442+00:00"
 }
