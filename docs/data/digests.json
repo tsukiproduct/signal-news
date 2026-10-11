@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-10-11_morning-anthropic-isolation-cloudflare-multimodal",
+      "date": "2026-10-11",
+      "file_key": "2026-10-11_morning",
+      "title": "Anthropicが評価環境を隔離、Cloudflareが音声動画対応",
+      "summary": "Anthropicが内部評価をオフライン化、Cloudflare Workers AIに音声動画入力対応モデル追加",
+      "tags": [
+        "AI安全性",
+        "エッジAI",
+        "マルチモーダル"
+      ],
+      "slug": "anthropic-isolation-cloudflare-multimodal"
+    },
+    {
       "id": "2026-10-10_evening-ai-weekly-cloudflare-openai-apple-updates",
       "date": "2026-10-10",
       "file_key": "2026-10-10_evening",
@@ -410,22 +423,7 @@
         "業務自動化"
       ],
       "slug": "ai-agent-management"
-    },
-    {
-      "id": "2026-09-18_evening-ai-news-2026-09-claude-code-watermark-cost",
-      "date": "2026-09-18",
-      "file_key": "2026-09-18_evening",
-      "title": "Claude Code刷新、ウォーターマーキングリスク、コスト管理強化",
-      "summary": "Claude CodeにProjects機能、Claude統合、ウォーターマーキング副作用、Cloudflare認証強化、GitHub HydraFusionと幅広い動き。",
-      "tags": [
-        "Claude Code",
-        "Cloudflare AI Gateway",
-        "ウォーターマーキング",
-        "GitHub Copilot",
-        "Anthropic"
-      ],
-      "slug": "ai-news-2026-09-claude-code-watermark-cost"
     }
   ],
-  "updated_at": "2026-10-10T10:34:17.395243+00:00"
+  "updated_at": "2026-10-11T00:38:11.428528+00:00"
 }
