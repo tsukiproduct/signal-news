@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-10-11T00:36:19.405869+00:00",
+  "fetched_at": "2026-10-11T10:43:10.348152+00:00",
   "total": 37,
   "items": [
     {
-      "id": "05298e9bf640",
-      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-      "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advi",
-      "date": "2026-10-10T22:10:17+00:00",
-      "source": "The Verge",
-      "lang": "en",
+      "id": "3127ad3cbe5c",
+      "title": "30年前にBBCが放送した「アート作品を作るAI・AARON」を扱ったテレビ番組",
+      "url": "https://gigazine.net/news/20261011-computer-art/",
+      "summary": "生成AIの発達により、写真やイラストなどのアート作品がAIを使って大量に生み出されています。そんな中、イギリスの公共放送局であるBBCが、1996年に放送した「絵画を制作できるAI」について取り上げた番組のアーカイブを公開しています。続きを読む...",
+      "date": "2026-10-11T08:30:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
       "category": "Tech",
       "priority": 2
     },
