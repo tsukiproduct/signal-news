@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "2026-10-12_morning-ai-latest-trends-cost-reduction-to-education-support",
+      "date": "2026-10-12",
+      "file_key": "2026-10-12_morning",
+      "title": "AI最新動向：コスト削減から教育支援まで",
+      "summary": "モデルコスト削減、マルチモーダル入力対応、教育支援強化などAIの実用的進化が加速。",
+      "tags": [
+        "AIコスト削減",
+        "マルチモーダルAI",
+        "教育支援",
+        "コンテンツ生成"
+      ],
+      "slug": "ai-latest-trends-cost-reduction-to-education-support"
+    },
+    {
       "id": "2026-10-11_morning-anthropic-isolation-cloudflare-multimodal",
       "date": "2026-10-11",
       "file_key": "2026-10-11_morning",
@@ -410,20 +424,7 @@
       "summary": "Virginia知事がAIタスクフォースを設置しデータセンター規制強化中。OpenAIへの脅威検出もあり、Workers AIでは不必要な同期推論リクエストが抑制され、Cloudflare AI Gatewayでは第三者プロバイダーへの認証要件が強化。生成AIによるゲーム開発もTGSで活発化。",
       "tags": [],
       "slug": "ai-trend-2026-overview"
-    },
-    {
-      "id": "2026-09-18_evening-ai-agent-management",
-      "date": "2026-09-18",
-      "file_key": "2026-09-18_evening",
-      "title": "AIエージェント管理とビジネス活用",
-      "summary": "Claude Code Projectsが刷新され、クラウド上で複数AIエージェントを共通メモリで管理可能に。",
-      "tags": [
-        "AIエージェント",
-        "クラウドサービス",
-        "業務自動化"
-      ],
-      "slug": "ai-agent-management"
     }
   ],
-  "updated_at": "2026-10-11T00:38:11.428528+00:00"
+  "updated_at": "2026-10-12T00:53:26.628450+00:00"
 }
