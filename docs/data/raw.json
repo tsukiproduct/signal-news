@@ -1,71 +1,115 @@
 {
-  "fetched_at": "2026-10-12T11:48:39.100836+00:00",
-  "total": 31,
+  "fetched_at": "2026-10-12T20:01:01.889282+00:00",
+  "total": 30,
   "items": [
     {
-      "id": "5e9f78f70319",
-      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-      "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley",
-      "date": "2026-10-11T18:33:56+00:00",
+      "id": "200c1c673a68",
+      "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
+      "summary": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The GitHub Blog.",
+      "date": "2026-10-12T17:43:59+00:00",
+      "source": "GitHub AI & ML",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
+    {
+      "id": "7b6bf13f385b",
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+      "date": "2026-10-12T17:19:14+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "3167f1c8b10b",
+      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+      "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+      "date": "2026-10-12T15:45:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "e9c9ac8e21ac",
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "date": "2026-10-12T15:31:19+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "b32e4e442964",
+      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+      "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+      "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+      "date": "2026-10-12T15:27:59+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "13593acc05a2",
+      "title": "AIエージェントを自作する3つの方法！初心者でも無料から始められる手順",
+      "url": "https://ainow.ai/2026/10/12/278433/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e8%2587%25aa%25e4%25bd%259c%25e3%2581%2599%25e3%2582%258b3%25e3%2581%25a4%25e3%2581%25ae%25e6%2596%25b9%25e6%25b3%2595%25ef%25bc%2581%25e5%2588%259d%25e5%25bf%2583%25e8%2580%2585%25e3%2581%25a7%25e3%2582%2582",
+      "summary": "AIエージェントは、作りたいものに合ったツールを選べば個人でも自作できます。本記事では、チャット型・自動化型・実行型の3つの自作方法と、Geminiスキル・n8n・Claude Codeを使った具体的な手順を解説します。... The post AIエージェントを自作する3つの方法！初心者でも無料から始められる手順 first appeared on AI専門ニュースメディア AINOW.",
+      "date": "2026-10-12T13:00:55+00:00",
+      "source": "AINOW",
+      "lang": "ja",
+      "category": "AI",
+      "priority": 1
+    },
+    {
+      "id": "f1588e6ffbfd",
+      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+      "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+      "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, o",
+      "date": "2026-10-12T12:47:59+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "e41af6ba2638",
+      "title": "Meta has some Wonder Full new AI models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+      "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's ",
+      "date": "2026-10-12T11:13:10+00:00",
       "source": "The Verge",
       "lang": "en",
       "category": "Tech",
       "priority": 2
     },
     {
-      "id": "0cb44539674b",
-      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
-      "date": "2026-10-11T16:52:33+00:00",
-      "source": "TechCrunch AI",
+      "id": "3fdb4d1098dd",
+      "title": "Agents - New web_fetch tool in the Agents SDK for reading webpages and documents, with automatic markdown conversion",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-11-web-fetch/",
+      "summary": "The Cloudflare Agents SDK now provides a web_fetch tool that reads webpages, PDFs, and supported Office documents, using Workers AI Markdown Conversion to turn them into text the model can read. The tool requests Markdown directly from sites that sup",
+      "date": "2026-10-12T00:00:00+00:00",
+      "source": "Cloudflare Agents",
       "lang": "en",
-      "category": "Industry",
+      "category": "Prompts",
       "priority": 1
     },
     {
-      "id": "1b97ced39af6",
-      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
-      "date": "2026-10-11T14:00:00+00:00",
-      "source": "TechCrunch AI",
+      "id": "05f0d136f118",
+      "title": "Agents - New web_search tool in the Agents SDK, powered by the Cloudflare Web Search API",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-12-web-search/",
+      "summary": "The Cloudflare Agents SDK now provides a web_search tool that searches the public web through the Cloudflare Web Search API, powered by ceramic.ai, Exa, and Linkup. When you give the web_search tool to your agent, the model provides a query and max r",
+      "date": "2026-10-12T00:00:00+00:00",
+      "source": "Cloudflare Agents",
       "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "a132e85074c4",
-      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-      "date": "2026-10-10T21:47:51+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "719244ff4837",
-      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
-      "date": "2026-10-10T19:50:00+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "d8d2c1c3d579",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "date": "2026-10-10T14:00:00+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
+      "category": "Prompts",
       "priority": 1
     },
     {
@@ -113,17 +157,6 @@
       "priority": 2
     },
     {
-      "id": "e0bf43abd809",
-      "title": "ttok 1.0",
-      "url": "https://simonwillison.net/2026/Oct/9/ttok/",
-      "summary": "Release: ttok 1.0 I released ttok 0.4, ran uv tool upgrade ttok, piped a file into the new version... and realized that it was defaulting to the GPT-4 tokenizer when it should very clearly default to GPT-5/GPT-6 instead! I figured switching the defau",
-      "date": "2026-10-09T00:34:43+00:00",
-      "source": "Simon Willison",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1
-    },
-    {
       "id": "080bc68c6b73",
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
       "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
@@ -143,17 +176,6 @@
       "source": "Cloudflare Workers AI",
       "lang": "en",
       "category": "Tech",
-      "priority": 1
-    },
-    {
-      "id": "6d8881292dc0",
-      "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
-      "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fe",
-      "date": "2026-10-08T12:10:00+00:00",
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "category": "Research",
       "priority": 1
     },
     {
@@ -275,39 +297,6 @@
       "source": "Cloudflare Workers AI",
       "lang": "en",
       "category": "Tech",
-      "priority": 1
-    },
-    {
-      "id": "8d6a4fe54890",
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "summary": "",
-      "date": "2026-09-30T20:01:45+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "c5fa622132a0",
-      "title": "Introducing SynthID Bio",
-      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-      "date": "2026-09-30T15:03:07+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "b542bba49aae",
-      "title": "AIエージェントの10大リスクと事故事例から学ぶ管理の進め方",
-      "url": "https://ainow.ai/2026/09/30/278404/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae10%25e5%25a4%25a7%25e3%2583%25aa%25e3%2582%25b9%25e3%2582%25af%25e3%2581%25a8%25e4%25ba%258b%25e6%2595%2585%25e4%25ba%258b%25e4%25be%258b%25e3%2581%258b%25e3%2582%2589%25e5%25ad%25a6%25e3%2581%25b6%25e7%25ae%25a1",
-      "summary": "AIエージェントを導入したいものの、暴走や情報漏えいのリスクを経営層や法務部門にどう説明すればよいか悩んでいる推進担当者は少なくないでしょう。 AIエージェントのリスクは、生成AIのリスクが「行動」と「権限」によって増幅... The post AIエージェントの10大リスクと事故事例から学ぶ管理の進め方 first appeared on AI専門ニュースメディア AINOW.",
-      "date": "2026-09-30T13:24:46+00:00",
-      "source": "AINOW",
-      "lang": "ja",
-      "category": "AI",
       "priority": 1
     },
     {
