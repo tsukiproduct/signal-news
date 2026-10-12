@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-12T00:52:55.198046+00:00",
-  "fetched_at": "2026-10-12T00:52:52.261779+00:00",
-  "total": 34,
+  "updated_at": "2026-10-12T11:48:41.008115+00:00",
+  "fetched_at": "2026-10-12T11:48:39.100836+00:00",
+  "total": 31,
   "curated": true,
   "items": [
     {
@@ -551,30 +551,6 @@
       "summary_ja": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break"
     },
     {
-      "id": "3127ad3cbe5c",
-      "title": "30年前にBBCが放送した「アート作品を作るAI・AARON」を扱ったテレビ番組",
-      "url": "https://gigazine.net/news/20261011-computer-art/",
-      "summary": "生成AIの発達により、写真やイラストなどのアート作品がAIを使って大量に生み出されています。そんな中、イギリスの公共放送局であるBBCが、1996年に放送した「絵画を制作できるAI」について取り上げた番組のアーカイブを公開しています。続きを読む...",
-      "date": "2026-10-11T08:30:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2,
-      "score": 5,
-      "reason": "Offers valuable historical context about AI art origins but lacks direct practical application for current users.",
-      "summary_ja": "Highlights BBC's 1996 program about AARON, an early AI art generator, and its archival availability.",
-      "title_ja": "30年前にBBCが放送した「アート作品を作るAI・AARON」を扱ったテレビ番組",
-      "title_en": "30 years ago BBC broadcasted 'AI that creates art' - AARON TV show",
-      "summary_en": "Covers BBC's 1996 television program about AARON, an early AI capable of creating artwork, and provides access to its archives.",
-      "useful_for_ja": "General audience interested in AI history and art technology",
-      "useful_for_en": "History enthusiasts and those studying the evolution of generative AI",
-      "try_next_ja": "Explore other historical AI projects and their impact",
-      "try_next_en": "Investigate modern AI art tools and their lineage",
-      "caveat_ja": "Content may require checking accessibility and regional availability",
-      "caveat_en": "Verify if the archived content is still accessible online",
-      "translation_status": "machine"
-    },
-    {
       "id": "719244ff4837",
       "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
       "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
@@ -671,29 +647,6 @@
       "translation_status": "machine"
     },
     {
-      "id": "488361a6555f",
-      "title": "AI breakthroughs in robotics won’t change your life any time soon",
-      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black ",
-      "date": "2026-10-08T09:00:00+00:00",
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1,
-      "score": 5,
-      "reason": "Context-only piece on robotics hype vs. reality",
-      "summary_ja": "MIT Tech ReviewとAventineの共同調査によると、ヒューマノイドロボットの技術的進展は実用的応用まで時間がかかるとしている。ただし具体的な製品やタイムラインは記事内で詳述されていないため、概泰な見通しのみ伝えている。",
-      "title_ja": "AIロボティクスの技術的ブレークスルーは近ちに日常生活を変えない",
-      "title_en": "AI breakthroughs in robotics won’t change your life any time soon",
-      "summary_en": "MIT Tech Review and Aventine report that humanoid robot advances are not yet practical for daily life. No concrete product or timeline given—only a cautious outlook.",
-      "useful_for_ja": "ロボティクス投資やAIトレンドに関心のある一般読者",
-      "useful_for_en": "Readers tracking robotics investment or AI trends",
-      "try_next_ja": "近々の実用化を期待する開発者は、各メーカーのロードマップを確認する",
-      "try_next_en": "Excerpt lacks product specs/performance—check source",
-      "caveat_ja": "実際の製品や性能は記事で未指定。出典を確認すること",
-      "translation_status": "machine"
-    },
-    {
       "id": "e0121cdcd4e5",
       "title": "ReviewBench: An open benchmark for AI code review",
       "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
@@ -763,30 +716,6 @@
       "try_next_en": "Test performance on benchmarks and check release availability",
       "caveat_ja": "価格、料金、提供地域、制限に関する情報は提供されていません",
       "caveat_en": "Excerpt does not specify pricing, quotas, region availability, or limitations",
-      "translation_status": "machine"
-    },
-    {
-      "id": "3e37363389dd",
-      "title": "AI existential risk probabilities are (still) too unreliable to inform policy",
-      "url": "https://www.normaltech.ai/p/p-doom",
-      "summary": "How speculation gets laundered through pseudo-quantification",
-      "date": "2026-09-28T11:13:47+00:00",
-      "source": "AI Snake Oil",
-      "lang": "en",
-      "category": "Safety",
-      "priority": 2,
-      "score": 5,
-      "reason": "AI安全性の重要な議論だが、一般ユーザーへの直接的利点は少ない",
-      "summary_ja": "推測が擬似定量化を通じて洗浄されるAIの存在的リスク確率について。政策立案に情報源として不適切。",
-      "title_ja": "AIの存在的リスク確率はまだ不十分に信頼できる",
-      "title_en": "AI existential risk probabilities are (still) too unreliable to inform policy",
-      "summary_en": "Speculation gets laundered through pseudo-quantification. Probabilities for AI existential risks remain too unreliable to inform policy.",
-      "useful_for_ja": "AI安全性に興味のある読者・政策立案者",
-      "useful_for_en": "AI safety researchers & policymakers",
-      "try_next_ja": "AIリスク評価モデルの限界を学ぶ",
-      "try_next_en": "Learn about limits of AI risk evaluation models",
-      "caveat_ja": "論文やデータソースの確認が必要",
-      "caveat_en": "Source verification required for specific claims",
       "translation_status": "machine"
     }
   ]

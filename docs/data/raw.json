@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-12T00:52:52.261779+00:00",
-  "total": 34,
+  "fetched_at": "2026-10-12T11:48:39.100836+00:00",
+  "total": 31,
   "items": [
     {
       "id": "5e9f78f70319",
@@ -34,17 +34,6 @@
       "lang": "en",
       "category": "Industry",
       "priority": 1
-    },
-    {
-      "id": "3127ad3cbe5c",
-      "title": "30年前にBBCが放送した「アート作品を作るAI・AARON」を扱ったテレビ番組",
-      "url": "https://gigazine.net/news/20261011-computer-art/",
-      "summary": "生成AIの発達により、写真やイラストなどのアート作品がAIを使って大量に生み出されています。そんな中、イギリスの公共放送局であるBBCが、1996年に放送した「絵画を制作できるAI」について取り上げた番組のアーカイブを公開しています。続きを読む...",
-      "date": "2026-10-11T08:30:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "a132e85074c4",
@@ -174,17 +163,6 @@
       "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
       "date": "2026-10-08T12:00:00+00:00",
       "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "488361a6555f",
-      "title": "AI breakthroughs in robotics won’t change your life any time soon",
-      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black ",
-      "date": "2026-10-08T09:00:00+00:00",
-      "source": "MIT Tech Review",
       "lang": "en",
       "category": "Research",
       "priority": 1
@@ -364,17 +342,6 @@
       "lang": "en",
       "category": "Tech",
       "priority": 1
-    },
-    {
-      "id": "3e37363389dd",
-      "title": "AI existential risk probabilities are (still) too unreliable to inform policy",
-      "url": "https://www.normaltech.ai/p/p-doom",
-      "summary": "How speculation gets laundered through pseudo-quantification",
-      "date": "2026-09-28T11:13:47+00:00",
-      "source": "AI Snake Oil",
-      "lang": "en",
-      "category": "Safety",
-      "priority": 2
     }
   ]
 }
