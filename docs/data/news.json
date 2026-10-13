@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-12T20:03:05.561419+00:00",
-  "fetched_at": "2026-10-12T20:01:01.889282+00:00",
-  "total": 29,
+  "updated_at": "2026-10-13T02:48:39.837893+00:00",
+  "fetched_at": "2026-10-13T02:47:30.141240+00:00",
+  "total": 30,
   "curated": true,
   "items": [
     {
@@ -245,6 +245,30 @@
       "translation_status": "machine"
     },
     {
+      "id": "90d1c46cc2bb",
+      "title": "web-edit 0.1a0",
+      "url": "https://simonwillison.net/2026/Oct/12/web-edit/",
+      "summary": "Release: web-edit 0.1a0 I was working on a project from my phone using Codex Remote when I found myself wanting to edit a credentials file without round-tripping those credentials through the LLM itself. So... I had Codex and GPT-6 Astra Extra High b",
+      "date": "2026-10-12T15:54:36+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1,
+      "score": 8,
+      "reason": "新しい編集ツールのリリース – ローカルでの機密ファイル処理を実現するユーザー向けの具体的な機能。",
+      "summary_ja": "電話からCodex Remoteを使用して作業中に、LLMを介さずに認証ファイルを編集したいというニーズから、web-edit 0.1a0をリリースしました。",
+      "title_ja": "web-edit 0.1a0",
+      "title_en": "web-edit 0.1a0",
+      "summary_en": "Release of web-edit 0.1a0, a tool enabling credential file editing from a phone without routing credentials through the LLM, addressing a privacy use‑case.",
+      "useful_for_ja": "カスタードファイルや機密情報を安全に編集する必要がある開発者",
+      "useful_for_en": "Developers who need to edit credential or secret files without exposing them to the LLM.",
+      "try_next_ja": "web-edit 0.1a0をインストールし、Codex Remoteとの連携を確認し、クリップボードではなくローカルファイルでの編集機能を試用する。",
+      "try_next_en": "Install web-edit 0.1a0, test its integration with Codex Remote, and verify that credential files are edited locally.",
+      "caveat_ja": "現在はアルファ版（0.1a0）であり、安定版ではありません。本番環境で使用するには追加のテストが必要です。",
+      "caveat_en": "Currently an alpha (0.1a0) version; not stable. Additional testing required before production use.",
+      "translation_status": "machine"
+    },
+    {
       "id": "7593ab442eb7",
       "title": "AI Gateway - Standardize provider credential error responses in AI Gateway",
       "url": "https://developers.cloudflare.com/changelog/post/2026-10-05-provider-credential-errors/",
@@ -266,30 +290,6 @@
       "try_next_en": "Test credential error handling on POST /ai/run endpoint and update existing error handling logic",
       "caveat_ja": "ElevenLabsなどの特定プロバイダーごとの差異は要进一步確認",
       "caveat_en": "Provider-specific differences (e.g., ElevenLabs) may require further verification",
-      "translation_status": "machine"
-    },
-    {
-      "id": "d95996a5e1d8",
-      "title": "AI Gateway - Identify model overuse and potential savings with User Insights",
-      "url": "https://developers.cloudflare.com/changelog/post/2026-09-29-user-insights-task-analysis/",
-      "summary": "AI Gateway User Insights now gives you more context about the traffic flowing through your gateway. It shows what users and agents are doing with AI, and where a selected model may be more capable than a task requires. On the analysis side, User Insi",
-      "date": "2026-09-29T00:00:00+00:00",
-      "source": "Cloudflare AI Gateway",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 1,
-      "score": 8,
-      "reason": "feature update gives visibility for cost‑saving optimizations",
-      "summary_ja": "Cloudflare AI ゲートウェイの User Insights が、トラフィックの詳細なコンテキストを表示し、ユーザーやエージェントが AI をどう使っているかを示し、選択されたモデルがタスクに対して過剰であるケースを強調して最適化を支援します。",
-      "title_ja": "AI ゲートウェイ – User Insights でモデルの過剰利用と節約可能性を特定",
-      "title_en": "AI Gateway - Identify model overuse and potential savings with User Insights",
-      "summary_en": "Cloudflare AI Gateway’s User Insights now shows detailed traffic context, revealing what users and agents do with AI and highlighting cases where a selected model exceeds task requirements, enabling optimization.",
-      "useful_for_ja": "AI ゲートウェイを利用する開発者や運用チーム",
-      "useful_for_en": "developers and ops teams using AI Gateway to monitor and optimize AI traffic",
-      "try_next_ja": "ダッシュボードの User Insights セクションを開き、特定モデルの利用状況と推奨される最適化アクションを確認する",
-      "try_next_en": "open the User Insights section in the dashboard, review usage of a selected model and any suggested optimization actions",
-      "caveat_ja": "機能の提供範囲や詳細な指標はプランによって異なる場合があり、利用可能かどうかは Cloudflare のドキュメントで確認してください",
-      "caveat_en": "availability and granularity of metrics may differ by plan; verify details in Cloudflare documentation",
       "translation_status": "machine"
     },
     {
@@ -698,6 +698,30 @@
       "try_next_en": "Read comparative articles on stakeholder perspectives",
       "caveat_ja": "主観的な分析であり、客観的なガイドラインではない",
       "caveat_en": "Subjective analysis rather than objective guidelines",
+      "translation_status": "machine"
+    },
+    {
+      "id": "c5fa622132a0",
+      "title": "Introducing SynthID Bio",
+      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "date": "2026-09-30T15:03:07+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1,
+      "score": 5,
+      "reason": "研究目的の概念実証。",
+      "summary_ja": "AIで生成されたタンパク質の水ビジネスを埋め込み、生理機能を維持するProof of Conceptです。",
+      "title_ja": "SynthID Bioの紹介",
+      "title_en": "Introducing SynthID Bio",
+      "summary_en": "Proof‑of‑concept for watermarking AI‑generated proteins while preserving their biological function.",
+      "useful_for_ja": "AIで生成されたタンパク質の認証や追跡に関心のある研究者",
+      "useful_for_en": "Researchers interested in authenticating or tracking AI‑generated proteins.",
+      "try_next_ja": "Google DeepMindの論文を読み、SynthID Bioの技術詳細と機能検証を確認する。",
+      "try_next_en": "Read the Google DeepMind paper to see the technical details and validation of SynthID Bio.",
+      "caveat_ja": "概念実証の段階であり、製品のリリースや商業的な提供は予定されていません。",
+      "caveat_en": "Only a proof‑of‑concept; no product release or commercial availability announced.",
       "translation_status": "machine"
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-12T20:01:01.889282+00:00",
-  "total": 30,
+  "fetched_at": "2026-10-13T02:47:30.141240+00:00",
+  "total": 32,
   "items": [
     {
       "id": "200c1c673a68",
@@ -22,6 +22,17 @@
       "source": "TechCrunch AI",
       "lang": "en",
       "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "90d1c46cc2bb",
+      "title": "web-edit 0.1a0",
+      "url": "https://simonwillison.net/2026/Oct/12/web-edit/",
+      "summary": "Release: web-edit 0.1a0 I was working on a project from my phone using Codex Remote when I found myself wanting to edit a credentials file without round-tripping those credentials through the LLM itself. So... I had Codex and GPT-6 Astra Extra High b",
+      "date": "2026-10-12T15:54:36+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
       "priority": 1
     },
     {
@@ -300,6 +311,28 @@
       "priority": 1
     },
     {
+      "id": "8d6a4fe54890",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "summary": "",
+      "date": "2026-09-30T20:01:45+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "c5fa622132a0",
+      "title": "Introducing SynthID Bio",
+      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "date": "2026-09-30T15:03:07+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
       "id": "ed3e2a2adf67",
       "title": "Last Week in AI #345 - 5 new models, 9 misalignment incidents, some Dots",
       "url": "https://lastweekin.ai/p/last-week-in-ai-345-5-new-models",
@@ -316,17 +349,6 @@
       "url": "https://developers.cloudflare.com/changelog/post/2026-09-30-machine-payments/",
       "summary": "AI Gateway now supports Machine Payments in beta. With Machine Payments, clients can use the x402 protocol to pay for eligible inference requests directly from a stablecoin wallet instead of maintaining a prepaid credit balance. Machine Payments is a",
       "date": "2026-09-30T00:00:00+00:00",
-      "source": "Cloudflare AI Gateway",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 1
-    },
-    {
-      "id": "d95996a5e1d8",
-      "title": "AI Gateway - Identify model overuse and potential savings with User Insights",
-      "url": "https://developers.cloudflare.com/changelog/post/2026-09-29-user-insights-task-analysis/",
-      "summary": "AI Gateway User Insights now gives you more context about the traffic flowing through your gateway. It shows what users and agents are doing with AI, and where a selected model may be more capable than a task requires. On the analysis side, User Insi",
-      "date": "2026-09-29T00:00:00+00:00",
       "source": "Cloudflare AI Gateway",
       "lang": "en",
       "category": "Tech",
