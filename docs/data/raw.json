@@ -1,90 +1,145 @@
 {
-  "fetched_at": "2026-10-13T17:49:51.613328+00:00",
-  "total": 43,
+  "fetched_at": "2026-10-14T00:47:22.245925+00:00",
+  "total": 46,
   "items": [
+    {
+      "id": "23f0d2e099f8",
+      "title": "「Google Play」、AI Studioで作った自作アプリを自分の端末で実行可能に AIでゲームを探す機能も",
+      "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002240/",
+      "summary": "Google Playに複数の新機能が追加された。「Google AI Studio」でバイブコーディングした自作Androidアプリを開発者登録なしで自分の端末上で起動・実行できる機能のほか、AIによるアプリ比較「Ask Play」、プレイスタイルを分析して好みの作品を推薦する「Game Finder」などを順次提供する。",
+      "date": "2026-10-14T00:24:42+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "6a7421fd55f7",
+      "title": "Character.ai、米連邦破産法11条を申請 Disney系が一部IPのライセンス取得で先行入札",
+      "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002238/",
+      "summary": "Character.aiを運営するCharacter Technologiesが、連邦破産法第11条の適用を申請した。手続き中もサービス運営は継続する。Disneyが知財ライセンス取得と移行支援を行う入札者となり、買い手が見つからない場合は段階的に閉鎖される。",
+      "date": "2026-10-13T23:14:19+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "b982fab38e0c",
+      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+      "date": "2026-10-13T23:05:34+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "ef5219e107b2",
+      "title": "Cerebras CEO pushes back on AI doomsday warnings",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+      "date": "2026-10-13T22:36:59+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "285c1f190378",
+      "title": "llm-gemini 0.35",
+      "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
+      "summary": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan. Here are the low, medium and high pelicans. As expected, they ar",
+      "date": "2026-10-13T22:28:54+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
+    {
+      "id": "80ceb5d5165d",
+      "title": "AIコード生成のコストや手戻りを可視化する開発管理ツール",
+      "url": "https://ascii.jp/elem/000/004/441/4441638/?rss",
+      "summary": "supa, inc.は10月5日、AI駆動開発プラットフォームの最新版「supateam v2.0」の提供を開始したと発表した。生成AIの利用コストのほか、追加指示やコードレビュー、修正・手戻りといった作業工程の可視化に対応するという。",
+      "date": "2026-10-13T22:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "cf8f1824d230",
+      "title": "Apple、「Welcome home」イベントで発表されたことまとめ 日本でも2製品予約開始",
+      "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002235/",
+      "summary": "Appleはスマートホーム関連の新製品を発表した。7インチのディスプレイと「Siri AI」を搭載する「HomeView」のほか、「A19」搭載「Apple TV 4K」、音に同期して発光する「HomePod mini 2」、LGらと共同開発したスマートホーム製品群を公開。日本でも一部製品を順次発売する。",
+      "date": "2026-10-13T21:32:26+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "7d53aa171cd3",
+      "title": "Shopify opens its catalog up to more AI agents",
+      "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+      "summary": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their be",
+      "date": "2026-10-13T20:23:23+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "42f1c245f492",
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "summary": "",
+      "date": "2026-10-13T19:43:07+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "8d2f4b6c365d",
+      "title": "Xbox is officially embracing the chaos of AI-powered game ports",
+      "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+      "summary": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience. Microsoft has witnes",
+      "date": "2026-10-13T19:10:43+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "96dd09641f4c",
+      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+      "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+      "summary": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
+      "date": "2026-10-13T18:30:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "6e90ac03a9f0",
+      "title": "Facebook is giving users more control over their algorithm",
+      "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+      "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
+      "date": "2026-10-13T18:05:24+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
     {
       "id": "a38414be4b35",
       "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
       "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing at TechCrunch Disrupt's Startup Battlefield.",
+      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October",
       "date": "2026-10-13T17:30:00+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "4d1328cfb2ae",
-      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-      "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-      "summary": "Pluto Security has raised $42 million Jump Capital, TLV Partners, Ansa Capital and angel investors.",
-      "date": "2026-10-13T17:18:25+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "11f5b582c405",
-      "title": "Facebook will let you customize your feed algorithm using AI",
-      "url": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
-      "summary": "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations \"respond right away\" after you make updates using the new feature by hitting \"interest",
-      "date": "2026-10-13T17:01:31+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "0f96659c3b40",
-      "title": "Google Play now supports private, vibe-coded apps built just for you",
-      "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
-      "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
-      "date": "2026-10-13T17:00:00+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "9f131408fd3f",
-      "title": "I tried out Apple’s HomeView smart display",
-      "url": "https://www.theverge.com/tech/1009877/apple-homeview-smart-home-display-hands-on",
-      "summary": "Apple has just announced the HomeView, its first smart home display - and I just got hands-on with the device, which features a gorgeous 7-inch square touchscreen and built-in Siri AI. It's designed as a smart home controller, personal assistant, and",
-      "date": "2026-10-13T16:55:31+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "7b941fbc4a80",
-      "title": "Google makes it easier to launch your vibe-coded apps",
-      "url": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
-      "summary": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the ",
-      "date": "2026-10-13T16:47:06+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "fa8ac12a74de",
-      "title": "Actress Mia Goth says it’s ‘incomprehensible’ that Instagram allowed an AI image of her to spread",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
-      "summary": "Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post from the account miagoth_ - marked with a blue verified checkmark - quickly spread. The post shows Goth in a T-shirt t",
-      "date": "2026-10-13T16:42:51+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "4520f7ad22fb",
-      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-      "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-      "date": "2026-10-13T16:30:00+00:00",
       "source": "TechCrunch AI",
       "lang": "en",
       "category": "Industry",
@@ -124,37 +179,15 @@
       "priority": 1
     },
     {
-      "id": "b22fd54eecb2",
-      "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
-      "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
-      "summary": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
-      "date": "2026-10-13T13:50:19+00:00",
-      "source": "TechCrunch AI",
+      "id": "6412315144a1",
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "date": "2026-10-13T12:00:00+00:00",
+      "source": "OpenAI Blog",
       "lang": "en",
-      "category": "Industry",
+      "category": "Research",
       "priority": 1
-    },
-    {
-      "id": "65a5bbabecb6",
-      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-      "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-      "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
-      "date": "2026-10-13T13:00:00+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "4b1e7d7541c4",
-      "title": "Google finally releases Gemini 4 Argon",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
-      "summary": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Google says Argon delivers \"frontier reasoning and impr",
-      "date": "2026-10-13T12:12:37+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "f6392a7a3b63",
@@ -163,17 +196,6 @@
       "summary": "Hugging Faceの「SmolLM2」やOpenAIの「GPT-2」など、7種類の小型AIモデルをブラウザ上で実行できる無料のウェブアプリ「MicroLLM lab」が公開されています。自分のPCやスマートフォンでモデルの回答と生成速度を比べ、小型AIを使う際のモデル選びに役立てられます。続きを読む...",
       "date": "2026-10-13T11:45:00+00:00",
       "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "c805248ace3b",
-      "title": "国産AI「Sarashina」が無料で試せるWebサイト、ソフトバンク子会社が公開 6つのAIモデルが呼び出せるAPIも",
-      "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002224/",
-      "summary": "SB Intuitionsは10月13日、国産生成AI「Sarashina」を試せる「Sarashinaサービス」の無償β版の提供を始めた。Googleアカウントでログインするだけで、6つのAIモデルのAPIとチャット機能を無料で使える。",
-      "date": "2026-10-13T09:24:12+00:00",
-      "source": "ITmedia News",
       "lang": "ja",
       "category": "Tech",
       "priority": 2
@@ -190,15 +212,26 @@
       "priority": 1
     },
     {
-      "id": "780be2a07d0f",
-      "title": "AIが出力した「実在しない判例」を書籍に掲載→回収・絶版へ 琉球大教授が謝罪「研究者としてあるまじき失態」",
-      "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002213/",
-      "summary": "出版社の高文研（東京都千代田区）は10月10日、書籍「無責任の体系と沖縄戦」の回収・絶版を巡り、著者で琉球大学教授の島袋純氏による経緯の説明と謝罪の文書を公開した。同書には、生成AIが出力した実在しない判例3件が、確認されないまま掲載されていたという。同社は9月24日に同書の回収・絶版を発表していた。",
-      "date": "2026-10-13T07:35:32+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
+      "id": "aafe2bb1bb9a",
+      "title": "web-edit 0.1a1",
+      "url": "https://simonwillison.net/2026/Oct/13/web-edit/",
+      "summary": "Release: web-edit 0.1a1 Includes performance optimizations written by Claude Opus 5.5 after I fed it this Python 3.15 profiling report generated by GPT-6 Astra. Tags: profiling, projects",
+      "date": "2026-10-13T01:40:05+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
+    {
+      "id": "cc770804d575",
+      "title": "llm-meta-ai 0.2",
+      "url": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
+      "summary": "Release: llm-meta-ai 0.2 Meta AI release Muse Wonder (and Muse Wonder Full), their new \"most capable models\". These look like they may be Meta's first Fable class models - Artificial Analysis scores Muse Wonder (Max) as equivalent to GPT-6.1 Sol. I u",
+      "date": "2026-10-12T23:58:46+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
     },
     {
       "id": "200c1c673a68",
@@ -207,6 +240,17 @@
       "summary": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The GitHub Blog.",
       "date": "2026-10-12T17:43:59+00:00",
       "source": "GitHub AI & ML",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
+    {
+      "id": "61d71776dcaa",
+      "title": "Profiling web-edit with Python 3.15: flame graphs and source heatmaps",
+      "url": "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/",
+      "summary": "Research: Profiling web-edit with Python 3.15: flame graphs and source heatmaps I put the new Python 3.15 profiler through its paces by having GPT-6 Astra Extra High in Codex run it against my new web-edit app: I need a Python 3.15 flame graph and he",
+      "date": "2026-10-12T16:58:00+00:00",
+      "source": "Simon Willison",
       "lang": "en",
       "category": "Prompts",
       "priority": 1
@@ -463,17 +507,6 @@
       "lang": "en",
       "category": "Research",
       "priority": 2
-    },
-    {
-      "id": "35288fc06cc4",
-      "title": "AI Gateway - Pay for AI inference with Machine Payments",
-      "url": "https://developers.cloudflare.com/changelog/post/2026-09-30-machine-payments/",
-      "summary": "AI Gateway now supports Machine Payments in beta. With Machine Payments, clients can use the x402 protocol to pay for eligible inference requests directly from a stablecoin wallet instead of maintaining a prepaid credit balance. Machine Payments is a",
-      "date": "2026-09-30T00:00:00+00:00",
-      "source": "Cloudflare AI Gateway",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 1
     }
   ]
 }

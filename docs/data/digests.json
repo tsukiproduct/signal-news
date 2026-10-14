@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-10-14_morning-ai-latest-cost-reduction-multimodal-input",
+      "date": "2026-10-14",
+      "file_key": "2026-10-14_morning",
+      "title": "AI最新動向：コスト削減と多様な入力手段",
+      "summary": "GPT-6.1、Clef-omni、Pollo AI等の新技術でコスト削減・高速化が進む",
+      "tags": [
+        "コスト削減",
+        "マルチモーダル",
+        "業務自動化"
+      ],
+      "slug": "ai-latest-cost-reduction-multimodal-input"
+    },
+    {
       "id": "2026-10-12_morning-ai-latest-trends-cost-reduction-to-education-support",
       "date": "2026-10-12",
       "file_key": "2026-10-12_morning",
@@ -415,16 +428,7 @@
         "MV制作"
       ],
       "slug": "ai-gateway-billing-cache-and-video-production-insights"
-    },
-    {
-      "id": "2026-09-19_evening-ai-trend-2026-overview",
-      "date": "2026-09-19",
-      "file_key": "2026-09-19_evening",
-      "title": "AI分野の現状分析：規制、セキュリティ、業務効率化の三本柱",
-      "summary": "Virginia知事がAIタスクフォースを設置しデータセンター規制強化中。OpenAIへの脅威検出もあり、Workers AIでは不必要な同期推論リクエストが抑制され、Cloudflare AI Gatewayでは第三者プロバイダーへの認証要件が強化。生成AIによるゲーム開発もTGSで活発化。",
-      "tags": [],
-      "slug": "ai-trend-2026-overview"
     }
   ],
-  "updated_at": "2026-10-12T00:53:26.628450+00:00"
+  "updated_at": "2026-10-14T00:50:13.049614+00:00"
 }

@@ -1,0 +1,113 @@
+{
+  "id": "2026-10-14_morning-ai-latest-cost-reduction-multimodal-input",
+  "file_key": "2026-10-14_morning",
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T00:50:13.048960+00:00",
+  "title": "AI最新動向：コスト削減と多様な入力手段",
+  "slug": "ai-latest-cost-reduction-multimodal-input",
+  "summary": "GPT-6.1、Clef-omni、Pollo AI等の新技術でコスト削減・高速化が進む",
+  "tags": [
+    "コスト削減",
+    "マルチモーダル",
+    "業務自動化"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "AI分野は大手モデルのコスト削減と入力 modalitiesの拡大が進み、企業や個人がより手軽に高性能AIを活用できる環境が整っています。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "OpenAIはGPT-6.1を用いたAsanaブラウザエージェントでモデルコストを76倍削減し、処理速度も5倍向上させました。同時にCloudflareはWorkers AIにClef-omniを追加し、音声・動画入力をテキスト・画像と併用可能にし、Clef-flashの料金も引き下げました。Pollo AIはGPT-6 AstraとGPT-Image-2.5でクリエイターのアイデアを画像・シネマティック動画広告へと変換するツールをリリース。またChatGPT for TeensにCollege Plannerが搭載され、大学申請管理やフラッシュカード、クイズが利用できるようになりました。 AnthropicはOpus 5.5の価格を下げ、性能をFableレベルに実現。これらの変化は、開発コスト削減と業務効率化の大きな足掛かりとなります。",
+      "source_title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "source_url": "https://openai.com/index/asana-browser-agent"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "Pollo AIはGPT-Image-2.5でクリエイターが大胆なアイデアを詳細画像やシネマティック動画広告に変換でき、Clef-omniは音声・動画入力をテキスト・画像と併用可能にし、動画生成のハードルを低減します。",
+      "source_title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "source_url": "https://openai.com/index/pollo-ai"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "直接ファイル編集",
+      "prompt_body": "リモートサーバーにSSH接続し、Codex Remoteを利用して設定ファイルを直接編集。認証キーやパスワードを修正し、保存後に再起動するだけで即座に反映されます。",
+      "prompt_usecase": "会議中に資料の修正や設定変更を迅速に行いたい場合に活用。",
+      "prompt_source": "https://simonwillison.net/2026/Oct/12/web-edit/"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "AsanaがGPT-6.1でモデルコストを76倍削減した事例がSNSで話題に。ユーザーは低コストで高速な業務自動化を実感し、AI活用の新基準として注目されています。"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "",
+      "event_list": []
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "企業はClef-omniで会議の音声・動画をリアルタイム文字化し、Asanaの安価なAIエージェントでタスク管理を自動化できる。これにより、事務作業の削減と意思決定スピード向上が期待でき、特に中小企業の業務効率化に有効です。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "コスト削減と多様な入力手段の拡充が進み、AIツールが中小企業から個人まで幅広く利用可能に。今後はさらに自動化とクリエイティブコンテンツ生成が進む見込みです。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "source": "OpenAI Blog",
+      "category": "Research"
+    },
+    {
+      "title": "Workers AI - Clef-omni adds audio and video input, Clef-flash is now cheaper, and Clef is faster",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-09-clef-omni-workers-ai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "url": "https://openai.com/index/pollo-ai",
+      "source": "OpenAI Blog",
+      "category": "Research"
+    },
+    {
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "source": "OpenAI Blog",
+      "category": "Research"
+    },
+    {
+      "title": "LWiAI Podcast #258 - Opus 5.5, Sol and Luna, Muse, DeepSeek-V4.1-Flash, Xi",
+      "url": "https://lastweekin.ai/p/lwiai-podcast-258-opus-55-sol-and",
+      "source": "Last Week in AI",
+      "category": "Research"
+    },
+    {
+      "title": "web-edit 0.1a0",
+      "url": "https://simonwillison.net/2026/Oct/12/web-edit/",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
