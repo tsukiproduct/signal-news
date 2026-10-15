@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-10-16_morning-ai-service-cost-multimodal",
+      "date": "2026-10-16",
+      "file_key": "2026-10-16_morning",
+      "title": "AIサービスのコスト削減とマルチモーダル拡張",
+      "summary": "モデルコスト大幅削減、音声・動画入力対応、ウェブ検索APIなど、実務で試せるアップデートを整理。",
+      "tags": [
+        "コスト削減",
+        "マルチモーダル",
+        "ウェブ検索"
+      ],
+      "slug": "ai-service-cost-multimodal"
+    },
+    {
       "id": "2026-10-15_morning-ai-news-hp-omnibook-deezer-asana",
       "date": "2026-10-15",
       "file_key": "2026-10-15_morning",
@@ -408,25 +421,7 @@
         "セキュリティ"
       ],
       "slug": "ai-agents-enhancement-security"
-    },
-    {
-      "id": "2026-09-21_evening-cloudflare-ai-updates-llm-watermarking-hex-visuals",
-      "date": "2026-09-21",
-      "file_key": "2026-09-21_evening",
-      "title": "Cloudflare AI Updates, LLM Watermarking Risks, and New Hex Visuals",
-      "summary": "Recent updates tighten AI service controls, reveal watermarking trade‑offs, and introduce visual reporting tools. Practical guidance covers Workers AI reliability, AI Gateway billing, Hex with GPT‑6 Astra, and prompt strategy debates.",
-      "tags": [
-        "Cloudflare",
-        "Workers AI",
-        "AI Gateway",
-        "LLM watermarking",
-        "GPT‑6 Astra",
-        "Hex",
-        "prompt engineering",
-        "generative AI"
-      ],
-      "slug": "cloudflare-ai-updates-llm-watermarking-hex-visuals"
     }
   ],
-  "updated_at": "2026-10-15T00:27:12.710661+00:00"
+  "updated_at": "2026-10-15T15:24:09.160747+00:00"
 }

@@ -1,0 +1,99 @@
+{
+  "id": "2026-10-16_morning-ai-service-cost-multimodal",
+  "file_key": "2026-10-16_morning",
+  "date": "2026-10-16",
+  "generated_at": "2026-10-15T15:24:09.160185+00:00",
+  "title": "AIサービスのコスト削減とマルチモーダル拡張",
+  "slug": "ai-service-cost-multimodal",
+  "summary": "モデルコスト大幅削減、音声・動画入力対応、ウェブ検索APIなど、実務で試せるアップデートを整理。",
+  "tags": [
+    "コスト削減",
+    "マルチモーダル",
+    "ウェブ検索"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "今回は、モデルコスト削減やマルチモーダル入力の拡張、ウェブ検索APIの提供など、実務で試せるAIサービスのアップデートを中心に整理します。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "AsanaはOpenAIのGPT‑6 AstraをCodec経由で利用し、ブラウザエージェントのテストにおいて従来比76倍のコスト削減と5倍の高速化を達成した。これにより、同額でより高性能なモデルを顧客に提供できるようになった。コスト削減の要因は、モデル呼び出し回数の削減と効率的なバッチ処理にあると見られ、同様の手法は他の業務プロセスにも応用可能である。",
+      "source_title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "source_url": "https://openai.com/index/asana-browser-agent"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "Gemini 4 Argonで要約",
+      "prompt_body": "llm-gemini 0.35 を使って、Gemini 4 Argon に以下の文章を要約させる：\n「[要約したいテキスト]」\nAPIキーは環境変数 GEMINI_API_KEY に設定。",
+      "prompt_usecase": "記事やメールの要約を素早く得たいときに、ローカル端末で llm-gemini コマンドを実行し、結果を取得。サブスクリプションは月額100ドルのプランが必要。",
+      "prompt_source": "https://simonwillison.net/2026/Oct/13/llm-gemini/"
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "Cloudflare Workers AI の Web Search API を活用すれば、チャットボットや社内ナレッジベースに最新のウェブ情報を組み込める。手順は：1) Cloudflare アカウントで AI Gateway を有効化、2) Web Search API エンドポイントにクエリを送信、3) 返却されたスニペットを既存のLLMプロンプトに結合して回答生成。これにより、モデルの学習カットオフに依存せず、製品リリースや規制変更などタイムセンシティブな情報を反映できる。",
+      "source_title": "Introducing Web Search API",
+      "source_url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "Anthropic が Opus 5.5 を価格引き下げでリリース、OpenAI が GPT‑6 Sol と Luna をコスト削減・誤り削減を謳って公開、Cloudflare の Clef‑omni が音声・動画入力に対応し Clef‑flash が廉価化された。これらはマルチモーダルとコスト効率の両方を追求する傾向を示している。",
+      "source_title": "LWiAI Podcast #258 - Opus 5.5, Sol and Luna, Muse, DeepSeek-V4.1-Flash, Xi",
+      "source_url": "https://lastweekin.ai/p/lwiai-podcast-258-opus-55-sol-and"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "source": "OpenAI Blog",
+      "category": "Research"
+    },
+    {
+      "title": "Workers AI - Clef-omni adds audio and video input, Clef-flash is now cheaper, and Clef is faster",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-09-clef-omni-workers-ai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "LWiAI Podcast #258 - Opus 5.5, Sol and Luna, Muse, DeepSeek-V4.1-Flash, Xi",
+      "url": "https://lastweekin.ai/p/lwiai-podcast-258-opus-55-sol-and",
+      "source": "Last Week in AI",
+      "category": "Research"
+    },
+    {
+      "title": "AI Gateway, Web Search API - Introducing Web Search API",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+      "source": "Cloudflare AI Gateway",
+      "category": "Tech"
+    },
+    {
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "url": "https://openai.com/index/third-moment-research",
+      "source": "OpenAI Blog",
+      "category": "Research"
+    },
+    {
+      "title": "llm-gemini 0.35",
+      "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
