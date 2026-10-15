@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-10-15_morning-ai-news-hp-omnibook-deezer-asana",
+      "date": "2026-10-15",
+      "file_key": "2026-10-15_morning",
+      "title": "AIニュース:軽量PC・音楽フィルタ・低コストエージェント",
+      "summary": "軽量970gのHPノートPCが13万円で販売促進、Deezerが年末にAI音楽フィルタ、Asanaが76倍安価なエージェント、Workers AIが多様入力、Gemini月額100ドルプランが登場。",
+      "tags": [
+        "AIノートPC",
+        "音楽フィルタ",
+        "低コストAI"
+      ],
+      "slug": "ai-news-hp-omnibook-deezer-asana"
+    },
+    {
       "id": "2026-10-14_morning-ai-latest-cost-reduction-multimodal-input",
       "date": "2026-10-14",
       "file_key": "2026-10-14_morning",
@@ -413,22 +426,7 @@
         "generative AI"
       ],
       "slug": "cloudflare-ai-updates-llm-watermarking-hex-visuals"
-    },
-    {
-      "id": "2026-09-21_morning-ai-gateway-billing-cache-and-video-production-insights",
-      "date": "2026-09-21",
-      "file_key": "2026-09-21_morning",
-      "title": "AIゲートウェイ強化と水印効果、MV制作の苦労",
-      "summary": "Cloudflare AI Gatewayの認証強化とキャッシュコスト管理、AI水印の安全性懸念、GPT-6 AstraによるMV制作体験を解説。",
-      "tags": [
-        "Cloudflare",
-        "AI Gateway",
-        "Workers AI",
-        "AI Watermarking",
-        "MV制作"
-      ],
-      "slug": "ai-gateway-billing-cache-and-video-production-insights"
     }
   ],
-  "updated_at": "2026-10-14T00:50:13.049614+00:00"
+  "updated_at": "2026-10-15T00:27:12.710661+00:00"
 }

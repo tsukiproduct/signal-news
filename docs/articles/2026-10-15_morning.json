@@ -1,0 +1,115 @@
+{
+  "id": "2026-10-15_morning-ai-news-hp-omnibook-deezer-asana",
+  "file_key": "2026-10-15_morning",
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T00:27:12.710118+00:00",
+  "title": "AIニュース:軽量PC・音楽フィルタ・低コストエージェント",
+  "slug": "ai-news-hp-omnibook-deezer-asana",
+  "summary": "軽量970gのHPノートPCが13万円で販売促進、Deezerが年末にAI音楽フィルタ、Asanaが76倍安価なエージェント、Workers AIが多様入力、Gemini月額100ドルプランが登場。",
+  "tags": [
+    "AIノートPC",
+    "音楽フィルタ",
+    "低コストAI"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "本週は、軽量970gのHPノートPCが13万円で販売促進、Deezerが年末にAI音楽フィルタ、Asanaが76倍安価なエージェント、Cloudflare Workers AIが音声・動画入力に対応、低コスト大型モデルとGemini月額100ドルプランが登場、AI活用が一層広がっています。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "Deezerは年末までにAI生成音楽を非表示にするトグルを追加すると発表した。ユーザーは音楽ストリーミングの好みを細かく調整でき、AIコンテンツの過剰露出を防げる。本機能は自動タグ付けに基づく楽曲判定により、生成された音楽が推奨から除外され、クリエイターのオリジナル楽曲露出が保護され、聴き手は意図しないAI音楽への接触を減らすことができる。これによりリスナーの満足度向上とプラットフォームの差別化が期待され、音楽産業全体のAI倫理対策にも寄与する可能性がある。",
+      "source_title": "Deezer will soon let you filter out AI-generated music",
+      "source_url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "Workers AIに@cf/cloudflare/clef-omniが追加され、WAV・MP3の音声とMP4・WebMの動画入力が可能となり、テキストや画像と併用して多様なコンテンツ解析が行える。これにより開発者は音声認識や動画要約などのAIアプリを低コストで構築でき、業務効率化や新サービス創出に寄与する。",
+      "source_title": "Workers AI - Clef-omni adds audio and video input, Clef-flash is now cheaper, and Clef is faster",
+      "source_url": "https://developers.cloudflare.com/changelog/post/2026-10-09-clef-omni-workers-ai/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "Gemini 4 Argon 活用",
+      "prompt_body": "Gemini 4 Argon に「今月の売上レポートを要点だけ箇条書きでまとめて」と指示し、要約してくれるよう依頼する。",
+      "prompt_usecase": "会議後の業務報告や経営分析に時間を節約したいビジネスパーソン向け。",
+      "prompt_source": "https://simonwillison.net/2026/Oct/13/llm-gemini/"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "AsanaはGPT‑6.1を用いたブラウザエージェントでテストを行い、従来のモデルコストを76倍削減しながら処理速度を5倍向上させた。低コストで高速なAIエージェントが実現でき、スタートアップや中小企業の業務自動化が加速し、AI活用のハードルが大幅に下がると話題に。",
+      "source_title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "source_url": "https://openai.com/index/asana-browser-agent"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "本週はAIに関するオンライン・オフラインイベントの情報は見つかりませんでしたが、各社のアップデートや新機能発表が続き、業界動向を把握する良い機会となっています。また、主要ベンダーの技術セミナーや開発者向けワークショップが随時開催される可能性があるため、公式サイトやニュースレターを購読して最新情報をチェックしてください。",
+      "event_list": []
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "Workers AIの音声・動画入力機能を活用し、社内会議の音声録音を自動で文字化粧し、動画から重要シーンを抽出して検索ableデータベース化できる。これにより会議メモ作成の手間が減り、情報共有がスピーディーになり、営業やカスタマーサポートの業務効率が向上する。また、社員の発言を要約したレポートや、顧客対応の録音を検索しやすくすることで、意思決定のスピードが上がり、顧客満足度向上にも寄与します。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "AIモデルのコスト削減とマルチモーダル入力対応が進み、音楽コンテンツのフィルタリングや業務プロセスの自動化が一層実現可能になる見込みです。価格競争と機能拡張が加速し、企業のデジタル変革を支援する環境が整備されつつあります。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "約970gで最大15.5時間駆動！ HP「OmniBook 7 Aero」がプライム感謝祭先行セールで13万3900円",
+      "url": "https://ascii.jp/elem/000/004/442/4442276/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "Deezer will soon let you filter out AI-generated music",
+      "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+      "source": "TechCrunch AI",
+      "category": "Industry"
+    },
+    {
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "source": "OpenAI Blog",
+      "category": "Research"
+    },
+    {
+      "title": "Workers AI - Clef-omni adds audio and video input, Clef-flash is now cheaper, and Clef is faster",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-09-clef-omni-workers-ai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "LWiAI Podcast #258 - Opus 5.5, Sol and Luna, Muse, DeepSeek-V4.1-Flash, Xi",
+      "url": "https://lastweekin.ai/p/lwiai-podcast-258-opus-55-sol-and",
+      "source": "Last Week in AI",
+      "category": "Research"
+    },
+    {
+      "title": "llm-gemini 0.35",
+      "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
