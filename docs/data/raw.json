@@ -1,7 +1,40 @@
 {
-  "fetched_at": "2026-10-15T00:13:09.165053+00:00",
-  "total": 47,
+  "fetched_at": "2026-10-15T09:02:43.819960+00:00",
+  "total": 43,
   "items": [
+    {
+      "id": "bc705803c703",
+      "title": "CTOが「AI導入で生産性を1年で2倍に」掲げた企業のその後 米国が開発者802人の進捗を追跡調査",
+      "url": "https://www.itmedia.co.jp/news/article/2610/15/2000002260/",
+      "summary": "米カーネギーメロン大学や米スタンフォード大学などに所属する研究者らが発表した論文「AI Writes Faster Than Humans Can Review: A Longitudinal Study of an Enterprise 2x Mandate」は、AI導入を義務化したソフトウェア会社がどのような影響を受けたのかを調査した研究報告だ。",
+      "date": "2026-10-15T03:00:00+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "7624c31011dc",
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+      "date": "2026-10-15T01:01:32+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "bcd6e2061a07",
+      "title": "The AI race is back on",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+      "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive i",
+      "date": "2026-10-15T00:16:12+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
     {
       "id": "1919b268be46",
       "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
@@ -25,15 +58,15 @@
       "priority": 2
     },
     {
-      "id": "9b7951929779",
-      "title": "約970gで最大15.5時間駆動！ HP「OmniBook 7 Aero」がプライム感謝祭先行セールで13万3900円",
-      "url": "https://ascii.jp/elem/000/004/442/4442276/?rss",
-      "summary": "HPの13.3型ノートPC「OmniBook 7 Aero 13-bg（BF8H3PA-AAAA）」がAmazonのプライム感謝祭先行セール対象。プライム会員限定で、過去価格169,800円から21％オフの133,900円で販売中。約970gの軽量ボディーにRyzen AI 5 340、16GBメモリ、512GB SSDを搭載。最大15時間30分のバッテリー駆動にも対応し、持ち運びを重視する人にうれしい一台だ。",
-      "date": "2026-10-14T22:20:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
+      "id": "0c100d2e0ef8",
+      "title": "Tree Appreciator",
+      "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
+      "summary": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode), where I prompted Claude Opus 5.5 Max with: Build a three js game called \"Tree appreciator\" - it shows you two a",
+      "date": "2026-10-14T21:23:01+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
     },
     {
       "id": "8f000a8714f8",
@@ -44,17 +77,6 @@
       "source": "AI Snake Oil",
       "lang": "en",
       "category": "Safety",
-      "priority": 2
-    },
-    {
-      "id": "bcd6e2061a07",
-      "title": "The AI race is back on",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
-      "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive i",
-      "date": "2026-10-14T19:06:03+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
       "priority": 2
     },
     {
@@ -135,28 +157,6 @@
       "priority": 1
     },
     {
-      "id": "e94f7f5d5e49",
-      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-      "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-      "summary": "Zenzap is used by organizations including Starbucks and Taco Bell.",
-      "date": "2026-10-14T15:08:00+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "25b16452fb4e",
-      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
-      "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-      "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
-      "date": "2026-10-14T15:00:00+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
       "id": "7968b9678bd4",
       "title": "Anthropic warns small AI models could self-replicate through IoT devices",
       "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
@@ -177,39 +177,6 @@
       "lang": "en",
       "category": "Research",
       "priority": 1
-    },
-    {
-      "id": "5c38c9a58397",
-      "title": "Google、待望の新AIモデル「Gemini 4 Argon」一般提供を開始 推論の継続力を強化 一部ベンチでトップに",
-      "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002265/",
-      "summary": "米Googleは10月13日（現地時間）、AIモデル「Gemini 4 Argon」の一般提供を開始した。ソフトウェア開発や金融、法律、科学などの分野で、複数の手順を伴う複雑な作業に対応するモデル。有料プラン「Google AI Pro」「Google AI Ultra」の加入者は、GeminiアプリやGoogle検索の「AIモード」で利用できる。",
-      "date": "2026-10-14T11:43:11+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "8d8014a405fe",
-      "title": "デジハリ大、「Claude」を全学導入へ──国内初、“回数気にせず”使い放題に",
-      "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002278/",
-      "summary": "デジタルハリウッド大学は10月14日、米Anthropicの生成AI「Claude」を全学に導入し、11月から全学生・全教職員に提供すると発表した。Claudeの全学導入は国内の大学で初という。",
-      "date": "2026-10-14T10:43:31+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "dc5c2c63c170",
-      "title": "小中学校の校務に“自前運用”の国産LLM NTT西と茨木市が全国初の実証",
-      "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002276/",
-      "summary": "NTT西日本と大阪府茨木市は10月13日、NTTが開発した大規模言語モデル（LLM）「tsuzumi 2」を使い、教職員の文書業務を支援する実証を始めたと発表した。対象は市立小中学校の一部。校務文書の検索や要約、作成にAIアプリケーションを活用し、業務効率化の効果、安全性、操作性を検証する。",
-      "date": "2026-10-14T09:37:59+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "ad206bf6c91e",
@@ -361,17 +328,6 @@
       "summary": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The GitHub Blog.",
       "date": "2026-10-12T17:43:59+00:00",
       "source": "GitHub AI & ML",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1
-    },
-    {
-      "id": "61d71776dcaa",
-      "title": "Profiling web-edit with Python 3.15: flame graphs and source heatmaps",
-      "url": "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/",
-      "summary": "Research: Profiling web-edit with Python 3.15: flame graphs and source heatmaps I put the new Python 3.15 profiler through its paces by having GPT-6 Astra Extra High in Codex run it against my new web-edit app: I need a Python 3.15 flame graph and he",
-      "date": "2026-10-12T16:58:00+00:00",
-      "source": "Simon Willison",
       "lang": "en",
       "category": "Prompts",
       "priority": 1
