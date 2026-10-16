@@ -1,12 +1,23 @@
 {
-  "fetched_at": "2026-10-15T23:59:31.481327+00:00",
-  "total": 38,
+  "fetched_at": "2026-10-16T08:54:58.666951+00:00",
+  "total": 37,
   "items": [
+    {
+      "id": "fa6e9ac9a133",
+      "title": "【生中継】石川＆山根がKDDI SUMMIT 2026に突撃！ 通信・AI・テクノロジーの最前線を現地リポート！",
+      "url": "https://ascii.jp/elem/000/004/443/4443274/?rss",
+      "summary": "KDDIグループ最大級のビジネスイベント「KDDI SUMMIT」の模様をリアルタイムでお届けする特別生配信です！",
+      "date": "2026-10-16T08:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
     {
       "id": "3f579372e804",
       "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
       "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitness for an undisclosed amount of money in March.",
+      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
       "date": "2026-10-15T23:44:56+00:00",
       "source": "TechCrunch AI",
       "lang": "en",
@@ -102,17 +113,6 @@
       "priority": 1
     },
     {
-      "id": "fc7be023ada5",
-      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-      "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-      "summary": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac S",
-      "date": "2026-10-15T18:15:36+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "534bc46e6ba2",
       "title": "AI agents are coming to Rivian’s cars",
       "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
@@ -146,15 +146,15 @@
       "priority": 1
     },
     {
-      "id": "bc705803c703",
-      "title": "CTOが「AI導入で生産性を1年で2倍に」掲げた企業のその後 米国が開発者802人の進捗を追跡調査",
-      "url": "https://www.itmedia.co.jp/news/article/2610/15/2000002260/",
-      "summary": "米カーネギーメロン大学や米スタンフォード大学などに所属する研究者らが発表した論文「AI Writes Faster Than Humans Can Review: A Longitudinal Study of an Enterprise 2x Mandate」は、AI導入を義務化したソフトウェア会社がどのような影響を受けたのかを調査した研究報告だ。",
-      "date": "2026-10-15T03:00:00+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
+      "id": "8ec6278a3e32",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "url": "https://openai.com/index/sullivan-cromwell",
+      "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+      "date": "2026-10-15T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
     },
     {
       "id": "06ef2f731317",
@@ -275,17 +275,6 @@
       "source": "Google Developers",
       "lang": "en",
       "category": "Tech",
-      "priority": 1
-    },
-    {
-      "id": "6412315144a1",
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-      "date": "2026-10-13T12:00:00+00:00",
-      "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
       "priority": 1
     },
     {
