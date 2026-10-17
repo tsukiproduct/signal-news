@@ -1,7 +1,18 @@
 {
-  "fetched_at": "2026-10-17T08:26:53.192193+00:00",
-  "total": 31,
+  "fetched_at": "2026-10-17T13:58:40.330670+00:00",
+  "total": 32,
   "items": [
+    {
+      "id": "7cbad50b6ab6",
+      "title": "すべてのAIコーディングエージェントのコストを閲覧・検索・追跡しローカルで動作する「AgentsView」、Claude Code・Codex・Cursor・Copilot・Geminiなど60種類以上のエージェントを自動検出し全文検索も可能",
+      "url": "https://gigazine.net/news/20261017-agentsview/",
+      "summary": "Claude CodeやCodexなどを並行して利用すると、どのAIコーディングエージェントやモデルへどれだけトークンを使ったのか全体像を把握しにくくなります。そこで使えるのが複数のエージェントのローカル履歴を自動収集し、モデル別・日別・セッション別の利用量やAPI料金換算のコストをまとめて確認できる「AgentsView」です。続きを読む...",
+      "date": "2026-10-17T09:00:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
     {
       "id": "5968706b9db7",
       "title": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
