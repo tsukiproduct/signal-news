@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-17T00:04:56.833047+00:00",
-  "total": 33,
+  "fetched_at": "2026-10-17T08:26:53.192193+00:00",
+  "total": 31,
   "items": [
     {
       "id": "5968706b9db7",
@@ -190,17 +190,6 @@
       "priority": 1
     },
     {
-      "id": "ad206bf6c91e",
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "url": "https://openai.com/index/third-moment-research",
-      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-      "date": "2026-10-14T07:00:00+00:00",
-      "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
       "id": "e4c7720184b2",
       "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
       "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
@@ -353,17 +342,6 @@
       "lang": "en",
       "category": "Prompts",
       "priority": 1
-    },
-    {
-      "id": "79900f80a6f9",
-      "title": "LWiAI Podcast #258 - Opus 5.5, Sol and Luna, Muse, DeepSeek-V4.1-Flash, Xi",
-      "url": "https://lastweekin.ai/p/lwiai-podcast-258-opus-55-sol-and",
-      "summary": "(Belated post :/ ) Anthropic releases Opus 5.5 with lower prices and Fable-level performance, OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "date": "2026-10-03T07:32:03+00:00",
-      "source": "Last Week in AI",
-      "lang": "en",
-      "category": "Research",
-      "priority": 2
     }
   ]
 }

@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-10-17_evening-ai-ecosystem-diversification-2026",
+      "date": "2026-10-17",
+      "file_key": "2026-10-17_evening",
+      "title": "AIエコシステムの多様化：新規制とツール拡充がビジネスへ波及",
+      "summary": "AppleがAI生成コンテンツの誤用防止ルールを強化し、GPT-Rosalindを通じて学術研究支援が拡大。一方Cloudflare Workers AIでPhiLLCM MiniやClef-omniの新機能追加も進み、プロンプト最適化の手法も注目される。",
+      "tags": [
+        "AI規制",
+        "生成AI",
+        "ツール拡張",
+        "ビジネス応用",
+        "プロンプトエンジニアリング"
+      ],
+      "slug": "ai-ecosystem-diversification-2026"
+    },
+    {
       "id": "2026-10-17_morning-ai-academic-tools-models",
       "date": "2026-10-17",
       "file_key": "2026-10-17_morning",
@@ -407,21 +422,7 @@
         "クラウドAI"
       ],
       "slug": "edge-ai-acceleration-rabbit-cloud"
-    },
-    {
-      "id": "2026-09-23_morning-new-ai-models-evolution",
-      "date": "2026-09-23",
-      "file_key": "2026-09-23_morning",
-      "title": "新しいAIモデルの進化",
-      "summary": "AnthropicのClaude Opus 5.5が40%のコスト削減を実現し、OpenAIのGPT-6 Sol/Lunaが料金の半額化を告げた。今後の競争激化とコスト効率向上が注目される",
-      "tags": [
-        "AIモデルの進化",
-        "コスト効率",
-        "生成AI",
-        "ビジネスアプリケーション"
-      ],
-      "slug": "new-ai-models-evolution"
     }
   ],
-  "updated_at": "2026-10-17T00:09:53.731470+00:00"
+  "updated_at": "2026-10-17T08:28:07.319638+00:00"
 }
