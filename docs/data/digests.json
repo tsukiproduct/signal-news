@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-10-18_evening-itau-cloudflare-audio-video-ai",
+      "date": "2026-10-18",
+      "file_key": "2026-10-18_evening",
+      "title": "銀行のAI全面導入とCloudflare音声動画対応",
+      "summary": "イタウ銀行のAIファースト戦略、Cloudflare Workers AIのマルチモーダル強化、Vercelで急成長のJevモデルなどを解説。",
+      "tags": [
+        "生成AI",
+        "Cloudflare",
+        "金融DX",
+        "エッジAI",
+        "マルチモーダル"
+      ],
+      "slug": "itau-cloudflare-audio-video-ai"
+    },
+    {
       "id": "2026-10-18_evening-edge-multimodal-regulated-ai-oct-2026",
       "date": "2026-10-18",
       "file_key": "2026-10-18_evening",
@@ -408,22 +423,7 @@
         "Cloudflare Workers AI"
       ],
       "slug": "ai-weekly-youtube-openai-meta-sep2026"
-    },
-    {
-      "id": "2026-09-24_morning-ai-new-models-cost-efficiency",
-      "date": "2026-09-24",
-      "file_key": "2026-09-24_morning",
-      "title": "AI新モデル続々登場 コスト効率と性能の両面で大きく前進",
-      "summary": "OpenAIとAnthropicが新モデルを相次ぎ発表。API料金引下げや性能向上で、開発者やビジネスの選択肢が広がる",
-      "tags": [
-        "OpenAI",
-        "Anthropic",
-        "GPT-6",
-        "Claude",
-        "AIモデル"
-      ],
-      "slug": "ai-new-models-cost-efficiency"
     }
   ],
-  "updated_at": "2026-10-18T08:46:38.826213+00:00"
+  "updated_at": "2026-10-18T14:11:43.866721+00:00"
 }
