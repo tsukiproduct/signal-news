@@ -1,0 +1,117 @@
+{
+  "id": "2026-10-18_evening-edge-multimodal-regulated-ai-oct-2026",
+  "file_key": "2026-10-18_evening",
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T08:46:38.825504+00:00",
+  "title": "エッジマルチモーダルと規制産業のAI実装",
+  "slug": "edge-multimodal-regulated-ai-oct-2026",
+  "summary": "Cloudflareが音声動画入力対応モデルをエッジ提供、ブラジル大手銀行が全顧客向け生成AI展開、Vercelで新モデル急採用",
+  "tags": [
+    "Cloudflare",
+    "マルチモーダル",
+    "エッジAI",
+    "金融規制",
+    "学術研究"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "エッジでのマルチモーダル実行、厳格規制下の金融機関による全社展開、学術研究への最新モデル開放、開発者間での新モデル急速採用など、実装フェーズの多様化が進む。Cloudflare Workers AIは音声・動画入力に対応したClef-omniと軽量音声モデルPhoneLLM Miniを追加し、エッジ推論のユースケースを拡大。イタウ銀行はOpenAI基盤で会話型インターフェースとガバナンス基盤を構築し、ブラジル銀行規制下で顧客・従業員双方へAIを提供開始。OpenAIは生命科学研究向けにGPT-Rosalindのスポンサーアクセスを開始。VercelのAIゲートウェイではJevモデルが過去最速で採用されたと報告されている。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説：Cloudflare Workers AIのマルチモーダル拡張",
+      "body": "Cloudflareは10月9日と15日の2回にわたりWorkers AIを更新した。Clef-omni（@cf/cloudflare/clef-omni）はWAV/MP3音声とMP4/WebM動画をテキスト・画像と併用可能にし、単一APIで複数モダリティを処理できる。Clef-flashは価格引き下げ、Clefは高速化された。さらにPipecatチーム開発のPhoneLLM Mini（@cf/daily-co/phonellm-mini-alpha-2）が追加され、リアルタイム音声会話向けの軽量モデルがエッジで利用可能になった。これらはCloudflareのグローバルネットワーク上で動作し、レイテンシ敏感な音声・動画アプリに適する。開発者は統一APIでモデル切替が可能で、インフラ管理なしにマルチモーダル機能を組み込める。料金・レート制限・商用利用条件は公式ドキュメントで確認必要。",
+      "source_title": "Workers AI - Clef-omni adds audio and video input, Clef-flash is now cheaper, and Clef is faster / Workers AI, Realtime - Pipecat PhoneLLM Mini now available on Workers AI",
+      "source_url": "https://developers.cloudflare.com/changelog/post/2026-10-09-clef-omni-workers-ai/"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "Cloudflare Clef-omniが動画（MP4/WebM）と音声（WAV/MP3）入力をネイティブ対応。エッジ推論で動画理解・音声文字起こし・マルチモーダル推論を単一エンドポイントで実行可能。PhoneLLM Miniはリアルタイム音声会話に特化した軽量モデル。いずれもWorkers AI経由で即座に試用可能。生成側の新機能発表は今回の入力に含まれない。",
+      "source_title": "Workers AI - Clef-omni adds audio and video input... / Workers AI, Realtime - Pipecat PhoneLLM Mini...",
+      "source_url": "https://developers.cloudflare.com/changelog/post/2026-10-09-clef-omni-workers-ai/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "Three.jsで樹冠シミュレーション",
+      "prompt_body": "Three.jsを使い、風に揺れる樹冠のパーティクルシミュレーションを作成。枝分かれ構造を再帰的に生成し、Perlinノイズで自然な揺れを表現。マウス操作で風向・強度を変更可能にし、季節パラメータで葉の色・密度を変化させる。コードは単一HTMLファイルにまとめ、CDNからThree.jsを読み込む形で出力。",
+      "prompt_usecase": "クリエイティブコーディング学習、データ可視化のプロトタイプ、インタラクティブ背景制作に応用可能。Claude Opus 5.5 Max等の高度なコーディングモデルで試行推奨。",
+      "prompt_source": "https://simonwillison.net/2026/Oct/14/tree-appreciator/"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "VercelのAIゲートウェイ利用データによると、Jevモデルが同プラットフォーム史上最速で開発者採用されたとTechCrunchが報道。OpenRouter類似の統一API経由での実利用メトリクスベースの評価であり、ベンチマークスコアではなく実採用速度での評価という点が開発者コミュニティで議論を呼んでいる。モデル詳細・提供元・ライセンスは原典確認必要。",
+      "source_title": "Jev is Vercel's fastest-adopted AI model ever",
+      "source_url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "本稿ではイベント情報を扱わない。",
+      "event_list": []
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "【エッジマルチモーダル活用】Cloudflare Workers AIでClef-omniを呼び出し、顧客からの動画・音声問い合わせを自動分類・要約・ルーティングするワークフローをサーバーレス構築可能。PhoneLLM MiniでIVR置換えやリアルタイム通訳ボットを低レイテンシで実装できる。【規制産業のガバナンス】イタウ事例に倣い、会話履歴の監査証跡・個人情報マスキング・モデル出力検証をIARA類似のガバナンス層で実装し、コンプライアンス維持しつつ生成AIを全社展開するアプローチが参考になる。【学術連携】Rosalind Academic Plan対象ラボであればGPT-Rosalindへの優先アクセスが得られ、創薬・ゲノム解析等の文献探索・仮説生成を加速可能。利用条件・申請手順はOpenAI公式で確認。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "エッジでのマルチモーダル推論コスト・レイテンシ実測値の公開情報、Jevモデルのアーキテクチャ・ライセンス・商用可否、Rosalind Academic Planの採択ラボ第1弾発表、イタウ型ガバナンスフレームワークのオープンソース化有無。開発者はWorkers AI新モデルの料金体系・レート制限・リージョン可用性をドキュメントで確認し、プロトタイプ検証を推奨。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "source": "OpenAI Blog",
+      "category": "Research"
+    },
+    {
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "source": "TechCrunch AI",
+      "category": "Industry"
+    },
+    {
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "source": "OpenAI Blog",
+      "category": "Research"
+    },
+    {
+      "title": "Workers AI, Realtime - Pipecat PhoneLLM Mini now available on Workers AI",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-15-phonellm-mini-workers-ai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "Workers AI - Clef-omni adds audio and video input, Clef-flash is now cheaper, and Clef is faster",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-09-clef-omni-workers-ai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "Tree Appreciator",
+      "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

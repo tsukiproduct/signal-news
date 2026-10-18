@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-17T23:49:43.848868+00:00",
-  "fetched_at": "2026-10-17T23:41:09.213806+00:00",
-  "total": 33,
+  "updated_at": "2026-10-18T08:46:16.724120+00:00",
+  "fetched_at": "2026-10-18T08:45:12.222158+00:00",
+  "total": 32,
   "curated": true,
   "items": [
     {
@@ -98,30 +98,6 @@
       "try_next_en": "Build a real-time voice agent using PhoneLLM Mini on Cloudflare Workers.",
       "caveat_ja": "Model availability is tied to Cloudflare Workers AI platform.",
       "caveat_en": "Access requires Cloudflare account and Workers AI subscription.",
-      "translation_status": "machine"
-    },
-    {
-      "id": "285c1f190378",
-      "title": "llm-gemini 0.35",
-      "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
-      "summary": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan. Here are the low, medium and high pelicans. As expected, they ar",
-      "date": "2026-10-13T22:28:54+00:00",
-      "source": "Simon Willison",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1,
-      "score": 9,
-      "reason": "Announces a concrete release of a new model via API under a defined subscription, a clear user‑facing change.",
-      "summary_ja": "llm-gemini 0.35 が 新しい Gemini 4 Argon モデル の サポート を 加え 、 本 日 より $100/月 の サブスクリプション プラン の 顧客 が Gemini API を 通じて 利用 できる と 発表 さ れ た。",
-      "title_ja": "llm-gemini 0.35 リリース",
-      "title_en": "llm-gemini 0.35",
-      "summary_en": "llm-gemini 0.35 adds support for the new Gemini 4 Argon model, available today via the Gemini API to customers on the $100/month subscription plan.",
-      "useful_for_ja": "Gemini API を使って最新モデルを試したい開発者",
-      "useful_for_en": "Developers wanting to try the latest Gemini model via the API",
-      "try_next_ja": "$100/月 プラン に登録 し 、 llm-gemini 0.35 をインストール し て モデル呼び出し を テスト",
-      "try_next_en": "Subscribe to the $100/month plan, install llm-gemini 0.35, and test a model call",
-      "caveat_ja": "利用は $100/月 プラン に限られ 、 その他の プラン や 地域 の 可用性 は 説明 さ れ て い ない",
-      "caveat_en": "Access is limited to the $100/month plan; availability for other tiers or regions is not specified",
       "translation_status": "machine"
     },
     {

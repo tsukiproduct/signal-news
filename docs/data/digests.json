@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-10-18_evening-edge-multimodal-regulated-ai-oct-2026",
+      "date": "2026-10-18",
+      "file_key": "2026-10-18_evening",
+      "title": "エッジマルチモーダルと規制産業のAI実装",
+      "summary": "Cloudflareが音声動画入力対応モデルをエッジ提供、ブラジル大手銀行が全顧客向け生成AI展開、Vercelで新モデル急採用",
+      "tags": [
+        "Cloudflare",
+        "マルチモーダル",
+        "エッジAI",
+        "金融規制",
+        "学術研究"
+      ],
+      "slug": "edge-multimodal-regulated-ai-oct-2026"
+    },
+    {
       "id": "2026-10-17_evening-ai-ecosystem-diversification-2026",
       "date": "2026-10-17",
       "file_key": "2026-10-17_evening",
@@ -408,21 +423,7 @@
         "AIモデル"
       ],
       "slug": "ai-new-models-cost-efficiency"
-    },
-    {
-      "id": "2026-09-23_evening-edge-ai-acceleration-rabbit-cloud",
-      "date": "2026-09-23",
-      "file_key": "2026-09-23_evening",
-      "title": "エッジAI加速、Rabbitはクラウド独立動作へ",
-      "summary": "Qualcommがローカル300億パラメータ実行の新チップ、RabbitはR1不要のクラウドエージェントを展開。Meta Museにゼロデイも報告されセキュリティ警戒が必要。",
-      "tags": [
-        "エッジAI",
-        "AIエージェント",
-        "セキュリティ",
-        "クラウドAI"
-      ],
-      "slug": "edge-ai-acceleration-rabbit-cloud"
     }
   ],
-  "updated_at": "2026-10-17T08:28:07.319638+00:00"
+  "updated_at": "2026-10-18T08:46:38.826213+00:00"
 }
