@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-10-20_morning-workers-ai-new-models-voice-vision-data-extraction",
+      "date": "2026-10-20",
+      "file_key": "2026-10-20_morning",
+      "title": "Workers AI Adds New Models for Voice, Vision, and Data Extraction",
+      "summary": "Cloudflare Workers AI now offers PhoneLLM Mini for real‑time voice tasks, Clef‑omni for multimodal audio/video input, and Clairic for structured data extraction, expanding edge AI capabilities.",
+      "tags": [
+        "Workers AI",
+        "Edge AI",
+        "Multimodal AI",
+        "Data Extraction",
+        "OpenAI Academic Plan"
+      ],
+      "slug": "workers-ai-new-models-voice-vision-data-extraction"
+    },
+    {
       "id": "2026-10-19_evening-ai-news-weekly-bank-research-cloudflare",
       "date": "2026-10-19",
       "file_key": "2026-10-19_evening",
@@ -409,20 +424,7 @@
         "AI integration"
       ],
       "slug": "ai-integration-and-security-updates"
-    },
-    {
-      "id": "2026-09-25_morning-gemini-tts-meta-muse-cloudflare-updates",
-      "date": "2026-09-25",
-      "file_key": "2026-09-25_morning",
-      "title": "Gemini TTS公開、Meta Museに脆弱性、Cloudflare更新",
-      "summary": "Googleが音声生成TTS公開、MetaのMuseにゼロデイ、CloudflareがAI推論制御を強化",
-      "tags": [
-        "音声生成",
-        "AIセキュリティ",
-        "クラウドAI"
-      ],
-      "slug": "gemini-tts-meta-muse-cloudflare-updates"
     }
   ],
-  "updated_at": "2026-10-19T09:52:42.610017+00:00"
+  "updated_at": "2026-10-19T17:14:59.138923+00:00"
 }

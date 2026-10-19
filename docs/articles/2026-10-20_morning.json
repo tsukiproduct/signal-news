@@ -1,0 +1,104 @@
+{
+  "id": "2026-10-20_morning-workers-ai-new-models-voice-vision-data-extraction",
+  "file_key": "2026-10-20_morning",
+  "date": "2026-10-20",
+  "generated_at": "2026-10-19T17:14:59.138143+00:00",
+  "title": "Workers AI Adds New Models for Voice, Vision, and Data Extraction",
+  "slug": "workers-ai-new-models-voice-vision-data-extraction",
+  "summary": "Cloudflare Workers AI now offers PhoneLLM Mini for real‑time voice tasks, Clef‑omni for multimodal audio/video input, and Clairic for structured data extraction, expanding edge AI capabilities.",
+  "tags": [
+    "Workers AI",
+    "Edge AI",
+    "Multimodal AI",
+    "Data Extraction",
+    "OpenAI Academic Plan"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "Today's AI Overview",
+      "body": "Edge AI is moving beyond simple inference to support real‑time, multimodal tasks directly in browsers and serverless functions. Recent updates from Cloudflare Workers AI illustrate this shift, adding lightweight models that handle voice, video, and structured extraction without leaving the edge."
+    },
+    {
+      "type": "deep_dive",
+      "heading": "Deep Dive: New Workers AI Models",
+      "body": "Three new models expand what developers can do at the edge. @cf/daily-co/phonellm-mini‑alpha‑2 (PhoneLLM Mini) provides fast speech‑to‑text and LLM‑level dialogue for phone‑call scenarios. @cf/cloudflare/clef‑omni now supports audio (WAV/MP3) and video (MP4/WebM) alongside existing text and image inputs, enabling multimodal context in a single request. Finally, Clairic offers a preview extraction model for typed key‑value pairs, with open‑weights planned for future release. All three are accessible via Workers AI, lowering deployment complexity and cost compared to hosted alternatives. Source: Cloudflare Workers AI changelogs.",
+      "source_title": "Cloudflare Workers AI changelog posts",
+      "source_url": "https://developers.cloudflare.com/changelog/post/2026-10-15-phonellm-mini-workers-ai/ https://developers.cloudflare.com/changelog/post/2026-10-09-clef-omni-workers-ai/ https://developers.cloudflare.com/changelog/post/2026-10-19-clairic-workers-ai/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "Today's Prompt",
+      "prompt_title": "Extract Key‑Value Pairs with Clairic",
+      "prompt_body": "You are given a PDF or plain‑text document containing labeled fields (e.g., invoice number, date, amount). Using the Clairic model, output a JSON object where each field name maps to its extracted value. If a field is missing, set it to null. Preserve original formatting for dates and numbers.",
+      "prompt_usecase": "Paste the document content into a Workers AI request, call the Clairic endpoint, and parse the returned JSON directly into your application for downstream processing.",
+      "prompt_source": ""
+    },
+    {
+      "type": "wow",
+      "heading": "Wow! This Week's Viral AI News",
+      "body": "OpenAI announced the GPT‑Rosalind Academic Plan, granting eligible research labs sponsor‑level access to GPT‑Rosalind and accompanying tools for life‑science research. The initiative lowers barriers for academic teams to apply large language models to genomics and bioinformatics, potentially accelerating discoveries in the public domain. Source: OpenAI Blog.",
+      "source_title": "OpenAI Blog – Introducing the Rosalind Academic Plan",
+      "source_url": "https://openai.com/index/introducing-the-rosalind-academic-plan"
+    },
+    {
+      "type": "practical",
+      "heading": "Practical: Applying Workers AI in Customer Support",
+      "body": "Build a real‑time support agent that first transcribes a caller’s audio using PhoneLLM Mini, then enriches the context with any video frames captured via Clef‑omni (e.g., product images), and finally extracts actionable data (customer ID, issue type) with Clairic. All steps run in the edge function, reducing latency and avoiding data transfer to third‑party APIs."
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "Weekly Watch: Edge‑First Multimodal AI",
+      "body": "The trend is clear: multimodal models are being optimized for low‑latency edge deployment. Cloudflare’s additions show how voice, video, and structured extraction can be combined in serverless environments. Simultaneously, academic collaborations (e.g., OpenAI’s Rosalind plan) democratize access to powerful LLMs, suggesting a future where research and production AI converge more tightly."
+    }
+  ],
+  "sources": [
+    {
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "source": "OpenAI Blog",
+      "category": "Research"
+    },
+    {
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "source": "OpenAI Blog",
+      "category": "Research"
+    },
+    {
+      "title": "Workers AI, Realtime - Pipecat PhoneLLM Mini now available on Workers AI",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-15-phonellm-mini-workers-ai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "Workers AI - Clef-omni adds audio and video input, Clef-flash is now cheaper, and Clef is faster",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-09-clef-omni-workers-ai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "Workers AI - Introducing Clairic: an extraction model for typed values, now on Workers AI",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-19-clairic-workers-ai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "llm-tools-datasette 0.1.1",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
