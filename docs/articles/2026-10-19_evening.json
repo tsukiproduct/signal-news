@@ -1,0 +1,117 @@
+{
+  "id": "2026-10-19_evening-ai-news-weekly-bank-research-cloudflare",
+  "file_key": "2026-10-19_evening",
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T09:52:42.609157+00:00",
+  "title": "AI技術の最新動向：銀行・研究・開発現場の活用事例",
+  "slug": "ai-news-weekly-bank-research-cloudflare",
+  "summary": "イタウのAI First戦略やGPT-Rosalindの学行支援、Cloudflareの音声動画AI活用の進化を解説",
+  "tags": [
+    "AI戦略",
+    "クラウドAI",
+    "学術支援",
+    "音声処理",
+    "詐次検知"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "本格的なAI活用が産業・研究・クラウド技術の3軸で進化しています。ブラジル銀行イタウが顧客向けAI First戦略を本格化し、生命科学研究にはOpenAIが学行向けプランを新設。一方、Cloudflareが音声・動画処理を可能にするAIツールを拡充し、GoogleDeepMindとシンガポール政府が詐次検知用軽量モデルを構築しています。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "イタウ（Itaú）は、ブラジル銀行業界の最も厳格な規制を受ける国で、従業員向けに「ia.i」という会話型インターフェース、顧客向けに「IARAガバナンスプラットフォーム」を活用したAI First戦略を展開しています。この取り組みは、銀行業界のデジタルトランスフォーメーションの代表例となり得ます。一方、OpenAIは生命科学研究者向けに「Rosalind Academic Plan」を導入し、適格ある研究ラボに対しGPT-Rosalindへのアクセスと支援ツールを提供する新たな支援枠を設けました。",
+      "source_title": "How Itaú is building generative AI for its entire customer base / Bringing GPT-Rosalind to academic research labs",
+      "source_url": "https://openai.com/index/itau-generative-ai / https://openai.com/index/introducing-the-rosalind-academic-plan"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "本ニュースの範囲には画像・動画生成AIの具体的な情報は含まれませんでした。代わりに、Cloudflare Workers AIが音声と動画の入力を可能にする「clef-omni」を提供しており、これはテキスト・画像処理から音声認識・動画解析への機能拡張です。",
+      "source_title": "Workers AI - Clef-omni adds audio and video input",
+      "source_url": "https://developers.cloudflare.com/changelog/post/2026-10-09-clef-omni-workers-ai/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "llm-tools-datasette 0.1.1",
+      "prompt_body": "llm-tools-datasetteはPythonベースのLLMツールキットで、httpx2への移行に伴い一部機能が破損したため0.1.1リリースされた。データセット管理やプロンプト実験にDatasetteと連携可能。",
+      "prompt_usecase": "研究者や開発者がLLM実験データを効率管理したい場合に有効。GitHubからインストールし、Datasette上でプロンプト結果を可視化できる。",
+      "prompt_source": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "本ニュースにはHackerNewsやRedditでのバイラル情報は含まれていません。しかし、GoogleDeepMindとシンガポール政府の共同開発による「オンデバイス型詐次検知モデル」は、ゼロ・クラウド・データ・エスカレーションを前提としたプライバシー重視のAI技術として注目されています。",
+      "source_title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "source_url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "本ニュースにはイベント情報は含まれていません。",
+      "event_list": []
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "Cloudflare Workers AIの新機能を活用すれば、開発者は「Pipecat PhoneLLM Mini」を使って音声対応のチャットボットを簡単構築可能です。さらに「clef-omni」を組み合わせることで、音声入力や動画説明をテキストに変換し、顧客対応や教育支援に応用できます。一方、銀行業界でAIを導入する場合、IARAガバナンスプラットフォームのようなコンプライアンス支援ツールを活用し、規制遵守と同時にカスタマーサポートの自動化を図ることが可能です。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "AI技術は、クラウドベースの開発からエッジデバイスでの実行、そして産業・学術界への本格拡大という3つの軸で進化しています。特にCloudflareのWorkers AIは、開発者が高性能AIをサーバーレスで手軽に利用できる点で注目されます。一方、規制が厳しい金融業界でのAI導入事例や、プライバシー重視のオンデバイスAIの登場は、今後の技術展開に大きな影響を与えるでしょう。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "source": "OpenAI Blog",
+      "category": "Research"
+    },
+    {
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "source": "OpenAI Blog",
+      "category": "Research"
+    },
+    {
+      "title": "Workers AI, Realtime - Pipecat PhoneLLM Mini now available on Workers AI",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-15-phonellm-mini-workers-ai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "source": "Google DeepMind",
+      "category": "Research"
+    },
+    {
+      "title": "Workers AI - Clef-omni adds audio and video input, Clef-flash is now cheaper, and Clef is faster",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-09-clef-omni-workers-ai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "llm-tools-datasette 0.1.1",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

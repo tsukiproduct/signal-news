@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-10-19_evening-ai-news-weekly-bank-research-cloudflare",
+      "date": "2026-10-19",
+      "file_key": "2026-10-19_evening",
+      "title": "AI技術の最新動向：銀行・研究・開発現場の活用事例",
+      "summary": "イタウのAI First戦略やGPT-Rosalindの学行支援、Cloudflareの音声動画AI活用の進化を解説",
+      "tags": [
+        "AI戦略",
+        "クラウドAI",
+        "学術支援",
+        "音声処理",
+        "詐次検知"
+      ],
+      "slug": "ai-news-weekly-bank-research-cloudflare"
+    },
+    {
       "id": "2026-10-18_evening-itau-cloudflare-audio-video-ai",
       "date": "2026-10-18",
       "file_key": "2026-10-18_evening",
@@ -407,23 +422,7 @@
         "クラウドAI"
       ],
       "slug": "gemini-tts-meta-muse-cloudflare-updates"
-    },
-    {
-      "id": "2026-09-24_morning-ai-weekly-youtube-openai-meta-sep2026",
-      "date": "2026-09-24",
-      "file_key": "2026-09-24_morning",
-      "title": "AIが日常に浸透する今週：YouTube対話型AI、OpenAI料金半額、Meta脆弱性",
-      "summary": "YouTubeが対話型音楽検索とカスタムアルゴリズムを追加、OpenAIがGPT-6系APIを前世代半額で公開、一方でMetaのMuseに深刻なゼロデイ脆弱性が発見された。",
-      "tags": [
-        "YouTube AI",
-        "OpenAI GPT-6",
-        "Meta Muse",
-        "セキュリティ",
-        "RAG",
-        "Cloudflare Workers AI"
-      ],
-      "slug": "ai-weekly-youtube-openai-meta-sep2026"
     }
   ],
-  "updated_at": "2026-10-18T14:11:43.866721+00:00"
+  "updated_at": "2026-10-19T09:52:42.610017+00:00"
 }

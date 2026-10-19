@@ -1,28 +1,50 @@
 {
-  "fetched_at": "2026-10-18T23:49:50.150391+00:00",
+  "fetched_at": "2026-10-19T09:45:47.493604+00:00",
   "total": 31,
   "items": [
     {
-      "id": "44c28d4353bd",
-      "title": "GPT-4o級モデルが自宅のPCで動いた！ ローカルAIの常識を変える「Strata」",
-      "url": "https://ascii.jp/elem/000/004/443/4443584/?rss",
-      "summary": "ローカルLLMの推論エンジン「Strata」を実機で検証。GPU・RAM・SSDを活用して巨大モデルを動かし、検索や画像生成へ拡張できる一方、社内運用ではRAM容量と複数人利用時の待ち時間が課題となった。",
-      "date": "2026-10-18T22:30:00+00:00",
-      "source": "ASCII.jp",
+      "id": "372db7fd0c18",
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The a",
+      "date": "2026-10-19T09:08:05+00:00",
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "f3fb9973719d",
+      "title": "AIの台頭でWebサイトのアクセス向上策はSEOからGEOにシフト 対応急務に",
+      "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002371/",
+      "summary": "生成AIの普及で、ネット検索の主役が従来の検索エンジンからAIへと移りつつある。企業サイトやニュースサイトには、検索上位を狙うSEOに代わり、AIに引用されるようコンテンツを最適化する「GEO」への対応が急務となりそうだ。",
+      "date": "2026-10-19T02:36:10+00:00",
+      "source": "ITmedia News",
       "lang": "ja",
       "category": "Tech",
       "priority": 2
     },
     {
-      "id": "9984582cd3e3",
-      "title": "日本企業の「AI業務実装の壁」を打ち破る ― RPAのパイオニアが「AI×RPA×人」の統合基盤を国内展開",
-      "url": "https://ascii.jp/elem/000/004/443/4443113/?rss",
-      "summary": "SS&C Blue Prismは、2026年10月7日、業務自動化プラットフォーム「WorkHQ」の日本語版を提供開始した。これは、AIエージェントやRPA、人を適材適所でつなぎ、部分最適な自動化を全体最適へと発展させるための基盤である。",
-      "date": "2026-10-18T22:30:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
+      "id": "6c8dbdc8550c",
+      "title": "llm-tools-datasette 0.1.1",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+      "summary": "Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was one of those plugins, now fixed. Tags: datasette, ",
+      "date": "2026-10-18T23:43:09+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
+    {
+      "id": "11c909e5333f",
+      "title": "llm-echo 0.5",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+      "summary": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to i",
+      "date": "2026-10-18T23:16:16+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
     },
     {
       "id": "2f6c16309da4",
@@ -146,17 +168,6 @@
       "priority": 1
     },
     {
-      "id": "0c100d2e0ef8",
-      "title": "Tree Appreciator",
-      "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
-      "summary": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode), where I prompted Claude Opus 5.5 Max with: Build a three js game called \"Tree appreciator\" - it shows you two a",
-      "date": "2026-10-14T21:23:01+00:00",
-      "source": "Simon Willison",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1
-    },
-    {
       "id": "8f000a8714f8",
       "title": "Steering AI Beyond Automation",
       "url": "https://www.normaltech.ai/p/steering-ai-beyond-automation",
@@ -166,17 +177,6 @@
       "lang": "en",
       "category": "Safety",
       "priority": 2
-    },
-    {
-      "id": "bddfd6e5b0de",
-      "title": "AI is mass decompiling games. That's both awesome and scary.",
-      "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
-      "summary": "AI is mass decompiling games. That's both awesome and scary. Indie game developer Popcar talks about the recent wave of AI-powered decompilation of existing games, enabling weird mashups between existing games, and producing a boom in game preservati",
-      "date": "2026-10-14T16:26:53+00:00",
-      "source": "Simon Willison",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1
     },
     {
       "id": "7968b9678bd4",
