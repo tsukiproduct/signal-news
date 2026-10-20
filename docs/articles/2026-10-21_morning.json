@@ -1,0 +1,113 @@
+{
+  "id": "2026-10-21_morning-ai-updates-week-oct-2026",
+  "file_key": "2026-10-21_morning",
+  "date": "2026-10-21",
+  "generated_at": "2026-10-20T15:31:54.755383+00:00",
+  "title": "AI活用の最新動向：銀行・研究・Workers AI",
+  "slug": "ai-updates-week-oct-2026",
+  "summary": "今週のAIニュースでは、銀行のAI戦略、研究支援、Cloudflare Workers AIの新モデルなどについて解説します。",
+  "tags": [
+    "generative AI",
+    "financial AI",
+    "edge AI",
+    "research tools",
+    "Cloudflare"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "銀行業界でも生成AIの導入が加速しています。ブラジルの大手銀行Itaúは、厳格な規制環境下で、顧客および従業員向けのAI First戦略を展開し、会話型インターフェースia.iとガバナンスプラットフォームIARAを活用しています。一方、研究分野では、OpenAIのRosalind Academic Planが生命科学研究を支援するGPT-Rosalindを提供し、Cloudflare Workers AIではリアルタイム音声処理や多モーダル入力に対応する新しいモデルが利用可能になっています。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "Itaúの取り組みは、規制が厳しい金融分野における生成AIの活用事例として注目されます。同行は、顧客と従業員の両方に対応するAI First戦略を掲げ、ia.iという会話型インターフェースを通じて、銀行業務の効率化や顧客体験の向上を図っています。IARAガバナンスプラットフォームにより、AIの透明性とコンプライアンスを確保し、ブラジル市場における大規模なAI導入のモデルケースとなりつつあります。出典：OpenAI Blog",
+      "source_title": "How Itaú is building generative AI for its entire customer base",
+      "source_url": "https://openai.com/index/itau-generative-ai"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "情報なし"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "情報なし",
+      "prompt_body": "本ニュースにはプロンプト情報はありません。",
+      "prompt_usecase": "",
+      "prompt_source": ""
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "情報なし"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "情報なし",
+      "event_list": []
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "企業がこれらの新技術を自社の業務に活用するには、いくつかの方法があります。\n1. **リアルタイム音声処理** – Cloudflare Workers AIで提供されているPipecat PhoneLLM Miniを使用して、音声対話型サービスを低遅延で構築できます。\n2. **多モーダル入力** – Clef-omniを利用することで、音声（WAV/MP3）や動画（MP4/WebM）をテキストや画像とともに処理し、 richerなデータ分析を実現できます。\n3. **データ抽出** – Clairicモデルを使用して、構造化された文書から数値データを効率的に抽出できます。\n4. **研究支援** – 研究機関はRosalind Academic Planを通じて、生命科学研究に特化したGPT-Rosalindへのアクセスを取得し、実験設計やデータ解析を加速できます。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "今週の動向として、規制が厳しい銀行業界でも生成AIの導入が進んでいること、Cloudflare Workers AIを通じてオープンなエッジAIモデルの普及が加速していること、および学術研究へのAIツールの提供が拡大していることが挙げられます。これらの動きは、AIの民主化と業界固有の課題への対応をさらに推進するでしょう。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "source": "OpenAI Blog",
+      "category": "Research"
+    },
+    {
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "source": "OpenAI Blog",
+      "category": "Research"
+    },
+    {
+      "title": "Workers AI, Realtime - Pipecat PhoneLLM Mini now available on Workers AI",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-15-phonellm-mini-workers-ai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "Workers AI - Clef-omni adds audio and video input, Clef-flash is now cheaper, and Clef is faster",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-09-clef-omni-workers-ai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "Workers AI - Introducing Clairic: an extraction model for typed values, now on Workers AI",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-19-clairic-workers-ai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "llm-tools-datasette 0.1.1",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

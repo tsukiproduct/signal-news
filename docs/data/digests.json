@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-10-21_morning-ai-updates-week-oct-2026",
+      "date": "2026-10-21",
+      "file_key": "2026-10-21_morning",
+      "title": "AI活用の最新動向：銀行・研究・Workers AI",
+      "summary": "今週のAIニュースでは、銀行のAI戦略、研究支援、Cloudflare Workers AIの新モデルなどについて解説します。",
+      "tags": [
+        "generative AI",
+        "financial AI",
+        "edge AI",
+        "research tools",
+        "Cloudflare"
+      ],
+      "slug": "ai-updates-week-oct-2026"
+    },
+    {
       "id": "2026-10-20_morning-workers-ai-new-models-voice-vision-data-extraction",
       "date": "2026-10-20",
       "file_key": "2026-10-20_morning",
@@ -408,23 +423,7 @@
         "AI開発"
       ],
       "slug": "microsoft-copilot-refresh-muse-vulnerability-cloudflare-ai-gateway-update"
-    },
-    {
-      "id": "2026-09-26_evening-ai-integration-and-security-updates",
-      "date": "2026-09-26",
-      "file_key": "2026-09-26_evening",
-      "title": "AI統合とセキュリティの新たな展開",
-      "summary": "マイクロソフトのCopilot刷新、MetaのMuse脆弱性、CloudflareのAIゲートウェイ設定変更など、今週の主要AIニュースを解説。",
-      "tags": [
-        "Microsoft Copilot",
-        "AI security",
-        "Cloudflare AI",
-        "RAG",
-        "MCP",
-        "AI integration"
-      ],
-      "slug": "ai-integration-and-security-updates"
     }
   ],
-  "updated_at": "2026-10-19T17:14:59.138923+00:00"
+  "updated_at": "2026-10-20T15:31:54.756040+00:00"
 }
