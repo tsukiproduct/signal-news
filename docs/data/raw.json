@@ -1,17 +1,72 @@
 {
-  "fetched_at": "2026-10-21T09:15:35.084913+00:00",
-  "total": 35,
+  "fetched_at": "2026-10-21T15:41:22.229896+00:00",
+  "total": 32,
   "items": [
     {
-      "id": "31aad8a1260b",
-      "title": "Googleが「TorchTPU」を発表、PyTorchをTPUとGoogle Cloud上で実行するためのツールでコード書き換えなしで実行可能",
-      "url": "https://gigazine.net/news/20261021-google-torchgpu/",
-      "summary": "Python向けのオープンソースの機械学習ライブラリ「PyTorch」をGoogleの製品で動作させるためのツール「TorchTPU」が発表されました。続きを読む...",
-      "date": "2026-10-21T04:41:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
+      "id": "1d707ef9b9de",
+      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+      "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+      "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+      "date": "2026-10-21T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "5afba8050415",
+      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+      "summary": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - a",
+      "date": "2026-10-21T13:57:43+00:00",
+      "source": "The Verge",
+      "lang": "en",
       "category": "Tech",
       "priority": 2
+    },
+    {
+      "id": "e5aa83717086",
+      "title": "Conversational Gemini navigation comes to Apple CarPlay",
+      "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+      "summary": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Goog",
+      "date": "2026-10-21T13:01:28+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "707234813354",
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "date": "2026-10-21T12:00:00+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "3dac179b5263",
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "url": "https://openai.com/index/building-chatgpt-ad-stack",
+      "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "date": "2026-10-21T07:00:00+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "c29efc53a85f",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "date": "2026-10-21T04:50:00+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
     },
     {
       "id": "89c8e24fe1a1",
@@ -25,6 +80,17 @@
       "priority": 2
     },
     {
+      "id": "a5350ec55cb2",
+      "title": "Agents, Workers AI, AI Gateway - createAI replaces workers-ai-provider and ai-gateway-provider",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-21-createai/",
+      "summary": "The Agents SDK has a new createAI function for the AI SDK and Pi AI. It unifies what workers-ai-provider and ai-gateway-provider did: Workers AI models, AI Gateway catalog models, dynamic routes, and vendor models, through the AI binding or an accoun",
+      "date": "2026-10-21T00:00:00+00:00",
+      "source": "Cloudflare Workers AI",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 1
+    },
+    {
       "id": "d1819ab5c66e",
       "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
       "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
@@ -34,17 +100,6 @@
       "lang": "en",
       "category": "Industry",
       "priority": 1
-    },
-    {
-      "id": "c1e957c841e9",
-      "title": "Google’s more personalized Gemini AI is heading to your car",
-      "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-      "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. ",
-      "date": "2026-10-20T22:42:47+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "df88e4093e3a",
@@ -168,17 +223,6 @@
       "priority": 1
     },
     {
-      "id": "5418721246d4",
-      "title": "AIエージェントの種類一覧！5つの分類軸と代表サービス・選び方を解説",
-      "url": "https://ainow.ai/2026/10/20/278443/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e7%25a8%25ae%25e9%25a1%259e%25e4%25b8%2580%25e8%25a6%25a7%25ef%25bc%25815%25e3%2581%25a4%25e3%2581%25ae%25e5%2588%2586%25e9%25a1%259e%25e8%25bb%25b8%25e3%2581%25a8%25e4%25bb%25a3%25e8%25a1%25a8%25e3%2582%25b5",
-      "summary": "AIエージェントの種類は、動作の仕組み・システム構成・用途・提供形態・自律性の5つの軸で整理できます。本記事では、5つの軸ごとの種類と代表的なサービスを一覧で解説します。 Agentforce、Copilot Studi... The post AIエージェントの種類一覧！5つの分類軸と代表サービス・選び方を解説 first appeared on AI専門ニュースメディア AINOW.",
-      "date": "2026-10-19T16:16:13+00:00",
-      "source": "AINOW",
-      "lang": "ja",
-      "category": "AI",
-      "priority": 1
-    },
-    {
       "id": "01bb68bf80bb",
       "title": "Workers AI - Introducing Clairic: an extraction model for typed values, now on Workers AI",
       "url": "https://developers.cloudflare.com/changelog/post/2026-10-19-clairic-workers-ai/",
@@ -223,28 +267,6 @@
       "priority": 1
     },
     {
-      "id": "a6c97cf718be",
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "url": "https://openai.com/index/itau-generative-ai",
-      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-      "date": "2026-10-16T19:00:00+00:00",
-      "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "0d2e925aac0b",
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-      "date": "2026-10-15T19:00:00+00:00",
-      "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
       "id": "06ef2f731317",
       "title": "Workers AI, Realtime - Pipecat PhoneLLM Mini now available on Workers AI",
       "url": "https://developers.cloudflare.com/changelog/post/2026-10-15-phonellm-mini-workers-ai/",
@@ -267,50 +289,6 @@
       "priority": 2
     },
     {
-      "id": "e4c7720184b2",
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-      "date": "2026-10-14T02:00:14+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "42f1c245f492",
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "summary": "",
-      "date": "2026-10-13T19:43:07+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "e1a17fbe2fe8",
-      "title": "Gemini 4 Argon for Robotics",
-      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "summary": "",
-      "date": "2026-10-13T16:01:58+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "fa170ce8a5cc",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "summary": "",
-      "date": "2026-10-13T16:01:52+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
       "id": "4a4fc79b71cd",
       "title": "Gemini 4 Argon is now available for developers.",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/",
@@ -330,17 +308,6 @@
       "source": "GitHub AI & ML",
       "lang": "en",
       "category": "Prompts",
-      "priority": 1
-    },
-    {
-      "id": "13593acc05a2",
-      "title": "AIエージェントを自作する3つの方法！初心者でも無料から始められる手順",
-      "url": "https://ainow.ai/2026/10/12/278433/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e8%2587%25aa%25e4%25bd%259c%25e3%2581%2599%25e3%2582%258b3%25e3%2581%25a4%25e3%2581%25ae%25e6%2596%25b9%25e6%25b3%2595%25ef%25bc%2581%25e5%2588%259d%25e5%25bf%2583%25e8%2580%2585%25e3%2581%25a7%25e3%2582%2582",
-      "summary": "AIエージェントは、作りたいものに合ったツールを選べば個人でも自作できます。本記事では、チャット型・自動化型・実行型の3つの自作方法と、Geminiスキル・n8n・Claude Codeを使った具体的な手順を解説します。... The post AIエージェントを自作する3つの方法！初心者でも無料から始められる手順 first appeared on AI専門ニュースメディア AINOW.",
-      "date": "2026-10-12T13:00:55+00:00",
-      "source": "AINOW",
-      "lang": "ja",
-      "category": "AI",
       "priority": 1
     },
     {
