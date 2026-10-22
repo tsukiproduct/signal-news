@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "2026-10-23_morning-ai-agent-hardware-fusion",
+      "date": "2026-10-23",
+      "file_key": "2026-10-23_morning",
+      "title": "AIエージェントとハードウェアの融合週",
+      "summary": "Claude Duet、Nirvaペンダント、OpenAI×Google Cloud連携などAIの新展開を週次解説。",
+      "tags": [
+        "AIエージェント",
+        "ハードウェア",
+        "クラウド",
+        "エッジAI"
+      ],
+      "slug": "ai-agent-hardware-fusion"
+    },
+    {
       "id": "2026-10-22_evening-openai-google-cloud-workers-ai-updates",
       "date": "2026-10-22",
       "file_key": "2026-10-22_evening",
@@ -406,22 +420,7 @@
         "LLM"
       ],
       "slug": "ai-landscape-funding-flaws-new-controls"
-    },
-    {
-      "id": "2026-09-28_morning-ai-security-new-features-202609",
-      "date": "2026-09-28",
-      "file_key": "2026-09-28_morning",
-      "title": "AIセキュリティと新機能の注目トレンド 2026年9月",
-      "summary": "MetaのMuseに深刻なゼロデイ脆弱性が見つかり、Workers AIのリクエスト管理機能も強化。Google DeepMindはGemini 3.8ライブの新機能を追加し、プライバシー機能も進化。",
-      "tags": [
-        "AIセキュリティ",
-        "新機能",
-        "機械学習",
-        "AI倫理",
-        "画像生成AI"
-      ],
-      "slug": "ai-security-new-features-202609"
     }
   ],
-  "updated_at": "2026-10-22T09:21:28.787842+00:00"
+  "updated_at": "2026-10-22T15:53:29.081083+00:00"
 }

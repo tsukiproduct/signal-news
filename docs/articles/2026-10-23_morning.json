@@ -1,0 +1,88 @@
+{
+  "id": "2026-10-23_morning-ai-agent-hardware-fusion",
+  "file_key": "2026-10-23_morning",
+  "date": "2026-10-23",
+  "generated_at": "2026-10-22T15:53:29.080410+00:00",
+  "title": "AIエージェントとハードウェアの融合週",
+  "slug": "ai-agent-hardware-fusion",
+  "summary": "Claude Duet、Nirvaペンダント、OpenAI×Google Cloud連携などAIの新展開を週次解説。",
+  "tags": [
+    "AIエージェント",
+    "ハードウェア",
+    "クラウド",
+    "エッジAI"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "AIエージェントの実用化とハードウェアの融合が加速する一週間。AnthropicのClaude Duetがエージェントアプリとして待望リストから提供開始され、Nirvaは個人専用の環境対応AIペンダントを249ドルで年末出荷を予定している。またOpenAIモデルがGoogle Cloudで利用可能になるなど、クラウドインフラの再編も進んでいる。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "AnthropicはClaude Duetという新しいエージェントアプリを発表した。これはProおよびMaxプランのユーザーに限定され、まずは待ちリスト形式で提供される。エージェント型AIの実用化に向けた第一歩と言え、今後どのようにタスク自動化や対話型インターフェースが進化するのか注目される。",
+      "source_title": "Claude Duet app is Anthropic’s bet on agents",
+      "source_url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/"
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "NirvaのAIペンダントは249ドルで提供される予定であり、プライバシーを重視した個人向けAIアシスタントとして注目される。環境対応機能により、会議や移動中でも音声入力によるタスク管理や情報取得が可能となる。企業でのプライベートサポートツールやカスタマーサポートなど、音声AIの新たな応用先が期待される。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "OpenAIとGoogle Cloudの提携により、Gemini Model GardenやMarketplaceを通じてOpenAIモデルが利用可能になる。これによりGoogle Cloud上でのAI開発環境が一層充実し、今後はマルチクラウド戦略がさらに加速する可能性が高い。Cloudflare Workers AIでもDeepSeekやPhoneLLM Miniがサポートされたことで、エッジ側での軽量推論も広がっていくだろう。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Claude Duet app is Anthropic’s bet on agents",
+      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "source": "TechCrunch AI",
+      "category": "Industry"
+    },
+    {
+      "title": "Nirva raises $33M for a pendant that only listens to you",
+      "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+      "source": "TechCrunch AI",
+      "category": "Industry"
+    },
+    {
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "source": "OpenAI Blog",
+      "category": "Research"
+    },
+    {
+      "title": "Workers AI - DeepSeek V4.1 Flash 1017 now available on Workers AI",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-19-deepseek-v4.1-flash-workers-ai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "Workers AI, Realtime - Pipecat PhoneLLM Mini now available on Workers AI",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-15-phonellm-mini-workers-ai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "llm-tools-datasette 0.1.1",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
