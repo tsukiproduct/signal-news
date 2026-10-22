@@ -1,13 +1,24 @@
 {
-  "fetched_at": "2026-10-22T00:20:21.335679+00:00",
-  "total": 38,
+  "fetched_at": "2026-10-22T09:18:25.650030+00:00",
+  "total": 36,
   "items": [
     {
-      "id": "0bd80290b490",
-      "title": "PHPの「重大」脆弱性はAIが見つけた 「GPT-5.6 Solで発見」とOpenAI 「今後、AIによる脆弱性発見が急増」",
-      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002486/",
-      "summary": "",
-      "date": "2026-10-21T23:27:53+00:00",
+      "id": "cb619168be94",
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds",
+      "date": "2026-10-22T08:41:18+00:00",
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "b6ff42d5af8b",
+      "title": "豪州でAI「Claude」に保育施設銃撃を予告したら逮捕 弁護側「耳感染症でストレス」",
+      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002517/",
+      "summary": "オーストラリア・シドニー在住の29歳の男が、生成人工知能（AI）「Claude」とのチャットで保育施設での銃乱射を予告したとして逮捕・起訴された。豪紙シドニー・モーニング・ヘラルドが19日報じた。",
+      "date": "2026-10-22T06:44:40+00:00",
       "source": "ITmedia News",
       "lang": "ja",
       "category": "Tech",
@@ -50,7 +61,7 @@
       "id": "ca1c5b18319b",
       "title": "Meta says Muse has over 10M users, with shopping a top activity",
       "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
       "date": "2026-10-21T21:14:19+00:00",
       "source": "TechCrunch AI",
       "lang": "en",
@@ -168,17 +179,6 @@
       "priority": 1
     },
     {
-      "id": "ce32759f678d",
-      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-      "url": "https://openai.com/index/empowering-cyber-defenders",
-      "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
-      "date": "2026-10-21T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
       "id": "a5350ec55cb2",
       "title": "Agents, Workers AI, AI Gateway - createAI replaces workers-ai-provider and ai-gateway-provider",
       "url": "https://developers.cloudflare.com/changelog/post/2026-10-21-createai/",
@@ -242,6 +242,17 @@
       "source": "GitHub AI & ML",
       "lang": "en",
       "category": "Prompts",
+      "priority": 1
+    },
+    {
+      "id": "5418721246d4",
+      "title": "AIエージェントの種類一覧！5つの分類軸と代表サービス・選び方を解説",
+      "url": "https://ainow.ai/2026/10/20/278443/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e7%25a8%25ae%25e9%25a1%259e%25e4%25b8%2580%25e8%25a6%25a7%25ef%25bc%25815%25e3%2581%25a4%25e3%2581%25ae%25e5%2588%2586%25e9%25a1%259e%25e8%25bb%25b8%25e3%2581%25a8%25e4%25bb%25a3%25e8%25a1%25a8%25e3%2582%25b5",
+      "summary": "AIエージェントの種類は、動作の仕組み・システム構成・用途・提供形態・自律性の5つの軸で整理できます。本記事では、5つの軸ごとの種類と代表的なサービスを一覧で解説します。 Agentforce、Copilot Studi... The post AIエージェントの種類一覧！5つの分類軸と代表サービス・選び方を解説 first appeared on AI専門ニュースメディア AINOW.",
+      "date": "2026-10-19T16:16:13+00:00",
+      "source": "AINOW",
+      "lang": "ja",
+      "category": "AI",
       "priority": 1
     },
     {
@@ -311,50 +322,6 @@
       "priority": 2
     },
     {
-      "id": "e4c7720184b2",
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-      "date": "2026-10-14T02:00:14+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "42f1c245f492",
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "summary": "",
-      "date": "2026-10-13T19:43:07+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "e1a17fbe2fe8",
-      "title": "Gemini 4 Argon for Robotics",
-      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "summary": "",
-      "date": "2026-10-13T16:01:58+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "fa170ce8a5cc",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "summary": "",
-      "date": "2026-10-13T16:01:52+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
       "id": "4a4fc79b71cd",
       "title": "Gemini 4 Argon is now available for developers.",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/",
@@ -374,6 +341,17 @@
       "source": "GitHub AI & ML",
       "lang": "en",
       "category": "Prompts",
+      "priority": 1
+    },
+    {
+      "id": "13593acc05a2",
+      "title": "AIエージェントを自作する3つの方法！初心者でも無料から始められる手順",
+      "url": "https://ainow.ai/2026/10/12/278433/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e8%2587%25aa%25e4%25bd%259c%25e3%2581%2599%25e3%2582%258b3%25e3%2581%25a4%25e3%2581%25ae%25e6%2596%25b9%25e6%25b3%2595%25ef%25bc%2581%25e5%2588%259d%25e5%25bf%2583%25e8%2580%2585%25e3%2581%25a7%25e3%2582%2582",
+      "summary": "AIエージェントは、作りたいものに合ったツールを選べば個人でも自作できます。本記事では、チャット型・自動化型・実行型の3つの自作方法と、Geminiスキル・n8n・Claude Codeを使った具体的な手順を解説します。... The post AIエージェントを自作する3つの方法！初心者でも無料から始められる手順 first appeared on AI専門ニュースメディア AINOW.",
+      "date": "2026-10-12T13:00:55+00:00",
+      "source": "AINOW",
+      "lang": "ja",
+      "category": "AI",
       "priority": 1
     },
     {

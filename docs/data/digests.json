@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-10-22_evening-openai-google-cloud-workers-ai-updates",
+      "date": "2026-10-22",
+      "file_key": "2026-10-22_evening",
+      "title": "OpenAIとGoogleCloud連携WorkersAI最新アップデート",
+      "summary": "OpenAIモデルがGoogle Cloudに登場、Workers AIはDeepSeek V4.1 FlashやClef-omniで多様な入力が可能に",
+      "tags": [
+        "Workers AI",
+        "OpenAI",
+        "Multimodal AI"
+      ],
+      "slug": "openai-google-cloud-workers-ai-updates"
+    },
+    {
       "id": "2026-10-21_morning-ai-updates-week-oct-2026",
       "date": "2026-10-21",
       "file_key": "2026-10-21_morning",
@@ -408,22 +421,7 @@
         "画像生成AI"
       ],
       "slug": "ai-security-new-features-202609"
-    },
-    {
-      "id": "2026-09-27_evening-microsoft-copilot-refresh-muse-vulnerability-cloudflare-ai-gateway-update",
-      "date": "2026-09-27",
-      "file_key": "2026-09-27_evening",
-      "title": "Microsoft Copilot刷新・Muse脆弱性・Cloudflare AIゲートウェイ更新",
-      "summary": "Microsoft Copilotを3タブ構造に再編し、MetaのAIアシスタントMuseに深刻な0日脆弱性が発見された。CloudflareのWorkers AIとAI Gatewayに新機能追加。Google DeepMindがプライベートサーバサイドメモリを発表。",
-      "tags": [
-        "Microsoft Copilot",
-        "AIセキュリティ",
-        "Cloudflare",
-        "Google DeepMind",
-        "AI開発"
-      ],
-      "slug": "microsoft-copilot-refresh-muse-vulnerability-cloudflare-ai-gateway-update"
     }
   ],
-  "updated_at": "2026-10-20T15:31:54.756040+00:00"
+  "updated_at": "2026-10-22T09:21:28.787842+00:00"
 }
