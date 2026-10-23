@@ -1,7 +1,29 @@
 {
-  "fetched_at": "2026-10-23T09:13:42.809208+00:00",
-  "total": 36,
+  "fetched_at": "2026-10-23T15:29:39.277200+00:00",
+  "total": 29,
   "items": [
+    {
+      "id": "b8a6b67b5c40",
+      "title": "Meta delays new business terms after publisher pushback on AI scraping",
+      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+      "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Da",
+      "date": "2026-10-23T14:47:41+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "f4648023d721",
+      "title": "パナソニックHD子会社、使用禁止の生成AIに従業員約33万人分の個人情報をアップロード",
+      "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002562/",
+      "summary": "パナソニックホールディングス傘下のパナソニック オペレーショナルエクセレンス（大阪府門真市）は10月23日、社内プロジェクトに携わる社員が、パナソニックグループの従業員や元従業員、その家族ら計約33万4000人分の個人情報を含むデータを、社内で利用を禁止している外部の生成AIサービスにアップロードしていたと発表した。",
+      "date": "2026-10-23T12:48:45+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
     {
       "id": "3bfe5c41c86a",
       "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
@@ -25,17 +47,6 @@
       "priority": 1
     },
     {
-      "id": "9369e7d1327d",
-      "title": "Etsy is cracking down on AI slop listings",
-      "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
-      "summary": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve AI-generated content\" and that seller",
-      "date": "2026-10-23T00:09:58+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "39c8c1e08705",
       "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
       "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
@@ -47,17 +58,6 @@
       "priority": 1
     },
     {
-      "id": "73f803029b01",
-      "title": "Canva’s first AI image model plans designs before generating them",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-      "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before",
-      "date": "2026-10-22T21:53:22+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "c4f2e7d5237a",
       "title": "Designing an AI serving harness built to last",
       "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
@@ -67,28 +67,6 @@
       "lang": "en",
       "category": "Research",
       "priority": 1
-    },
-    {
-      "id": "1059fe503677",
-      "title": "Fall 2026 earnings watch",
-      "url": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch",
-      "summary": "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech",
-      "date": "2026-10-22T21:15:16+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "af7e7277bac3",
-      "title": "Meta’s AI could still scrape news sites, legal experts say",
-      "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-      "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the",
-      "date": "2026-10-22T20:32:05+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "c1230fd4012b",
@@ -223,17 +201,6 @@
       "priority": 1
     },
     {
-      "id": "7c77a58ac56b",
-      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-      "url": "https://huggingface.co/blog/hf-torchtpu",
-      "summary": "",
-      "date": "2026-10-20T00:00:00+00:00",
-      "source": "Hugging Face Blog",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1
-    },
-    {
       "id": "f3e370bf3d81",
       "title": "New paper: Emerging trends in AI agent evaluation",
       "url": "https://www.normaltech.ai/p/new-paper-emerging-trends-in-ai-agent",
@@ -309,50 +276,6 @@
       "lang": "en",
       "category": "Safety",
       "priority": 2
-    },
-    {
-      "id": "e4c7720184b2",
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-      "date": "2026-10-14T02:00:14+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "42f1c245f492",
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "summary": "",
-      "date": "2026-10-13T19:43:07+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "e1a17fbe2fe8",
-      "title": "Gemini 4 Argon for Robotics",
-      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "summary": "",
-      "date": "2026-10-13T16:01:58+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "fa170ce8a5cc",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "summary": "",
-      "date": "2026-10-13T16:01:52+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
     },
     {
       "id": "4a4fc79b71cd",
