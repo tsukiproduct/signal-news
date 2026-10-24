@@ -1,7 +1,18 @@
 {
-  "fetched_at": "2026-10-24T08:47:12.895484+00:00",
-  "total": 35,
+  "fetched_at": "2026-10-24T14:08:43.785100+00:00",
+  "total": 36,
   "items": [
+    {
+      "id": "0770743faf2b",
+      "title": "GPT-6 Astraと同等性能の中国製モデル「Kimi K3.1 Pro」が登場、2026年11月4日にモデルを無償公開予定",
+      "url": "https://gigazine.net/news/20261024-kimi-k3-1-pro/",
+      "summary": "中国企業のMoonshot AIがAIモデル「Kimi K3.1 Pro」を日本時間の2026年10月24日に発表しました。続きを読む...",
+      "date": "2026-10-24T11:50:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
     {
       "id": "7384891d7abd",
       "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
