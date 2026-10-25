@@ -1,0 +1,123 @@
+{
+  "id": "2026-10-26_morning-ai-training-shift-new-edge-tools",
+  "file_key": "2026-10-26_morning",
+  "date": "2026-10-26",
+  "generated_at": "2026-10-25T23:43:25.528521+00:00",
+  "title": "AI トレーニングの転換とエッジツールの新展開",
+  "slug": "ai-training-shift-new-edge-tools",
+  "summary": "OpenAI はライブウェブでのモデル学習を終了、Cloudflare Workers AI で DeepSeek V4.1 Flash と Pipecat PhoneLLM Mini が利用可能に。Copilot セッションの継続と無料の日本語画像生成 AI「Moss-Image」も注目。",
+  "tags": [
+    "OpenAI",
+    "Cloudflare Workers AI",
+    "AI エージェント",
+    "GitHub Copilot",
+    "Moss-Image"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日の AI 概観",
+      "body": "今週の AI 界では、2 つの大きな動きがあります。まず、OpenAI がライブインターネットからのモデル学習を「重大なリスク」を理由に停止すると発表しました。これにより、今後の Frontier モデルの開発はオフラインのデータセットに依存する方向に大きくシフトします。一方、エッジ AI サービスは加速しており、Cloudflare Workers AI プラットフォームで、DeepSeek の 552B パラメータマルチモーダル MoE モデルと、Pipecat のリアルタイム音声対応 PhoneLLM Mini が利用可能になりました。さらに、開発者は GitHub Copilot のアプリセッションを VS Code にシームレスに引き継ぐことが可能になり、無料のオープンソース画像生成 AI「Moss-Image」には日本語の漫画スタイルの描画機能も備わっています。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "OpenAI の決定は、安全性と事実確認の向上を目的としていますが、同時にモデルの一般公開前に学習データをクリーンアップするコストと労力が大幅に削減されることも意味します。この変更は、AI トレーニングのデータ収集に関する規制の強化を反映しており、企業は今、より厳格なデータガバナンスを要求されるでしょう。一方、Cloudflare Workers AI での DeepSeek V4.1 Flash と Pipecat PhoneLLM Mini の提供により、開発者は低レイテンシでマルチモーダルな推論とリアルタイム音声処理をブラウザやエッジ関数に直接組み込むことが可能になります。これにより、SaaS 製品や内部ツールに高度な AI 機能を組み込む際の制約が緩和され、より迅速なプロトタイピングが可能になります。",
+      "source_title": "OpenAI はライブインターネットでのモデル学習を終了",
+      "source_url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "Moss-Image は、オープンソースの画像生成 AI で、多彩な画風に対応し、日本語のテキストプロンプトや漫画スタイルの描画も可能です。行政の支援を受けた開発体制と商用利用が許可されている点が特徴で、個人クリエイターや小規模メディアが低コストで高品質なイラストを制作できるツールとして注目されています。日本語への対応は、グローバル市場におけるニッチな言語ニーズを満たす重要な進歩です。",
+      "source_title": "無料の画像生成AI「Moss-Image」がすごい 日本語も漫画も生成",
+      "source_url": "https://ascii.jp/elem/000/004/445/4445534/?rss"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "Copilot セッションの引き継ぎ",
+      "prompt_body": "VS Code で GitHub Copilot アプリのセッションを継続するには、以下の手順を実行します：\n1. Copilot パネルを開き、「アプリのセッションをエクスポート」を選択します。\n2. 表示された JSON コードをクリップボードにコピーします。\n3. VS Code を開き、「コマンドパレット」（Ctrl+Shift+P）を開きます。\n4. 「Copilot アプリのセッションをインポート」を入力し、コピーした JSON を選択します。\n5. セッションが復元され、会話、コード変更、コンテキストが保持されます。",
+      "prompt_usecase": "GitHub Copilot で作成した対話型アプリの作業を、IDE 環境に移行して継続したい場合に有効です。",
+      "prompt_source": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "Moss-Image の無料公開により、日本語テキストや漫画スタイルの画像が簡単に生成できるようになり、ソーシャルメディア上で多くのクリエイターがその能力を実証しています。商用利用が許可されているため、ニュースメディアや教育コンテンツの制作コスト削減にもつながる可能性があり、画像生成 AI 市場の民主化を加速する注目すべき動向です。",
+      "source_title": "無料の画像生成AI「Moss-Image」がすごい 日本語も漫画も生成",
+      "source_url": "https://ascii.jp/elem/000/004/445/4445534/?rss"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "該当するイベント情報はありません。",
+      "event_list": []
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "1. エッジ AI への活用：DeepSeek V4.1 Flash を Workers AI にデプロイし、ウェブアプリ内のリアルタイム画像説明やオブジェクト検出機能を提供します。これにより、サーバー負荷を軽減し、ユーザーに高速なレスポンスを提供できます。\n2. 音声対応ワークフローの自動化：Pipecat PhoneLLM Mini を活用し、音声入力による顧客対応システムを構築します。多言語対応により、日本語を含むグローバルな顧客基盤へのサービス提供が可能になります。\n3. コンテンツ制作の効率化：Moss-Image を商用プロダクションで利用し、迅速にイラストを生成します。日本語のテキストや漫画スタイルの要件を満たすことで、マーケティング資料や教育教材の制作期間を短縮できます。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "AI 開発の潮流は、ライブウェブからの継続的な学習から、オフラインでの curated データセットベースのアプローチへと移行しています。これにより、データの権利とバイアス管理に関する議論が活発化すると予想されます。また、エッジ AI の民主化が進んでおり、Cloudflare Workers AI やオープンソースの画像生成ツールにより、大規模なインフラなしで高度な AI 機能をビジネスに組み込むことが可能になります。今後は、リアルタイム音声処理と多言語対応ツールの普及により、よりパーソナライズされたユーザー体験が実現されるでしょう。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "source": "TechCrunch AI",
+      "category": "Industry"
+    },
+    {
+      "title": "Workers AI - DeepSeek V4.1 Flash 1017 now available on Workers AI",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-19-deepseek-v4.1-flash-workers-ai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "Workers AI, Realtime - Pipecat PhoneLLM Mini now available on Workers AI",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-15-phonellm-mini-workers-ai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "Agents, Workers AI, AI Gateway - createAI replaces workers-ai-provider and ai-gateway-provider",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-21-createai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "AIエージェントの種類一覧！5つの分類軸と代表サービス・選び方を解説",
+      "url": "https://ainow.ai/2026/10/20/278443/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e7%25a8%25ae%25e9%25a1%259e%25e4%25b8%2580%25e8%25a6%25a7%25ef%25bc%25815%25e3%2581%25a4%25e3%2581%25ae%25e5%2588%2586%25e9%25a1%259e%25e8%25bb%25b8%25e3%2581%25a8%25e4%25bb%25a3%25e8%25a1%25a8%25e3%2582%25b5",
+      "source": "AINOW",
+      "category": "AI"
+    },
+    {
+      "title": "How to continue a GitHub Copilot app session in VS Code",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
+      "source": "GitHub AI & ML",
+      "category": "Prompts"
+    },
+    {
+      "title": "無料の画像生成AI「Moss-Image」がすごい 日本語も漫画も生成、商用利用OKの実力を試した",
+      "url": "https://ascii.jp/elem/000/004/445/4445534/?rss",
+      "source": "ASCII.jp",
+      "category": "ImageVideo"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

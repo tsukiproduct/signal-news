@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-25T14:38:38.889638+00:00",
-  "fetched_at": "2026-10-25T14:36:46.571172+00:00",
-  "total": 32,
+  "updated_at": "2026-10-25T23:42:41.104934+00:00",
+  "fetched_at": "2026-10-25T23:41:45.743530+00:00",
+  "total": 39,
   "curated": true,
   "items": [
     {
@@ -413,6 +413,62 @@
       "translation_status": "machine"
     },
     {
+      "id": "077625a73bd7",
+      "title": "無料の画像生成AI「Moss-Image」がすごい 日本語も漫画も生成、商用利用OKの実力を試した",
+      "url": "https://ascii.jp/elem/000/004/445/4445534/?rss",
+      "summary": "日本語描画や多彩な画風に対応した、オープンウエイトの画像生成AI「Moss-Image」を試す。行政の支援を受ける開発体制と事業戦略、今後の普及や画像生成AI市場への影響を考える。",
+      "date": "2026-10-25T22:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "ImageVideo",
+      "priority": 2,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "日本語描画や多彩な画風に対応した、オープンウエイトの画像生成AI「Moss-Image」を試す。行政の支援を受ける開発体制と事業戦略、今後の普及や画像生成AI市場への影響を考える。"
+    },
+    {
+      "id": "9e4fbbe06937",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "date": "2026-10-25T21:31:16+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
+    },
+    {
+      "id": "71c43854f4ff",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "date": "2026-10-25T16:57:32+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\""
+    },
+    {
+      "id": "aab16b771856",
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "date": "2026-10-25T14:10:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more."
+    },
+    {
       "id": "19250ae33b52",
       "title": "r/opensource just banned AI, non-English speakers, and more",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
@@ -451,28 +507,18 @@
       "translation_status": "machine"
     },
     {
-      "id": "0c58159611d9",
-      "title": "Pennsylvania will require labels on AI-generated ads",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has ",
-      "date": "2026-10-24T18:32:44+00:00",
-      "source": "The Verge",
+      "id": "41208e707565",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "date": "2026-10-24T19:00:00+00:00",
+      "source": "TechCrunch AI",
       "lang": "en",
-      "category": "Tech",
-      "priority": 2,
+      "category": "Industry",
+      "priority": 1,
       "score": 5,
-      "reason": "Provides info on a new legal requirement, not product changes.",
-      "summary_ja": "ペンシルベニア州はAI生成広告に対し、画像・動画・音声・テキストを含むすべての広告に開示を義務付ける法律を成立させた。",
-      "title_ja": "ペンシルベニア州はAI生成広告にラベル必須",
-      "title_en": "Pennsylvania will require labels on AI-generated ads",
-      "summary_en": "Pennsylvania enacted a law requiring clear disclosures on any AI‑generated advertisement, covering images, video, audio, or text.",
-      "useful_for_ja": "ペンシルベニアの広告担当者",
-      "useful_for_en": "Advertisers in Pennsylvania",
-      "try_next_ja": "全文を参照",
-      "try_next_en": "Read the full article",
-      "caveat_ja": "発 effective日や適用範囲の詳細は不明",
-      "caveat_en": "Effective date and scope not specified",
-      "translation_status": "machine"
+      "reason": "未評価",
+      "summary_ja": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
     },
     {
       "id": "b8554dad591a",
@@ -499,6 +545,20 @@
       "translation_status": "machine"
     },
     {
+      "id": "b2f0cf19fa7c",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "date": "2026-10-24T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+    },
+    {
       "id": "ec4100b5e401",
       "title": "Google’s AI search changes upended online publishing",
       "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
@@ -509,8 +569,18 @@
       "category": "Tech",
       "priority": 2,
       "score": 5,
-      "reason": "未評価",
-      "summary_ja": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback he"
+      "reason": "The article reports on Google's AI search changes and their impact on online publishing, making it relevant context for understanding AI's influence on the web.",
+      "summary_ja": "GoogleのAI検索変更がオンライン出版に影響を与えるニュース。The StepbackニュースレターでAIの影響を追う。",
+      "title_ja": "GoogleのAI検索変更がオンライン出版を揺るがす",
+      "title_en": "Google’s AI search changes upended online publishing",
+      "summary_en": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback.",
+      "useful_for_ja": "オンライン出版者・技術ニュース読者",
+      "useful_for_en": "online publishers, tech enthusiasts",
+      "try_next_ja": "AI検索が出版に与える影響を深く理解する",
+      "try_next_en": "Explore how AI search changes affect online publishing",
+      "caveat_ja": "記事はニュース記事であり、具体的な製品変更や利用制限は記載されていない",
+      "caveat_en": "This is a news article; no concrete product changes, pricing, or access restrictions are specified",
+      "translation_status": "machine"
     },
     {
       "id": "39c8c1e08705",
@@ -585,6 +655,20 @@
       "translation_status": "machine"
     },
     {
+      "id": "6564974e6eb5",
+      "title": "Quoting Armin Ronacher",
+      "url": "https://simonwillison.net/2026/Oct/22/armin-ronacher/",
+      "summary": "As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins. — Armin Ronacher Tags: security, generative-ai, armin-ronacher, ai, ai-security-research, llms",
+      "date": "2026-10-22T15:34:13+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins. — Armin Ronacher Tags: security, generative-ai, armin-ronacher, ai, ai-security-research, llms"
+    },
+    {
       "id": "a1d8d4720756",
       "title": "Making the case for context-aware AI",
       "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
@@ -607,6 +691,20 @@
       "caveat_ja": "コンテキストを意識したAIの実装には、自社の業務データを活用する必要があり、データが準備できない場合は適用が困難です",
       "caveat_en": "Implementing context-aware AI requires your own domain data; availability may be limited",
       "translation_status": "machine"
+    },
+    {
+      "id": "f9255f692008",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "summary": "",
+      "date": "2026-10-21T18:26:30+00:00",
+      "source": "Hugging Face Blog",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": ""
     },
     {
       "id": "f3e370bf3d81",

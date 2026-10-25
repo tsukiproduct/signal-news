@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-10-26_morning-ai-training-shift-new-edge-tools",
+      "date": "2026-10-26",
+      "file_key": "2026-10-26_morning",
+      "title": "AI トレーニングの転換とエッジツールの新展開",
+      "summary": "OpenAI はライブウェブでのモデル学習を終了、Cloudflare Workers AI で DeepSeek V4.1 Flash と Pipecat PhoneLLM Mini が利用可能に。Copilot セッションの継続と無料の日本語画像生成 AI「Moss-Image」も注目。",
+      "tags": [
+        "OpenAI",
+        "Cloudflare Workers AI",
+        "AI エージェント",
+        "GitHub Copilot",
+        "Moss-Image"
+      ],
+      "slug": "ai-training-shift-new-edge-tools"
+    },
+    {
       "id": "2026-10-25_evening-openai-stops-live-training-cloudflare-unifies-ai-access",
       "date": "2026-10-25",
       "file_key": "2026-10-25_evening",
@@ -412,16 +427,7 @@
         "Private AI"
       ],
       "slug": "ai-model-evolution-and-payment-innovation-week"
-    },
-    {
-      "id": "2026-10-01_evening-ai-industry-trends-reddit-ai-models",
-      "date": "2026-10-01",
-      "file_key": "2026-10-01_evening",
-      "title": "AI業界の動向：Redditの制限と新モデル展開",
-      "summary": "RedditはAIボット対策でRSSフィード停止と公開APIアクセス終了。OpenAIはGPT-6.1 Solで低価格・高性能モデルの登場。GoogleもGemini 4 Argonをリリース。研究支援プログラムも拡大。",
-      "tags": [],
-      "slug": "ai-industry-trends-reddit-ai-models"
     }
   ],
-  "updated_at": "2026-10-25T14:39:10.994671+00:00"
+  "updated_at": "2026-10-25T23:43:25.529165+00:00"
 }
