@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-10-25_evening-openai-stops-live-training-cloudflare-unifies-ai-access",
+      "date": "2026-10-25",
+      "file_key": "2026-10-25_evening",
+      "title": "OpenAIがライブ学習停止、CloudflareがAIモデル統合強化",
+      "summary": "OpenAIがライブインターネットでの学習を中止。CloudflareはDeepSeek V4.1等の新モデル追加と統合SDKでエッジAI開発を加速。",
+      "tags": [
+        "Cloudflare",
+        "OpenAI",
+        "AIエージェント",
+        "エッジコンピューティング",
+        "開発ツール"
+      ],
+      "slug": "openai-stops-live-training-cloudflare-unifies-ai-access"
+    },
+    {
       "id": "2026-10-25_evening-openai-ends-live-internet-training-edge-ai-surge",
       "date": "2026-10-25",
       "file_key": "2026-10-25_evening",
@@ -406,21 +421,7 @@
       "summary": "RedditはAIボット対策でRSSフィード停止と公開APIアクセス終了。OpenAIはGPT-6.1 Solで低価格・高性能モデルの登場。GoogleもGemini 4 Argonをリリース。研究支援プログラムも拡大。",
       "tags": [],
       "slug": "ai-industry-trends-reddit-ai-models"
-    },
-    {
-      "id": "2026-09-30_morning-ai-latest-updates-zeroday-private-compute",
-      "date": "2026-09-30",
-      "file_key": "2026-09-30_morning",
-      "title": "AI最新情報：ゼロデイ脆弱性からプライベート計算まで",
-      "summary": "MetaのAIアシスタントにゼロデイ脆弱性、DeepMindのプライベート計算、OpenAIの研究支援など、今週のAI業界動向を解説",
-      "tags": [
-        "AIセキュリティ",
-        "プライベートAI",
-        "研究支援",
-        "ゼロデイ脆弱性"
-      ],
-      "slug": "ai-latest-updates-zeroday-private-compute"
     }
   ],
-  "updated_at": "2026-10-25T09:06:03.742306+00:00"
+  "updated_at": "2026-10-25T14:39:10.994671+00:00"
 }
