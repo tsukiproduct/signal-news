@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-10-25_morning-kimi-k3-1-pro-openai-live-stop",
+      "date": "2026-10-25",
+      "file_key": "2026-10-25_morning",
+      "title": "Kimi K3.1 ProとOpenAIのライブ学習停止",
+      "summary": "中国のKimi K3.1 ProがGPT-6相当性能を無料公開、OpenAIは生配信学習を停止",
+      "tags": [
+        "AIモデル",
+        "OpenAI",
+        "Cloudflare"
+      ],
+      "slug": "kimi-k3-1-pro-openai-live-stop"
+    },
+    {
       "id": "2026-10-23_morning-ai-agent-hardware-fusion",
       "date": "2026-10-23",
       "file_key": "2026-10-23_morning",
@@ -405,22 +418,7 @@
         "実務活用"
       ],
       "slug": "ai-weekly-update-6-key-developments"
-    },
-    {
-      "id": "2026-09-29_afternoon-ai-landscape-funding-flaws-new-controls",
-      "date": "2026-09-29",
-      "file_key": "2026-09-29_afternoon",
-      "title": "AIの動向：資金拡充、脆弱性、新制御",
-      "summary": "OpenAIの助成金拡大、プライベートメモリの導入、MetaのMuse脆弱性、開発者向けリジェクトオプション、ウォーターマーキングの副作用、RAG対スキル設計の議論がAIを形作る。",
-      "tags": [
-        "AI研究",
-        "セキュリティ",
-        "開発者ツール",
-        "プライバシー",
-        "LLM"
-      ],
-      "slug": "ai-landscape-funding-flaws-new-controls"
     }
   ],
-  "updated_at": "2026-10-22T15:53:29.081083+00:00"
+  "updated_at": "2026-10-25T00:01:19.725502+00:00"
 }

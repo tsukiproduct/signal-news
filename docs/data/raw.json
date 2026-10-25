@@ -1,7 +1,62 @@
 {
-  "fetched_at": "2026-10-24T14:08:43.785100+00:00",
-  "total": 36,
+  "fetched_at": "2026-10-24T23:54:07.520111+00:00",
+  "total": 37,
   "items": [
+    {
+      "id": "b1787c28a150",
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dea",
+      "date": "2026-10-24T21:29:12+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "41208e707565",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "date": "2026-10-24T19:00:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "0c58159611d9",
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has ",
+      "date": "2026-10-24T18:32:44+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "b8554dad591a",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "date": "2026-10-24T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "b2f0cf19fa7c",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "date": "2026-10-24T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
     {
       "id": "0770743faf2b",
       "title": "GPT-6 Astraと同等性能の中国製モデル「Kimi K3.1 Pro」が登場、2026年11月4日にモデルを無償公開予定",
@@ -47,28 +102,6 @@
       "priority": 1
     },
     {
-      "id": "78c968c71207",
-      "title": "OpenAI now trains its frontier AI models with no internet access",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-      "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cach",
-      "date": "2026-10-23T21:11:07+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "9266223ed6f4",
-      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-      "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take t",
-      "date": "2026-10-23T19:32:39+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "97fa418027d6",
       "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
       "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
@@ -102,17 +135,6 @@
       "priority": 1
     },
     {
-      "id": "02cf9a7a48f9",
-      "title": "Left alone with nothing to do, AI agents started playing",
-      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-      "date": "2026-10-23T00:45:37+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
       "id": "39c8c1e08705",
       "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
       "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
@@ -132,17 +154,6 @@
       "source": "MIT Tech Review",
       "lang": "en",
       "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "c1230fd4012b",
-      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
-      "date": "2026-10-22T19:07:09+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
       "priority": 1
     },
     {

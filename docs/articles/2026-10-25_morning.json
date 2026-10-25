@@ -1,0 +1,115 @@
+{
+  "id": "2026-10-25_morning-kimi-k3-1-pro-openai-live-stop",
+  "file_key": "2026-10-25_morning",
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T00:01:19.724847+00:00",
+  "title": "Kimi K3.1 ProとOpenAIのライブ学習停止",
+  "slug": "kimi-k3-1-pro-openai-live-stop",
+  "summary": "中国のKimi K3.1 ProがGPT-6相当性能を無料公開、OpenAIは生配信学習を停止",
+  "tags": [
+    "AIモデル",
+    "OpenAI",
+    "Cloudflare"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "2026年AI業界は大変化の時期を迎えており、主要なテクノロジーが次々に公開されています。本週は中国のKimi K3.1 Pro登場、OpenAIのライブ学習停止、Cloudflareの新モデル提供など、実用的な動向をまとめました。Kimi K3.1 ProはGPT-6相当性能を無料で提供予定で、OpenAIはライブインターネット学習をやめリスクを回避。CloudflareはDeepSeek V4.1 FlashやPhoneLLM MiniをWorkers AIに追加し、開発者の利用しやすさを向上させました。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "OpenAIはフロンティアモデルのライブインターネット接続による学習を廃止すると発表した。背景には、エンジニアが「解決策が機能しない」と指摘したことや、公開データの無断取得による法的・倫理的リスクが指摘されている。この決定はモデルの更新スピードと安全性に影響を与え、企業・研究者はカスタマイズされた学習データセットの整備を促進しなければならない。特に大規模言語モデルでは、公開データの取得・クリーニングに多大な工数がかかるため、信頼性の高いデータプール構築が不可欠となる。今後は高品質なデータプールの整備がAIサービスの信頼性向上とコスト削減に寄与すると見込まれ、業界全体の標準化が進む可能性が高い。",
+      "source_title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "source_url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "Cloudflare Workers AIにDeepSeek V4.1 Flash（552BパラメータのマルチモーダルMoEモデル）が追加された。テキストだけでなく画像や音声にも対応し、低遅延でリアルタイム生成が可能となり、画像・動画生成AIの利用が一層拡大する見込みだ。",
+      "source_title": "Workers AI - DeepSeek V4.1 Flash 1017 now available on Workers AI",
+      "source_url": "https://developers.cloudflare.com/changelog/post/2026-10-19-deepseek-v4.1-flash-workers-ai/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "Copilotセッション継続",
+      "prompt_body": "VS CodeでCopilotのチャットを続行し、前回の会話履歴とコード変更を保持したまま作業を進める。",
+      "prompt_usecase": "開発途中で一時停止した作業を再開し、コンテキストを失わずに編集できる。",
+      "prompt_source": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "2026年11月4日に無料公開予定のKimi K3.1 ProがGPT-6 Astraと同等の高性能を実現し、誰でも即時利用可能になることからSNSやブログで話題沸騰。低コストで高品質なAI活用が広がり、業界全体の変革を促す可能性が高い。",
+      "source_title": "GPT-6 Astraと同等性能の中国製モデル「Kimi K3.1 Pro」が登場、2026年11月4日にモデルを無償公開予定",
+      "source_url": "https://gigazine.net/news/20261024-kimi-k3-1-pro/"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "本週は主要なAIイベントは開催されていませんが、オンライン技術セミナーや社内勉強会でモデル活用事例が紹介される予定です。また、各社のデモイベントやカンファレンスでの新機能発表も見込まれ、最新動向を把握する良い機会となります。",
+      "event_list": []
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "企業はKimi K3.1 Proを社内チャットボットや顧客サポートに無料で導入でき、コスト削減と高品質な対話が可能になる。また、Cloudflare Workers AIでDeepSeek V4.1 Flashを活用すれば、トラフィックに応じた自動スケールができ、開発コストを抑えつつAIサービスを拡張できる。新規プロジェクトの立ち上げが速くなり、既存システムの改善にも柔軟に対応でき、業務効率の向上と顧客満足度の向上が期待できる。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "OpenAIのライブ学習停止はデータ取得の新基準を示し、Kimi K3.1 Proの無料提供やCloudflareのモデル拡充が注目され、企業のAI導入コスト低減と利用拡大が進む見込みだ。今後はオープンソースモデルの活用が一層進み、中小企業でも高性能AIを手軽に利用できる環境が整うと期待される。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "GPT-6 Astraと同等性能の中国製モデル「Kimi K3.1 Pro」が登場、2026年11月4日にモデルを無償公開予定",
+      "url": "https://gigazine.net/news/20261024-kimi-k3-1-pro/",
+      "source": "Gigazine",
+      "category": "Tech"
+    },
+    {
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "source": "TechCrunch AI",
+      "category": "Industry"
+    },
+    {
+      "title": "Workers AI - DeepSeek V4.1 Flash 1017 now available on Workers AI",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-19-deepseek-v4.1-flash-workers-ai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "Workers AI, Realtime - Pipecat PhoneLLM Mini now available on Workers AI",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-15-phonellm-mini-workers-ai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "Agents, Workers AI, AI Gateway - createAI replaces workers-ai-provider and ai-gateway-provider",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-21-createai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "How to continue a GitHub Copilot app session in VS Code",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
+      "source": "GitHub AI & ML",
+      "category": "Prompts"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
