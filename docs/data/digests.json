@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-10-25_evening-openai-ends-live-internet-training-edge-ai-surge",
+      "date": "2026-10-25",
+      "file_key": "2026-10-25_evening",
+      "title": "OpenAI ends live‑internet training, edge AI surge continues",
+      "summary": "OpenAI stops training models on real‑time web data due to risks, while Cloudflare releases new Workers AI models and tools.",
+      "tags": [
+        "OpenAI",
+        "Edge AI",
+        "Cloudflare Workers AI",
+        "GitHub Copilot",
+        "AI開発"
+      ],
+      "slug": "openai-ends-live-internet-training-edge-ai-surge"
+    },
+    {
       "id": "2026-10-25_morning-kimi-k3-1-pro-openai-live-stop",
       "date": "2026-10-25",
       "file_key": "2026-10-25_morning",
@@ -405,20 +420,7 @@
         "ゼロデイ脆弱性"
       ],
       "slug": "ai-latest-updates-zeroday-private-compute"
-    },
-    {
-      "id": "2026-09-29_evening-ai-weekly-update-6-key-developments",
-      "date": "2026-09-29",
-      "file_key": "2026-09-29_evening",
-      "title": "AI Weekly Update: 6 Key Developments",
-      "summary": "OpenAI支援拡大、プライベートメモリ導入、Meta Museのゼロデイ、Workers AI の混雑対策、Anthropicのリスク警告、RAGとMCPの論争",
-      "tags": [
-        "AI研究",
-        "セキュリティ",
-        "実務活用"
-      ],
-      "slug": "ai-weekly-update-6-key-developments"
     }
   ],
-  "updated_at": "2026-10-25T00:01:19.725502+00:00"
+  "updated_at": "2026-10-25T09:06:03.742306+00:00"
 }

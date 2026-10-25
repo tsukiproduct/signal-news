@@ -1,0 +1,117 @@
+{
+  "id": "2026-10-25_evening-openai-ends-live-internet-training-edge-ai-surge",
+  "file_key": "2026-10-25_evening",
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T09:06:03.741703+00:00",
+  "title": "OpenAI ends live‑internet training, edge AI surge continues",
+  "slug": "openai-ends-live-internet-training-edge-ai-surge",
+  "summary": "OpenAI stops training models on real‑time web data due to risks, while Cloudflare releases new Workers AI models and tools.",
+  "tags": [
+    "OpenAI",
+    "Edge AI",
+    "Cloudflare Workers AI",
+    "GitHub Copilot",
+    "AI開発"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "今週のAIニュースは、主要な動向が二つあります。まず、OpenAIが「大きなリスク」を理由に、リアルタイムのインターネットデータを使用したモデル学習を終了すると発表しました。これは、エンジニアが現在の解決策に不満を漏らした直後の決定です。もう一つは、Cloudflare Workers AIプラットフォームの活発な更新です。DeepSeekの552BパラメータMultimodal MoEモデル、PhoneLLM Miniによる音声チャット、Clairicのデータ抽出機能、createAIによる統一されたAIモデル管理などです。これらの動きは、AI開発者がオフライン/エッジベースのソリューションにシフトし、高速で管理されたAPIを通じてモデルを利用できることを示しています。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "OpenAIの決定は、AI開発の基盤を揺るがす可能性があります。同社は、ライブインターネットからの継続的な学習を「大きなリスク」と表現しています。具体的なリスクには、誤情報の取り込み、プライバシー違反の可能性、データの鮮度をめぐる法的問題などが含まれます。エンジニアが現在のフィルタリングソリューションが「機能しない」と指摘した後、この決定が下されたことは、技術的な課題が政策変更につながったことを示唆しています。開発者にとっての主な影響は、モデルの学習にクリーンでコントロールされたデータセットに依存する必要性が高まることです。また、リアルタイムのウェブスケール情報が必要なアプリケーションでは、エッジモデルや専門モデルとのハイブリッドアプローチの必要性が高まるでしょう。",
+      "source_title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "source_url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "今週は、画像や動画生成に特化した大きな発表はありません。Cloudflare Workers AIの更新には視覚コンテンツの生成機能は含まれていません。画像・動画生成AIの分野では、安定したモデルや新しいAPIの登場に注目してください。",
+      "source_title": "",
+      "source_url": ""
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "CopilotセッションのVS Codeへの引き継ぎ",
+      "prompt_body": "以下の手順でGitHub Copilotの会話をVS Codeに引き継ぎます：\n1. CopilotのUIで、会話をコピーするか、URLを保存します。\n2. VS Codeで、Copilotの「チャット」パネルを開きます。\n3. ペーストするか、URLをインポートして、会話、コンテキスト、編集履歴を復元します。\n4. 必要に応じて、チャット履歴をローカルに保存します（ファイル > チャット履歴の保存）。",
+      "prompt_usecase": "このプロンプトの使い方：開発者は、ブラウザベースのCopilotセッションからVS Codeに切り替える際に、コードの変更、説明、コンテキストをシームレスに引き継ぐことができます。これにより、IDEに集中して作業しながら、会話を継続できます。",
+      "prompt_source": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "Cloudflare Workers AIでDeepSeek V4.1 Flash 1017が利用可能になりました。この552BパラメータのMultimodal MoEモデルは、Workers AI上で軽量で高速な推論を提供し、エッジでの大規模言語モデル利用の可能性を広げています。開発者は、低レイテンシでマルチモーダルな推論を実現できるようになり、リアルタイムの音声や画像処理のユースケースに大きな可能性をもたらします。",
+      "source_title": "Workers AI - DeepSeek V4.1 Flash 1017 now available on Workers AI",
+      "source_url": "https://developers.cloudflare.com/changelog/post/2026-10-19-deepseek-v4.1-flash-workers-ai/"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "今週は特に注目すべきオンライン・オフラインのAIイベントはありません。",
+      "event_list": []
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "Cloudflare Workers AIの新しい機能をビジネスに活用する方法：\n1. **createAI SDK**を使用して、Workers AIモデル、AI Gatewayカタログモデル、動的ルート、ベンダーモデルを統一的に管理します。これにより、複数のAIプロバイダーを切り替えることなく、単一のインターフェースでモデルを呼び出すことができます。\n2. **Clairic**の抽出モデル（プレビュー中）を活用して、フォームやデータベースから構造化された数値データを抽出します。オープンウェイトの公開予定で、機密データをオンプレミスで処理したい企業に最適です。\n3. **PhoneLLM Mini**をリアルタイムの音声チャットボットに組み込み、Low‑latencyで多言語の会話を実現します。カスタマーサポートや仮想アシスタントに最適です。\n4. **DeepSeek V4.1 Flash**をエッジでマルチモーダル推論に使用し、画像キャプションやOCRなどのタスクをサーバー呼び出しなしで実行します。これにより、レイテンシを削減し、プライバシーを確保できます。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "2つの重要なトレンドが交差しています。第一に、主要AI企業はライブインターネットからの学習を制限し、より安全で管理されたデータパイプラインに移行しています。第二に、エッジプラットフォーム（Cloudflare Workers AIなど）は、大規模でマルチモーダルなモデルを軽量で低コストなAPIとして提供しています。この組み合わせにより、開発者はリアルタイムのウェブデータが必要な場合でも、安全なオフライン学習を活用できるようになり、AIシステムの透明性とコントロールが向上します。今後数ヶ月で、このようなハイブリッドアプローチが主流になるでしょう。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "source": "TechCrunch AI",
+      "category": "Industry"
+    },
+    {
+      "title": "Workers AI - DeepSeek V4.1 Flash 1017 now available on Workers AI",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-19-deepseek-v4.1-flash-workers-ai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "Workers AI, Realtime - Pipecat PhoneLLM Mini now available on Workers AI",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-15-phonellm-mini-workers-ai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "Agents, Workers AI, AI Gateway - createAI replaces workers-ai-provider and ai-gateway-provider",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-21-createai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "Workers AI - Introducing Clairic: an extraction model for typed values, now on Workers AI",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-19-clairic-workers-ai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "How to continue a GitHub Copilot app session in VS Code",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
+      "source": "GitHub AI & ML",
+      "category": "Prompts"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

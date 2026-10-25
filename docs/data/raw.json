@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-24T23:54:07.520111+00:00",
-  "total": 37,
+  "fetched_at": "2026-10-25T09:03:06.850346+00:00",
+  "total": 36,
   "items": [
     {
       "id": "b1787c28a150",
@@ -56,17 +56,6 @@
       "lang": "en",
       "category": "Industry",
       "priority": 1
-    },
-    {
-      "id": "0770743faf2b",
-      "title": "GPT-6 Astraと同等性能の中国製モデル「Kimi K3.1 Pro」が登場、2026年11月4日にモデルを無償公開予定",
-      "url": "https://gigazine.net/news/20261024-kimi-k3-1-pro/",
-      "summary": "中国企業のMoonshot AIがAIモデル「Kimi K3.1 Pro」を日本時間の2026年10月24日に発表しました。続きを読む...",
-      "date": "2026-10-24T11:50:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "7384891d7abd",
