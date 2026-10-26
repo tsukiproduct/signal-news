@@ -1,14 +1,25 @@
 {
-  "fetched_at": "2026-10-25T23:41:45.743530+00:00",
-  "total": 39,
+  "fetched_at": "2026-10-26T09:57:41.683144+00:00",
+  "total": 32,
   "items": [
     {
-      "id": "077625a73bd7",
-      "title": "無料の画像生成AI「Moss-Image」がすごい 日本語も漫画も生成、商用利用OKの実力を試した",
-      "url": "https://ascii.jp/elem/000/004/445/4445534/?rss",
-      "summary": "日本語描画や多彩な画風に対応した、オープンウエイトの画像生成AI「Moss-Image」を試す。行政の支援を受ける開発体制と事業戦略、今後の普及や画像生成AI市場への影響を考える。",
-      "date": "2026-10-25T22:00:00+00:00",
-      "source": "ASCII.jp",
+      "id": "893580cc767e",
+      "title": "「AIでエンジニア派遣は不要になる」のか？ 各社に肌感を聞いた 求められる人材、明確に変化",
+      "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002527/",
+      "summary": "生成AIがコードを書く時代、エンジニア派遣は不要になるのか。10月21～23日に幕張メッセで開催中の「Japan IT Week 秋 2026」には、派遣・紹介サービスを手掛ける企業が複数出展。エンジニア派遣の需要について、疑問を各社にぶつけてみた。",
+      "date": "2026-10-26T03:15:30+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "929153a4e049",
+      "title": "米国のデータセンター急増、AI需要で巨大化 受電容量「ギガ時代」に 中間選挙争点にも",
+      "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002578/",
+      "summary": "米国でデータセンター（DC）建設が急ピッチで進んでいる。米OpenAIや米Anthropicなどの人工知能（AI）開発大手が建設計画を主導し、施設数・規模とも他国を大きく引き離す「DC大国」ぶりをみせている。",
+      "date": "2026-10-26T02:52:26+00:00",
+      "source": "ITmedia News",
       "lang": "ja",
       "category": "Tech",
       "priority": 2
@@ -52,17 +63,6 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
       "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensour",
       "date": "2026-10-25T13:52:12+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "b1787c28a150",
-      "title": "Blue Planet III is keeping the rough edges in the age of AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dea",
-      "date": "2026-10-24T21:29:12+00:00",
       "source": "The Verge",
       "lang": "en",
       "category": "Tech",
@@ -113,17 +113,6 @@
       "priority": 1
     },
     {
-      "id": "fe2bd147f109",
-      "title": "「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開",
-      "url": "https://www.itmedia.co.jp/news/article/2610/24/2000002564/",
-      "summary": "Anthropicと英AI安全保障研究所AISIは、「Claude Mythos 5」がサイバー能力評価中に実在の開発者を標的とした事案の分析報告を公開した。GitHub経由で無許可の攻撃を行い偽身元で承認を迫った経緯を報告。実在の人物と認識しても攻撃を正当化して続行する傾向が確認され、評価手法の見直しが進む。",
-      "date": "2026-10-23T22:28:08+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "adc911a27597",
       "title": "Quick Study",
       "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
@@ -142,17 +131,6 @@
       "date": "2026-10-23T20:42:34+00:00",
       "source": "The Verge",
       "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "f4648023d721",
-      "title": "パナソニックHD子会社、使用禁止の生成AIに従業員約33万人分の個人情報をアップロード",
-      "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002562/",
-      "summary": "パナソニックホールディングス傘下のパナソニック オペレーショナルエクセレンス（大阪府門真市）は10月23日、社内プロジェクトに携わる社員が、パナソニックグループの従業員や元従業員、その家族ら計約33万4000人分の個人情報を含むデータを、社内で利用を禁止している外部の生成AIサービスにアップロードしていたと発表した。",
-      "date": "2026-10-23T12:48:45+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
       "category": "Tech",
       "priority": 2
     },
@@ -344,50 +322,6 @@
       "priority": 2
     },
     {
-      "id": "e4c7720184b2",
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-      "date": "2026-10-14T02:00:14+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "42f1c245f492",
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "summary": "",
-      "date": "2026-10-13T19:43:07+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "e1a17fbe2fe8",
-      "title": "Gemini 4 Argon for Robotics",
-      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "summary": "",
-      "date": "2026-10-13T16:01:58+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "fa170ce8a5cc",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "summary": "",
-      "date": "2026-10-13T16:01:52+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
       "id": "4a4fc79b71cd",
       "title": "Gemini 4 Argon is now available for developers.",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/",
@@ -418,17 +352,6 @@
       "source": "AINOW",
       "lang": "ja",
       "category": "AI",
-      "priority": 1
-    },
-    {
-      "id": "3fdb4d1098dd",
-      "title": "Agents - New web_fetch tool in the Agents SDK for reading webpages and documents, with automatic markdown conversion",
-      "url": "https://developers.cloudflare.com/changelog/post/2026-10-11-web-fetch/",
-      "summary": "The Cloudflare Agents SDK now provides a web_fetch tool that reads webpages, PDFs, and supported Office documents, using Workers AI Markdown Conversion to turn them into text the model can read. The tool requests Markdown directly from sites that sup",
-      "date": "2026-10-12T00:00:00+00:00",
-      "source": "Cloudflare Agents",
-      "lang": "en",
-      "category": "Prompts",
       "priority": 1
     }
   ]
