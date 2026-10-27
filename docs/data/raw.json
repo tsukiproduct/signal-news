@@ -1,7 +1,51 @@
 {
-  "fetched_at": "2026-10-27T01:01:41.971824+00:00",
-  "total": 36,
+  "fetched_at": "2026-10-27T09:42:43.297694+00:00",
+  "total": 37,
   "items": [
+    {
+      "id": "e3684c2635c4",
+      "title": "How solid-state transformers could help power the AI boom",
+      "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+      "summary": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t changed much for about a century, t",
+      "date": "2026-10-27T09:00:00+00:00",
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "7a07c74fbd6c",
+      "title": "専門AIで肌カウンセリング、ファンケルが新サービス チャットと顔画像解析で",
+      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002629/",
+      "summary": "ファンケルは10月27日、肌専門の人工知能（AI）を使った肌のカウンセリングサービスを始めた。スマートフォンなどで、同社の公式アプリから無料で利用できる。",
+      "date": "2026-10-27T07:24:32+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "cb685d5b4cbc",
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "date": "2026-10-27T02:00:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "8cbd8d09602b",
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+      "date": "2026-10-27T01:12:21+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
     {
       "id": "5e4a51fd299e",
       "title": "GPT-6.1 Terra",
@@ -12,17 +56,6 @@
       "lang": "en",
       "category": "Prompts",
       "priority": 1
-    },
-    {
-      "id": "0bec0d67f04c",
-      "title": "アップルから、一気に「iOS 27.2」が登場 Siri AIの日本語対応＆iPhone Duoでペンが利用可能に",
-      "url": "https://ascii.jp/elem/000/004/445/4445865/?rss",
-      "summary": "アップルは10月26日（現地時間）、iOSの最新バージョン「iOS 27.2」の配信を開始した。iOS 27.1を飛ばしていきなり登場したiOS 27.2の目玉は、なんと言ってもSiri AI！ そして、iPhone DuoではApple Pencilが利用できるようになった。",
-      "date": "2026-10-26T22:55:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "011555b6960e",
@@ -173,28 +206,6 @@
       "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
       "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
       "date": "2026-10-25T14:10:00+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "14717cc2caa6",
-      "title": "Will AI expose the rickety infrastructure of the internet?",
-      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-      "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
-      "date": "2026-10-24T20:15:33+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "41208e707565",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "date": "2026-10-24T19:00:00+00:00",
       "source": "TechCrunch AI",
       "lang": "en",
       "category": "Industry",

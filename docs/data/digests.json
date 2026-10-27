@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-10-27_evening-gpt6-1-terra-deepseek-v4-1",
+      "date": "2026-10-27",
+      "file_key": "2026-10-27_evening",
+      "title": "GPT‑6.1 TerraとDeepSeek V4.1が登場",
+      "summary": "OpenAIの高速AIモデルGPT-6.1 Terra、DeepSeek V4.1 FlashがCloudflare Workersで利用可能に。",
+      "tags": [
+        "AIモデル",
+        "高速推論",
+        "ビジネス活用"
+      ],
+      "slug": "gpt6-1-terra-deepseek-v4-1"
+    },
+    {
       "id": "2026-10-27_afternoon-workers-ai-new-models-clairic",
       "date": "2026-10-27",
       "file_key": "2026-10-27_afternoon",
@@ -410,21 +423,7 @@
         "ビジネス活用"
       ],
       "slug": "ai-news-opus-5-5-gpt-6-sol"
-    },
-    {
-      "id": "2026-10-03_morning-ai-agent-risk-infrastructure",
-      "date": "2026-10-03",
-      "file_key": "2026-10-03_morning",
-      "title": "AIエージェントのリスク対策と新インフラ",
-      "summary": "Appleがディスクアクセス制限、Cloudflareが検索・決済・判断モデルを提供、GPT-6 Solが低コスト化",
-      "tags": [
-        "AIエージェント",
-        "セキュリティ",
-        "Cloudflare",
-        "LLMコスト"
-      ],
-      "slug": "ai-agent-risk-infrastructure"
     }
   ],
-  "updated_at": "2026-10-27T01:07:07.505126+00:00"
+  "updated_at": "2026-10-27T09:47:35.023029+00:00"
 }
