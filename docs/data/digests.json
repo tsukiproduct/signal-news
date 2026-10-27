@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-10-27_afternoon-workers-ai-new-models-clairic",
+      "date": "2026-10-27",
+      "file_key": "2026-10-27_afternoon",
+      "title": "Workers AIで新モデル追加・Clairic抽出モデルのプレビュー公開",
+      "summary": "Cloudflare Workers AIにDeepSeek V4.1 Flash 1017とClairic抽出モデルが追加され、エージェント SDKも統一化。",
+      "tags": [
+        "Workers AI",
+        "AIモデルの追加",
+        "エージェントSDK"
+      ],
+      "slug": "workers-ai-new-models-clairic"
+    },
+    {
       "id": "2026-10-26_morning-ai-training-shift-new-edge-tools",
       "date": "2026-10-26",
       "file_key": "2026-10-26_morning",
@@ -411,23 +424,7 @@
         "LLMコスト"
       ],
       "slug": "ai-agent-risk-infrastructure"
-    },
-    {
-      "id": "2026-10-02_afternoon-ai-model-evolution-and-payment-innovation-week",
-      "date": "2026-10-02",
-      "file_key": "2026-10-02_afternoon",
-      "title": "AIモデル進化と支払い革新の週",
-      "summary": "GPT-6.1 Sol登場、Shopify AIサイト構築、Cloudflare決定モデルとMachine PaymentsなどAIエコシステムが急速に進化",
-      "tags": [
-        "AI",
-        "GPT-6.1 Sol",
-        "Shopify",
-        "Cloudflare",
-        "Machine Payments",
-        "Private AI"
-      ],
-      "slug": "ai-model-evolution-and-payment-innovation-week"
     }
   ],
-  "updated_at": "2026-10-25T23:43:25.529165+00:00"
+  "updated_at": "2026-10-27T01:07:07.505126+00:00"
 }

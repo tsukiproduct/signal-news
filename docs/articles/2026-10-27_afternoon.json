@@ -1,0 +1,107 @@
+{
+  "id": "2026-10-27_afternoon-workers-ai-new-models-clairic",
+  "file_key": "2026-10-27_afternoon",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T01:07:07.504381+00:00",
+  "title": "Workers AIで新モデル追加・Clairic抽出モデルのプレビュー公開",
+  "slug": "workers-ai-new-models-clairic",
+  "summary": "Cloudflare Workers AIにDeepSeek V4.1 Flash 1017とClairic抽出モデルが追加され、エージェント SDKも統一化。",
+  "tags": [
+    "Workers AI",
+    "AIモデルの追加",
+    "エージェントSDK"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "Workers AIプラットフォームで新たなAIモデルが追加され、Clairicという抽出モデルがプレビューとして利用可能になった。エージェント機能の統合も進み、開発者はより効率的なワークフローを構築できるようになる。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "DeepSeek V4.1 Flash 1017は552Bパラメータを持ちマルチモーダルMoEモデルとして提供され、Cloudflare Workers AI上で利用可能に。Clairicはテキスト抽出に特化した新しいモデルで、open weightsの公開が予定されている。",
+      "source_title": "DeepSeek V4.1 Flash 1017",
+      "source_url": "https://developers.cloudflare.com/changelog/post/2026-10-19-deepseek-v4.1-flash-workers-ai/"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "リアルタイムモデル追加",
+      "body": "Pipecat PhoneLLM MiniがWorkers AI上でリリースされ、リアルタイム処理向けに最適化されたモデルとして注目されている。"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "Clairic抽出モデルの利用プロンプト",
+      "prompt_body": "「この文書から特定の数値情報を抽出し、JSON形式で返して」と指示するプロンプトの例。Clairicの強みであるタイプ書きデータの抽出に有効。",
+      "prompt_usecase": "データ抽出タスクや構造化された情報の取得に適する",
+      "prompt_source": "https://developers.cloudflare.com/changelog/post/2026-10-19-clairic-workers-ai/"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "Clairic抽出モデルのプレビュー公開が話題に。AIエージェントの分類軸5つ（動作の仕組み・システム構成・用途・提供形態・自律性）を整理し、選択肢の多様性が注目を集めている。",
+      "source_title": "AIエージェントの種類一覧",
+      "source_url": "https://ainow.ai/2026/10/20/278443/"
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "新しいモデルを活用することで、データ抽出やエージェント駆動の業務自動化がより容易になる。Clairicは文書からの値抽出に特化しており、業務プロセスへの適用が期待される。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきトレンド",
+      "body": "DeepSeek V4.1やClairicといった新モデルの組み合わせが進む一方、エージェント SDKの統合が進み、開発者は一つのプラットフォーム上で複数の機能をシームレスに連携できるようになっている。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Workers AI - DeepSeek V4.1 Flash 1017 now available on Workers AI",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-19-deepseek-v4.1-flash-workers-ai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "Workers AI, Realtime - Pipecat PhoneLLM Mini now available on Workers AI",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-15-phonellm-mini-workers-ai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "Agents, Workers AI, AI Gateway - createAI replaces workers-ai-provider and ai-gateway-provider",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-21-createai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "AIエージェントの種類一覧！5つの分類軸と代表サービス・選び方を解説",
+      "url": "https://ainow.ai/2026/10/20/278443/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e7%25a8%25ae%25e9%25a1%259e%25e4%25b8%2580%25e8%25a6%25a7%25ef%25bc%25815%25e3%2581%25a4%25e3%2581%25ae%25e5%2588%2586%25e9%25a1%259e%25e8%25bb%25b8%25e3%2581%25a8%25e4%25bb%25a3%25e8%25a1%25a8%25e3%2582%25b5",
+      "source": "AINOW",
+      "category": "AI"
+    },
+    {
+      "title": "Workers AI - Introducing Clairic: an extraction model for typed values, now on Workers AI",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-19-clairic-workers-ai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "GPT-6.1 Terra",
+      "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
