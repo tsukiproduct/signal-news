@@ -1,7 +1,62 @@
 {
-  "fetched_at": "2026-10-28T00:51:07.995037+00:00",
+  "fetched_at": "2026-10-28T10:28:00.932959+00:00",
   "total": 32,
   "items": [
+    {
+      "id": "2aeb712eb62f",
+      "title": "Quoting Terk Terkowitz",
+      "url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
+      "summary": "If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, and work to find solutions. An engineer who can explain where AI does not yet help",
+      "date": "2026-10-28T10:09:07+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
+    {
+      "id": "4e128a2b6cc4",
+      "title": "【10/31～11/2】実写『ルックバック』製作のK2 Pictures代表が登壇！アカデミー賞2度受賞映像監督らも参加｜AI日本国際映画祭 - AI Film Festival Japan 2026",
+      "url": "https://ascii.jp/elem/000/004/446/4446653/?rss",
+      "summary": "【10/31～11/2】実写『ルックバック』製作のK2 Pictures代表が登壇！アカデミー賞2度受賞映像監督らも参加｜AI日本国際映画祭 - AI Film Festival Japan 2026",
+      "date": "2026-10-28T09:30:12+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "87c30b1210a8",
+      "title": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "date": "2026-10-28T09:30:00+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "b07555737175",
+      "title": "Anthropic、独自の“創薬活動”に着手 社員1人のバイオ企業を買収、小児難病の治療薬研究を進める",
+      "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002661/",
+      "summary": "米Anthropicは10月27日（現地時間）、小児の希少な筋ジストロフィーなどを対象に、自社で創薬活動を進めていると発表した。社員1人でAI「Claude」を使い外部11の研究機関と実験を進めてきた企業を買収し、研究を引き継いだ。",
+      "date": "2026-10-28T04:07:50+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "c8f58bc6838d",
+      "title": "顧客も巻き込むサイバー脅迫 GMO攻撃が問う企業の防御と国の対処、被害の連鎖どう断つ",
+      "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002660/",
+      "summary": "ネットサービス大手、GMOインターネットグループへの不正アクセス問題は10月27日、攻撃者からとみられる声明と、利用者情報とされるデータがネット上で公開されるなど、新たな段階に入った。人工知能（AI）を用いたサイバー攻撃が本格化しており、防御におけるAIの活用や、政府による攻撃拠点の無害化が求められている。",
+      "date": "2026-10-28T03:42:31+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
     {
       "id": "092cb86201fb",
       "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
@@ -14,17 +69,6 @@
       "priority": 1
     },
     {
-      "id": "b3d94e6db7eb",
-      "title": "身近な物を説明するとAIが手描き風で実際に機能するボタン付きで描いてくれる「Colorfigures」",
-      "url": "https://gigazine.net/news/20261028-colorfigures/",
-      "summary": "「Colorfigures」は「コインを入れてレバーを回すガムボールマシン」「お湯を沸かし、沸騰したら自動的に電源が切れる電気ケトル」というように身近な物を説明すると手描き風のイラストを生成し、3Dでぐりぐり動かしたりボタンを押して実際に動作させたりできるClaude Codeのスキルです。Claude Codeのターミナルからスキルを追加できるほか、ブラウザからライブデモを確認することもできます。続きを読む...",
-      "date": "2026-10-27T23:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "5ac9e6d4ee78",
       "title": "The data center boom has an upside: innovation for the US grid",
       "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
@@ -34,28 +78,6 @@
       "lang": "en",
       "category": "Industry",
       "priority": 1
-    },
-    {
-      "id": "a0d988085883",
-      "title": "AIが賢くなるだけでは企業は変わらない AIエージェントが仕事をする時代、企業のデータはどう守り、どう使うのか？",
-      "url": "https://ascii.jp/elem/000/004/442/4442670/?rss",
-      "summary": "AIエージェントが人間に代わって業務を実行する時代、企業が持つデータをどのように管理し、活用していくべきなのか。CEATEC 2026では、AI・データ基盤を提供する企業と、データ戦略を推進する企業の双方が登壇し、「Agentic AIとデータ基盤の未来－Open Data Spacesが拓く、AIネイティブ経営のための技術戦略」と題したセッションが開催された。",
-      "date": "2026-10-27T22:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "f4267ca84bab",
-      "title": "Google DeepMind、ワールドモデル「Genie 4」発表 音声や会話もリアルタイム生成、Geminiと連携",
-      "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002648/",
-      "summary": "Google DeepMindは、対話型の仮想世界をリアルタイム生成するAI「Genie 4」を発表した。映像品質や物理演算が向上し、環境音や会話音声の同時生成に対応。人物の自然な動作やテキストによる環境操作が可能となった。まずは研究プレビューとして提供し、順次「Google AI Ultra」加入者等へ展開する。",
-      "date": "2026-10-27T21:53:37+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "e36bd78a13d6",
@@ -121,17 +143,6 @@
       "source": "OpenAI Blog",
       "lang": "en",
       "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "afdc5264df2f",
-      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-      "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
-      "date": "2026-10-27T14:59:09+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
       "priority": 1
     },
     {
@@ -342,17 +353,6 @@
       "lang": "en",
       "category": "Safety",
       "priority": 2
-    },
-    {
-      "id": "e4c7720184b2",
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-      "date": "2026-10-14T02:00:14+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
     }
   ]
 }
