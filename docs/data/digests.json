@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-10-30_evening-ai-news-weekly-logistics-models",
+      "date": "2026-10-30",
+      "file_key": "2026-10-30_evening",
+      "title": "AIニュース週間サマリー：物流自動化からモデル公開まで",
+      "summary": "イオンのフィジカルAI物流、MistralのサイバーAI、CloudflareのDeepSeek追加などを解説。",
+      "tags": [
+        "AI",
+        "物流",
+        "セキュリティ",
+        "Mistral",
+        "Cloudflare"
+      ],
+      "slug": "ai-news-weekly-logistics-models"
+    },
+    {
       "id": "2026-10-27_evening-gpt6-1-terra-deepseek-v4-1",
       "date": "2026-10-27",
       "file_key": "2026-10-27_evening",
@@ -409,21 +424,7 @@
         "企業導入"
       ],
       "slug": "ai-weekly-new-models-agent-security-search-api"
-    },
-    {
-      "id": "2026-10-03_evening-ai-news-opus-5-5-gpt-6-sol",
-      "date": "2026-10-03",
-      "file_key": "2026-10-03_evening",
-      "title": "AI最新動向：Opus 5.5とGPT-6 Solが性能とコストを両立",
-      "summary": "AnthropicとOpenAIの新モデルが性能向上とコスト削減を実現。AppleのAIエージェント対策やCloudflareのWeb検索APIも注目。",
-      "tags": [
-        "AIモデル",
-        "クラウドサービス",
-        "セキュリティ",
-        "ビジネス活用"
-      ],
-      "slug": "ai-news-opus-5-5-gpt-6-sol"
     }
   ],
-  "updated_at": "2026-10-27T09:47:35.023029+00:00"
+  "updated_at": "2026-10-30T10:50:03.999698+00:00"
 }

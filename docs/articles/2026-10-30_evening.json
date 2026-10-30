@@ -1,0 +1,112 @@
+{
+  "id": "2026-10-30_evening-ai-news-weekly-logistics-models",
+  "file_key": "2026-10-30_evening",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T10:50:03.998829+00:00",
+  "title": "AIニュース週間サマリー：物流自動化からモデル公開まで",
+  "slug": "ai-news-weekly-logistics-models",
+  "summary": "イオンのフィジカルAI物流、MistralのサイバーAI、CloudflareのDeepSeek追加などを解説。",
+  "tags": [
+    "AI",
+    "物流",
+    "セキュリティ",
+    "Mistral",
+    "Cloudflare"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "今週のAI動向は「実世界への応用」と「開発者向けモデル公開」の二軸が際立ちました。イオンがフィジカルAIで物流拠点を自動化し、Mistralがサイバーセキュリティ向けに兆パラメータモデルを公開。CloudflareもDeepSeekモデルをWorkers AIに追加し、開発者の選択肢が広がっています。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "イオンは10月29日、Mujinと協力して「フィジカルAI」搭載ロボットを活用した配送拠点「イオン川口東XD」を公開しました。この拠点では、AIが機械を自律的に動かし、自動化率50%を達成。深刻な人手不足を背景に、将来的にはさらなる省人化が期待されています。一方、Mistralはサイバーセキュリティ防御向けに兆パラメータ規模のモデル重みを公開。組織が独自の防御戦略を構築できるよう支援する狙いです。",
+      "source_title": "イオン、フィジカルAIで物流改革 配送拠点の自動化率5割達成 深刻な人手不足に対応",
+      "source_url": "https://www.itmedia.co.jp/news/article/2610/30/2000002751/"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "本週のニュースには画像・動画生成AIに関する情報は含まれませんでした。"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "会議ノート整理アシスタント",
+      "prompt_body": "以下の会議ノートを要約し、アクションアイテムを抽出してください：{会議内容}",
+      "prompt_usecase": "音声入力機能を活用したノート整理や、チーム内での情報共有に使用できます。",
+      "prompt_source": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "Mistralが公開した兆パラメータモデルは、Hacker NewsやRedditで「オープンサイバーAI」として注目を集めました。開発者たちは、このモデルを活用してカスタムセキュリティツールを構築する可能性について議論を始めています。"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "今週の主要なAI関連オンラインイベントは確認されていません。"
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "物流業界はフィジカルAIの導入により、人手不足の解決と運営コストの削減が可能になります。小売業者や物流会社は、類似技術を模索することで競争力が向上するでしょう。また、MistralのサイバーAIモデルは、金融やヘルスケアなどセキュリティが重要な業界において、カスタマイズされた防御システムの構築を支援します。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "今後のトレンドとして、「AIと物理世界の融合」と「セキュリティ分野でのモデル公開」が重要です。特に、企業が自社のニーズに合わせてAIをカスタマイズできるプラットフォームの成長が期待されます。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "イオン、フィジカルAIで物流改革 配送拠点の自動化率5割達成 深刻な人手不足に対応",
+      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002751/",
+      "source": "ITmedia News",
+      "category": "Tech"
+    },
+    {
+      "title": "Granola crunches up a dictation feature to compete with Wispr",
+      "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+      "source": "TechCrunch AI",
+      "category": "Industry"
+    },
+    {
+      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "source": "TechCrunch AI",
+      "category": "Industry"
+    },
+    {
+      "title": "Workers AI - DeepSeek V4.1 Flash 1017 now available on Workers AI",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-19-deepseek-v4.1-flash-workers-ai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "Agents, Workers AI, AI Gateway - createAI replaces workers-ai-provider and ai-gateway-provider",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-21-createai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "source": "Hugging Face Blog",
+      "category": "Prompts"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
