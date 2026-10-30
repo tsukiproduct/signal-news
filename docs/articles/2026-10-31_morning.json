@@ -1,0 +1,110 @@
+{
+  "id": "2026-10-31_morning-cloudflare-workers-ai-physical-ai-update",
+  "file_key": "2026-10-31_morning",
+  "date": "2026-10-31",
+  "generated_at": "2026-10-30T16:53:30.760160+00:00",
+  "title": "Cloudflare Workers AI大型更新とフィジカルAI実装",
+  "slug": "cloudflare-workers-ai-physical-ai-update",
+  "summary": "CloudflareがWorkers AIでDeepSeek V4.1 Flash等を追加、イオンが配送拠点で自動化率5割達成、Mistral Large 4がHugging Face公開",
+  "tags": [
+    "Cloudflare",
+    "Workers AI",
+    "Physical AI",
+    "Mistral",
+    "LLM",
+    "Logistics Automation"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "クラウドエッジでの大規模モデル提供と実空間でのロボット自律化が並行して進んでいる。CloudflareはWorkers AIで552BパラメータのマルチモーダルMoEモデルや統一SDK、構造化抽出モデルを相次いで公開。一方、イオンとMujinはフィジカルAI搭載ロボットで配送拠点の自動化率5割を実現し、深刻な人手不足への具体解を示した。大規模言語モデルではMistral Large 4（4兆パラメータ）がHugging Faceで利用可能になり、開発者のアクセス障壁がさらに下がっている。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説：Cloudflare Workers AIの機能拡充",
+      "body": "Cloudflareは10月19〜21日にかけて3件の更新を公開した。第一にDeepSeek V4.1 Flash 1017（@cf/deepseek-ai/deepseek-v4.1-flash-1017）がWorkers AIで利用可能になった。552BパラメータのマルチモーダルMoEモデルで、エッジ推論での大規模モデル活用の選択肢が広がる。第二にAgents SDKへcreateAI関数が追加され、Workers AIモデル、AI Gatewayカタログモデル、動的ルート、ベンダーモデルを統一インターフェースで呼び出せるようになった。これによりマルチベンダー環境でのモデル切り替えやフォールバック実装が容易になる。第三にClairicという型付き値抽出特化モデルがプレビュー公開され、open weights公開も予定されている。構造化データ抽出タスクでの精度向上が期待される。料金・レート制限・商用利用条件・提供リージョンは原典確認が必要。",
+      "source_title": "Workers AI - DeepSeek V4.1 Flash 1017 now available on Workers AI / Agents, Workers AI, AI Gateway - createAI replaces workers-ai-provider and ai-gateway-provider / Workers AI - Introducing Clairic",
+      "source_url": "https://developers.cloudflare.com/changelog/post/2026-10-19-deepseek-v4.1-flash-workers-ai/"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "本ニュースセットに画像・動画生成AI関連の更新は含まれていない。"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "構造化データ抽出指示",
+      "prompt_body": "以下の自由形式テキストから、項目名・値・データ型（string/number/date/boolean）のJSON配列として抽出してください。不明な項目はnullとし、推測しないでください。\n\n[入力テキスト]",
+      "prompt_usecase": "Clairicのような抽出モデルや、構造化出力対応LLMで請求書・メール・ログから確実にデータを取り出す際に使用。型指定により後続処理のバリデーションが容易になる。",
+      "prompt_source": "https://developers.cloudflare.com/changelog/post/2026-10-19-clairic-workers-ai/"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "Mistral Large 4（4兆パラメータ）がHugging Faceでホスト公開された。同規模クラスのモデルが主要プラットフォームで直接利用可能になったことは、大規模モデルの民主化において象徴的な一歩。開発者は専用インフラなしで推論実験が可能になる。ライセンス・商用利用可否・推論コスト・量子化版の有無は原典確認が必要。",
+      "source_title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "source_url": "https://huggingface.co/blog/mistral-large4"
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "CloudflareのcreateAI統一インターフェースを活用し、本番環境ではコスト重視の小型モデル・精度重視の大型モデルをタスク別に動的切り替えする設計が現実的になる。Clairicプレビューを用い、顧客問い合わせメールから注文番号・金額・納期などを型付きJSONで自動抽出し、ERP連携の前処理を自動化できる。フィジカルAI事例では、イオン川口東XDの自動化率5割達成は、ピッキング・仕分け・搬送の自律ロボット化が現場レベルで機能し始めた証左。物流・製造・小売の現場責任者は、自社の作業工程のうち『判断を含む反復作業』を洗い出し、ロボットSIerとPoC検討を開始するタイミングと言える。ASUS ROG Flow Z13（64GBメモリ・Ryzen AI 9）が459,800円で入手可能な点は、ローカルLLM推論・ファインチューニング検証用ワークステーションとしてコスパ良好。VRAM制約のあるGPU環境より、大容量ユニファイドメモリのAPU機を推論サーバ代替として検討価値あり。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "CloudflareのエッジAI基盤がモデル提供・SDK・ゲートウェイの三位一体で成熟しつつある。createAIの実運用フィードバックとClairicの正式版移行時期をウォッチ。フィジカルAI分野ではイオン以外の大手小売・物流への横展開速度が焦点。Mistral Large 4の実推論性能・ライセンス詳細・コミュニティでの量子化・蒸留派生モデルの出現動向を追う。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "イオン、フィジカルAIで物流改革 配送拠点の自動化率5割達成 深刻な人手不足に対応",
+      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002751/",
+      "source": "ITmedia News",
+      "category": "Tech"
+    },
+    {
+      "title": "Workers AI - DeepSeek V4.1 Flash 1017 now available on Workers AI",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-19-deepseek-v4.1-flash-workers-ai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "Agents, Workers AI, AI Gateway - createAI replaces workers-ai-provider and ai-gateway-provider",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-21-createai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "Workers AI - Introducing Clairic: an extraction model for typed values, now on Workers AI",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-19-clairic-workers-ai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "中身はハイエンド、姿はタブレット！ 64GBメモリー搭載のASUS「ROG Flow Z13」が5万円引き",
+      "url": "https://ascii.jp/elem/000/004/447/4447090/?rss",
+      "source": "ASCII.jp",
+      "category": "Tech"
+    },
+    {
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "source": "Hugging Face Blog",
+      "category": "Prompts"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

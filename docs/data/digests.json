@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "id": "2026-10-31_morning-cloudflare-workers-ai-physical-ai-update",
+      "date": "2026-10-31",
+      "file_key": "2026-10-31_morning",
+      "title": "Cloudflare Workers AI大型更新とフィジカルAI実装",
+      "summary": "CloudflareがWorkers AIでDeepSeek V4.1 Flash等を追加、イオンが配送拠点で自動化率5割達成、Mistral Large 4がHugging Face公開",
+      "tags": [
+        "Cloudflare",
+        "Workers AI",
+        "Physical AI",
+        "Mistral",
+        "LLM",
+        "Logistics Automation"
+      ],
+      "slug": "cloudflare-workers-ai-physical-ai-update"
+    },
+    {
       "id": "2026-10-30_evening-ai-news-weekly-logistics-models",
       "date": "2026-10-30",
       "file_key": "2026-10-30_evening",
@@ -409,22 +425,7 @@
         "エネルギー効率"
       ],
       "slug": "latest-ai-trends-price-access"
-    },
-    {
-      "id": "2026-10-04_morning-ai-weekly-new-models-agent-security-search-api",
-      "date": "2026-10-04",
-      "file_key": "2026-10-04_morning",
-      "title": "新モデルとAIエージェントの安全策、検索APIが登場",
-      "summary": "Opus 5.5とGPT-6 Sol/Lunaが低価格化、Appleがフルディスクアクセス制限、CloudflareがWeb検索API提供開始",
-      "tags": [
-        "LLM",
-        "AIエージェント",
-        "セキュリティ",
-        "API",
-        "企業導入"
-      ],
-      "slug": "ai-weekly-new-models-agent-security-search-api"
     }
   ],
-  "updated_at": "2026-10-30T10:50:03.999698+00:00"
+  "updated_at": "2026-10-30T16:53:30.761746+00:00"
 }

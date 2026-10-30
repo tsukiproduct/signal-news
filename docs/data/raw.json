@@ -1,14 +1,80 @@
 {
-  "fetched_at": "2026-10-30T10:47:02.165678+00:00",
-  "total": 37,
+  "fetched_at": "2026-10-30T16:50:26.483565+00:00",
+  "total": 34,
   "items": [
     {
-      "id": "2a3156dda6e4",
-      "title": "AIの回答で登場する統計データの40％が裏付ける研究結果などがない「ゾンビ統計」であることが明らかに",
-      "url": "https://gigazine.net/news/20261030-ai-assistants-statistics-not-find-study/",
-      "summary": "ChatGPT、Perplexity、Gemini、Claude、Google検索のAIによる概要という5つのAIアシスタントが出力した統計情報1285件を追跡調査したところ、そのほとんどが研究による裏付けのないものだったとAI可視化プラットフォームのTrakkrが報告しています。続きを読む...",
-      "date": "2026-10-30T07:19:00+00:00",
-      "source": "Gigazine",
+      "id": "9baf1e5f5ceb",
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+      "date": "2026-10-30T16:03:45+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "cfe1c65d6cd5",
+      "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+      "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concre",
+      "date": "2026-10-30T15:14:37+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "8d27aa6fa749",
+      "title": "This electric screwdriver uses a camera and AI to figure out what bit you need",
+      "url": "https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter",
+      "summary": "Companies like Hoto and Fanttik have elevated the design and functionality of tools like electric screwdrivers, but Arrowmax wants to make them smarter by adding a camera and AI that work together to eliminate the trial and error of finding the exact",
+      "date": "2026-10-30T14:23:26+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "30b5f07a33cd",
+      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "summary": "DoorDash said that it is open to working with third-party agent makers.",
+      "date": "2026-10-30T13:54:25+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "20dbf8891676",
+      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be ",
+      "date": "2026-10-30T13:30:14+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "12c5b28f8540",
+      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+      "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+      "date": "2026-10-30T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "5c777dfaa0c4",
+      "title": "中身はハイエンド、姿はタブレット！ 64GBメモリー搭載のASUS「ROG Flow Z13」が5万円引き",
+      "url": "https://ascii.jp/elem/000/004/447/4447090/?rss",
+      "summary": "ASUSの13.4型ゲーミングPC「ROG Flow Z13（GZ302EA-AI916C64G）」がAmazonのタイムセール対象。参考価格509,800円から10％オフの459,800円で販売中。Ryzen AI MAX+ 395と64GBメモリーを搭載し、キーボードを取り外せばタブレットとしても使える。ハイエンドな構成ながら、ノートPCにもタブレットにもなる欲張りなモデルだ。",
+      "date": "2026-10-30T12:50:00+00:00",
+      "source": "ASCII.jp",
       "lang": "ja",
       "category": "Tech",
       "priority": 2
@@ -47,77 +113,11 @@
       "priority": 1
     },
     {
-      "id": "27c634a12842",
-      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-      "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An ove",
-      "date": "2026-10-29T22:43:40+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "4d3c8f997f61",
-      "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
-      "url": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
-      "summary": "Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic to the platform, echoing problems facing other websites and publishers. As part of its Q3 2026 earnings, Reddit revealed that searc",
-      "date": "2026-10-29T22:25:10+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "60144b1613db",
       "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
       "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
       "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
       "date": "2026-10-29T20:08:31+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "223b05929cb3",
-      "title": "Rivian expands joint venture with VW to include AI assistant",
-      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-      "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
-      "date": "2026-10-29T20:05:47+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "db83db5c214c",
-      "title": "OpenAI-backed Thrive Holdings acquires ADT",
-      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-      "date": "2026-10-29T19:56:19+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "5d9d7808457b",
-      "title": "Meta quietly launches an AI fashion app called Style Sketch",
-      "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-      "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
-      "date": "2026-10-29T19:14:36+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "72117db35823",
-      "title": "Granola crunches up a dictation feature to compete with Wispr",
-      "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
-      "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
-      "date": "2026-10-29T17:54:38+00:00",
       "source": "TechCrunch AI",
       "lang": "en",
       "category": "Industry",
@@ -143,17 +143,6 @@
       "source": "OpenAI Blog",
       "lang": "en",
       "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "f4d2fa0b488e",
-      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-      "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
-      "date": "2026-10-29T17:00:00+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
       "priority": 1
     },
     {
@@ -316,28 +305,6 @@
       "url": "https://openai.com/index/legora",
       "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
       "date": "2026-10-28T09:30:00+00:00",
-      "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "8c368ae02674",
-      "title": "Retell uses OpenAI models to help power 100M monthly calls",
-      "url": "https://openai.com/index/retell-ai",
-      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-      "date": "2026-10-27T15:00:00+00:00",
-      "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "866a8680f78e",
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-      "date": "2026-10-27T07:00:00+00:00",
       "source": "OpenAI Blog",
       "lang": "en",
       "category": "Research",
