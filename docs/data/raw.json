@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-31T10:16:34.650816+00:00",
-  "total": 33,
+  "fetched_at": "2026-10-31T15:54:04.923135+00:00",
+  "total": 31,
   "items": [
     {
       "id": "7ad266759f05",
@@ -36,17 +36,6 @@
       "priority": 1
     },
     {
-      "id": "18ea57daed9d",
-      "title": "The biggest names in AI are backing a new way to opt out of scraping",
-      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferen",
-      "date": "2026-10-30T22:04:23+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "c6d867f631df",
       "title": "Intel’s stock crashes, knocking $12B from government’s stake",
       "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
@@ -80,17 +69,6 @@
       "priority": 1
     },
     {
-      "id": "b119c6eeb05f",
-      "title": "Google’s satellite AI server transmits its first response to Earth",
-      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-      "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on ",
-      "date": "2026-10-30T18:21:38+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "c9dcfb62ccca",
       "title": "Zest’s new AI agent finds restaurants and books reservations over text",
       "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
@@ -100,17 +78,6 @@
       "lang": "en",
       "category": "Industry",
       "priority": 1
-    },
-    {
-      "id": "a5d82a5cf5c8",
-      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-      "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating custome",
-      "date": "2026-10-30T17:38:04+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "14b39e2399e0",
@@ -240,6 +207,17 @@
       "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and",
       "date": "2026-10-28T20:32:02+00:00",
       "source": "MIT Tech Review",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "05b8a9f5907e",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "summary": "",
+      "date": "2026-10-28T17:00:58+00:00",
+      "source": "Google DeepMind",
       "lang": "en",
       "category": "Research",
       "priority": 1
