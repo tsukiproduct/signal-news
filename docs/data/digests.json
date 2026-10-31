@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-10-31_evening-ai-assistant-shakeout-implementation-advances",
+      "date": "2026-10-31",
+      "file_key": "2026-10-31_evening",
+      "title": "AIアシスタント淘汰と実装進展",
+      "summary": "Ollie終了、Zest実用化、OpenAIの学習制御、イオンのフィジカルAI、新モデル公開",
+      "tags": [
+        "AIエージェント",
+        "フィジカルAI",
+        "データガバナンス"
+      ],
+      "slug": "ai-assistant-shakeout-implementation-advances"
+    },
+    {
       "id": "2026-10-31_morning-cloudflare-workers-ai-physical-ai-update",
       "date": "2026-10-31",
       "file_key": "2026-10-31_morning",
@@ -409,23 +422,7 @@
         "モデル進化"
       ],
       "slug": "ai-advertising-security-latest"
-    },
-    {
-      "id": "2026-10-05_morning-latest-ai-trends-price-access",
-      "date": "2026-10-05",
-      "file_key": "2026-10-05_morning",
-      "title": "最新AI開発トレンド：価格下落と権限管理の進化",
-      "summary": "Opus 5.5のコスト削減、GPT-6 Solの低価格化、そしてAppleのAIエージェント権限管理強化など、AI分野での主要な動向がまとめられています",
-      "tags": [
-        "AI開発",
-        "価格競争",
-        "セキュリティ",
-        "オープンソース",
-        "Web検索",
-        "エネルギー効率"
-      ],
-      "slug": "latest-ai-trends-price-access"
     }
   ],
-  "updated_at": "2026-10-30T16:53:30.761746+00:00"
+  "updated_at": "2026-10-31T10:22:00.473632+00:00"
 }

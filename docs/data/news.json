@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-31T01:20:05.390297+00:00",
-  "fetched_at": "2026-10-31T01:18:16.430935+00:00",
-  "total": 30,
+  "updated_at": "2026-10-31T10:21:35.035348+00:00",
+  "fetched_at": "2026-10-31T10:16:34.650816+00:00",
+  "total": 29,
   "curated": true,
   "items": [
     {
@@ -50,6 +50,30 @@
       "try_next_en": "Test Zest's AI concierge with a sample group to verify functionality",
       "caveat_ja": "記事では対応地域や利用可能なプラン、価格について詳しく説明されていません。",
       "caveat_en": "The excerpt does not specify coverage areas, available plans, or pricing.",
+      "translation_status": "machine"
+    },
+    {
+      "id": "14b39e2399e0",
+      "title": "Making it easier for websites to express AI training preferences",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "date": "2026-10-30T09:30:00+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1,
+      "score": 9,
+      "reason": "Concrete user-facing change: creators gain a standardized, honored mechanism to opt out of AI training",
+      "summary_ja": "OpenAIが共通のrobots.txtシグナルを尊重し、サイト運営者がAI学習への許可・拒否を参加プロバイダーに伝えられるようにする。",
+      "title_ja": "OpenAI、ウェブサイトのAI学習拒否をrobots.txtで尊重へ",
+      "title_en": "OpenAI to Honor robots.txt Signal for AI Training Preferences",
+      "summary_en": "OpenAI will honor a shared robots.txt signal, letting site operators communicate AI training allow/deny preferences to participating providers.",
+      "useful_for_ja": "自サイトコンテンツのAI学習利用を制御したいウェブ運営者・コンテンツ作成者",
+      "useful_for_en": "Web operators and creators wanting control over AI training use of their content",
+      "try_next_ja": "自サイトのrobots.txtに適切なディレクティブを追加し、OpenAI以外の参加プロバイダー一覧を確認",
+      "try_next_en": "Add proper directives to your robots.txt and verify the list of participating providers beyond OpenAI",
+      "caveat_ja": "参加プロバイダーの完全なリストと実装詳細は元記事・公式ドキュメントで確認必要",
+      "caveat_en": "Full list of participating providers and implementation details need verification from source/docs",
       "translation_status": "machine"
     },
     {
@@ -197,30 +221,6 @@
       "translation_status": "machine"
     },
     {
-      "id": "5c777dfaa0c4",
-      "title": "中身はハイエンド、姿はタブレット！ 64GBメモリー搭載のASUS「ROG Flow Z13」が5万円引き",
-      "url": "https://ascii.jp/elem/000/004/447/4447090/?rss",
-      "summary": "ASUSの13.4型ゲーミングPC「ROG Flow Z13（GZ302EA-AI916C64G）」がAmazonのタイムセール対象。参考価格509,800円から10％オフの459,800円で販売中。Ryzen AI MAX+ 395と64GBメモリーを搭載し、キーボードを取り外せばタブレットとしても使える。ハイエンドな構成ながら、ノートPCにもタブレットにもなる欲張りなモデルだ。",
-      "date": "2026-10-30T12:50:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2,
-      "score": 7,
-      "reason": "Concrete price drop on AI-capable hardware in Japan; user-facing pricing change",
-      "summary_ja": "ASUSの13.4型ゲーミングPC「ROG Flow Z13（GZ302EA-AI916C64G）」がAmazonのタイムセールで509,800円から459,800円（10%オフ）に値引きされた。Ryzen AI MAX+ 395と64GBメモリーを搭載し、キーボードを外せばタブレットとして使用可能。",
-      "title_ja": "中身はハイエンド、姿はタブレット！64GBメモリー搭載ASUS「ROG Flow Z13」が5万円引き",
-      "title_en": "ASUS ROG Flow Z13 with 64GB RAM drops by 50,000 yen",
-      "summary_en": "ASUS's 13.4-inch gaming PC ROG Flow Z13 (GZ302EA-AI916C64G) is on Amazon's time sale at 459,800 yen (10% off from 509,800 yen). Equipped with Ryzen AI MAX+ 395 and 64GB RAM, it can be used as a tablet when the keyboard is detached.",
-      "useful_for_ja": "AI-capableゲーミングHardwareを日本で購入検討中の用户",
-      "useful_for_en": "Users in Japan considering purchase of AI-capable gaming hardware",
-      "try_next_ja": "Amazonの販売期間と在庫状況を確認する",
-      "try_next_en": "Check Amazon's sale period and stock availability",
-      "caveat_ja": "タイムセールの期限・在庫あり・価格は記載の価格で確認必要",
-      "caveat_en": "Time sale period and stock levels need verification; price as listed",
-      "translation_status": "machine"
-    },
-    {
       "id": "a0c591335685",
       "title": "Building a multiplayer game world with autonomous Fable-class models",
       "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
@@ -317,6 +317,30 @@
       "translation_status": "machine"
     },
     {
+      "id": "a33227d4fab6",
+      "title": "Fair use benefits everyone",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+      "date": "2026-10-30T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1,
+      "score": 6,
+      "reason": "Relevant legal context for creators but no immediate tooling/access/pricing change",
+      "summary_ja": "クリエイター・研究者・アクセシビリティ擁護者・法律家らが提出した意見書から、フェアユースがAI学習とイノベーションをどう支えるかの抜粋を共有。",
+      "title_ja": "OpenAI、フェアユースがAI学習・革新を支えるとの法廷意見書抜粋を公開",
+      "title_en": "OpenAI Publishes Court Brief Excerpts Arguing Fair Use Supports AI Training",
+      "summary_en": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts on how fair use underpins AI training and innovation.",
+      "useful_for_ja": "AIと著作権の法的議論を追う法務・政策担当・研究者",
+      "useful_for_en": "Legal/policy teams and researchers tracking AI copyright litigation",
+      "try_next_ja": "原文の意見書全文と対立する判例も合わせて読み、自社リスクを評価",
+      "try_next_en": "Read full briefs and opposing rulings to assess organizational risk",
+      "caveat_ja": "法的助言ではない。管轄・用途による制約は専門家に確認",
+      "caveat_en": "Not legal advice; jurisdiction- and use-specific limits require counsel",
+      "translation_status": "machine"
+    },
+    {
       "id": "70d34d54b1b3",
       "title": "国内で公表された生成AIの事案18件から考える、社内ルールで防げるリスクと仕組みで防ぐリスク",
       "url": "https://ainow.ai/2026/10/28/278461/?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%259b%25bd%25e5%2586%2585%25e3%2581%25a7%25e5%2585%25ac%25e8%25a1%25a8%25e3%2581%2595%25e3%2582%258c%25e3%2581%259f%25e7%2594%259f%25e6%2588%2590ai%25e3%2581%25ae%25e4%25ba%258b%25e6%25a1%258818%25e4%25bb%25b6%25e3%2581%258b%25e3%2582%2589%25e8%2580%2583%25e3%2581%2588%25e3%2582%258b%25e3%2580%2581%25e7%25a4%25be",
@@ -339,6 +363,20 @@
       "caveat_ja": "事案詳細・業種・規模・具体的技術的対策は記事で確認必要",
       "caveat_en": "Case details, industries, sizes, and specific technical controls require reading full article",
       "translation_status": "machine"
+    },
+    {
+      "id": "7ad266759f05",
+      "title": "Material 3 Expressiveの画面をブラウザで組み立てて画面同士をつなぎタップして確かめてそのままAIコーディング用のプロンプトにするツール「M3E Canvas」",
+      "url": "https://gigazine.net/news/20261031-m3e-canvas/",
+      "summary": "AIコーディングツールでアプリを開発する際には、画面の配置やボタンを押したときの動作などを文章で説明する必要があります。そこでGoogleの「Material 3 Expressive」に対応した部品をブラウザ上で組み立て、複数の画面をつないで実際にタップしながら動作を確認できるほか、設計内容をそのままAIコーディング用のプロンプトに変換できる無料のオープンソースツールが「M3E Canvas」です。続きを読む...",
+      "date": "2026-10-31T09:00:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "AIコーディングツールでアプリを開発する際には、画面の配置やボタンを押したときの動作などを文章で説明する必要があります。そこでGoogleの「Material 3 Expressive」に対応した部品をブラウザ上で組み立て、複数の画面をつないで実際にタップしながら動作を確認できるほか、設計内容をそのままAIコーディング用のプロンプトに変換できる無料のオープンソースツールが「M3E Canvas」です。続きを読む..."
     },
     {
       "id": "18ea57daed9d",
@@ -381,34 +419,6 @@
       "score": 5,
       "reason": "未評価",
       "summary_ja": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating custome"
-    },
-    {
-      "id": "14b39e2399e0",
-      "title": "Making it easier for websites to express AI training preferences",
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-      "date": "2026-10-30T09:30:00+00:00",
-      "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1,
-      "score": 5,
-      "reason": "未評価",
-      "summary_ja": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers."
-    },
-    {
-      "id": "a33227d4fab6",
-      "title": "Fair use benefits everyone",
-      "url": "https://openai.com/index/fair-use-benefits-everyone",
-      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-      "date": "2026-10-30T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1,
-      "score": 5,
-      "reason": "未評価",
-      "summary_ja": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation."
     },
     {
       "id": "aaf5e6791aaf",
@@ -577,20 +587,6 @@
       "caveat_ja": "業界による推奨は異なる",
       "caveat_en": "Recommendations may vary by industry",
       "translation_status": "machine"
-    },
-    {
-      "id": "05b8a9f5907e",
-      "title": "Gemini 4 Carbon: Our next frontier model",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "summary": "",
-      "date": "2026-10-28T17:00:58+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1,
-      "score": 5,
-      "reason": "未評価",
-      "summary_ja": ""
     },
     {
       "id": "625cd70e8749",

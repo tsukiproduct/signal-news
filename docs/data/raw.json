@@ -1,7 +1,29 @@
 {
-  "fetched_at": "2026-10-31T01:18:16.430935+00:00",
-  "total": 34,
+  "fetched_at": "2026-10-31T10:16:34.650816+00:00",
+  "total": 33,
   "items": [
+    {
+      "id": "7ad266759f05",
+      "title": "Material 3 Expressiveの画面をブラウザで組み立てて画面同士をつなぎタップして確かめてそのままAIコーディング用のプロンプトにするツール「M3E Canvas」",
+      "url": "https://gigazine.net/news/20261031-m3e-canvas/",
+      "summary": "AIコーディングツールでアプリを開発する際には、画面の配置やボタンを押したときの動作などを文章で説明する必要があります。そこでGoogleの「Material 3 Expressive」に対応した部品をブラウザ上で組み立て、複数の画面をつないで実際にタップしながら動作を確認できるほか、設計内容をそのままAIコーディング用のプロンプトに変換できる無料のオープンソースツールが「M3E Canvas」です。続きを読む...",
+      "date": "2026-10-31T09:00:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "ec6501562529",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+      "date": "2026-10-31T01:20:05+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
     {
       "id": "d319498a5eb3",
       "title": "Ollie, a privacy-focused AI assistant, is shutting down",
@@ -87,28 +109,6 @@
       "date": "2026-10-30T17:38:04+00:00",
       "source": "The Verge",
       "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "9baf1e5f5ceb",
-      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
-      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-      "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
-      "date": "2026-10-30T16:03:45+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "5c777dfaa0c4",
-      "title": "中身はハイエンド、姿はタブレット！ 64GBメモリー搭載のASUS「ROG Flow Z13」が5万円引き",
-      "url": "https://ascii.jp/elem/000/004/447/4447090/?rss",
-      "summary": "ASUSの13.4型ゲーミングPC「ROG Flow Z13（GZ302EA-AI916C64G）」がAmazonのタイムセール対象。参考価格509,800円から10％オフの459,800円で販売中。Ryzen AI MAX+ 395と64GBメモリーを搭載し、キーボードを取り外せばタブレットとしても使える。ハイエンドな構成ながら、ノートPCにもタブレットにもなる欲張りなモデルだ。",
-      "date": "2026-10-30T12:50:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
       "category": "Tech",
       "priority": 2
     },
@@ -240,17 +240,6 @@
       "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and",
       "date": "2026-10-28T20:32:02+00:00",
       "source": "MIT Tech Review",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "05b8a9f5907e",
-      "title": "Gemini 4 Carbon: Our next frontier model",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "summary": "",
-      "date": "2026-10-28T17:00:58+00:00",
-      "source": "Google DeepMind",
       "lang": "en",
       "category": "Research",
       "priority": 1
