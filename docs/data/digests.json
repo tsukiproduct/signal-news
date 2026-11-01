@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-11-01_morning-cloudflare-unifies-ai-sdk-mistral-large-4",
+      "date": "2026-11-01",
+      "file_key": "2026-11-01_morning",
+      "title": "CloudflareがAI開発統一、Mistral 4兆パラメータ公開",
+      "summary": "CloudflareがcreateAIでモデル統一アクセスを実現、Mistral Large 4がHugging Faceで利用可能に。OpenAIは学習拒否標準化を推進。",
+      "tags": [
+        "Cloudflare",
+        "Mistral",
+        "AI開発ツール",
+        "エッジAI",
+        "データ抽出"
+      ],
+      "slug": "cloudflare-unifies-ai-sdk-mistral-large-4"
+    },
+    {
       "id": "2026-10-31_evening-ai-assistant-shakeout-implementation-advances",
       "date": "2026-10-31",
       "file_key": "2026-10-31_evening",
@@ -407,22 +422,7 @@
         "ChatGPT広告"
       ],
       "slug": "ai-agents-implementation-and-countermeasures"
-    },
-    {
-      "id": "2026-10-05_evening-ai-advertising-security-latest",
-      "date": "2026-10-05",
-      "file_key": "2026-10-05_evening",
-      "title": "AI広告革新と安全対策、最新動向まとめ",
-      "summary": "広告フォーマット、検索API、OS権限変更などAIの最新動向を解説。",
-      "tags": [
-        "AI広告",
-        "セキュリティ",
-        "Web検索API",
-        "業務効率化",
-        "モデル進化"
-      ],
-      "slug": "ai-advertising-security-latest"
     }
   ],
-  "updated_at": "2026-10-31T10:22:00.473632+00:00"
+  "updated_at": "2026-11-01T00:41:55.903305+00:00"
 }
