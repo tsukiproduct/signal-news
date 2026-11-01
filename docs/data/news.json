@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-01T11:10:41.916698+00:00",
-  "fetched_at": "2026-11-01T11:09:59.991431+00:00",
-  "total": 25,
+  "updated_at": "2026-11-01T16:56:36.298075+00:00",
+  "fetched_at": "2026-11-01T16:56:01.457688+00:00",
+  "total": 26,
   "curated": true,
   "items": [
     {
@@ -314,6 +314,30 @@
       "try_next_en": "Check Wikipedia's AI guidelines in the source",
       "caveat_ja": "具体的な検知ツールの詳細は抜粋に記載されていません",
       "caveat_en": "Specific detection tools are not detailed in the excerpt",
+      "translation_status": "machine"
+    },
+    {
+      "id": "9a46afb49d1d",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "date": "2026-10-31T21:17:03+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1,
+      "score": 5,
+      "reason": "Relevant industry context on AI infrastructure environmental impact, no user-facing change",
+      "summary_ja": "NAACPは、SpaceXが所有するAI企業が清浄空気法に違反したと主張する訴訟を起こした。判事はこの訴訟の審理前進を許可した。",
+      "title_ja": "xAIデータセンターの汚染に関するNAACPの訴訟、審理前進を許可",
+      "title_en": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "summary_en": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act at its data center, and a judge allowed the case to proceed.",
+      "useful_for_ja": "AIインフラの環境影響やxAIの事業実践に関心のある読者",
+      "useful_for_en": "Readers interested in the environmental impact of AI infrastructure and xAI's business practices",
+      "try_next_ja": "出典を確認して、訴訟の具体的な主張やデータセンターの所在地を検証する",
+      "try_next_en": "Verify the specific claims and data center location from the source",
+      "caveat_ja": "抄録にはデータセンターの所在地や具体的な違反内容は明記されていない",
+      "caveat_en": "The excerpt does not specify the data center location or specific violations",
       "translation_status": "machine"
     },
     {
