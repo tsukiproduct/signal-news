@@ -1,0 +1,122 @@
+{
+  "id": "2026-11-03_morning-ai-training-data-risk-weekly",
+  "file_key": "2026-11-03_morning",
+  "date": "2026-11-03",
+  "generated_at": "2026-11-02T20:36:40.881839+00:00",
+  "title": "AI学習データ巡る動きと実務リスク整理",
+  "slug": "ai-training-data-risk-weekly",
+  "summary": "OpenAIのrobots.txt対応、NYT訴訟、国内18事例のリスク分類、Mistral Large 4公開など",
+  "tags": [
+    "AIガバナンス",
+    "データ権利",
+    "リスク管理",
+    "マルチクラウドAI"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "AI学習データの権利処理と企業の実務リスクが焦点となった一週間。OpenAIがrobots.txtによる学習拒否シグナルを標準化し、NYTがBraveを提訴するなど、データ収集のルール形成が加速。国内では生成AI情報漏えい18事例から、ルールで防げるリスクと仕組みで防ぐリスクの使い分けが整理された。技術面ではCloudflareが統一APIで複数ベンダーのモデルを扱えるcreateAIを提供開始、Mistral Large 4がHugging Faceで利用可能になった。データセンター冷却の水問題ではOmen AIが買収で対応に動く。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "OpenAIは共通のrobots.txtシグナルを尊重し、サイト運営者がAI学習への許可・拒否を参加プロバイダーに一括伝達できる仕組みを提示した。これは業界標準化の第一歩だが、参加プロバイダーの範囲や強制力は不明。原典確認が必要。\n\n並行してNYTがBraveをAIスクレイピングとペイウォール回避で提訴。ブラウザベンダーが独自に収集・学習するケースへの法的対抗が顕在化した。\n\n国内実務ではAINOWが2023-2026年の18事例を分析。社内ルールで防げるリスク（入力データの誤送信、影IT利用等）と、技術的仕組みで防ぐリスク（ログ保存設定不備、APIキー漏洩等）を分類。後者はDLP・CASB・APIゲートウェイ等の導入が実効的とされる。日本企業の実態に即した分類として参考になる。",
+      "source_title": "Making it easier for websites to express AI training preferences / 国内で公表された生成AIの事案18件から考える、社内ルールで防げるリスクと仕組みで防ぐリスク",
+      "source_url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "今週の入力に画像・動画生成AIの主要アップデートは含まれていない。Omen AIの買収はデータセンター冷却用水の効率化技術であり、生成モデル自体の進展ではない。",
+      "source_title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "source_url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "社内AI利用リスク棚卸し",
+      "prompt_body": "弊社の生成AI利用実態を整理し、AINOWの分類（ルール対応・仕組み対応）に当てはめてリスクマトリクスを作成してください。入力：利用ツール一覧、データ分類基準、現在のガバナンス体制。出力：リスク一覧表、優先対応アクション、必要予算・工数の概算。",
+      "prompt_usecase": "情報システム・法務・事業部門の合同ワークショップで実施。四半期ごとの見直しに活用。",
+      "prompt_source": "https://ainow.ai/2026/10/28/278461/"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "Mistral Large 4（4兆パラメータ）がHugging Faceでホストされ、開発者が巨大モデルを容易に試せるようになった。ローカル実行にはVRAM 80GB×8枚以上が必要と推定され、実用はAPI経由が現実的。コミュニティで量子化版の公開が期待されている。",
+      "source_title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "source_url": "https://huggingface.co/blog/mistral-large4"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "入力情報に直近のイベント情報は含まれていない。",
+      "event_list": []
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "① データ権利の棚卸し：自社サイトにrobots.txtでAI学習拒否を明記し、OpenAI以外の主要クローラー（GPTBot, CCBot, Anthropic-AI等）もUser-Agent指定で制御。② シャドーIT可視化：CASB・プロキシログから未承認AIツール利用を検知し、社内ルール違反を「ルール対応リスク」として教育・監査へ。③ APIキー・ログ管理の自動化：シークレットスキャン・DLP・APIゲートウェイで「仕組み対応リスク」を機械的に遮断。④ マルチベンダー戦略：Cloudflare createAIやAI Gatewayでモデル切替を抽象化し、特定ベンダー依存を回避。⑤ 法務連携：NYT訴訟等の判例動向を踏まえ、スクレイピング・学習データ利用の社内ガイドラインを四半期更新。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "robots.txt標準化の参加プロバイダー拡大と、ブラウザベンダー独自収集への司法判断が鍵。国内では「仕組み対応リスク」への予算確保が経営判断として問われる時期。Mistral Large 4の量子化・蒸留モデル公開動向、Cloudflare createAIの対応モデル拡充も継続ウォッチ。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Making it easier for websites to express AI training preferences",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "source": "OpenAI Blog",
+      "category": "Research"
+    },
+    {
+      "title": "Agents, Workers AI, AI Gateway - createAI replaces workers-ai-provider and ai-gateway-provider",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-21-createai/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "Fair use benefits everyone",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "source": "OpenAI Blog",
+      "category": "Research"
+    },
+    {
+      "title": "国内で公表された生成AIの事案18件から考える、社内ルールで防げるリスクと仕組みで防ぐリスク",
+      "url": "https://ainow.ai/2026/10/28/278461/?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%259b%25bd%25e5%2586%2585%25e3%2581%25a7%25e5%2585%25ac%25e8%25a1%25a8%25e3%2581%2595%25e3%2582%258c%25e3%2581%259f%25e7%2594%259f%25e6%2588%2590ai%25e3%2581%25ae%25e4%25ba%258b%25e6%25a1%258818%25e4%25bb%25b6%25e3%2581%258b%25e3%2582%2589%25e8%2580%2583%25e3%2581%2588%25e3%2582%258b%25e3%2580%2581%25e7%25a4%25be",
+      "source": "AINOW",
+      "category": "AI"
+    },
+    {
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "source": "Hugging Face Blog",
+      "category": "Prompts"
+    },
+    {
+      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "source": "TechCrunch AI",
+      "category": "ImageVideo"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

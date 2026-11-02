@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "2026-11-03_morning-ai-training-data-risk-weekly",
+      "date": "2026-11-03",
+      "file_key": "2026-11-03_morning",
+      "title": "AI学習データ巡る動きと実務リスク整理",
+      "summary": "OpenAIのrobots.txt対応、NYT訴訟、国内18事例のリスク分類、Mistral Large 4公開など",
+      "tags": [
+        "AIガバナンス",
+        "データ権利",
+        "リスク管理",
+        "マルチクラウドAI"
+      ],
+      "slug": "ai-training-data-risk-weekly"
+    },
+    {
       "id": "2026-11-01_morning-cloudflare-unifies-ai-sdk-mistral-large-4",
       "date": "2026-11-01",
       "file_key": "2026-11-01_morning",
@@ -407,22 +421,7 @@
         "Web Search API"
       ],
       "slug": "google-gemini-ai-advertising-search-api"
-    },
-    {
-      "id": "2026-10-06_morning-ai-agents-implementation-and-countermeasures",
-      "date": "2026-10-06",
-      "file_key": "2026-10-06_morning",
-      "title": "AIエージェントの実装と対策が加速",
-      "summary": "Wikipedia障害とボット対策、ChatGPT広告導入、Cloudflare検索API、Apple権限変更、GitHub CopilotキャンバスなどAIエージェント周辺の動きを整理",
-      "tags": [
-        "AIエージェント",
-        "Web検索API",
-        "GitHub Copilot",
-        "プラットフォーム対策",
-        "ChatGPT広告"
-      ],
-      "slug": "ai-agents-implementation-and-countermeasures"
     }
   ],
-  "updated_at": "2026-11-01T00:41:55.903305+00:00"
+  "updated_at": "2026-11-02T20:36:40.882550+00:00"
 }
