@@ -1,39 +1,28 @@
 {
-  "fetched_at": "2026-11-02T01:09:28.505830+00:00",
-  "total": 28,
+  "fetched_at": "2026-11-02T12:11:18.013226+00:00",
+  "total": 25,
   "items": [
     {
-      "id": "2be0ff277514",
-      "title": "Google、宇宙のTPUから初のAI応答を受信 「Project Suncatcher」試作衛星で「Gemma 4」が俳句を詠む",
-      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002779/",
-      "summary": "Googleは、宇宙AIデータセンター構想「Project Suncatcher」の試作衛星に搭載したTPUから、AIによる最初の応答を受信したと発表した。軌道上のオープンモデル「Gemma 4」にプロンプトを送信し、応答を確認した。今後は宇宙空間でのTPUの動作評価試験を進める。",
-      "date": "2026-11-01T23:59:31+00:00",
-      "source": "ITmedia News",
+      "id": "1f4176993d4e",
+      "title": "世界のAIデータセンター電力インフラ市場、2034年に307億米ドル規模へ拡大予測 ― 生成AI・GPU需要の急増を背景に年平均11.0％成長",
+      "url": "https://ascii.jp/elem/000/004/447/4447985/?rss",
+      "summary": "世界のAIデータセンター電力インフラ市場、2034年に307億米ドル規模へ拡大予測 ― 生成AI・GPU需要の急増を背景に年平均11.0％成長",
+      "date": "2026-11-02T09:57:33+00:00",
+      "source": "ASCII.jp",
       "lang": "ja",
       "category": "Tech",
       "priority": 2
     },
     {
-      "id": "b0cc3528c3b3",
-      "title": "Anthropic、「Claude」の「Max 20x」を「Ultra」に名称変更 月200ドルで5時間ごとの利用制限を撤廃",
-      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002777/",
-      "summary": "Anthropicは、「Claude」の個人向け有料プランの名称を変更し、月額100ドルの「Max 5x」を「Max」に、月額200ドルの「Max 20x」を「Ultra」にした。料金は据え置き。Ultraでは確認済みアカウントを対象に、5時間ごとの利用制限を撤廃した。週ごとの制限は変わらない。",
-      "date": "2026-11-01T22:00:23+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "4f12c40f6e10",
-      "title": "Claude Codeは各バックグラウンドエージェントのトランスクリプトを定期的にモデルに送信していることが発覚",
-      "url": "https://gigazine.net/news/20261102-claude-code-resends-background-agents-transcript/",
-      "summary": "Claude Codeの「エージェントサマリー」機能はバックグラウンドエージェントのステータスを約30秒ごとに更新するため、トランスクリプト(記録したデータ)全体をモデルに再送信しています。トランスクリプト送信によりトークンの約15～20％が消費されている計算になります。続きを読む...",
-      "date": "2026-11-01T22:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
+      "id": "c1a0838047a3",
+      "title": "The agentic web is here",
+      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an int",
+      "date": "2026-11-02T09:35:19+00:00",
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
     },
     {
       "id": "cf5e1b5d84c4",
@@ -56,17 +45,6 @@
       "lang": "en",
       "category": "Industry",
       "priority": 1
-    },
-    {
-      "id": "7187fecc703d",
-      "title": "Wikipediaの編集者はどのようにしてAI生成テキストを見つけて除外しているのか？",
-      "url": "https://gigazine.net/news/20261101-wikipedia-ai-content/",
-      "summary": "あらゆるプラットフォームにAI生成テキストがあふれている中で、WikipediaではAIに記事本文を生成させたり書き換えさせたりすることを原則禁じるガイドラインが設定されています。そのガイドラインに違反するコンテンツを見つけて削除することを目的としたボランティア活動「WikiProject AI Cleanup」の創設メンバーが、活動について語っています。続きを読む...",
-      "date": "2026-11-01T10:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "d7ef0b333bbf",
@@ -250,17 +228,6 @@
       "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his cryp",
       "date": "2026-10-28T12:10:00+00:00",
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "2b0a5d044d7f",
-      "title": "Pairing industrial AI autonomy and human control",
-      "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-      "summary": "",
-      "date": "2026-10-28T12:00:00+00:00",
       "source": "MIT Tech Review",
       "lang": "en",
       "category": "Research",
