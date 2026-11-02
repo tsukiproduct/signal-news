@@ -1,7 +1,62 @@
 {
-  "fetched_at": "2026-11-01T16:56:01.457688+00:00",
+  "fetched_at": "2026-11-02T01:09:28.505830+00:00",
   "total": 28,
   "items": [
+    {
+      "id": "2be0ff277514",
+      "title": "Google、宇宙のTPUから初のAI応答を受信 「Project Suncatcher」試作衛星で「Gemma 4」が俳句を詠む",
+      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002779/",
+      "summary": "Googleは、宇宙AIデータセンター構想「Project Suncatcher」の試作衛星に搭載したTPUから、AIによる最初の応答を受信したと発表した。軌道上のオープンモデル「Gemma 4」にプロンプトを送信し、応答を確認した。今後は宇宙空間でのTPUの動作評価試験を進める。",
+      "date": "2026-11-01T23:59:31+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "b0cc3528c3b3",
+      "title": "Anthropic、「Claude」の「Max 20x」を「Ultra」に名称変更 月200ドルで5時間ごとの利用制限を撤廃",
+      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002777/",
+      "summary": "Anthropicは、「Claude」の個人向け有料プランの名称を変更し、月額100ドルの「Max 5x」を「Max」に、月額200ドルの「Max 20x」を「Ultra」にした。料金は据え置き。Ultraでは確認済みアカウントを対象に、5時間ごとの利用制限を撤廃した。週ごとの制限は変わらない。",
+      "date": "2026-11-01T22:00:23+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "4f12c40f6e10",
+      "title": "Claude Codeは各バックグラウンドエージェントのトランスクリプトを定期的にモデルに送信していることが発覚",
+      "url": "https://gigazine.net/news/20261102-claude-code-resends-background-agents-transcript/",
+      "summary": "Claude Codeの「エージェントサマリー」機能はバックグラウンドエージェントのステータスを約30秒ごとに更新するため、トランスクリプト(記録したデータ)全体をモデルに再送信しています。トランスクリプト送信によりトークンの約15～20％が消費されている計算になります。続きを読む...",
+      "date": "2026-11-01T22:00:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "cf5e1b5d84c4",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "date": "2026-11-01T21:55:23+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "b3a6357c7fdd",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "date": "2026-11-01T20:57:58+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
     {
       "id": "7187fecc703d",
       "title": "Wikipediaの編集者はどのようにしてAI生成テキストを見つけて除外しているのか？",
@@ -63,17 +118,6 @@
       "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
       "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
       "date": "2026-10-30T22:56:13+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "c6d867f631df",
-      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-      "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
-      "date": "2026-10-30T21:54:34+00:00",
       "source": "TechCrunch AI",
       "lang": "en",
       "category": "Industry",
@@ -179,34 +223,12 @@
       "priority": 1
     },
     {
-      "id": "df9784fd80f8",
-      "title": "Quoting Ted Sanders",
-      "url": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
-      "summary": "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the variation in performance is explain",
-      "date": "2026-10-28T23:23:21+00:00",
-      "source": "Simon Willison",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1
-    },
-    {
       "id": "52fa9eb7caab",
       "title": "Creating AI value with enterprise context",
       "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
       "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and",
       "date": "2026-10-28T20:32:02+00:00",
       "source": "MIT Tech Review",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "05b8a9f5907e",
-      "title": "Gemini 4 Carbon: Our next frontier model",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "summary": "",
-      "date": "2026-10-28T17:00:58+00:00",
-      "source": "Google DeepMind",
       "lang": "en",
       "category": "Research",
       "priority": 1
@@ -286,28 +308,6 @@
       "source": "GitHub AI & ML",
       "lang": "en",
       "category": "Prompts",
-      "priority": 1
-    },
-    {
-      "id": "01bb68bf80bb",
-      "title": "Workers AI - Introducing Clairic: an extraction model for typed values, now on Workers AI",
-      "url": "https://developers.cloudflare.com/changelog/post/2026-10-19-clairic-workers-ai/",
-      "summary": "@cf/cloudflare/clairic is now available on Workers AI as a preview. Clairic is the first extraction model: a System One model that answers with values instead of text. We intend to release the model with open weights soon. Decision models such as Cle",
-      "date": "2026-10-19T00:00:00+00:00",
-      "source": "Cloudflare Workers AI",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 1
-    },
-    {
-      "id": "9848659290b7",
-      "title": "Workers AI - DeepSeek V4.1 Flash 1017 now available on Workers AI",
-      "url": "https://developers.cloudflare.com/changelog/post/2026-10-19-deepseek-v4.1-flash-workers-ai/",
-      "summary": "@cf/deepseek-ai/deepseek-v4.1-flash-1017 is now available on Workers AI. DeepSeek V4.1 Flash is a multimodal Mixture-of-Experts model with 552B backbone parameters. It activates 8B parameters per token during prefill and 16B during decode, which keep",
-      "date": "2026-10-19T00:00:00+00:00",
-      "source": "Cloudflare Workers AI",
-      "lang": "en",
-      "category": "Tech",
       "priority": 1
     }
   ]
