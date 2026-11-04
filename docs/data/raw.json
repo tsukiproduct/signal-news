@@ -1,7 +1,40 @@
 {
-  "fetched_at": "2026-11-04T01:46:48.238161+00:00",
-  "total": 28,
+  "fetched_at": "2026-11-04T11:58:27.946069+00:00",
+  "total": 26,
   "items": [
+    {
+      "id": "f56bb7948c87",
+      "title": "富士フイルムが「磁気テープ」の製造能力を5倍に増強すると発表、AIブームによるデータアーカイブ需要増加に対応",
+      "url": "https://gigazine.net/news/20261104-fujifilm-boost-tape-production-ai-fuels/",
+      "summary": "富士フイルムが約100億円を投資して「データストレージ用磁気テープ」の製造能力を5倍に増強することを2026年10月29日に発表しました。生成AIの普及に伴ってデータアーカイブ需要が高まっており、これに対応するため磁気テープの安定供給体制を強化するとのことです。続きを読む...",
+      "date": "2026-11-04T11:00:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "2f7aa86bc2ce",
+      "title": "銀行系企業がAIの利用コストを約10分の1に削減した事例を公開、商用AIから自社運用モデルへの切り替えで",
+      "url": "https://gigazine.net/news/20261104-revolut-cut-ai-cost/",
+      "summary": "Revolut(レボリュート)は銀行サービスや送金、決済などを提供するイギリスの金融テクノロジー企業です。同社のAI運用・インフラ部門を率いるデビッド・アビトボル氏が、2026年10月に開催された開発者向けイベント「AI Engineer NYC 2026」でAIの運用コストを約10分の1に削減した取り組みを紹介しました。続きを読む...",
+      "date": "2026-11-04T08:20:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "1abc7556aadb",
+      "title": "GitHub、「Copilot Fusion」正式リリース タスクに応じて最適なAIモデル選択、高性能・低コスト両立",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002869/",
+      "summary": "米GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。",
+      "date": "2026-11-04T04:13:20+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
     {
       "id": "faa8b68df590",
       "title": "The biggest modding site in PC gaming is taking a stance on AI",
@@ -10,17 +43,6 @@
       "date": "2026-11-04T00:42:54+00:00",
       "source": "The Verge",
       "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "fecc33cc05d4",
-      "title": "Apple、刷新版「Siri AI」を全開発者に開放 アプリ連携で予約や注文などの操作が可能に",
-      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002855/",
-      "summary": "Appleは、音声アシスタント「Siri AI」とサードパーティアプリを連携させる機能を開発者向けに開放すると発表し、各OSのβ版でプレビュー提供を開始した。「App Intents」を利用し、アプリを開かずにSiri AIから直接操作が可能になる。一般ユーザーへの提供は数カ月後の見込みだ。",
-      "date": "2026-11-04T00:37:42+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
       "category": "Tech",
       "priority": 2
     },
@@ -36,17 +58,6 @@
       "priority": 2
     },
     {
-      "id": "317d48c01874",
-      "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
-      "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
-      "summary": "The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process started in June with one developer downloading a tam",
-      "date": "2026-11-03T23:02:47+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "bf81805a5ae8",
       "title": "Anthropic is working on a system to prove AI models’ identity",
       "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
@@ -56,17 +67,6 @@
       "lang": "en",
       "category": "Industry",
       "priority": 1
-    },
-    {
-      "id": "289030ea2521",
-      "title": "Google、学校の生徒向けAI機能を原則オフへ 「AIなしのGoogle検索」は選べず批判も",
-      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002849/",
-      "summary": "Googleは、K-12（幼稚園から高校まで）の生徒向けアカウントで生成AI「Gemini」や「Google検索」などを原則オフにすると発表した。管理者が有効化できるが、検索のAI機能のみを無効にはできず、AIを禁じる学校では検索自体が利用不可となる点が批判を集めている。",
-      "date": "2026-11-03T22:31:04+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "9fa00f4e3866",
@@ -110,17 +110,6 @@
       "source": "TechCrunch AI",
       "lang": "en",
       "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "a4a8ae975d2d",
-      "title": "Agentic cheminformatics with Google Antigravity",
-      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-      "date": "2026-11-03T17:01:49+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
       "priority": 1
     },
     {
@@ -176,6 +165,17 @@
       "source": "MIT Tech Review",
       "lang": "en",
       "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "e80bef32aee2",
+      "title": "AI Gateway - New AI Gateways require authentication",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-11-03-required-authentication/",
+      "summary": "New AI Gateways now require authentication to prevent unauthorized requests. Once authentication is on, you cannot turn it off through the dashboard or API. When you create a new AI Gateway through the API, authentication is on by default. You can le",
+      "date": "2026-11-03T00:00:00+00:00",
+      "source": "Cloudflare AI Gateway",
+      "lang": "en",
+      "category": "Tech",
       "priority": 1
     },
     {
@@ -256,17 +256,6 @@
       "priority": 1
     },
     {
-      "id": "28e570ea2652",
-      "title": "Speeding up planning decisions with AI",
-      "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
-      "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
-      "date": "2026-10-30T14:18:30+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
       "id": "93cb2f6352fb",
       "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
       "url": "https://huggingface.co/blog/announcing-project-protostar",
@@ -286,17 +275,6 @@
       "source": "Hugging Face Blog",
       "lang": "en",
       "category": "Prompts",
-      "priority": 1
-    },
-    {
-      "id": "05b8a9f5907e",
-      "title": "Gemini 4 Carbon: Our next frontier model",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "summary": "",
-      "date": "2026-10-28T17:00:58+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
       "priority": 1
     },
     {
