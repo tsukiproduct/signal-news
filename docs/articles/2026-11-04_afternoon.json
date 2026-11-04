@@ -1,0 +1,109 @@
+{
+  "id": "2026-11-04_afternoon-ai-evolution-practical-2026",
+  "file_key": "2026-11-04_afternoon",
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T01:49:59.221599+00:00",
+  "title": "AIの進化と実用活用の最新動向",
+  "slug": "ai-evolution-practical-2026",
+  "summary": "2026年現在のAI技術動向と実用的な活用方法を解説。生成AI、音声アシスタント、モデリング等。",
+  "tags": [
+    "AI技術",
+    "生成AI",
+    "音声アシスタント",
+    "プロンプトエンジニアリング"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "複数のAI分野で重要な進展が起きている。音声アシスタントのAIベータ版、生成AIのリスク管理、PCゲームモデリングの透明化、Siri AIのアプリ連携など、多岐にわたるトピックが取り上げられた。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "音声アシスタントのAI進化と生成AIのデータ管理リスク。Sonosの新しいPresetsと27voice AIベータ、MITのコーディングエージェントのトークン消費分析、日本国内での生成AI情報漏えい事例分析。",
+      "source_title": "Sonos adds new Presets and prepares for the 27voice AI beta",
+      "source_url": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "モデリングとAIの融合",
+      "body": "PCゲームのNexus ModsがAI必須化を発表し、AppleがSiri AIのアプリ連携機能を開発者向けに開放。技術的な進化とユーザーの利便性向上の両面を考察。",
+      "source_title": "The biggest modding site in PC gaming is taking a stance on AI",
+      "source_url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "App Intentsによるアプリ連携",
+      "prompt_body": "Apple Siri AIとサードパーティアプリを連携させるためのプロンプト例。予約や注文などの操作を容易にする具体的な使い方。",
+      "prompt_usecase": "開発者やエンジニアがSiri AIを活用して自社のアプリ機能を拡張したい場合に実用的に活用可能"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイラル",
+      "body": "生成AIのモデリング技術がHugging Faceで公開され、4兆パラメータのMistral Large 4が開発者向けにホスト。技術革新が加速していることを示す。",
+      "source_title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "source_url": "https://huggingface.co/blog/mistral-large4"
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "生成AIのリスク管理とビジネス活用。データ漏えい事例から得られるリスク対策、Siri AIのアプリ連携による業務効率化、音声アシスタントのベータ版活用の具体例。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "生成AIのデータ保護法整備、AIモデルの透明性向上、音声アシスタントの進化など、業界全体のトレンドが整理されている。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Sonos adds new Presets and prepares for the 27voice AI beta",
+      "url": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "Stop counting tokens, start counting what ships",
+      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "source": "MIT Tech Review",
+      "category": "Research"
+    },
+    {
+      "title": "国内で公表された生成AIの事案18件から考える、社内ルールで防げるリスクと仕組みで防ぐリスク",
+      "url": "https://ainow.ai/2026/10/28/278461/?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%259b%25bd%25e5%2586%2585%25e3%2581%25a7%25e5%2585%25ac%25e8%25a1%25a8%25e3%2581%2595%25e3%2582%258c%25e3%2581%259f%25e7%2594%259f%25e6%2588%2590ai%25e3%2581%25ae%25e4%25ba%258b%25e6%25a1%258818%25e4%25bb%25b6%25e3%2581%258b%25e3%2582%2589%25e8%2580%2583%25e3%2581%2588%25e3%2582%258b%25e3%2580%2581%25e7%25a4%25be",
+      "source": "AINOW",
+      "category": "AI"
+    },
+    {
+      "title": "The biggest modding site in PC gaming is taking a stance on AI",
+      "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+      "source": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "title": "Apple、刷新版「Siri AI」を全開発者に開放 アプリ連携で予約や注文などの操作が可能に",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002855/",
+      "source": "ITmedia News",
+      "category": "Tech"
+    },
+    {
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "source": "Hugging Face Blog",
+      "category": "Prompts"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

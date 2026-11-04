@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "2026-11-04_afternoon-ai-evolution-practical-2026",
+      "date": "2026-11-04",
+      "file_key": "2026-11-04_afternoon",
+      "title": "AIの進化と実用活用の最新動向",
+      "summary": "2026年現在のAI技術動向と実用的な活用方法を解説。生成AI、音声アシスタント、モデリング等。",
+      "tags": [
+        "AI技術",
+        "生成AI",
+        "音声アシスタント",
+        "プロンプトエンジニアリング"
+      ],
+      "slug": "ai-evolution-practical-2026"
+    },
+    {
       "id": "2026-11-03_morning-ai-training-data-risk-weekly",
       "date": "2026-11-03",
       "file_key": "2026-11-03_morning",
@@ -408,20 +422,7 @@
         "ビジネス自動化"
       ],
       "slug": "ai-agents-offline-note-2026-10"
-    },
-    {
-      "id": "2026-10-07_morning-google-gemini-ai-advertising-search-api",
-      "date": "2026-10-07",
-      "file_key": "2026-10-07_morning",
-      "title": "Google Gemini制限とAI広告・検索APIの動向",
-      "summary": "Googleが無料GeminiをFlash-Liteに制限、OpenAIが広告フォーマット追加、CloudflareがWeb Search API公開",
-      "tags": [
-        "Gemini",
-        "広告フォーマット",
-        "Web Search API"
-      ],
-      "slug": "google-gemini-ai-advertising-search-api"
     }
   ],
-  "updated_at": "2026-11-02T20:36:40.882550+00:00"
+  "updated_at": "2026-11-04T01:49:59.222218+00:00"
 }
