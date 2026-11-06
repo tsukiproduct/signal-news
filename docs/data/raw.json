@@ -1,14 +1,36 @@
 {
-  "fetched_at": "2026-11-06T01:56:49.580127+00:00",
-  "total": 32,
+  "fetched_at": "2026-11-06T11:57:34.367686+00:00",
+  "total": 30,
   "items": [
     {
-      "id": "6554b6582bda",
-      "title": "導入済み生成AIから建築の工程管理を直接操作、作業集計や日程変更に対応するMCPサーバー",
-      "url": "https://ascii.jp/elem/000/004/448/4448970/?rss",
-      "summary": "株式会社KENCOPAは11月2日、同社が提供する建設業務特化型AI「Kencopa工程AIエージェント」の新機能として、AIと外部サービスを接続する標準規格MCP（Model Context Protocol）に対応した外部連携機能の提供を開始した。",
-      "date": "2026-11-06T01:00:00+00:00",
-      "source": "ASCII.jp",
+      "id": "aa3547203e76",
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "date": "2026-11-06T06:28:32+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "f7ba59d08d35",
+      "title": "フジテレビ、27年に全ドラマで生成AI活用へ 一部工程で工数を最大8割削減も",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002962/",
+      "summary": "フジテレビは11月5日、2027年10月までに、同社が制作する全てのドラマで生成AIを活用できる体制を整えると発表した。",
+      "date": "2026-11-06T05:13:16+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "0cf810b56cfe",
+      "title": "米住民投票でデータセンター建設に反対相次ぐ 規制派民主知事も続々当選、推進に逆風も",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002949/",
+      "summary": "11月3日の米中間選挙に合わせ各地で行われた住民投票で、人工知能（AI）向けデータセンター建設の是非を問う計41件が10州であり、1件を除き建設禁止や規制強化が可決された。",
+      "date": "2026-11-06T03:38:10+00:00",
+      "source": "ITmedia News",
       "lang": "ja",
       "category": "Tech",
       "priority": 2
@@ -21,28 +43,6 @@
       "date": "2026-11-06T00:06:12+00:00",
       "source": "The Verge",
       "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "6796dc2e7156",
-      "title": "Anthropic、「Claude」に家計管理機能「Personal Finance」 銀行口座と連携、米国でβ提供",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002935/",
-      "summary": "Anthropicは、AI「Claude」に個人の財務状況を把握できる新機能「Personal Finance」β版を追加した。Plaid経由で銀行やカード口座を連携し、支出のカテゴリ分けや家計分析を自然言語で行える。データは読み取り専用で資金移動はできず、学習にも使われない。米国の有料プラン向けに順次提供される。",
-      "date": "2026-11-05T23:49:28+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "4c17e751c994",
-      "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
-      "summary": "OpenAIは、サイバーセキュリティ特化型AI「GPT-6 Cyber」を発表した。汎用モデル「Astra」をベースに脆弱性発見や攻撃コード開発能力を大幅に強化。提供先は厳格な審査を通過した防御者に限定され、高度なAIによる攻撃が普及する前に、防御側が重要インフラの保護やシステム修正を迅速に行えるよう支援する狙いだ。",
-      "date": "2026-11-05T22:57:34+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
       "category": "Tech",
       "priority": 2
     },
@@ -124,22 +124,22 @@
       "priority": 1
     },
     {
+      "id": "3303d6ac09af",
+      "title": "Australian universities are creating AI-native graduates",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+      "date": "2026-11-05T17:00:00+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
       "id": "7dac5ce0cdad",
       "title": "Axiom Math wants to keep AI slop out of mathematics",
       "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
       "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
       "date": "2026-11-05T16:16:45+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "939524e97f24",
-      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-      "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
-      "date": "2026-11-05T15:19:05+00:00",
       "source": "TechCrunch AI",
       "lang": "en",
       "category": "Industry",
@@ -256,17 +256,6 @@
       "priority": 1
     },
     {
-      "id": "b9febe6c65ab",
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-      "date": "2026-11-04T07:00:00+00:00",
-      "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
       "id": "15ae91fa35ec",
       "title": "AI Gateway - Route across a pool of models with model aliases",
       "url": "https://developers.cloudflare.com/changelog/post/2026-11-04-model-aliases/",
@@ -295,17 +284,6 @@
       "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
       "date": "2026-11-03T17:01:49+00:00",
       "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "245ee58e8a60",
-      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
-      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to co",
-      "date": "2026-11-03T13:10:00+00:00",
-      "source": "MIT Tech Review",
       "lang": "en",
       "category": "Research",
       "priority": 1
