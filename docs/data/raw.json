@@ -1,7 +1,18 @@
 {
-  "fetched_at": "2026-11-07T01:29:15.126858+00:00",
-  "total": 31,
+  "fetched_at": "2026-11-07T10:57:34.722288+00:00",
+  "total": 34,
   "items": [
+    {
+      "id": "bfdaf195a235",
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "summary": "The deal highlights the challenges of developing massive AI data centers.",
+      "date": "2026-11-07T01:40:28+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
     {
       "id": "421fa7063f06",
       "title": "China reportedly recruited AI exec to spy on Jensen Huang",
@@ -144,6 +155,28 @@
       "lang": "en",
       "category": "Research",
       "priority": 1
+    },
+    {
+      "id": "f7ba59d08d35",
+      "title": "フジテレビ、27年に全ドラマで生成AI活用へ 一部工程で工数を最大8割削減も",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002962/",
+      "summary": "フジテレビは11月5日、2027年10月までに、同社が制作する全てのドラマで生成AIを活用できる体制を整えると発表した。",
+      "date": "2026-11-06T05:13:16+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "0cf810b56cfe",
+      "title": "米住民投票でデータセンター建設に反対相次ぐ 規制派民主知事も続々当選、推進に逆風も",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002949/",
+      "summary": "11月3日の米中間選挙に合わせ各地で行われた住民投票で、人工知能（AI）向けデータセンター建設の是非を問う計41件が10州であり、1件を除き建設禁止や規制強化が可決された。",
+      "date": "2026-11-06T03:38:10+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
     },
     {
       "id": "d1cb05298078",
