@@ -1,7 +1,18 @@
 {
-  "fetched_at": "2026-11-08T00:58:55.252792+00:00",
-  "total": 30,
+  "fetched_at": "2026-11-08T11:10:53.838670+00:00",
+  "total": 31,
   "items": [
+    {
+      "id": "f8aec83b7e8b",
+      "title": "AI画像を検出できるブラウザ拡張機能「Pangram AI Detection」を実際に使って本当に検出できるのか試してみた",
+      "url": "https://gigazine.net/news/20261108-pangram-image-ai-image-detection/",
+      "summary": "画像生成AIは便利な技術ですが、ロマンス詐欺やフェイクニュースなどに悪用されることもあります。生成AIで作成され画像を高精度に見分けることが可能なブラウザ拡張機能「Pangram AI Detection」が登場したので、実際にAI画像を検出できるのか試してみました。続きを読む...",
+      "date": "2026-11-08T08:45:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
     {
       "id": "d581352d6e44",
       "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
