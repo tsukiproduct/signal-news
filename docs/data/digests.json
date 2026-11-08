@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-11-09_morning-ai-updates-gateways-cyber-detection",
+      "date": "2026-11-09",
+      "file_key": "2026-11-09_morning",
+      "title": "AI updates: Gateways, Cyber, detection",
+      "summary": "New AI Gateway features, GPT‑6 Cyber security model, model deprecation warnings, and AI image detection tools.",
+      "tags": [
+        "AI Gateway",
+        "OpenAI",
+        "GitHub Copilot",
+        "model deprecation",
+        "AI detection"
+      ],
+      "slug": "ai-updates-gateways-cyber-detection"
+    },
+    {
       "id": "2026-11-04_afternoon-ai-evolution-practical-2026",
       "date": "2026-11-04",
       "file_key": "2026-11-04_afternoon",
@@ -409,20 +424,7 @@
         "OpenAI GPT-6"
       ],
       "slug": "anthropic-oss-scanner-gemini-agentic"
-    },
-    {
-      "id": "2026-10-09_morning-ai-agents-offline-note-2026-10",
-      "date": "2026-10-09",
-      "file_key": "2026-10-09_morning",
-      "title": "AIエージェントとオフラインノートが進展",
-      "summary": "スマートリング、オフラインノート、ビジネスエージェント、GPT-6 UIなど今週のAI動向を解説",
-      "tags": [
-        "AIエージェント",
-        "オフラインAI",
-        "ビジネス自動化"
-      ],
-      "slug": "ai-agents-offline-note-2026-10"
     }
   ],
-  "updated_at": "2026-11-04T01:49:59.222218+00:00"
+  "updated_at": "2026-11-08T16:49:16.221371+00:00"
 }
