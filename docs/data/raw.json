@@ -1,28 +1,193 @@
 {
-  "fetched_at": "2026-11-10T12:23:30.845197+00:00",
-  "total": 38,
+  "fetched_at": "2026-11-10T18:20:00.061311+00:00",
+  "total": 48,
   "items": [
     {
-      "id": "7f83c7f8edca",
-      "title": "Closing the AI guidance gap in education",
-      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "summary": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
-      "date": "2026-11-10T09:00:00+00:00",
+      "id": "efee8cc48ed1",
+      "title": "The indie game community is in disarray over AI and Big Walk",
+      "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+      "summary": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly",
+      "date": "2026-11-10T17:32:47+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "994129552b18",
+      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+      "date": "2026-11-10T17:30:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "5d35c297f500",
+      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+      "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "date": "2026-11-10T17:04:19+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "97a11b3b9df5",
+      "title": "ChatGPT is getting verified AI ‘Business Agents’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+      "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as p",
+      "date": "2026-11-10T16:34:41+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "c77128a201b8",
+      "title": "eBay appears to have shut the door on third-party AI agents",
+      "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+      "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of wat",
+      "date": "2026-11-10T16:20:30+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "e38c92a7cefc",
+      "title": "Gemini 4 Carbon is now available",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "summary": "",
+      "date": "2026-11-10T16:03:47+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "dfdfc7952f9e",
+      "title": "Gemini 4 Carbon is now available for developers.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/",
+      "summary": "Starting today, developers can build with Gemini 4 Carbon, our strongest model with frontier performance in cybersecurity and long-horizon capabilities. Built for sustai…",
+      "date": "2026-11-10T16:00:00+00:00",
+      "source": "Google Developers",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 1
+    },
+    {
+      "id": "af325a13228f",
+      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+      "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+      "date": "2026-11-10T15:54:08+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "78900e4e7229",
+      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+      "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the ve",
+      "date": "2026-11-10T15:30:28+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "5ab46a1f966a",
+      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+      "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+      "date": "2026-11-10T15:29:30+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "804eba17b1ea",
+      "title": "Anthropic has its own AI-powered office suite now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+      "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code ",
+      "date": "2026-11-10T15:13:38+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "2691bfd50519",
+      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+      "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+      "date": "2026-11-10T14:05:10+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "f778863a4b68",
+      "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+      "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+      "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+      "date": "2026-11-10T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "9430d602e304",
+      "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+      "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+      "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+      "date": "2026-11-10T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "c31928bbebfd",
+      "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+      "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener au",
+      "date": "2026-11-10T13:10:00+00:00",
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "c0bcf16e8fea",
+      "title": "Helping caregivers use AI in everyday life",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "date": "2026-11-10T12:00:00+00:00",
       "source": "OpenAI Blog",
       "lang": "en",
       "category": "Research",
       "priority": 1
     },
     {
-      "id": "c58eaef99970",
-      "title": "Claude Opus 5.5の推論能力が11月3日から急激に低下したとの指摘、1400件の利用履歴から変化が判明",
-      "url": "https://gigazine.net/news/20261110-claude-opus-nerf/",
-      "summary": "AnthropicのAIモデル「Claude Opus 5.5」の推論能力が2026年11月3日頃から急激に低下した可能性が指摘されています。開発者のシェーン・メロー氏がAIによるプログラミング支援ツール「Claude Code」の利用履歴約1400件を分析したところ、モデル名が変わっていないにもかかわらず、AIの思考を示す文章や作業の進め方に大きな変化が見つかったとのことです。続きを読む...",
-      "date": "2026-11-10T07:55:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
+      "id": "7f83c7f8edca",
+      "title": "Closing the AI guidance gap in education",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+      "date": "2026-11-10T09:00:00+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
     },
     {
       "id": "7579b7c0ec9d",
@@ -47,14 +212,14 @@
       "priority": 2
     },
     {
-      "id": "fc66a21ca327",
-      "title": "Otter AI can now follow conversations across 30+ languages",
-      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
-      "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+      "id": "db3d3bbb0683",
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
       "date": "2026-11-10T07:00:00+00:00",
-      "source": "TechCrunch AI",
+      "source": "OpenAI Blog",
       "lang": "en",
-      "category": "Industry",
+      "category": "Research",
       "priority": 1
     },
     {
@@ -80,37 +245,26 @@
       "priority": 1
     },
     {
-      "id": "55ff5cbc62ee",
-      "title": "Anthropic reportedly plans to move forward with IPO plans",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
-      "date": "2026-11-10T01:27:12+00:00",
-      "source": "TechCrunch AI",
+      "id": "992e8c410947",
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "summary": "",
+      "date": "2026-11-10T00:00:00+00:00",
+      "source": "Hugging Face Blog",
       "lang": "en",
-      "category": "Industry",
+      "category": "Prompts",
       "priority": 1
     },
     {
-      "id": "5a616de11141",
-      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
-      "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you",
-      "date": "2026-11-10T00:28:49+00:00",
-      "source": "The Verge",
+      "id": "de10773c0146",
+      "title": "Decision Models in Hugging Face",
+      "url": "https://huggingface.co/blog/decision",
+      "summary": "",
+      "date": "2026-11-10T00:00:00+00:00",
+      "source": "Hugging Face Blog",
       "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "d916d20f0c2f",
-      "title": "What could China get from Jensen Huang?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
-      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influen",
-      "date": "2026-11-10T00:07:10+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
+      "category": "Prompts",
+      "priority": 1
     },
     {
       "id": "169b32bc866c",
@@ -135,15 +289,15 @@
       "priority": 1
     },
     {
-      "id": "c889a28a4fb4",
-      "title": "The global pledge to use AI for climate good is a cruel joke",
-      "url": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
-      "summary": "At this point, reading through the latest splashy pledge to use AI for the good of the environment feels like downing a nonalcoholic beer. Admittedly, I'm suspicious from the onset. How can this be good? But I love beer and our planet enough to give ",
-      "date": "2026-11-09T21:13:16+00:00",
-      "source": "The Verge",
+      "id": "6c31d4893839",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "date": "2026-11-09T19:51:47+00:00",
+      "source": "Google DeepMind",
       "lang": "en",
-      "category": "Tech",
-      "priority": 2
+      "category": "Research",
+      "priority": 1
     },
     {
       "id": "1127808f36fe",
@@ -154,17 +308,6 @@
       "source": "MIT Tech Review",
       "lang": "en",
       "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "c81f482fdf11",
-      "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-      "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
-      "date": "2026-11-09T18:09:52+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
       "priority": 1
     },
     {
@@ -300,17 +443,6 @@
       "priority": 1
     },
     {
-      "id": "d1cb05298078",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-      "date": "2026-11-06T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
       "id": "8322af9265e6",
       "title": "AI Gateway - Review provider key activity in AI Gateway",
       "url": "https://developers.cloudflare.com/changelog/post/2026-11-06-provider-key-security/",
@@ -328,28 +460,6 @@
       "summary": "",
       "date": "2026-11-05T17:05:16+00:00",
       "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "3303d6ac09af",
-      "title": "Australian universities are creating AI-native graduates",
-      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-      "date": "2026-11-05T17:00:00+00:00",
-      "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "9c89422fe59e",
-      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
-      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing da",
-      "date": "2026-11-05T13:10:00+00:00",
-      "source": "MIT Tech Review",
       "lang": "en",
       "category": "Research",
       "priority": 1
