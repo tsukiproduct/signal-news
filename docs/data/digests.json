@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-11-10_afternoon-cloudflare-ai-gateway-updates-industry-trends",
+      "date": "2026-11-10",
+      "file_key": "2026-11-10_afternoon",
+      "title": "Cloudflare AIゲートウェイ強化と業界動向",
+      "summary": "CloudflareがAIゲートウェイの認証必須化・モデルエイリアス等を追加。OpenAIは湿式実験ベンチマーク公開。",
+      "tags": [
+        "Cloudflare",
+        "AI Gateway",
+        "生成AIビジネス活用"
+      ],
+      "slug": "cloudflare-ai-gateway-updates-industry-trends"
+    },
+    {
       "id": "2026-11-09_morning-ai-updates-gateways-cyber-detection",
       "date": "2026-11-09",
       "file_key": "2026-11-09_morning",
@@ -411,20 +424,7 @@
         "multimodal"
       ],
       "slug": "portable-ai-tools"
-    },
-    {
-      "id": "2026-10-09_afternoon-anthropic-oss-scanner-gemini-agentic",
-      "date": "2026-10-09",
-      "file_key": "2026-10-09_afternoon",
-      "title": "Anthropic無料スキャンとGeminiエージェント化",
-      "summary": "AnthropicがOSS向け無料セキュリティスキャン開始、Geminiが企業向けエージェント機能を搭載、GPT-6がIntelligent UIで提供開始",
-      "tags": [
-        "Anthropic",
-        "Google Gemini",
-        "OpenAI GPT-6"
-      ],
-      "slug": "anthropic-oss-scanner-gemini-agentic"
     }
   ],
-  "updated_at": "2026-11-08T16:49:16.221371+00:00"
+  "updated_at": "2026-11-10T03:59:35.045606+00:00"
 }
