@@ -1,50 +1,83 @@
 {
-  "fetched_at": "2026-11-10T03:54:50.390895+00:00",
+  "fetched_at": "2026-11-10T12:23:30.845197+00:00",
   "total": 38,
   "items": [
     {
-      "id": "853f1e239137",
-      "title": "Metaの最小・低コストなAIモデル「Muse Ember」各種ベンチマーク結果、本当にコスパが良いのか？",
-      "url": "https://gigazine.net/news/20261110-meta-muse-ember-benchmark/",
-      "summary": "Metaが2026年11月9日に発表した小型AIモデル「Muse Ember」について、AIモデルの評価を行うArtificial Analysis、Vals AI、Arena.aiなどがベンチマーク結果を公開しました。Muse Emberは競合モデルと同等以上の性能を低コストで実現していると評価されており、特にAIエージェントによる作業やウェブ開発で高いコストパフォーマンスを示しています。続きを読む...",
-      "date": "2026-11-10T03:30:00+00:00",
+      "id": "7f83c7f8edca",
+      "title": "Closing the AI guidance gap in education",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "summary": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+      "date": "2026-11-10T09:00:00+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "c58eaef99970",
+      "title": "Claude Opus 5.5の推論能力が11月3日から急激に低下したとの指摘、1400件の利用履歴から変化が判明",
+      "url": "https://gigazine.net/news/20261110-claude-opus-nerf/",
+      "summary": "AnthropicのAIモデル「Claude Opus 5.5」の推論能力が2026年11月3日頃から急激に低下した可能性が指摘されています。開発者のシェーン・メロー氏がAIによるプログラミング支援ツール「Claude Code」の利用履歴約1400件を分析したところ、モデル名が変わっていないにもかかわらず、AIの思考を示す文章や作業の進め方に大きな変化が見つかったとのことです。続きを読む...",
+      "date": "2026-11-10T07:55:00+00:00",
       "source": "Gigazine",
       "lang": "ja",
       "category": "Tech",
       "priority": 2
     },
     {
-      "id": "237a304f400f",
-      "title": "Claude Fable 5.2とClaude Mythos 5.2が登場、1000体以上のAIを指揮して8日間でOSを自律開発することに成功",
-      "url": "https://gigazine.net/news/20261110-anthropic-claude-fable-mythos-5-2/",
-      "summary": "Anthropicが2026年11月9日に高性能AIモデル「Claude Fable 5.2」と「Claude Mythos 5.2」を発表しました。前世代の5.1からプログラミング能力や推論能力が向上しており、1000体以上のAIエージェントを連携させて8日間でOSを開発することにも成功しています。続きを読む...",
-      "date": "2026-11-10T02:47:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
+      "id": "7579b7c0ec9d",
+      "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+      "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+      "summary": "Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning executi",
+      "date": "2026-11-10T07:28:21+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
     },
     {
-      "id": "24c969773582",
-      "title": "AdobeとDisneyが戦略的提携 「Firefly Foundry」でDisney専用の生成AIモデル開発へ",
-      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003050/",
-      "summary": "AdobeとWalt Disneyは、複数年にわたる戦略的提携を発表した。Adobeは公式AIパートナーとして、生成AI「Firefly Foundry」などの技術を提供。両社は共同でDisneyの作風に特化した安全なカスタムAIモデルを開発し、映像制作からテーマパーク開発まで幅広いクリエイティブ工程を支援していく。",
-      "date": "2026-11-10T02:10:07+00:00",
+      "id": "f877e42b9758",
+      "title": "ケンタッキー、一部メニュー画像に生成AI 実験販売の商品など SNSは「違和感」の声も",
+      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003070/",
+      "summary": "日本ケンタッキー・フライド・チキンが、実験販売メニューの商品画像の制作に生成AIを用いることがあると、ITmedia NEWSの取材に回答した。フロートの画像が「AI画像ではないか」とXで話題になったことがきっかけだが、利用の意図や狙いは明らかにしていない。",
+      "date": "2026-11-10T07:13:36+00:00",
       "source": "ITmedia News",
       "lang": "ja",
       "category": "Tech",
       "priority": 2
     },
     {
-      "id": "547880ea3428",
-      "title": "“何でもリバースエンジニアリング”生成AIで広がる ソフトウェアもスマート家電も手軽に改造……ブームに潜む危険",
-      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000002975/",
-      "summary": "AIを使ってスマート家電のOSに手を加え、AIに生成させたコードに入れ替えて、広告を消したり自分好みの機能を付け加えたりする行為がちょっとしたブームになっている。ソフトウェアの改造が手軽にできるとうたった“何でもリバースエンジニアリング”（REA）というツールもGitHubで注目を集めているが、セキュリティ上のリスクも懸念されている。",
-      "date": "2026-11-10T02:00:00+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
+      "id": "fc66a21ca327",
+      "title": "Otter AI can now follow conversations across 30+ languages",
+      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+      "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+      "date": "2026-11-10T07:00:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "c65c16754ea5",
+      "title": "Quoting Prompting Claude Fable 5.2",
+      "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
+      "summary": "Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. In Anthropic’s testing on small coding tasks, when a prompt said nothing about ownership or presented the code base as someone else’s, the model tended to ",
+      "date": "2026-11-10T05:34:14+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
+    {
+      "id": "27380ba49ff7",
+      "title": "Yonkers Rises",
+      "url": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
+      "summary": "Tool: Yonkers Rises I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed its location and shape in my head (and to try out Claude Fable 5.2's 3D modeling and animation skills), I prompted Fable 5.2 Medi",
+      "date": "2026-11-10T03:53:04+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
     },
     {
       "id": "55ff5cbc62ee",
@@ -83,7 +116,7 @@
       "id": "169b32bc866c",
       "title": "llm-anthropic 0.31",
       "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
-      "summary": "Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. I've added them to llm-anthropic, so you can now run prompts through Fable 5.2 like this: uv tool install llm llm install llm-anthropic llm keys set anthropic # paste key ",
+      "summary": "Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. Fable 5.2 is currently ranked first on Artificial Analysis. Anthropic say it \"solved two open problems in the physics of black holes\", so clearly their internal benchmarks",
       "date": "2026-11-09T23:58:46+00:00",
       "source": "Simon Willison",
       "lang": "en",
@@ -122,28 +155,6 @@
       "lang": "en",
       "category": "Research",
       "priority": 1
-    },
-    {
-      "id": "5223c7a83160",
-      "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-      "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-      "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It",
-      "date": "2026-11-09T19:09:58+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "c301a0197fe3",
-      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-      "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can",
-      "date": "2026-11-09T18:58:38+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "c81f482fdf11",
@@ -265,17 +276,6 @@
       "lang": "en",
       "category": "Tech",
       "priority": 2
-    },
-    {
-      "id": "0491af650884",
-      "title": "Quoting Nilay Patel",
-      "url": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
-      "summary": "The products aren't good enough to sell people on the costs. You cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and some of the most hilarious deep fake slop in history. It's not worth it. ",
-      "date": "2026-11-06T17:13:12+00:00",
-      "source": "Simon Willison",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1
     },
     {
       "id": "51dda1debcfd",
