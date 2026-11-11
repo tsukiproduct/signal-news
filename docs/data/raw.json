@@ -1,7 +1,51 @@
 {
-  "fetched_at": "2026-11-11T01:37:28.188637+00:00",
-  "total": 41,
+  "fetched_at": "2026-11-11T11:46:18.807581+00:00",
+  "total": 46,
   "items": [
+    {
+      "id": "5eaca1fc27cd",
+      "title": "2027年にも「超人的AI研究者(SAR)」が登場する可能性が高いとAI研究者らが予測、全ホワイトカラー業務の自動化AIも2028年までに登場か",
+      "url": "https://gigazine.net/news/20261111-superhuman-ai-researcher-2027/",
+      "summary": "元OpenAIのガバナンス研究者であるダニエル・ココタイロ氏が率いる非営利研究団体のAI Futures Projectが、最高水準の人間の研究者を一掃するかもしれない「Superhuman AI Researcher(超人的AI研究者：SAR)」が2027年に登場する可能性が高いとの予測を発表しました。続きを読む...",
+      "date": "2026-11-11T11:00:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "f05efec61d96",
+      "title": "GoogleのAI「Gemini」は個人のGoogleドライブ内のファイルやGmailを人間のレビュー担当者が見ることができるようにしている可能性がある",
+      "url": "https://gigazine.net/news/20261111-gemini-drive/",
+      "summary": "GoogleのAI「Gemini」にはログインしたアカウントのGmailやGoogleドライブと連携してよりパーソナルなチャットやデータ分析を行うことができる機能があります。この機能が明示的に指示していない場合でも個人データを参照しており、さらにはGeminiが読み取った個人情報について人間のレビュー担当者に見られている可能性があると報告されています。続きを読む...",
+      "date": "2026-11-11T10:31:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "76008a7f8bcb",
+      "title": "Google製高性能AI「Gemini 4 Carbon」が一般公開される、複数のAIが協力する新機能で3Dゲームを制作するデモも披露",
+      "url": "https://gigazine.net/news/20261111-gemini-4-carbon/",
+      "summary": "Googleは2026年11月10日にAIモデル「Gemini 4 Carbon」の一般提供を開始したと発表しました。Gemini 4 Carbonは複雑なプログラミングや科学研究、サイバーセキュリティ分野の作業に対応する高性能AIで、有料プラン「Google AI Ultra」のユーザーはGeminiアプリなどから利用できます。複数のAIが協力して長時間の作業を進める新機能「/swarm」も発表されています。続きを読む...",
+      "date": "2026-11-11T09:00:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "4c5ef8a2d9ea",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "summary": "",
+      "date": "2026-11-11T05:01:16+00:00",
+      "source": "Hugging Face Blog",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
     {
       "id": "db99036d78a1",
       "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
@@ -10,28 +54,6 @@
       "date": "2026-11-11T00:34:34+00:00",
       "source": "The Verge",
       "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "86d37ba6c89e",
-      "title": "「Claude」に共同編集の「Sheets」「Whiteboards」 外部アプリもClaude内で開いて作業可能に",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003089/",
-      "summary": "Anthropicは、「Claude」に共同編集可能な「Claude Sheets」と「Claude Whiteboards」をβ版として追加した。また「Claude Dashboards」を「Claude Data」に改称し、一般提供を開始。さらに外部アプリをClaude内で直接操作できる「インタラクティブコネクタ」の拡張も発表した。",
-      "date": "2026-11-11T00:33:03+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "3cac10345a0d",
-      "title": "Google、「Gemini 4 Carbon」一般提供開始 Geminiアプリでは最上位「AI Ultra」限定",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003083/",
-      "summary": "Googleは、最上位AIモデル「Gemini 4 Carbon」の提供を開始した。一般ユーザーは月額1万4500円の「Google AI Ultra」契約で利用可能となる。複雑な推論や高度なコーディングに特化しており、開発者向けAPIや新機能「/swarm」のプレビュー提供も始まった。",
-      "date": "2026-11-10T22:03:30+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
       "category": "Tech",
       "priority": 2
     },
@@ -124,14 +146,14 @@
       "priority": 1
     },
     {
-      "id": "5d35c297f500",
-      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
-      "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "date": "2026-11-10T17:04:19+00:00",
-      "source": "TechCrunch AI",
+      "id": "e38c92a7cefc",
+      "title": "Gemini 4 Carbon is now available",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "summary": "",
+      "date": "2026-11-10T16:03:47+00:00",
+      "source": "Google DeepMind",
       "lang": "en",
-      "category": "Industry",
+      "category": "Research",
       "priority": 1
     },
     {
@@ -267,6 +289,17 @@
       "priority": 1
     },
     {
+      "id": "6c31d4893839",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "date": "2026-11-09T19:51:47+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
       "id": "1127808f36fe",
       "title": "The backlash about data centers might really just be about electricity",
       "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
@@ -328,17 +361,6 @@
       "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, p",
       "date": "2026-11-09T10:00:00+00:00",
       "source": "MIT Tech Review",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "ebd6c1fb221a",
-      "title": "CodeRabbit scales agentic software development and ships 20x more",
-      "url": "https://openai.com/index/coderabbit-codex-daybreak",
-      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-      "date": "2026-11-09T08:00:00+00:00",
-      "source": "OpenAI Blog",
       "lang": "en",
       "category": "Research",
       "priority": 1
@@ -410,14 +432,14 @@
       "priority": 1
     },
     {
-      "id": "4eabb5f27738",
+      "id": "27451d50ffbe",
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
-      "date": "2026-11-05T17:00:00+00:00",
-      "source": "Google Developers",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "summary": "",
+      "date": "2026-11-05T17:05:16+00:00",
+      "source": "Google DeepMind",
       "lang": "en",
-      "category": "Tech",
+      "category": "Research",
       "priority": 1
     },
     {
@@ -443,6 +465,17 @@
       "priority": 1
     },
     {
+      "id": "a4a8ae975d2d",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "date": "2026-11-03T17:01:49+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
       "id": "e80bef32aee2",
       "title": "AI Gateway - New AI Gateways require authentication",
       "url": "https://developers.cloudflare.com/changelog/post/2026-11-03-required-authentication/",
@@ -451,6 +484,28 @@
       "source": "Cloudflare AI Gateway",
       "lang": "en",
       "category": "Tech",
+      "priority": 1
+    },
+    {
+      "id": "28e570ea2652",
+      "title": "Speeding up planning decisions with AI",
+      "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+      "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
+      "date": "2026-10-30T14:18:30+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "05b8a9f5907e",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "summary": "",
+      "date": "2026-10-28T17:00:58+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
       "priority": 1
     }
   ]
