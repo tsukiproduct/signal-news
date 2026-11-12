@@ -1,0 +1,136 @@
+{
+  "id": "2026-11-13_morning-ai-2026-11-ai-update",
+  "file_key": "2026-11-13_morning",
+  "date": "2026-11-13",
+  "generated_at": "2026-11-12T18:40:36.513884+00:00",
+  "title": "AI業界最新動向：Gemini 4とAnthropic IPOが注目",
+  "slug": "ai-2026-11-ai-update",
+  "summary": "Gemini 4の一般公開、Anthropicの1.4T IPO、ComfyUIの速度向上など、AI業界の重要な動向をまとめます。Anthropicの再帰的自己改善への懸念やWorkers AIのモデル廃止も重要なポイントです。",
+  "tags": [
+    "AI開発",
+    "Gemini 4",
+    "Anthropic IPO",
+    "ComfyUI",
+    "Cloudflare"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "5週間のAI業界振り返りとして、AnthropicとOpenAIの巨大IPO、Gemini 4のリリース、そしてComfyUIのテキスト生成速度向上 etc.が注目されています。Anthropicの再帰的自己改善への懸念も提起され、開発者向けツールの拡充も進んでいます。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "Gemini 4はサイバーセキュリティと長期推論に特化したモデルとしてGoogleから開発者向けに公開されました。Anthropicは1.4T米ドル規模のIPOを発表し、オープNAIも1.25T規模のIPOを計画しています。一方、Anthropicの再帰的自己改善への懸念が浮上しており、業界内の議論が活発化しています。",
+      "source_title": "Last Week (Month) in AI #347 - Nvidia's spy, Anthropic's $1.4T IPO, AI's blue wave",
+      "source_url": "https://lastweekin.ai/p/last-week-month-in-ai-347-nvidias"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "ComfyUIバージョン0.40.0から0.45.0へのアップデートにより、ツリー型MTPとカーネル最適化が実装され、LLMやVLMのテキスト生成速度が2倍以上に向上しました。プロンプト強化や動画ストーリー作成への応用も期待されています。",
+      "source_title": "ComfyUIのテキスト生成速度が2倍に向上",
+      "source_url": "https://gigazine.net/news/20261112-comfyui-llm-doubling/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "Gemini 4ベータから本格リリース",
+      "prompt_body": "Gemini 4は限定ベータ版から一般公開へ。価格は1万トークンあたり2ドル、100万トークン出力あたり10ドルという価格設定で、Googleの最新モデルとしての強力な性能を示しています。",
+      "prompt_usecase": "一般的なテキスト生成タスクやコード生成、対話型アシスタントへの応用に適しています。",
+      "prompt_source": "https://simonwillison.net/2026/Nov/10/llm-gemini/"
+    },
+    {
+      "type": "wow",
+      "heading": "これはすごい！今週のバイiral",
+      "body": "AI業界で話題となっているAnthropicのIPOとGemini 4のリリースが注目されています。また、CloudflareのWorkers AIモデル廃止やAI Gatewayの機能強化も、開発者コミュニティで活発な議論を呼んでいます。",
+      "source_title": "Anthropic's $1.4T IPO",
+      "source_url": "https://lastweekin.ai/p/last-week-month-in-ai-347-nvidias"
+    },
+    {
+      "type": "events",
+      "heading": "今週のAIイベント",
+      "body": "主要なイベントはAnthropicとOpenAIのIPO発表会です。さらにCloudflareのAI GatewayアップデートやGemini 4のリリース会も注目されます。詳細は各企業の公式サイトをご確認ください。",
+      "event_list": [
+        {
+          "title": "Anthropic IPO発表",
+          "date": "2026年10月",
+          "place": "オンライン",
+          "url": "https://lastweekin.ai/p/last-week-month-in-ai-347-nvidias"
+        },
+        {
+          "title": "Gemini 4リリース会",
+          "date": "2026年11月",
+          "place": "オンライン",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/"
+        }
+      ]
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "Gemini 4の高速推論性能とAnthropicの安全性重視モデルは、顧客対応AIアシスタントやセキュリティ分析システムへの導入に適しています。また、ComfyUIの速度向上はデザインツールや動画編集ワークフローに直接的なメリットをもたらします。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "AI業界ではAnthropicの再帰的自己改善への懸念が指摘されており、規制当局からの監視強化が予想されます。一方、Workers AIのモデル廃止は、開発者の選択肢に影響を与える可能性があり、代替プラットフォームへの移行が進むでしょう。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Last Week (Month) in AI #347 - Nvidia's spy, Anthropic's $1.4T IPO, AI's blue wave",
+      "url": "https://lastweekin.ai/p/last-week-month-in-ai-347-nvidias",
+      "source": "Last Week in AI",
+      "category": "Research"
+    },
+    {
+      "title": "Gemini 4 Carbon is now available for developers.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/",
+      "source": "Google Developers",
+      "category": "Tech"
+    },
+    {
+      "title": "AI Gateway - Review provider key activity in AI Gateway",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-11-06-provider-key-security/",
+      "source": "Cloudflare AI Gateway",
+      "category": "Tech"
+    },
+    {
+      "title": "Workers AI - Planned model deprecations on Workers AI",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-11-05-planned-model-deprecations/",
+      "source": "Cloudflare Workers AI",
+      "category": "Tech"
+    },
+    {
+      "title": "AI Gateway - Route across a pool of models with model aliases",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-11-04-model-aliases/",
+      "source": "Cloudflare AI Gateway",
+      "category": "Tech"
+    },
+    {
+      "title": "llm-gemini 0.36",
+      "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "ComfyUIのテキスト生成速度が2倍に向上、ツリー型MTPやカーネル最適化によりLLMやVLMの実行を高速化しプロンプト強化などで威力を発揮",
+      "url": "https://gigazine.net/news/20261112-comfyui-llm-doubling/",
+      "source": "Gigazine",
+      "category": "ImageVideo"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

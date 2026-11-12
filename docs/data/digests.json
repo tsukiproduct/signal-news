@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-11-13_morning-ai-2026-11-ai-update",
+      "date": "2026-11-13",
+      "file_key": "2026-11-13_morning",
+      "title": "AI業界最新動向：Gemini 4とAnthropic IPOが注目",
+      "summary": "Gemini 4の一般公開、Anthropicの1.4T IPO、ComfyUIの速度向上など、AI業界の重要な動向をまとめます。Anthropicの再帰的自己改善への懸念やWorkers AIのモデル廃止も重要なポイントです。",
+      "tags": [
+        "AI開発",
+        "Gemini 4",
+        "Anthropic IPO",
+        "ComfyUI",
+        "Cloudflare"
+      ],
+      "slug": "ai-2026-11-ai-update"
+    },
+    {
       "id": "2026-11-10_afternoon-cloudflare-ai-gateway-updates-industry-trends",
       "date": "2026-11-10",
       "file_key": "2026-11-10_afternoon",
@@ -410,21 +425,7 @@
         "教育テクノロジー"
       ],
       "slug": "ai-weekly-cloudflare-openai-apple-updates"
-    },
-    {
-      "id": "2026-10-10_afternoon-portable-ai-tools",
-      "date": "2026-10-10",
-      "file_key": "2026-10-10_afternoon",
-      "title": "ポータブルAIハードウェアと新機能",
-      "summary": "MSIが8インチ120HzのポータブルゲーミングPCを発表。CloudflareがWorkers AIに音声/動画入力を追加。OpenAIがティーン向けCollege Plannerを提供。AppleがAIエージェントの権限を制限。AnthropicとOpenAIが新型モデルを発表。",
-      "tags": [
-        "hardware",
-        "permissions",
-        "education",
-        "multimodal"
-      ],
-      "slug": "portable-ai-tools"
     }
   ],
-  "updated_at": "2026-11-10T03:59:35.045606+00:00"
+  "updated_at": "2026-11-12T18:40:36.514452+00:00"
 }

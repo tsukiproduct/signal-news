@@ -1,17 +1,116 @@
 {
-  "fetched_at": "2026-11-12T12:25:50.832841+00:00",
-  "total": 38,
+  "fetched_at": "2026-11-12T18:37:52.845878+00:00",
+  "total": 47,
   "items": [
     {
-      "id": "6e4dde476834",
-      "title": "Ring confirms its camera drone won’t have manual controls after crashing on CBS News",
-      "url": "https://www.theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls",
-      "summary": "When (or if) Ring's security camera drone flies into our homes in January, you won't get the option to pilot it yourself. The Ring Drone Cam relies entirely on an \"AI Pilot\" system to follow pre-programmed routes and navigate autonomously around obst",
-      "date": "2026-11-12T11:12:32+00:00",
+      "id": "7e494307f069",
+      "title": "AI chatbots are recommending fake retail websites, study finds",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted Cha",
+      "date": "2026-11-12T18:35:54+00:00",
       "source": "The Verge",
       "lang": "en",
       "category": "Tech",
       "priority": 2
+    },
+    {
+      "id": "454af483986c",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "summary": "",
+      "date": "2026-11-12T18:00:50+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "b3b68327aa8b",
+      "title": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
+      "summary": "Build faster with Gemini 4 Hydrogen, Google’s new model for cost-efficient agentic coding and debugging. Start building in Google AI Studio today.",
+      "date": "2026-11-12T18:00:00+00:00",
+      "source": "Google Developers",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 1
+    },
+    {
+      "id": "7e45a8156860",
+      "title": "The Jensen Huang scandal is hardly over",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
+      "summary": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, ",
+      "date": "2026-11-12T17:52:23+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "cf0abceb6aec",
+      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
+      "date": "2026-11-12T17:36:40+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "75acdb0b89ac",
+      "title": "More game developers are starting to use generative AI",
+      "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+      "summary": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it \"as part of their job,\" an inc",
+      "date": "2026-11-12T17:24:09+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "0deb78fa341d",
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+      "date": "2026-11-12T17:17:58+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "55bf40a54c79",
+      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+      "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+      "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
+      "date": "2026-11-12T17:00:52+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "6c6681e03d76",
+      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+      "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+      "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
+      "date": "2026-11-12T17:00:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "4eeb3832c09f",
+      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+      "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+      "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
+      "date": "2026-11-12T16:32:33+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
     },
     {
       "id": "4173c6633a94",
@@ -47,14 +146,14 @@
       "priority": 1
     },
     {
-      "id": "4d80da40d446",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "date": "2026-11-11T23:50:00+00:00",
-      "source": "TechCrunch AI",
+      "id": "82bd872723be",
+      "title": "Workers AI - EmbeddingGemma 2 now available on Workers AI",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-11-12-embeddinggemma-2-workers-ai/",
+      "summary": "@cf/google/embeddinggemma-2 is now available on Workers AI. EmbeddingGemma 2 is an open multimodal embedding model from Google DeepMind. It maps text (including code), images, video, and audio into a single 768-dimensional vector space, so you can se",
+      "date": "2026-11-12T00:00:00+00:00",
+      "source": "Cloudflare Workers AI",
       "lang": "en",
-      "category": "Industry",
+      "category": "Tech",
       "priority": 1
     },
     {
@@ -66,28 +165,6 @@
       "source": "Simon Willison",
       "lang": "en",
       "category": "Prompts",
-      "priority": 1
-    },
-    {
-      "id": "a3a0c9996cbe",
-      "title": "United won’t let your AI agent book your flight",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
-      "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in ",
-      "date": "2026-11-11T21:54:21+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "546c365caa1b",
-      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
-      "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
-      "date": "2026-11-11T19:54:00+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
       "priority": 1
     },
     {
@@ -121,17 +198,6 @@
       "source": "Last Week in AI",
       "lang": "en",
       "category": "Research",
-      "priority": 2
-    },
-    {
-      "id": "fd7c9361a612",
-      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
-      "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
-      "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like As",
-      "date": "2026-11-11T14:15:27+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
       "priority": 2
     },
     {
@@ -188,6 +254,17 @@
       "lang": "en",
       "category": "Safety",
       "priority": 2
+    },
+    {
+      "id": "e38c92a7cefc",
+      "title": "Gemini 4 Carbon is now available",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "summary": "",
+      "date": "2026-11-10T16:03:47+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
     },
     {
       "id": "dfdfc7952f9e",
@@ -278,6 +355,17 @@
       "priority": 1
     },
     {
+      "id": "6c31d4893839",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "date": "2026-11-09T19:51:47+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
       "id": "1127808f36fe",
       "title": "The backlash about data centers might really just be about electricity",
       "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
@@ -316,17 +404,6 @@
       "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The climate case for AI has not been made —By Mary Nichols, distinguished counsel at the UCLA School of",
       "date": "2026-11-09T13:15:00+00:00",
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "08088be30a8e",
-      "title": "Innovating with AI in the special chemicals industry",
-      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing prod",
-      "date": "2026-11-09T13:00:00+00:00",
       "source": "MIT Tech Review",
       "lang": "en",
       "category": "Research",
@@ -377,14 +454,14 @@
       "priority": 1
     },
     {
-      "id": "4eabb5f27738",
+      "id": "27451d50ffbe",
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
-      "date": "2026-11-05T17:00:00+00:00",
-      "source": "Google Developers",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "summary": "",
+      "date": "2026-11-05T17:05:16+00:00",
+      "source": "Google DeepMind",
       "lang": "en",
-      "category": "Tech",
+      "category": "Research",
       "priority": 1
     },
     {
@@ -410,6 +487,17 @@
       "priority": 1
     },
     {
+      "id": "a4a8ae975d2d",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "date": "2026-11-03T17:01:49+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
       "id": "e80bef32aee2",
       "title": "AI Gateway - New AI Gateways require authentication",
       "url": "https://developers.cloudflare.com/changelog/post/2026-11-03-required-authentication/",
@@ -418,6 +506,17 @@
       "source": "Cloudflare AI Gateway",
       "lang": "en",
       "category": "Tech",
+      "priority": 1
+    },
+    {
+      "id": "28e570ea2652",
+      "title": "Speeding up planning decisions with AI",
+      "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+      "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
+      "date": "2026-10-30T14:18:30+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
       "priority": 1
     }
   ]
