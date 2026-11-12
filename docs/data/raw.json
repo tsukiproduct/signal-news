@@ -1,7 +1,40 @@
 {
-  "fetched_at": "2026-11-12T02:37:57.898388+00:00",
-  "total": 44,
+  "fetched_at": "2026-11-12T12:25:50.832841+00:00",
+  "total": 38,
   "items": [
+    {
+      "id": "6e4dde476834",
+      "title": "Ring confirms its camera drone won’t have manual controls after crashing on CBS News",
+      "url": "https://www.theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls",
+      "summary": "When (or if) Ring's security camera drone flies into our homes in January, you won't get the option to pilot it yourself. The Ring Drone Cam relies entirely on an \"AI Pilot\" system to follow pre-programmed routes and navigate autonomously around obst",
+      "date": "2026-11-12T11:12:32+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "4173c6633a94",
+      "title": "ComfyUIのテキスト生成速度が2倍に向上、ツリー型MTPやカーネル最適化によりLLMやVLMの実行を高速化しプロンプト強化などで威力を発揮",
+      "url": "https://gigazine.net/news/20261112-comfyui-llm-doubling/",
+      "summary": "ComfyUIの主な用途は画像生成や動画生成ですが、プロンプトの品質向上や動画ストーリー作成などに対応するためにLLMやVLMによるテキスト生成もサポートしています。ComfyUIではバージョン0.40.0から0.45.0にかけてテキスト生成処理の最適化が進められ、従来の2倍以上の生成速度を達成しています。続きを読む...",
+      "date": "2026-11-12T08:29:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "34c6d4acf53a",
+      "title": "Supporting research on AI and children’s safety",
+      "url": "https://openai.com/index/children-first-declaration",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "date": "2026-11-12T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
     {
       "id": "49cf590dc337",
       "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -12,17 +45,6 @@
       "lang": "en",
       "category": "Research",
       "priority": 1
-    },
-    {
-      "id": "6969ca6514be",
-      "title": "ゼロから独自開発した国産AIでトップクラスの日本語翻訳精度を実現する「PLaMo翻訳」を開発したPreferred Networksエンジニアに編集長が根掘り葉掘り聞いてみたよインタビュー",
-      "url": "https://gigazine.net/news/20261112-preferred-networks-plamo-translate-interview/",
-      "summary": "日本の企業・Preferred Networks(PFN)が提供する「PLaMo」はフルスクラッチで開発された国産生成AI基盤モデルで、日本語に特化しているのが特徴。このPLaMoベースで開発された「PLaMo翻訳」はとにかく非常に質の高い翻訳が可能で、テキスト翻訳だけでなくFirefoxやChromeの拡張機能でも提供されています。2026年10月にはPLaMo 3 NICTをベースにしたplamo-3-translateも登場し、翻訳の精度は随一のレベルに到達しています。そんなPLaMo翻訳",
-      "date": "2026-11-12T00:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "4d80da40d446",
@@ -63,17 +85,6 @@
       "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
       "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
       "date": "2026-11-11T19:54:00+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "69792f3c8084",
-      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
-      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
-      "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
-      "date": "2026-11-11T19:34:55+00:00",
       "source": "TechCrunch AI",
       "lang": "en",
       "category": "Industry",
@@ -135,28 +146,6 @@
       "priority": 1
     },
     {
-      "id": "b1f8f5f4eb5d",
-      "title": "AmazonがAIモデルの「Claude Sonnet 4.6」を独自開発の意志決定モデル「Strands Decider」に置き換えることで98％のコスト削減に成功",
-      "url": "https://gigazine.net/news/20261111-amazon-claude-sonnet-4-6-strands-decider/",
-      "summary": "AmazonとAWSは、コストを抑えながら社内への問い合わせやシステムエラーをAIで自動仕分けするため、Anthropicのバランス型モデルである「Claude Sonnet 4.6」を利用してきました。これを意思決定モデルの「Strands Decider」に置き換えることで、98％のコスト削減に成功したと報告しています。続きを読む...",
-      "date": "2026-11-11T12:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "5eaca1fc27cd",
-      "title": "2027年にも「超人的AI研究者(SAR)」が登場する可能性が高いとAI研究者らが予測、全ホワイトカラー業務の自動化AIも2028年までに登場か",
-      "url": "https://gigazine.net/news/20261111-superhuman-ai-researcher-2027/",
-      "summary": "元OpenAIのガバナンス研究者であるダニエル・ココタイロ氏が率いる非営利研究団体のAI Futures Projectが、最高水準の人間の研究者を一掃するかもしれない「Superhuman AI Researcher(超人的AI研究者：SAR)」が2027年に登場する可能性が高いとの予測を発表しました。続きを読む...",
-      "date": "2026-11-11T11:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "4c5ef8a2d9ea",
       "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
       "url": "https://huggingface.co/blog/qvac/botpsy",
@@ -199,17 +188,6 @@
       "lang": "en",
       "category": "Safety",
       "priority": 2
-    },
-    {
-      "id": "e38c92a7cefc",
-      "title": "Gemini 4 Carbon is now available",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-      "summary": "",
-      "date": "2026-11-10T16:03:47+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
     },
     {
       "id": "dfdfc7952f9e",
@@ -267,17 +245,6 @@
       "priority": 1
     },
     {
-      "id": "db3d3bbb0683",
-      "title": "Work at the Frontier: AI’s effect on freelance work",
-      "url": "https://openai.com/index/ai-effect-on-freelance-work",
-      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "date": "2026-11-10T07:00:00+00:00",
-      "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
       "id": "c65c16754ea5",
       "title": "Quoting Prompting Claude Fable 5.2",
       "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
@@ -308,17 +275,6 @@
       "source": "Hugging Face Blog",
       "lang": "en",
       "category": "Prompts",
-      "priority": 1
-    },
-    {
-      "id": "6c31d4893839",
-      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-      "date": "2026-11-09T19:51:47+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
       "priority": 1
     },
     {
@@ -421,14 +377,14 @@
       "priority": 1
     },
     {
-      "id": "27451d50ffbe",
+      "id": "4eabb5f27738",
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-      "summary": "",
-      "date": "2026-11-05T17:05:16+00:00",
-      "source": "Google DeepMind",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+      "date": "2026-11-05T17:00:00+00:00",
+      "source": "Google Developers",
       "lang": "en",
-      "category": "Research",
+      "category": "Tech",
       "priority": 1
     },
     {
@@ -454,17 +410,6 @@
       "priority": 1
     },
     {
-      "id": "a4a8ae975d2d",
-      "title": "Agentic cheminformatics with Google Antigravity",
-      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-      "date": "2026-11-03T17:01:49+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
       "id": "e80bef32aee2",
       "title": "AI Gateway - New AI Gateways require authentication",
       "url": "https://developers.cloudflare.com/changelog/post/2026-11-03-required-authentication/",
@@ -473,17 +418,6 @@
       "source": "Cloudflare AI Gateway",
       "lang": "en",
       "category": "Tech",
-      "priority": 1
-    },
-    {
-      "id": "28e570ea2652",
-      "title": "Speeding up planning decisions with AI",
-      "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
-      "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
-      "date": "2026-10-30T14:18:30+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
       "priority": 1
     }
   ]
