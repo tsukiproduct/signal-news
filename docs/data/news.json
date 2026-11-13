@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-13T02:22:05.109589+00:00",
-  "fetched_at": "2026-11-13T02:18:32.462908+00:00",
-  "total": 42,
+  "updated_at": "2026-11-13T12:03:12.656112+00:00",
+  "fetched_at": "2026-11-13T12:01:02.120118+00:00",
+  "total": 46,
   "curated": true,
   "items": [
     {
@@ -509,32 +509,46 @@
       "translation_status": "machine"
     },
     {
-      "id": "9b07171de3eb",
-      "title": "ハイブリッドワーク時代のPCとは？ 「HP ProBook 4 G2i AI PC」が示すPC選びの新基準",
-      "url": "https://ascii.jp/elem/000/004/430/4430453/?rss",
-      "summary": "薄型・コンパクトでスタイリッシュなデザイン。現代のビジネスシーンでPCに求められるものは何なのか？ HPによるその答えの1つが、今回紹介する「HP ProBook 4 G2i 14 AI PC」だ。",
-      "date": "2026-11-13T02:00:00+00:00",
-      "source": "ASCII.jp",
+      "id": "76f9d72e4656",
+      "title": "ゲームのコードのわずか0.1％未満にAIを使用したことを公表しただけで400件以上の低評価レビューが殺到",
+      "url": "https://gigazine.net/news/20261113-indie-game-used-ai-bad-review/",
+      "summary": "人気インディーゲーム「Big Walk」の開発元がゲームのプログラムのごく一部に生成AIを使用したことを公表したところ、400件以上の低評価レビューが殺到する事態となりました。生成AIが関わったコードは全体の0.1％未満で、主に技術的な問題の調査や不具合の修正に利用されたとのこと。生成AIの使用を巡ってゲーム開発者やゲーム賞の審査員の間でも議論が広がっています。続きを読む...",
+      "date": "2026-11-13T09:45:00+00:00",
+      "source": "Gigazine",
       "lang": "ja",
       "category": "Tech",
       "priority": 2,
       "score": 5,
       "reason": "未評価",
-      "summary_ja": "薄型・コンパクトでスタイリッシュなデザイン。現代のビジネスシーンでPCに求められるものは何なのか？ HPによるその答えの1つが、今回紹介する「HP ProBook 4 G2i 14 AI PC」だ。"
+      "summary_ja": "人気インディーゲーム「Big Walk」の開発元がゲームのプログラムのごく一部に生成AIを使用したことを公表したところ、400件以上の低評価レビューが殺到する事態となりました。生成AIが関わったコードは全体の0.1％未満で、主に技術的な問題の調査や不具合の修正に利用されたとのこと。生成AIの使用を巡ってゲーム開発者やゲーム賞の審査員の間でも議論が広がっています。続きを読む..."
     },
     {
-      "id": "ab0452ed07b8",
-      "title": "Google、高速で低価格の「Gemini 4 Hydrogen」発表 無料ユーザーも利用可能",
-      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003162/",
-      "summary": "Googleは、AIエージェントによる作業や日常的なコーディングに向けた高速・高効率の新モデル「Gemini 4 Hydrogen」を発表した。「Gemini 3.8 Flash」の約2.5倍の速さでタスクを終え、推論の深さを4段階から選べる。APIやGeminiアプリなどで同日から順次提供している。",
-      "date": "2026-11-12T23:04:46+00:00",
+      "id": "ec8d66fa5315",
+      "title": "AI×裸眼3Dディスプレイ？ 2D映像をその場で3D化し、見る人の目も追う 現地で確かめた",
+      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003195/",
+      "summary": "文章作成とんでん、ソフトバンク、SBクリエイティブの3社が、裸眼で3D映像を見られるデジタルサイネージの実証実験を公開した。AIが視聴者の目の位置を追跡し、既存の2D動画をリアルタイムで3D映像に変換する。現地で体験した。",
+      "date": "2026-11-13T09:25:54+00:00",
       "source": "ITmedia News",
       "lang": "ja",
       "category": "Tech",
       "priority": 2,
       "score": 5,
       "reason": "未評価",
-      "summary_ja": "Googleは、AIエージェントによる作業や日常的なコーディングに向けた高速・高効率の新モデル「Gemini 4 Hydrogen」を発表した。「Gemini 3.8 Flash」の約2.5倍の速さでタスクを終え、推論の深さを4段階から選べる。APIやGeminiアプリなどで同日から順次提供している。"
+      "summary_ja": "文章作成とんでん、ソフトバンク、SBクリエイティブの3社が、裸眼で3D映像を見られるデジタルサイネージの実証実験を公開した。AIが視聴者の目の位置を追跡し、既存の2D動画をリアルタイムで3D映像に変換する。現地で体験した。"
+    },
+    {
+      "id": "7f4cad97cd43",
+      "title": "パナHD、AIとロボ組み合わせた「フィジカルAI」研究開発強化 倉庫・物流へ展開視野",
+      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003184/",
+      "summary": "パナソニックホールディングス（HD）は11月11日、人工知能（AI）とロボットを組み合わせた「フィジカルAI」の研究開発を強化する方針を明らかにした。",
+      "date": "2026-11-13T03:55:31+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "パナソニックホールディングス（HD）は11月11日、人工知能（AI）とロボットを組み合わせた「フィジカルAI」の研究開発を強化する方針を明らかにした。"
     },
     {
       "id": "4a05ae5eb352",
@@ -663,6 +677,20 @@
       "summary_ja": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition."
     },
     {
+      "id": "454af483986c",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "summary": "",
+      "date": "2026-11-12T18:00:50+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": ""
+    },
+    {
       "id": "b3b68327aa8b",
       "title": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
@@ -733,6 +761,20 @@
       "summary_ja": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production."
     },
     {
+      "id": "e38c92a7cefc",
+      "title": "Gemini 4 Carbon is now available",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "summary": "",
+      "date": "2026-11-10T16:03:47+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": ""
+    },
+    {
       "id": "c31928bbebfd",
       "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
       "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
@@ -757,52 +799,32 @@
       "translation_status": "machine"
     },
     {
-      "id": "1127808f36fe",
-      "title": "The backlash about data centers might really just be about electricity",
-      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Ce",
-      "date": "2026-11-09T19:35:33+00:00",
-      "source": "MIT Tech Review",
+      "id": "ddcdbef63b1f",
+      "title": "Opening the datasets behind our AI weather models",
+      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+      "date": "2026-11-10T11:13:04+00:00",
+      "source": "Google DeepMind",
       "lang": "en",
       "category": "Research",
       "priority": 1,
       "score": 5,
-      "reason": "Relevant context about AI infrastructure and energy consumption, but not a direct user-facing change.",
-      "summary_ja": "AI データセンターのエネルギー消費に関する議論。米国選挙中のエネルギー問題が焦点。",
-      "title_ja": "データセンターの反発は本当に電力問題なのか",
-      "title_en": "The backlash about data centers might really just be about electricity",
-      "summary_en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Ce",
-      "useful_for_ja": "AI インフラ、持続可能性",
-      "useful_for_en": "AI infrastructure, sustainability",
-      "try_next_ja": "AI データセンターのエネルギー効率化ソリューションを探る",
-      "try_next_en": "Investigate AI data center power consumption optimization",
-      "caveat_ja": "記事が具体的な推奨事項を提供しているか確認する",
-      "caveat_en": "Confirm whether this is actionable guidance or just commentary",
-      "translation_status": "machine"
+      "reason": "未評価",
+      "summary_ja": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly."
     },
     {
-      "id": "9541439da1a6",
-      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role",
-      "date": "2026-11-09T17:05:43+00:00",
-      "source": "MIT Tech Review",
+      "id": "6c31d4893839",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "date": "2026-11-09T19:51:47+00:00",
+      "source": "Google DeepMind",
       "lang": "en",
       "category": "Research",
       "priority": 1,
       "score": 5,
-      "reason": "Political context, no released capability",
-      "summary_ja": "AIリスク抑制の立法をまとめたカリフォルニア州上院議員スコット・ワイナーが、ペロシ氏の空席だったサンフランシスコの下院選を制し、AI規制を左右する可能性がある。",
-      "title_ja": "ペロシ氏の後任がAI規制に乗り出す準備",
-      "title_en": "Nancy Pelosi's replacement is ready to regulate AI",
-      "summary_en": "California senator Scott Wiener, who authored AI risk legislation, won the race for Pelosi's open San Francisco congressional seat and could play a key role in AI regulation.",
-      "useful_for_ja": "AI規制の政策動向を追う人",
-      "useful_for_en": "Those tracking AI regulation policy",
-      "try_next_ja": "ワイナーが提出するAI法案を注視する",
-      "try_next_en": "Watch which AI bills Wiener introduces",
-      "caveat_ja": "具体的な規制内容や時期は抜粋に記載なし",
-      "caveat_en": "No specific regulation or timeline in excerpt",
-      "translation_status": "machine"
+      "reason": "未評価",
+      "summary_ja": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety"
     },
     {
       "id": "9678fc2a3d37",
@@ -829,18 +851,32 @@
       "translation_status": "machine"
     },
     {
-      "id": "4eabb5f27738",
+      "id": "27451d50ffbe",
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
-      "date": "2026-11-05T17:00:00+00:00",
-      "source": "Google Developers",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "summary": "",
+      "date": "2026-11-05T17:05:16+00:00",
+      "source": "Google DeepMind",
       "lang": "en",
-      "category": "ImageVideo",
+      "category": "Research",
       "priority": 1,
       "score": 5,
       "reason": "未評価",
-      "summary_ja": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing."
+      "summary_ja": ""
+    },
+    {
+      "id": "a4a8ae975d2d",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "date": "2026-11-03T17:01:49+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles."
     }
   ]
 }
