@@ -1,0 +1,115 @@
+{
+  "id": "2026-11-14_afternoon-ai-dev-credits-keys-billing",
+  "file_key": "2026-11-14_afternoon",
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T01:58:07.482383+00:00",
+  "title": "AI開発の入口が変わる：クレジット・鍵管理・支払い",
+  "slug": "ai-dev-credits-keys-billing",
+  "summary": "Google AI Studioのクレジット利用、CloudflareのAPIキー監査、Hugging FaceのGCP払いなど、開発者の運用に効く変更を整理。",
+  "tags": [
+    "Google AI Studio",
+    "Cloudflare",
+    "開発者ツール"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "今回の材料は、モデル性能の話題よりも「開発者がどう試し、どう管理し、どう支払うか」に寄っています。Google AI Studio上でのGoogle Cloudクレジット請求、Cloudflare AI Gatewayでのプロバイダキー使用履歴の可視化、Hugging Face HubのGoogle Cloudアカウント経由の支払いが並びました。加えてChatGPTの決済機能やGemini 4 Carbonの提供開始という記載もありますが、抜粋が短く、料金・対象地域・利用上限は読み取れません。いずれも原典での確認を前提にしてください。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "Google AI Studioでクレジットを直接扱う",
+      "body": "何が変わったか：Google AI Studio上でGoogle Cloudクレジットを請求・利用できるようになった、という開発者向けの変更です。誰に関係するか：AI Studioでモデルを試し、そのままデプロイまで進めたい個人開発者や小規模チームです。従来は請求先やプロジェクト管理の導線が分かれがちでしたが、試作と課金の距離が縮まる可能性があります。ただしクレジットの対象モデル、有効期限、商用利用の扱い、上限は抜粋からは不明です。出典で確認する条件：付与条件、対象リージョン、無料枠との併用可否、請求アカウントの紐付け方法を原典で確認してください。",
+      "source_title": "Claim your Google Cloud Credits in Google AI Studio",
+      "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "APIキーの「使われ方」を見える化",
+      "body": "何が変わったか：Cloudflare AI Gatewayで、保存済みプロバイダキーの使用履歴を確認できるようになりました。プロバイダ別のグループ化、マスク済みプレビュー、エイリアス、最終使用・更新日時の表示が含まれます。誰に関係するか：複数のLLMプロバイダを併用し、キーをチームで共有している開発・運用担当です。使っていないキーの放置や、意図しない利用の初動調査に役立つ一方、履歴の保存期間や閲覧権限の詳細は抜粋では分かりません。出典で確認する条件：対象プラン、権限ロール、ログ保持期間、API経由で取得できるかを原典で確認してください。",
+      "source_title": "AI Gateway - Review provider key activity in AI Gateway",
+      "source_url": "https://developers.cloudflare.com/changelog/post/2026-11-06-provider-key-security/"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "Hugging FaceをGCPの支払いで",
+      "body": "何が変わったか：Hugging Face Hubの支払いをGoogle Cloudアカウント経由で行えるようになったという告知です。誰に関係するか：クラウドの予算管理に一本化したい企業の調達・開発部門です。請求経路がまとまると経費処理は楽になりますが、対象プラン、対象国、既存契約からの切り替え可否、税の扱いは抜粋に含まれていません。出典で確認する条件：Marketplace経由で買える対象サービス、最低契約期間、解約や返金の条件を原典で確認してください。",
+      "source_title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "source_url": "https://huggingface.co/blog/hub-gcp-marketplace"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "APIキー棚卸しプロンプト",
+      "prompt_body": "以下はAI Gatewayのプロバイダキー一覧です（列：エイリアス／プロバイダ／マスク済みキー／最終使用日／更新日）。90日以上未使用、更新から1年超、用途が読み取れないキーを表に分け、それぞれ「削除候補・要確認・継続」の判定理由を1行で添えてください。最後に、確認すべき質問を3つ挙げてください。",
+      "prompt_usecase": "月次のキー棚卸しに使います。判定は提案であり、削除は必ず人が行います。権限や保存期間の仕様はCloudflareの原典で確認してください。",
+      "prompt_source": "https://developers.cloudflare.com/changelog/post/2026-11-06-provider-key-security/"
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "まず、試作環境と本番環境で請求アカウントとキーを分けます。AI Studioのクレジットは試作の検証に使い、本番は別プロジェクトに固定。次に、AI Gatewayのキー一覧を月次で棚卸しし、未使用キーの停止とエイリアス命名規則の統一を運用に組み込みます。最後に、Hugging Faceのような外部サービスの支払いをクラウド経由に寄せる場合は、経理の締め日とクラウド請求のタイミングがずれる点を先に確認します。いずれも料金や上限は推測せず、契約前に原典の条件を担当者が確認する体制にしてください。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "ChatGPT Walletによるエージェント決済（米国Pro加入者向けの限定提供との記載）や、サイバーセキュリティ・長期推論に特化したとするGemini 4 Carbonの提供開始も材料に含まれています。ただし抜粋が短く、対象者、提供地域、価格、利用上限、安全性の制約は確認できません。決済代行や専門特化モデルは業務の前提を変え得るため、導入検討時は必ず原典の利用条件と制限事項を読み、社内の承認フローと照合することをおすすめします。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Claim your Google Cloud Credits in Google AI Studio",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/",
+      "source": "Google Developers",
+      "category": "Tech"
+    },
+    {
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "source": "TechCrunch AI",
+      "category": "Industry"
+    },
+    {
+      "title": "Last Week (Month) in AI #347 - Nvidia's spy, Anthropic's $1.4T IPO, AI's blue wave",
+      "url": "https://lastweekin.ai/p/last-week-month-in-ai-347-nvidias",
+      "source": "Last Week in AI",
+      "category": "Research"
+    },
+    {
+      "title": "Gemini 4 Carbon is now available for developers.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/",
+      "source": "Google Developers",
+      "category": "Tech"
+    },
+    {
+      "title": "AI Gateway - Review provider key activity in AI Gateway",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-11-06-provider-key-security/",
+      "source": "Cloudflare AI Gateway",
+      "category": "Tech"
+    },
+    {
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "source": "Hugging Face Blog",
+      "category": "Prompts"
+    },
+    {
+      "title": "Workers AI - Inkling 2 Small now available on Workers AI",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-11-12-inkling-2-small-workers-ai/",
+      "source": "Cloudflare Workers AI",
+      "category": "ImageVideo"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}

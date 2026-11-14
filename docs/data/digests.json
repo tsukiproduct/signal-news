@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-11-14_afternoon-ai-dev-credits-keys-billing",
+      "date": "2026-11-14",
+      "file_key": "2026-11-14_afternoon",
+      "title": "AI開発の入口が変わる：クレジット・鍵管理・支払い",
+      "summary": "Google AI Studioのクレジット利用、CloudflareのAPIキー監査、Hugging FaceのGCP払いなど、開発者の運用に効く変更を整理。",
+      "tags": [
+        "Google AI Studio",
+        "Cloudflare",
+        "開発者ツール"
+      ],
+      "slug": "ai-dev-credits-keys-billing"
+    },
+    {
       "id": "2026-11-13_morning-ai-2026-11-ai-update",
       "date": "2026-11-13",
       "file_key": "2026-11-13_morning",
@@ -409,23 +422,7 @@
         "マルチモーダル"
       ],
       "slug": "anthropic-isolation-cloudflare-multimodal"
-    },
-    {
-      "id": "2026-10-10_evening-ai-weekly-cloudflare-openai-apple-updates",
-      "date": "2026-10-10",
-      "file_key": "2026-10-10_evening",
-      "title": "AI最新動向：音声AI、学生支援、検索APIが進化",
-      "summary": "Cloudflareの音声動画AI、OpenAIの学生向け機能、Appleの権限強化など、今週のAIニュースを解説",
-      "tags": [
-        "AIモデル",
-        "Cloudflare",
-        "OpenAI",
-        "プライバシー",
-        "音声AI",
-        "教育テクノロジー"
-      ],
-      "slug": "ai-weekly-cloudflare-openai-apple-updates"
     }
   ],
-  "updated_at": "2026-11-12T18:40:36.514452+00:00"
+  "updated_at": "2026-11-14T01:58:07.483241+00:00"
 }
