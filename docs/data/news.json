@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-14T01:57:45.009315+00:00",
-  "fetched_at": "2026-11-14T01:55:14.626154+00:00",
-  "total": 36,
+  "updated_at": "2026-11-14T11:27:25.614985+00:00",
+  "fetched_at": "2026-11-14T11:19:02.464621+00:00",
+  "total": 41,
   "curated": true,
   "items": [
     {
@@ -461,6 +461,34 @@
       "translation_status": "machine"
     },
     {
+      "id": "d2b32d068d82",
+      "title": "タブレットに変形する「VAIO T」が発売記念で3万3000円オフに。手に入れるなら、いまだ！",
+      "url": "https://ascii.jp/elem/000/004/451/4451456/?rss",
+      "summary": "VAIO直販に注目。「VAIO T ;Copilot+ PC」が「発売記念特別価格」として、3万3000円の値引きが適用され、34万1000円で購入できる。",
+      "date": "2026-11-14T11:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "VAIO直販に注目。「VAIO T ;Copilot+ PC」が「発売記念特別価格」として、3万3000円の値引きが適用され、34万1000円で購入できる。"
+    },
+    {
+      "id": "eb9e635497c6",
+      "title": "ゲーム開発者の40％が生成AIを使用しているもののそれ以上に多くの人が生成AIは有害だと考えている",
+      "url": "https://gigazine.net/news/20261114-developers-games-industry-using-generative-ai/",
+      "summary": "ゲーム開発にAIを活用することに対しては賛否両論ありますが、世界最大級のゲーム開発者会議であるGDCの最新レポートから、業界で活躍する開発者の40％が生成AIを利用していることが明らかになりました。続きを読む...",
+      "date": "2026-11-14T04:00:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "ゲーム開発にAIを活用することに対しては賛否両論ありますが、世界最大級のゲーム開発者会議であるGDCの最新レポートから、業界で活躍する開発者の40％が生成AIを利用していることが明らかになりました。続きを読む..."
+    },
+    {
       "id": "239d7b685748",
       "title": "幻覚がひどいAIでも言葉遣いが洗練されていれば人を簡単に騙せることが判明",
       "url": "https://gigazine.net/news/20261114-llm-fluency-credible/",
@@ -513,6 +541,34 @@
       "summary_ja": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible "
     },
     {
+      "id": "26d265ce671c",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "date": "2026-11-13T19:37:57+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith."
+    },
+    {
+      "id": "3bcb8ca81cba",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "date": "2026-11-13T18:40:30+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "New research shows the most advanced AI models from China were trained on banned Nvidia chips."
+    },
+    {
       "id": "86fb984623e6",
       "title": "Jensen Huang was reckless with the environment, too",
       "url": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
@@ -525,6 +581,20 @@
       "score": 5,
       "reason": "未評価",
       "summary_ja": "Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water- and chemical-intensive factories, drained power "
+    },
+    {
+      "id": "9c558a7ae326",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "date": "2026-11-13T15:58:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
     },
     {
       "id": "ec8d66fa5315",
