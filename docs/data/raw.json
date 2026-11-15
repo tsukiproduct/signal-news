@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-11-15T01:27:42.757979+00:00",
-  "total": 41,
+  "fetched_at": "2026-11-15T11:51:16.860224+00:00",
+  "total": 35,
   "items": [
     {
       "id": "cbf5757fc7e8",
@@ -23,17 +23,6 @@
       "lang": "en",
       "category": "Industry",
       "priority": 1
-    },
-    {
-      "id": "d2b32d068d82",
-      "title": "タブレットに変形する「VAIO T」が発売記念で3万3000円オフに。手に入れるなら、いまだ！",
-      "url": "https://ascii.jp/elem/000/004/451/4451456/?rss",
-      "summary": "VAIO直販に注目。「VAIO T ;Copilot+ PC」が「発売記念特別価格」として、3万3000円の値引きが適用され、34万1000円で購入できる。",
-      "date": "2026-11-14T11:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "e906ce588cf4",
@@ -143,17 +132,6 @@
       "source": "Hugging Face Blog",
       "lang": "en",
       "category": "Prompts",
-      "priority": 1
-    },
-    {
-      "id": "454af483986c",
-      "title": "Introducing Gemini 4 Hydrogen",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-      "summary": "",
-      "date": "2026-11-12T18:00:50+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
       "priority": 1
     },
     {
@@ -278,17 +256,6 @@
       "priority": 2
     },
     {
-      "id": "e38c92a7cefc",
-      "title": "Gemini 4 Carbon is now available",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-      "summary": "",
-      "date": "2026-11-10T16:03:47+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
       "id": "dfdfc7952f9e",
       "title": "Gemini 4 Carbon is now available for developers.",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/",
@@ -311,17 +278,6 @@
       "priority": 1
     },
     {
-      "id": "ddcdbef63b1f",
-      "title": "Opening the datasets behind our AI weather models",
-      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
-      "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
-      "date": "2026-11-10T11:13:04+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
       "id": "992e8c410947",
       "title": "Pay for Hugging Face Hub with your Google Cloud Account",
       "url": "https://huggingface.co/blog/hub-gcp-marketplace",
@@ -330,17 +286,6 @@
       "source": "Hugging Face Blog",
       "lang": "en",
       "category": "Prompts",
-      "priority": 1
-    },
-    {
-      "id": "6c31d4893839",
-      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-      "date": "2026-11-09T19:51:47+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
       "priority": 1
     },
     {
@@ -399,14 +344,14 @@
       "priority": 1
     },
     {
-      "id": "27451d50ffbe",
+      "id": "4eabb5f27738",
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-      "summary": "",
-      "date": "2026-11-05T17:05:16+00:00",
-      "source": "Google DeepMind",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+      "date": "2026-11-05T17:00:00+00:00",
+      "source": "Google Developers",
       "lang": "en",
-      "category": "Research",
+      "category": "Tech",
       "priority": 1
     },
     {
@@ -429,17 +374,6 @@
       "source": "Cloudflare AI Gateway",
       "lang": "en",
       "category": "Tech",
-      "priority": 1
-    },
-    {
-      "id": "a4a8ae975d2d",
-      "title": "Agentic cheminformatics with Google Antigravity",
-      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-      "date": "2026-11-03T17:01:49+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
       "priority": 1
     },
     {
