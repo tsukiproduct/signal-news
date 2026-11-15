@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-14T16:47:51.718238+00:00",
-  "fetched_at": "2026-11-14T16:45:42.283126+00:00",
-  "total": 39,
+  "updated_at": "2026-11-15T01:29:52.212697+00:00",
+  "fetched_at": "2026-11-15T01:27:42.757979+00:00",
+  "total": 40,
   "curated": true,
   "items": [
     {
@@ -461,6 +461,34 @@
       "translation_status": "machine"
     },
     {
+      "id": "cbf5757fc7e8",
+      "title": "datasette-llm 0.1a11",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+      "summary": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use",
+      "date": "2026-11-14T23:59:28+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use"
+    },
+    {
+      "id": "17dd6d164624",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "date": "2026-11-14T17:30:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+    },
+    {
       "id": "d2b32d068d82",
       "title": "タブレットに変形する「VAIO T」が発売記念で3万3000円オフに。手に入れるなら、いまだ！",
       "url": "https://ascii.jp/elem/000/004/451/4451456/?rss",
@@ -473,20 +501,6 @@
       "score": 5,
       "reason": "未評価",
       "summary_ja": "VAIO直販に注目。「VAIO T ;Copilot+ PC」が「発売記念特別価格」として、3万3000円の値引きが適用され、34万1000円で購入できる。"
-    },
-    {
-      "id": "eb9e635497c6",
-      "title": "ゲーム開発者の40％が生成AIを使用しているもののそれ以上に多くの人が生成AIは有害だと考えている",
-      "url": "https://gigazine.net/news/20261114-developers-games-industry-using-generative-ai/",
-      "summary": "ゲーム開発にAIを活用することに対しては賛否両論ありますが、世界最大級のゲーム開発者会議であるGDCの最新レポートから、業界で活躍する開発者の40％が生成AIを利用していることが明らかになりました。続きを読む...",
-      "date": "2026-11-14T04:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2,
-      "score": 5,
-      "reason": "未評価",
-      "summary_ja": "ゲーム開発にAIを活用することに対しては賛否両論ありますが、世界最大級のゲーム開発者会議であるGDCの最新レポートから、業界で活躍する開発者の40％が生成AIを利用していることが明らかになりました。続きを読む..."
     },
     {
       "id": "e906ce588cf4",
@@ -555,34 +569,6 @@
       "summary_ja": "New research shows the most advanced AI models from China were trained on banned Nvidia chips."
     },
     {
-      "id": "9c558a7ae326",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "date": "2026-11-13T15:58:00+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1,
-      "score": 5,
-      "reason": "未評価",
-      "summary_ja": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
-    },
-    {
-      "id": "ec8d66fa5315",
-      "title": "AI×裸眼3Dディスプレイ？ 2D映像をその場で3D化し、見る人の目も追う 現地で確かめた",
-      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003195/",
-      "summary": "文章作成とんでん、ソフトバンク、SBクリエイティブの3社が、裸眼で3D映像を見られるデジタルサイネージの実証実験を公開した。AIが視聴者の目の位置を追跡し、既存の2D動画をリアルタイムで3D映像に変換する。現地で体験した。",
-      "date": "2026-11-13T14:34:56+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2,
-      "score": 5,
-      "reason": "未評価",
-      "summary_ja": "文章作成とんでん、ソフトバンク、SBクリエイティブの3社が、裸眼で3D映像を見られるデジタルサイネージの実証実験を公開した。AIが視聴者の目の位置を追跡し、既存の2D動画をリアルタイムで3D映像に変換する。現地で体験した。"
-    },
-    {
       "id": "1f76189be1ea",
       "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
       "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
@@ -595,34 +581,6 @@
       "score": 5,
       "reason": "未評価",
       "summary_ja": ""
-    },
-    {
-      "id": "eac079c142ed",
-      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
-      "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
-      "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
-      "date": "2026-11-13T12:52:19+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1,
-      "score": 5,
-      "reason": "未評価",
-      "summary_ja": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure."
-    },
-    {
-      "id": "7f4cad97cd43",
-      "title": "パナHD、AIとロボ組み合わせた「フィジカルAI」研究開発強化 倉庫・物流へ展開視野",
-      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003184/",
-      "summary": "パナソニックホールディングス（HD）は11月11日、人工知能（AI）とロボットを組み合わせた「フィジカルAI」の研究開発を強化する方針を明らかにした。",
-      "date": "2026-11-13T03:55:31+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2,
-      "score": 5,
-      "reason": "未評価",
-      "summary_ja": "パナソニックホールディングス（HD）は11月11日、人工知能（AI）とロボットを組み合わせた「フィジカルAI」の研究開発を強化する方針を明らかにした。"
     },
     {
       "id": "4a05ae5eb352",
@@ -647,6 +605,20 @@
       "source": "Hugging Face Blog",
       "lang": "en",
       "category": "Prompts",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": ""
+    },
+    {
+      "id": "454af483986c",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "summary": "",
+      "date": "2026-11-12T18:00:50+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
       "priority": 1,
       "score": 5,
       "reason": "未評価",
@@ -681,20 +653,6 @@
       "summary_ja": "@cf/thinkingmachines/inkling-2-small is now available on Workers AI. Inkling 2 Small is the second generation of Inkling models from Thinking Machines Lab, and the first frontier open model from a US lab on Workers AI. Inkling 2 Small is more capable"
     },
     {
-      "id": "88bbf8a80513",
-      "title": "llm 0.37.2",
-      "url": "https://simonwillison.net/2026/Nov/11/llm/",
-      "summary": "Release: llm 0.37.2 Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w. LLM has a mechanism called extra-openai-models.yaml - now managed by the new-in-0.37 llm openai endpoint add command - for using L",
-      "date": "2026-11-11T17:19:52+00:00",
-      "source": "Simon Willison",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1,
-      "score": 5,
-      "reason": "未評価",
-      "summary_ja": "Release: llm 0.37.2 Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w. LLM has a mechanism called extra-openai-models.yaml - now managed by the new-in-0.37 llm openai endpoint add command - for using L"
-    },
-    {
       "id": "63c379e63905",
       "title": "The Download: preserving minds and weighing open AI risks",
       "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
@@ -707,6 +665,20 @@
       "score": 5,
       "reason": "未評価",
       "summary_ja": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still"
+    },
+    {
+      "id": "e38c92a7cefc",
+      "title": "Gemini 4 Carbon is now available",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "summary": "",
+      "date": "2026-11-10T16:03:47+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": ""
     },
     {
       "id": "c31928bbebfd",
@@ -733,6 +705,34 @@
       "translation_status": "machine"
     },
     {
+      "id": "ddcdbef63b1f",
+      "title": "Opening the datasets behind our AI weather models",
+      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+      "date": "2026-11-10T11:13:04+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly."
+    },
+    {
+      "id": "6c31d4893839",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "date": "2026-11-09T19:51:47+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety"
+    },
+    {
       "id": "9678fc2a3d37",
       "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
       "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
@@ -757,18 +757,32 @@
       "translation_status": "machine"
     },
     {
-      "id": "4eabb5f27738",
+      "id": "27451d50ffbe",
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
-      "date": "2026-11-05T17:00:00+00:00",
-      "source": "Google Developers",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "summary": "",
+      "date": "2026-11-05T17:05:16+00:00",
+      "source": "Google DeepMind",
       "lang": "en",
-      "category": "ImageVideo",
+      "category": "Research",
       "priority": 1,
       "score": 5,
       "reason": "未評価",
-      "summary_ja": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing."
+      "summary_ja": ""
+    },
+    {
+      "id": "a4a8ae975d2d",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "date": "2026-11-03T17:01:49+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles."
     }
   ]
 }
