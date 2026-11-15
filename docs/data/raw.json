@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-11-15T11:51:16.860224+00:00",
-  "total": 35,
+  "fetched_at": "2026-11-15T17:28:14.893946+00:00",
+  "total": 41,
   "items": [
     {
       "id": "cbf5757fc7e8",
@@ -23,17 +23,6 @@
       "lang": "en",
       "category": "Industry",
       "priority": 1
-    },
-    {
-      "id": "e906ce588cf4",
-      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-      "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and poli",
-      "date": "2026-11-14T00:06:40+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "8d23e88a0f9b",
@@ -132,6 +121,17 @@
       "source": "Hugging Face Blog",
       "lang": "en",
       "category": "Prompts",
+      "priority": 1
+    },
+    {
+      "id": "454af483986c",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "summary": "",
+      "date": "2026-11-12T18:00:50+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
       "priority": 1
     },
     {
@@ -256,6 +256,17 @@
       "priority": 2
     },
     {
+      "id": "e38c92a7cefc",
+      "title": "Gemini 4 Carbon is now available",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "summary": "",
+      "date": "2026-11-10T16:03:47+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
       "id": "dfdfc7952f9e",
       "title": "Gemini 4 Carbon is now available for developers.",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/",
@@ -278,6 +289,17 @@
       "priority": 1
     },
     {
+      "id": "ddcdbef63b1f",
+      "title": "Opening the datasets behind our AI weather models",
+      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+      "date": "2026-11-10T11:13:04+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
       "id": "992e8c410947",
       "title": "Pay for Hugging Face Hub with your Google Cloud Account",
       "url": "https://huggingface.co/blog/hub-gcp-marketplace",
@@ -289,6 +311,17 @@
       "priority": 1
     },
     {
+      "id": "6c31d4893839",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "date": "2026-11-09T19:51:47+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
       "id": "c81bc26d8b0f",
       "title": "Developers can now build with Google Maps Platform in AI Studio.",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/",
@@ -297,6 +330,17 @@
       "source": "Google Developers",
       "lang": "en",
       "category": "Tech",
+      "priority": 1
+    },
+    {
+      "id": "65b0a1baf082",
+      "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
+      "url": "https://importai.substack.com/p/import-ai-480-self-sustaining-space",
+      "summary": "When do you think we'll have robots on the moon?",
+      "date": "2026-11-09T13:31:34+00:00",
+      "source": "Import AI",
+      "lang": "en",
+      "category": "Research",
       "priority": 1
     },
     {
@@ -344,14 +388,14 @@
       "priority": 1
     },
     {
-      "id": "4eabb5f27738",
+      "id": "27451d50ffbe",
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
-      "date": "2026-11-05T17:00:00+00:00",
-      "source": "Google Developers",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "summary": "",
+      "date": "2026-11-05T17:05:16+00:00",
+      "source": "Google DeepMind",
       "lang": "en",
-      "category": "Tech",
+      "category": "Research",
       "priority": 1
     },
     {
@@ -377,6 +421,17 @@
       "priority": 1
     },
     {
+      "id": "a4a8ae975d2d",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "date": "2026-11-03T17:01:49+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
       "id": "e80bef32aee2",
       "title": "AI Gateway - New AI Gateways require authentication",
       "url": "https://developers.cloudflare.com/changelog/post/2026-11-03-required-authentication/",
@@ -385,6 +440,17 @@
       "source": "Cloudflare AI Gateway",
       "lang": "en",
       "category": "Tech",
+      "priority": 1
+    },
+    {
+      "id": "4be72698d02a",
+      "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+      "url": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency",
+      "summary": "What do LLMs think about vision models?",
+      "date": "2026-11-02T14:30:54+00:00",
+      "source": "Import AI",
+      "lang": "en",
+      "category": "Research",
       "priority": 1
     }
   ]
