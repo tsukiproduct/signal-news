@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2026-11-17_morning-google-ai-studio-cloud-credits-gemini-4-hydrogen",
+      "date": "2026-11-17",
+      "file_key": "2026-11-17_morning",
+      "title": "Google AI StudioでCloudクレジット利用可能に、Gemini 4 Hydrogenも登場",
+      "summary": "Google AI StudioでCloudクレジット請求が可能に。Gemini 4 Hydrogen公開。OpenAIが研究者20万人に無料提供。CloudflareでInkling 2 Small利用可能。",
+      "tags": [
+        "Google",
+        "OpenAI",
+        "Cloudflare",
+        "Developers",
+        "Research"
+      ],
+      "slug": "google-ai-studio-cloud-credits-gemini-4-hydrogen"
+    },
+    {
       "id": "2026-11-14_afternoon-ai-dev-credits-keys-billing",
       "date": "2026-11-14",
       "file_key": "2026-11-14_afternoon",
@@ -409,20 +424,7 @@
         "コンテンツ生成"
       ],
       "slug": "ai-latest-trends-cost-reduction-to-education-support"
-    },
-    {
-      "id": "2026-10-11_morning-anthropic-isolation-cloudflare-multimodal",
-      "date": "2026-10-11",
-      "file_key": "2026-10-11_morning",
-      "title": "Anthropicが評価環境を隔離、Cloudflareが音声動画対応",
-      "summary": "Anthropicが内部評価をオフライン化、Cloudflare Workers AIに音声動画入力対応モデル追加",
-      "tags": [
-        "AI安全性",
-        "エッジAI",
-        "マルチモーダル"
-      ],
-      "slug": "anthropic-isolation-cloudflare-multimodal"
     }
   ],
-  "updated_at": "2026-11-14T01:58:07.483241+00:00"
+  "updated_at": "2026-11-16T20:51:05.178259+00:00"
 }
