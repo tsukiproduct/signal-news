@@ -1,7 +1,84 @@
 {
-  "fetched_at": "2026-11-15T17:28:14.893946+00:00",
-  "total": 41,
+  "fetched_at": "2026-11-16T01:29:47.691522+00:00",
+  "total": 35,
   "items": [
+    {
+      "id": "22756b577313",
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+      "date": "2026-11-15T23:30:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "9ca2d79d20fd",
+      "title": "datasette 1.0a43",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette/",
+      "summary": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone, which is now 53% complete. The biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV ex",
+      "date": "2026-11-15T23:20:27+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
+    {
+      "id": "df3e44b99410",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "date": "2026-11-15T22:00:01+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "e1f75517207a",
+      "title": "Our new blog for science",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "date": "2026-11-15T22:00:00+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "b95b24505d9f",
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+      "date": "2026-11-15T21:56:35+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "bc766627e4a1",
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and b",
+      "date": "2026-11-15T19:15:43+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "d02e796b4813",
+      "title": "datasette-apps 0.4a0",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
+      "summary": "Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data. 0.4a0 adds support for linking: you can link to an ",
+      "date": "2026-11-15T04:02:45+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
     {
       "id": "cbf5757fc7e8",
       "title": "datasette-llm 0.1a11",
@@ -47,39 +124,6 @@
       "priority": 1
     },
     {
-      "id": "26d265ce671c",
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-      "date": "2026-11-13T19:37:57+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "3bcb8ca81cba",
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-      "date": "2026-11-13T18:40:30+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "a89e40511448",
-      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-      "date": "2026-11-13T16:00:12+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
       "id": "ec8d66fa5315",
       "title": "AI×裸眼3Dディスプレイ？ 2D映像をその場で3D化し、見る人の目も追う 現地で確かめた",
       "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003195/",
@@ -102,17 +146,6 @@
       "priority": 1
     },
     {
-      "id": "4a05ae5eb352",
-      "title": "llm-gemini 0.37",
-      "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
-      "summary": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini 4's pricing really confusing. ",
-      "date": "2026-11-12T22:55:19+00:00",
-      "source": "Simon Willison",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1
-    },
-    {
       "id": "f052c6845a6e",
       "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
       "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
@@ -121,17 +154,6 @@
       "source": "Hugging Face Blog",
       "lang": "en",
       "category": "Prompts",
-      "priority": 1
-    },
-    {
-      "id": "454af483986c",
-      "title": "Introducing Gemini 4 Hydrogen",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-      "summary": "",
-      "date": "2026-11-12T18:00:50+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
       "priority": 1
     },
     {
@@ -150,17 +172,6 @@
       "title": "Supporting research on AI and children’s safety",
       "url": "https://openai.com/index/children-first-declaration",
       "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
-      "date": "2026-11-12T00:00:00+00:00",
-      "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "49cf590dc337",
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
       "date": "2026-11-12T00:00:00+00:00",
       "source": "OpenAI Blog",
       "lang": "en",
@@ -187,17 +198,6 @@
       "source": "Cloudflare Workers AI",
       "lang": "en",
       "category": "Tech",
-      "priority": 1
-    },
-    {
-      "id": "2115de876eee",
-      "title": "Gemini Decisions API",
-      "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
-      "summary": "Gemini Decisions API Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses",
-      "date": "2026-11-11T22:03:25+00:00",
-      "source": "Simon Willison",
-      "lang": "en",
-      "category": "Prompts",
       "priority": 1
     },
     {
@@ -256,17 +256,6 @@
       "priority": 2
     },
     {
-      "id": "e38c92a7cefc",
-      "title": "Gemini 4 Carbon is now available",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-      "summary": "",
-      "date": "2026-11-10T16:03:47+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
       "id": "dfdfc7952f9e",
       "title": "Gemini 4 Carbon is now available for developers.",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/",
@@ -289,17 +278,6 @@
       "priority": 1
     },
     {
-      "id": "ddcdbef63b1f",
-      "title": "Opening the datasets behind our AI weather models",
-      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
-      "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
-      "date": "2026-11-10T11:13:04+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
       "id": "992e8c410947",
       "title": "Pay for Hugging Face Hub with your Google Cloud Account",
       "url": "https://huggingface.co/blog/hub-gcp-marketplace",
@@ -311,17 +289,6 @@
       "priority": 1
     },
     {
-      "id": "6c31d4893839",
-      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-      "date": "2026-11-09T19:51:47+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
       "id": "c81bc26d8b0f",
       "title": "Developers can now build with Google Maps Platform in AI Studio.",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/",
@@ -330,17 +297,6 @@
       "source": "Google Developers",
       "lang": "en",
       "category": "Tech",
-      "priority": 1
-    },
-    {
-      "id": "65b0a1baf082",
-      "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
-      "url": "https://importai.substack.com/p/import-ai-480-self-sustaining-space",
-      "summary": "When do you think we'll have robots on the moon?",
-      "date": "2026-11-09T13:31:34+00:00",
-      "source": "Import AI",
-      "lang": "en",
-      "category": "Research",
       "priority": 1
     },
     {
@@ -388,14 +344,14 @@
       "priority": 1
     },
     {
-      "id": "27451d50ffbe",
+      "id": "4eabb5f27738",
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-      "summary": "",
-      "date": "2026-11-05T17:05:16+00:00",
-      "source": "Google DeepMind",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+      "date": "2026-11-05T17:00:00+00:00",
+      "source": "Google Developers",
       "lang": "en",
-      "category": "Research",
+      "category": "Tech",
       "priority": 1
     },
     {
@@ -421,17 +377,6 @@
       "priority": 1
     },
     {
-      "id": "a4a8ae975d2d",
-      "title": "Agentic cheminformatics with Google Antigravity",
-      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-      "date": "2026-11-03T17:01:49+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
       "id": "e80bef32aee2",
       "title": "AI Gateway - New AI Gateways require authentication",
       "url": "https://developers.cloudflare.com/changelog/post/2026-11-03-required-authentication/",
@@ -440,17 +385,6 @@
       "source": "Cloudflare AI Gateway",
       "lang": "en",
       "category": "Tech",
-      "priority": 1
-    },
-    {
-      "id": "4be72698d02a",
-      "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
-      "url": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency",
-      "summary": "What do LLMs think about vision models?",
-      "date": "2026-11-02T14:30:54+00:00",
-      "source": "Import AI",
-      "lang": "en",
-      "category": "Research",
       "priority": 1
     }
   ]
