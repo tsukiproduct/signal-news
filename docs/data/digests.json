@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-11-17_afternoon-ai-studio-credits-gemini-developer-check",
+      "date": "2026-11-17",
+      "file_key": "2026-11-17_afternoon",
+      "title": "AI Studioのクレジット請求と新モデル、開発者が確認すべき点",
+      "summary": "Google AI Studioのクレジット請求、Gemini 4系の開発者向け提供、研究者向けChatGPT拡大を整理。利用条件は原典確認が前提。",
+      "tags": [
+        "Google AI Studio",
+        "Gemini",
+        "開発者ツール"
+      ],
+      "slug": "ai-studio-credits-gemini-developer-check"
+    },
+    {
       "id": "2026-11-17_morning-google-ai-studio-cloud-credits-gemini-4-hydrogen",
       "date": "2026-11-17",
       "file_key": "2026-11-17_morning",
@@ -410,21 +423,7 @@
         "業務自動化"
       ],
       "slug": "ai-latest-cost-reduction-multimodal-input"
-    },
-    {
-      "id": "2026-10-12_morning-ai-latest-trends-cost-reduction-to-education-support",
-      "date": "2026-10-12",
-      "file_key": "2026-10-12_morning",
-      "title": "AI最新動向：コスト削減から教育支援まで",
-      "summary": "モデルコスト削減、マルチモーダル入力対応、教育支援強化などAIの実用的進化が加速。",
-      "tags": [
-        "AIコスト削減",
-        "マルチモーダルAI",
-        "教育支援",
-        "コンテンツ生成"
-      ],
-      "slug": "ai-latest-trends-cost-reduction-to-education-support"
     }
   ],
-  "updated_at": "2026-11-16T20:51:05.178259+00:00"
+  "updated_at": "2026-11-17T04:17:16.923996+00:00"
 }

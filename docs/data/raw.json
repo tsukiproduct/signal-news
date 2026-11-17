@@ -1,28 +1,72 @@
 {
-  "fetched_at": "2026-11-16T20:42:26.610310+00:00",
-  "total": 48,
+  "fetched_at": "2026-11-17T04:15:48.258567+00:00",
+  "total": 39,
   "items": [
     {
-      "id": "6e394d6d04ab",
-      "title": "California state AG sues OpenAI over rogue agent incidents",
-      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
-      "date": "2026-11-16T20:07:13+00:00",
+      "id": "0a16d25d8449",
+      "title": "AIに打ち明けた相談は“広告トラッカー”に筒抜け？ ChatGPT、Claude、Gemini含む42サービスを米大が調査",
+      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003241/",
+      "summary": "米ニューヨーク州立大学ストーニーブルック校に所属する研究者らが発表した論文「Penny for Your Prompts: A Measurement Study of Contextual Leakage in AI Chat Platforms」（IEEE S&P 2027採択）は、AIチャットbotに入力した会話内容や個人情報が、サイト内の追跡プログラム（トラッカー）を通じて外部企業へ漏えいする実態を調査した研究報告だ。",
+      "date": "2026-11-17T03:00:00+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "d7e5cf02c822",
+      "title": "llm 0.37.3",
+      "url": "https://simonwillison.net/2026/Nov/16/llm/",
+      "summary": "Release: llm 0.37.3 A bug fix release for LLM, mainly to cover a problem with the most recent Homebrew package of the software. Homebrew now ships the latest SQLite, 3.54.1, which includes a fix that broke LLM's logging code. Short version: in SQLite",
+      "date": "2026-11-16T23:57:26+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
+    {
+      "id": "7517b8cd010a",
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+      "date": "2026-11-16T23:32:32+00:00",
       "source": "TechCrunch AI",
       "lang": "en",
       "category": "Industry",
       "priority": 1
     },
     {
-      "id": "13db3cf78d53",
-      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-      "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
-      "summary": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and reque",
-      "date": "2026-11-16T19:25:42+00:00",
+      "id": "6bf85be6fa63",
+      "title": "California sues OpenAI over rogue AI hacking incidents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowing",
+      "date": "2026-11-16T23:04:02+00:00",
       "source": "The Verge",
       "lang": "en",
       "category": "Tech",
       "priority": 2
+    },
+    {
+      "id": "df33ffd2c617",
+      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+      "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
+      "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
+      "date": "2026-11-16T20:37:47+00:00",
+      "source": "Ars Technica",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "6e394d6d04ab",
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+      "date": "2026-11-16T20:07:13+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
     },
     {
       "id": "6352fbce7f64",
@@ -37,7 +81,7 @@
     },
     {
       "id": "7dc80a7ed2c8",
-      "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
       "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
       "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
       "date": "2026-11-16T18:11:10+00:00",
@@ -48,9 +92,9 @@
     },
     {
       "id": "8e371c25a440",
-      "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+      "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
       "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-      "summary": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+      "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
       "date": "2026-11-16T17:36:43+00:00",
       "source": "TechCrunch AI",
       "lang": "en",
@@ -102,39 +146,6 @@
       "priority": 1
     },
     {
-      "id": "6df19e2f316f",
-      "title": "Audible turns to AI to help users discover audiobooks",
-      "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
-      "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
-      "date": "2026-11-16T15:52:19+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
-      "id": "1d09485af3e8",
-      "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
-      "url": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
-      "summary": "Plus: CucumberVision!",
-      "date": "2026-11-16T14:01:15+00:00",
-      "source": "Import AI",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "c6e521ec335b",
-      "title": "無料で高校1年生(数学IA履修程度)を対象に大規模言語モデル(LLM)・GPTの仕組みを数学とプログラミングの初歩から順番に作って学ぶ教材「microgpt-lesson」、Google Colabで動作",
-      "url": "https://gigazine.net/news/20261116-microgpt-lesson/",
-      "summary": "ChatGPTなどのAIは文章を作成したり質問に回答したりできますが、その内部でどのような計算が行われているのかを理解するには数学やプログラミングの知識が必要です。そんな大規模言語モデル(LLM)の仕組みを高校1年生向けの数学から順番に学び、Google Colab上で実際に小さなGPTを作ることができる無料教材「microgpt-lesson」です。続きを読む...",
-      "date": "2026-11-16T14:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "0f553794f8a7",
       "title": "Building AI that can work across the enterprise",
       "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
@@ -144,39 +155,6 @@
       "lang": "en",
       "category": "Research",
       "priority": 1
-    },
-    {
-      "id": "69052ca08e17",
-      "title": "ClaudeとCodexで32年落ちのジープをリバースエンジニアリングして修理",
-      "url": "https://gigazine.net/news/20261116-claude-codex-controll-jeep/",
-      "summary": "排ガス規制に適合させるため、Claude CodeとOpenAI Codexで車を修理したという人が詳細を報告しました。続きを読む...",
-      "date": "2026-11-16T12:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "24db913e5c2c",
-      "title": "画面がくるりと回って3変化！ VAIOの新型ノートPC「VAIO T」が今なら3万3000円引き",
-      "url": "https://ascii.jp/elem/000/004/451/4451838/?rss",
-      "summary": "VAIO直販に注目。「VAIO T ;Copilot+ PC」が「発売記念特別価格」として、3万3000円の値引きが適用され、34万1000円で購入できる。",
-      "date": "2026-11-16T12:00:00+00:00",
-      "source": "ASCII.jp",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "de7bec73389f",
-      "title": "AIが文学界を揺るがしている",
-      "url": "https://gigazine.net/news/20261116-ai-literary-world/",
-      "summary": "生成AIの発達により自然な言葉づかいで物語性のある文章もAIが生成できるようになったことで、AIで年間200冊のロマンス小説を執筆する作家の例や、執筆に生成AIを使った疑いで出版を停止した騒動、「AIで書いたのではないか」と疑惑を受けた短編小説が国際文学賞の最優秀賞を受賞した一件など、さまざまな議論が文学界で発生しています。そういった状況を受け、イギリス大手誌のThe Guardianが「まるで西部開拓時代みたいだ：AIが文学界をいかに揺るがしたか」というコラムを掲載しています。続きを読む...",
-      "date": "2026-11-16T10:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "b73c6d7b3972",
@@ -278,17 +256,6 @@
       "priority": 1
     },
     {
-      "id": "454af483986c",
-      "title": "Introducing Gemini 4 Hydrogen",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-      "summary": "",
-      "date": "2026-11-12T18:00:50+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
       "id": "b3b68327aa8b",
       "title": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
@@ -366,17 +333,6 @@
       "priority": 2
     },
     {
-      "id": "e38c92a7cefc",
-      "title": "Gemini 4 Carbon is now available",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-      "summary": "",
-      "date": "2026-11-10T16:03:47+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
       "id": "dfdfc7952f9e",
       "title": "Gemini 4 Carbon is now available for developers.",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/",
@@ -388,28 +344,6 @@
       "priority": 1
     },
     {
-      "id": "ddcdbef63b1f",
-      "title": "Opening the datasets behind our AI weather models",
-      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
-      "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
-      "date": "2026-11-10T11:13:04+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "6c31d4893839",
-      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-      "date": "2026-11-09T19:51:47+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
       "id": "c81bc26d8b0f",
       "title": "Developers can now build with Google Maps Platform in AI Studio.",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/",
@@ -418,17 +352,6 @@
       "source": "Google Developers",
       "lang": "en",
       "category": "Tech",
-      "priority": 1
-    },
-    {
-      "id": "65b0a1baf082",
-      "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
-      "url": "https://importai.substack.com/p/import-ai-480-self-sustaining-space",
-      "summary": "When do you think we'll have robots on the moon?",
-      "date": "2026-11-09T13:31:34+00:00",
-      "source": "Import AI",
-      "lang": "en",
-      "category": "Research",
       "priority": 1
     },
     {
@@ -476,14 +399,14 @@
       "priority": 1
     },
     {
-      "id": "27451d50ffbe",
+      "id": "4eabb5f27738",
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-      "summary": "",
-      "date": "2026-11-05T17:05:16+00:00",
-      "source": "Google DeepMind",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+      "date": "2026-11-05T17:00:00+00:00",
+      "source": "Google Developers",
       "lang": "en",
-      "category": "Research",
+      "category": "Tech",
       "priority": 1
     },
     {
@@ -503,28 +426,6 @@
       "url": "https://developers.cloudflare.com/changelog/post/2026-11-04-model-aliases/",
       "summary": "AI Gateway now supports model aliases. A model alias is a pool of models that your application calls by one name, such as custom/support-fast. AI Gateway tries the models in the order you set and falls back to the next one if a request fails, or uses",
       "date": "2026-11-04T00:00:00+00:00",
-      "source": "Cloudflare AI Gateway",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 1
-    },
-    {
-      "id": "a4a8ae975d2d",
-      "title": "Agentic cheminformatics with Google Antigravity",
-      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-      "date": "2026-11-03T17:01:49+00:00",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "e80bef32aee2",
-      "title": "AI Gateway - New AI Gateways require authentication",
-      "url": "https://developers.cloudflare.com/changelog/post/2026-11-03-required-authentication/",
-      "summary": "New AI Gateways now require authentication to prevent unauthorized requests. Once authentication is on, you cannot turn it off through the dashboard or API. When you create a new AI Gateway through the API, authentication is on by default. You can le",
-      "date": "2026-11-03T00:00:00+00:00",
       "source": "Cloudflare AI Gateway",
       "lang": "en",
       "category": "Tech",
