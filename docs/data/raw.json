@@ -1,7 +1,29 @@
 {
-  "fetched_at": "2026-11-17T04:15:48.258567+00:00",
-  "total": 39,
+  "fetched_at": "2026-11-17T12:59:01.277319+00:00",
+  "total": 41,
   "items": [
+    {
+      "id": "f4a023c354b6",
+      "title": "VAIOって高級なノートPCのイメージあるけど、今ならVAIO T発売記念でめちゃお買い得なんです",
+      "url": "https://ascii.jp/elem/000/004/451/4451839/?rss",
+      "summary": "VAIO直販に注目。「VAIO T ;Copilot+ PC」が「発売記念特別価格」として、3万3000円の値引きが適用され、34万1000円で購入できる。",
+      "date": "2026-11-17T12:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "1d0810ee2c90",
+      "title": "Windows 11がClaude CodeやCodexなどの使用状況を収集してMicrosoftに送信していることが判明",
+      "url": "https://gigazine.net/news/20261117-windows-coding-agent-telemetry/",
+      "summary": "Windows 11が「Claude Code」や「Codex」などのAIコーディングエージェントや開発者向けツールの使用状況を記録し、Microsoftへの送信対象となる診断データに含めていることが明らかになりました。Windows 11の内部動作を調査した開発者のシュシェン・リー氏が2026年11月16日に報告しています。続きを読む...",
+      "date": "2026-11-17T07:45:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
     {
       "id": "0a16d25d8449",
       "title": "AIに打ち明けた相談は“広告トラッカー”に筒抜け？ ChatGPT、Claude、Gemini含む42サービスを米大が調査",
@@ -12,6 +34,17 @@
       "lang": "ja",
       "category": "Tech",
       "priority": 2
+    },
+    {
+      "id": "3dacc3cb13a7",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "date": "2026-11-17T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
     },
     {
       "id": "d7e5cf02c822",
@@ -162,17 +195,6 @@
       "url": "https://openai.com/index/lvmh-media-division-partnership",
       "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
       "date": "2026-11-16T09:00:00+00:00",
-      "source": "OpenAI Blog",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "2b4f9d829bf9",
-      "title": "The King’s Trust and OpenAI launch £1m partnership",
-      "url": "https://openai.com/index/the-kings-trust-and-openai",
-      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
-      "date": "2026-11-16T00:00:00+00:00",
       "source": "OpenAI Blog",
       "lang": "en",
       "category": "Research",

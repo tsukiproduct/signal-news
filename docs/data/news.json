@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-17T04:17:00.253752+00:00",
-  "fetched_at": "2026-11-17T04:15:48.258567+00:00",
-  "total": 36,
+  "updated_at": "2026-11-17T13:00:43.056188+00:00",
+  "fetched_at": "2026-11-17T12:59:01.277319+00:00",
+  "total": 41,
   "curated": true,
   "items": [
     {
@@ -629,6 +629,48 @@
       "translation_status": "machine"
     },
     {
+      "id": "f4a023c354b6",
+      "title": "VAIOって高級なノートPCのイメージあるけど、今ならVAIO T発売記念でめちゃお買い得なんです",
+      "url": "https://ascii.jp/elem/000/004/451/4451839/?rss",
+      "summary": "VAIO直販に注目。「VAIO T ;Copilot+ PC」が「発売記念特別価格」として、3万3000円の値引きが適用され、34万1000円で購入できる。",
+      "date": "2026-11-17T12:00:00+00:00",
+      "source": "ASCII.jp",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "VAIO直販に注目。「VAIO T ;Copilot+ PC」が「発売記念特別価格」として、3万3000円の値引きが適用され、34万1000円で購入できる。"
+    },
+    {
+      "id": "1d0810ee2c90",
+      "title": "Windows 11がClaude CodeやCodexなどの使用状況を収集してMicrosoftに送信していることが判明",
+      "url": "https://gigazine.net/news/20261117-windows-coding-agent-telemetry/",
+      "summary": "Windows 11が「Claude Code」や「Codex」などのAIコーディングエージェントや開発者向けツールの使用状況を記録し、Microsoftへの送信対象となる診断データに含めていることが明らかになりました。Windows 11の内部動作を調査した開発者のシュシェン・リー氏が2026年11月16日に報告しています。続きを読む...",
+      "date": "2026-11-17T07:45:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "Windows 11が「Claude Code」や「Codex」などのAIコーディングエージェントや開発者向けツールの使用状況を記録し、Microsoftへの送信対象となる診断データに含めていることが明らかになりました。Windows 11の内部動作を調査した開発者のシュシェン・リー氏が2026年11月16日に報告しています。続きを読む..."
+    },
+    {
+      "id": "3dacc3cb13a7",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "date": "2026-11-17T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems."
+    },
+    {
       "id": "d7e5cf02c822",
       "title": "llm 0.37.3",
       "url": "https://simonwillison.net/2026/Nov/16/llm/",
@@ -655,6 +697,20 @@
       "score": 5,
       "reason": "未評価",
       "summary_ja": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA."
+    },
+    {
+      "id": "df33ffd2c617",
+      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+      "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
+      "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
+      "date": "2026-11-16T20:37:47+00:00",
+      "source": "Ars Technica",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "The PC sales slump \"more than offset” AI boom gains, shareholders say."
     },
     {
       "id": "6e394d6d04ab",
@@ -711,6 +767,20 @@
       "score": 5,
       "reason": "未評価",
       "summary_ja": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry."
+    },
+    {
+      "id": "80d1539b3912",
+      "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+      "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+      "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+      "date": "2026-11-16T17:10:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year."
     },
     {
       "id": "f2c3c92b0ac1",
