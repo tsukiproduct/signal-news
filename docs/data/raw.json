@@ -1,7 +1,84 @@
 {
-  "fetched_at": "2026-11-18T03:15:36.006374+00:00",
-  "total": 38,
+  "fetched_at": "2026-11-18T12:52:43.726209+00:00",
+  "total": 43,
   "items": [
+    {
+      "id": "10e24888b35f",
+      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+      "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+      "date": "2026-11-18T12:00:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "a26938e80bf4",
+      "title": "Claude Codeチームは検証についてどのように考えて実行しているのか、エンドツーエンドテスト・プロパティテスト・差分テストで証拠に基づいて自身の作業を検証する方法",
+      "url": "https://gigazine.net/news/20261118-claude-code-test-code-review/",
+      "summary": "AIコーディングツール「Claude Code」の開発チームでは、コードの約90％をClaudeが記述・レビューしています。AIに大量の開発作業を任せながらコードの品質を維持するため、Claude Codeの開発チームがどのような検証の仕組みを構築しているのかについて、Anthropicのエンジニアであるアディ・オスマーニ氏が解説しています。続きを読む...",
+      "date": "2026-11-18T12:00:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "11fb9fc05fb1",
+      "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+      "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+      "summary": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+      "date": "2026-11-18T11:30:00+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "5d0f14b046a2",
+      "title": "Suno now lets you make AI videos for your AI music",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+      "summary": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated video clips that automatically lipsync to lyrics, or",
+      "date": "2026-11-18T11:16:53+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "cea875c8cb7c",
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+      "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to crea",
+      "date": "2026-11-18T10:20:30+00:00",
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "e3c90e7cedf4",
+      "title": "Microsoftが新型AIプログラミングモデル「MAI Code 2」と高速版「MAI Code 2 Flash」を発表、GPT-6.1 Solに匹敵する性能を40％のコストで発揮",
+      "url": "https://gigazine.net/news/20261118-mai-code-2-flash/",
+      "summary": "Microsoftが2026年11月17日にプログラミング向けAIモデル「MAI Code 2」と「MAI Code 2 Flash」を発表しました。MAI Code 2はOpenAIの「GPT-6.1 Sol」に匹敵する性能を低コストで発揮するとされており、両モデルともAIプログラミング支援ツール「GitHub Copilot」で利用可能になっています。続きを読む...",
+      "date": "2026-11-18T08:58:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "0806b9cf228e",
+      "title": "AI脅威対処へ新枠組み 重要鉱物やエネルギーで連携 首相、ASEANとの首脳会議出席",
+      "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003294/",
+      "summary": "高市早苗首相は11月17日、訪問先のフィリピンで開かれた日本と東南アジア諸国連合（ASEAN）の首脳会議に出席した。高性能人工知能（AI）を巡る脅威に対処するため、各国と連携する新たな枠組みの創設を確認した。",
+      "date": "2026-11-18T06:10:28+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
     {
       "id": "a5b2e1c3e893",
       "title": "Satya Nadella says he’s AGI-pilled now",
@@ -23,17 +100,6 @@
       "lang": "en",
       "category": "Industry",
       "priority": 1
-    },
-    {
-      "id": "71270237bddc",
-      "title": "OpenAI、「GPT-6.2」の「Astra」と「Sol」を公開 AI自己改善能力は初の「High」に",
-      "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003279/",
-      "summary": "OpenAIは、専門業務向け最上位モデル「GPT-6.2 Astra」と汎用モデル「GPT-6.2 Sol」を発表した。AstraはAIの自己改善能力で同社初の「High」と評価された一方、両モデルともサイバーセキュリティ能力は「Critical」となり制限が強化された。同日より各有料プランで利用可能だ。",
-      "date": "2026-11-17T22:47:14+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "a1dbdf766202",
@@ -140,17 +206,6 @@
       "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
       "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration du",
       "date": "2026-11-16T16:04:28+00:00",
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "0f553794f8a7",
-      "title": "Building AI that can work across the enterprise",
-      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
-      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI ag",
-      "date": "2026-11-16T13:00:00+00:00",
       "source": "MIT Tech Review",
       "lang": "en",
       "category": "Research",
