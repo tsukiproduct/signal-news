@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "2026-11-19_evening-next-gen-ai-models-openai-google-cloudflare",
+      "date": "2026-11-19",
+      "file_key": "2026-11-19_evening",
+      "title": "OpenAI・Googleの次世代モデル展開と開発環境の拡充",
+      "summary": "OpenAIのGPT-6.2シリーズやGoogleのGemini 4新モデルなど、用途別特化モデルが相次いで登場。開発者向けコスト効率と機能分化が加速しています。",
+      "tags": [
+        "LLM",
+        "OpenAI",
+        "GoogleGemini",
+        "開発者ツール"
+      ],
+      "slug": "next-gen-ai-models-openai-google-cloudflare"
+    },
+    {
       "id": "2026-11-17_afternoon-ai-studio-credits-gemini-developer-check",
       "date": "2026-11-17",
       "file_key": "2026-11-17_afternoon",
@@ -410,20 +424,7 @@
         "低コストAI"
       ],
       "slug": "ai-news-hp-omnibook-deezer-asana"
-    },
-    {
-      "id": "2026-10-14_morning-ai-latest-cost-reduction-multimodal-input",
-      "date": "2026-10-14",
-      "file_key": "2026-10-14_morning",
-      "title": "AI最新動向：コスト削減と多様な入力手段",
-      "summary": "GPT-6.1、Clef-omni、Pollo AI等の新技術でコスト削減・高速化が進む",
-      "tags": [
-        "コスト削減",
-        "マルチモーダル",
-        "業務自動化"
-      ],
-      "slug": "ai-latest-cost-reduction-multimodal-input"
     }
   ],
-  "updated_at": "2026-11-17T04:17:16.923996+00:00"
+  "updated_at": "2026-11-19T12:47:29.818778+00:00"
 }

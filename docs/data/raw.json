@@ -1,24 +1,24 @@
 {
-  "fetched_at": "2026-11-19T02:53:51.757120+00:00",
-  "total": 39,
+  "fetched_at": "2026-11-19T12:43:58.395052+00:00",
+  "total": 43,
   "items": [
     {
-      "id": "18fb4c882091",
-      "title": "Googleが「Gemini 4 Neon」を発表、最先端の推論能力と高速・低コストな処理を両立しコーディング性能で世界トップに",
-      "url": "https://gigazine.net/news/20261119-google-gemini-4-neon/",
-      "summary": "Googleが2026年11月18日、新たなAIモデル「Gemini 4 Neon」を発表しました。Gemini 4 Neonは最上位モデルのGemini 4 Carbonをベースに開発されたモデルで、高度なコーディングやデータ分析、科学研究、企業の業務自動化などにおいて、最先端のAIモデルに匹敵する性能と高速かつ低コストな処理を両立しています。続きを読む...",
-      "date": "2026-11-19T02:15:00+00:00",
-      "source": "Gigazine",
+      "id": "9e02f7812e54",
+      "title": "【クーポン利用で43％OFF】RebotAi 12インチタブレットが27,662円！2.5K高精細・90Hz・Android 16＋Gemini AI搭載、IP54防塵・防水対応の高性能モデル",
+      "url": "https://ascii.jp/elem/000/004/453/4453385/?rss",
+      "summary": "【クーポン利用で43％OFF】RebotAi 12インチタブレットが27,662円！2.5K高精細・90Hz・Android 16＋Gemini AI搭載、IP54防塵・防水対応の高性能モデル",
+      "date": "2026-11-19T09:00:00+00:00",
+      "source": "ASCII.jp",
       "lang": "ja",
       "category": "Tech",
       "priority": 2
     },
     {
-      "id": "dae9789e4d80",
-      "title": "Google、AIエージェント機能「Tasks in Gemini」を日本を含む6カ国で無料提供 旧「Gemini Spark」",
-      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003319/",
-      "summary": "Googleは、GeminiアプリのAIエージェント機能「Tasks in Gemini」（旧Gemini Spark）を日本を含む6カ国で無料提供すると発表した。無料版は「Gemini 4 Hydrogen」で動作し、隔離された仮想マシン上でバックグラウンド作業を代行する。米国では電話予約や決済などの機能も順次展開する。",
-      "date": "2026-11-19T00:59:11+00:00",
+      "id": "182ce623c1cf",
+      "title": "職人の技、AIで見える化 工科高校でモーションキャプチャー 企業の8割超が継承に不安",
+      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003324/",
+      "summary": "日本のものづくりを支える職人の高齢化が進む中、経験や勘に頼ってきた技術を人工知能（AI）で「見える化」し、次世代に伝える取り組みが広がりつつある。",
+      "date": "2026-11-19T03:16:18+00:00",
       "source": "ITmedia News",
       "lang": "ja",
       "category": "Tech",
@@ -33,6 +33,17 @@
       "source": "TechCrunch AI",
       "lang": "en",
       "category": "Industry",
+      "priority": 1
+    },
+    {
+      "id": "de299ee9059e",
+      "title": "llm-gemini 0.38",
+      "url": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
+      "summary": "Release: llm-gemini 0.38 Today Google introduced Gemini 4 Neon. I wrote recently about how confusing the pricing for the Gemini 4 series was - Neon has somehow made this even worse. Previously the Gemini 4 lineup was Hydrogen, Argon, and Carbon - whe",
+      "date": "2026-11-18T23:59:20+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
       "priority": 1
     },
     {
@@ -58,24 +69,13 @@
       "priority": 2
     },
     {
-      "id": "79f643d770a7",
-      "title": "AIで仕事は速くなったのに、チームの成果につながらないのはなぜ？ 9500人調査が示した「落とし穴」",
-      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003314/",
-      "summary": "生成AIを業務で使う企業は半数を超えた。個人の仕事は確かに速くなった。だが、そのスピードがチームや組織の成果に結びついているかというと、話は別だ。9500人超を対象にした海外調査からは、各自のチャット履歴に思考の過程が閉じ込められ、レビューの現場で時間を食いつぶしている姿が浮かび上がる。",
-      "date": "2026-11-18T23:00:00+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "a9249ffa494d",
-      "title": "Google、「Gemini 4 Neon」発表 「Carbon」と「Hydrogen」の中間を担うモデル、「Pro」プランでも利用可能",
-      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003315/",
-      "summary": "Googleは、推論の深さと効率のバランスを重視した新AIモデル「Gemini 4 Neon」を発表し、同日より順次提供を開始した。上位の「Carbon」と軽量な「Hydrogen」の中間に位置付けられ、複雑なコーディングや企業業務に適する。APIやGoogle AI Pro／UltraプランのGeminiアプリから利用可能だ。",
-      "date": "2026-11-18T22:58:41+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
+      "id": "708518498c68",
+      "title": "Canva adds an AI ‘off’ button",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+      "summary": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate image",
+      "date": "2026-11-18T23:08:58+00:00",
+      "source": "The Verge",
+      "lang": "en",
       "category": "Tech",
       "priority": 2
     },
@@ -91,17 +91,6 @@
       "priority": 1
     },
     {
-      "id": "34ed42765031",
-      "title": "AnthropicのAI「Claude Mythos Preview」が見つけた約3万8000件の脆弱性候補の修正はどこまで進んだのか？",
-      "url": "https://gigazine.net/news/20261119-anthropic-glasswing-vulnerability-fixes/",
-      "summary": "AnthropicはAIモデル「Claude Mythos Preview」を使用して主要なOSやウェブブラウザーなどで深刻度の高い脆弱(ぜいじゃく)性を数千件見つけたと2026年4月に発表しました。そこから約7カ月が経過した11月9日に、セキュリティ企業のVulnCheckが公開台帳などをもとにその後の修正状況を報告しました。続きを読む...",
-      "date": "2026-11-18T22:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "066ed1b0e3fa",
       "title": "Trump’s latest land grab is an AI hub in the Philippines",
       "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
@@ -111,6 +100,17 @@
       "lang": "en",
       "category": "Tech",
       "priority": 2
+    },
+    {
+      "id": "88e5a492fec0",
+      "title": "Introducing Gemini 4 Neon",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "summary": "",
+      "date": "2026-11-18T21:35:43+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
     },
     {
       "id": "33520312c7be",
@@ -234,17 +234,6 @@
       "priority": 2
     },
     {
-      "id": "d7e5cf02c822",
-      "title": "llm 0.37.3",
-      "url": "https://simonwillison.net/2026/Nov/16/llm/",
-      "summary": "Release: llm 0.37.3 A bug fix release for LLM, mainly to cover a problem with the most recent Homebrew package of the software. Homebrew now ships the latest SQLite, 3.54.1, which includes a fix that broke LLM's logging code. Short version: in SQLite",
-      "date": "2026-11-16T23:57:26+00:00",
-      "source": "Simon Willison",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1
-    },
-    {
       "id": "df33ffd2c617",
       "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
       "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
@@ -256,12 +245,12 @@
       "priority": 2
     },
     {
-      "id": "6352fbce7f64",
-      "title": "The open-source movement wants Jensen Huang back",
-      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monda",
-      "date": "2026-11-16T18:38:47+00:00",
-      "source": "MIT Tech Review",
+      "id": "1d09485af3e8",
+      "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
+      "url": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
+      "summary": "Plus: CucumberVision!",
+      "date": "2026-11-16T14:01:15+00:00",
+      "source": "Import AI",
       "lang": "en",
       "category": "Research",
       "priority": 1
@@ -286,6 +275,17 @@
       "source": "Google Developers",
       "lang": "en",
       "category": "Tech",
+      "priority": 1
+    },
+    {
+      "id": "454af483986c",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "summary": "",
+      "date": "2026-11-12T18:00:50+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
       "priority": 1
     },
     {
@@ -355,6 +355,17 @@
       "priority": 2
     },
     {
+      "id": "e38c92a7cefc",
+      "title": "Gemini 4 Carbon is now available",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "summary": "",
+      "date": "2026-11-10T16:03:47+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
       "id": "dfdfc7952f9e",
       "title": "Gemini 4 Carbon is now available for developers.",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/",
@@ -366,6 +377,28 @@
       "priority": 1
     },
     {
+      "id": "ddcdbef63b1f",
+      "title": "Opening the datasets behind our AI weather models",
+      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+      "date": "2026-11-10T11:13:04+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "6c31d4893839",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "date": "2026-11-09T19:51:47+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
       "id": "c81bc26d8b0f",
       "title": "Developers can now build with Google Maps Platform in AI Studio.",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/",
@@ -374,6 +407,17 @@
       "source": "Google Developers",
       "lang": "en",
       "category": "Tech",
+      "priority": 1
+    },
+    {
+      "id": "65b0a1baf082",
+      "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
+      "url": "https://importai.substack.com/p/import-ai-480-self-sustaining-space",
+      "summary": "When do you think we'll have robots on the moon?",
+      "date": "2026-11-09T13:31:34+00:00",
+      "source": "Import AI",
+      "lang": "en",
+      "category": "Research",
       "priority": 1
     },
     {
