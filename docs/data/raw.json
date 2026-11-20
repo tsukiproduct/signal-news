@@ -1,17 +1,50 @@
 {
-  "fetched_at": "2026-11-20T02:46:33.339126+00:00",
-  "total": 40,
+  "fetched_at": "2026-11-20T12:40:32.835602+00:00",
+  "total": 42,
   "items": [
     {
-      "id": "bda299ef9d28",
-      "title": "軽さ、堅牢性、高いAI性能を備えた次世代ビジネスPCの決定版！「HP EliteBook X G2a 14 AI PC」レビュー",
-      "url": "https://ascii.jp/elem/000/004/435/4435172/?rss",
-      "summary": "ハイブリッドワーク時代に適した「HP EliteBook X G2a 14 AI PC」。EliteBookは同社のビジネスノートパソコンの中では、プレミアムクラスという位置付け。本機はAMDのRyzen™ AI400シリーズ プロセッサを搭載したモデルとなっている。",
-      "date": "2026-11-20T02:00:00+00:00",
-      "source": "ASCII.jp",
+      "id": "da5d0e942173",
+      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen informatio",
+      "date": "2026-11-20T12:30:47+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "9c070405f86e",
+      "title": "RTX Spark搭載ノートPCで画像生成AIや動画生成AIのローカル実行速度を検証した結果が公開される",
+      "url": "https://gigazine.net/news/20261120-rtx-spark-image-video-generation/",
+      "summary": "RTX SparkはNVIDIAが開発したSoCで、RTX Sparkを搭載したノートPCやミニPCは大規模言語モデルやコンテンツ生成モデルをローカルで実行することができます。そんなRTX Spark搭載ノートPCで画像生成AIや動画生成AIを実行して速度を検証した結果をテクノロジーメディアのLTT Labsが公開しています。続きを読む...",
+      "date": "2026-11-20T12:00:00+00:00",
+      "source": "Gigazine",
       "lang": "ja",
       "category": "Tech",
       "priority": 2
+    },
+    {
+      "id": "6e978e6cce2b",
+      "title": "AIが追加学習なしで自らのウェイトを書き換えて「自分自身を賢くする」ことに成功",
+      "url": "https://gigazine.net/news/20261120-large-language-model-can-rewrite-itself/",
+      "summary": "大規模言語モデル(LLM)は通常、学習が完了すると内部のウェイト(重み)が固定され、性能を向上させるには追加学習などが必要になります。こうした従来の仕組みとは異なり、AIが自分自身のウェイトを分析して書き換え、性能を向上させられることを示した研究論文が発表されました。研究チームは、この成果がAIによる「再帰的自己改善」の実現につながる可能性があるとしています。続きを読む...",
+      "date": "2026-11-20T10:00:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "9b1f48b39d99",
+      "title": "Token fraud is here and it’s BAD (YouTube)",
+      "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+      "summary": "Token fraud is here and it’s BAD (YouTube) Claire Vo runs ChatPRD, an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has been building it in public for much of that time. ",
+      "date": "2026-11-20T02:49:57+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
     },
     {
       "id": "15417601d21a",
@@ -23,17 +56,6 @@
       "lang": "en",
       "category": "Industry",
       "priority": 1
-    },
-    {
-      "id": "9d0f3ba5443a",
-      "title": "Mac版「Gemini」にユーザーの代わりにアプリを操作する「computer use」機能追加 まず米国で",
-      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003356/",
-      "summary": "Googleは、Mac版「Gemini」アプリにAIが画面を認識してアプリを自動操作する「computer use」機能を追加した。隔離されたバックグラウンドウィンドウで動作するため、ユーザーの作業を妨げずにファイルやWebをまたいだ複数手順の業務を代行できる。まずは米国の有料プラン加入者向けに英語版から提供を始める。",
-      "date": "2026-11-19T23:41:04+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "21b44fd34fd3",
