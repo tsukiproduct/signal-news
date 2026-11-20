@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "2026-11-21_morning-gemini-4-lineup-developer-model-selection",
+      "date": "2026-11-21",
+      "file_key": "2026-11-21_morning",
+      "title": "Gemini 4系が一斉公開、開発者のモデル選びは複雑化",
+      "summary": "GoogleのGemini 4系モデルがAI StudioとAPIで相次いで公開。開発者には用途別の選定とコスト確認の実務対応が求められる。",
+      "tags": [
+        "Gemini",
+        "開発者ツール",
+        "モデル選択"
+      ],
+      "slug": "gemini-4-lineup-developer-model-selection"
+    },
+    {
       "id": "2026-11-19_evening-next-gen-ai-models-openai-google-cloudflare",
       "date": "2026-11-19",
       "file_key": "2026-11-19_evening",
@@ -411,20 +424,7 @@
         "ウェブ検索"
       ],
       "slug": "ai-service-cost-multimodal"
-    },
-    {
-      "id": "2026-10-15_morning-ai-news-hp-omnibook-deezer-asana",
-      "date": "2026-10-15",
-      "file_key": "2026-10-15_morning",
-      "title": "AIニュース:軽量PC・音楽フィルタ・低コストエージェント",
-      "summary": "軽量970gのHPノートPCが13万円で販売促進、Deezerが年末にAI音楽フィルタ、Asanaが76倍安価なエージェント、Workers AIが多様入力、Gemini月額100ドルプランが登場。",
-      "tags": [
-        "AIノートPC",
-        "音楽フィルタ",
-        "低コストAI"
-      ],
-      "slug": "ai-news-hp-omnibook-deezer-asana"
     }
   ],
-  "updated_at": "2026-11-19T12:47:29.818778+00:00"
+  "updated_at": "2026-11-20T18:55:53.465192+00:00"
 }

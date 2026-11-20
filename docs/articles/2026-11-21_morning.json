@@ -1,0 +1,101 @@
+{
+  "id": "2026-11-21_morning-gemini-4-lineup-developer-model-selection",
+  "file_key": "2026-11-21_morning",
+  "date": "2026-11-21",
+  "generated_at": "2026-11-20T18:55:53.464328+00:00",
+  "title": "Gemini 4系が一斉公開、開発者のモデル選びは複雑化",
+  "slug": "gemini-4-lineup-developer-model-selection",
+  "summary": "GoogleのGemini 4系モデルがAI StudioとAPIで相次いで公開。開発者には用途別の選定とコスト確認の実務対応が求められる。",
+  "tags": [
+    "Gemini",
+    "開発者ツール",
+    "モデル選択"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "今回の情報源は主にGoogleの開発者向けブログで、Gemini 4シリーズの複数モデル（Hydrogen、Carbon、Neon）とGenie 4のAPI提供、AI Studio上でのGoogle Cloudクレジット利用が並ぶ。加えてCloudflare Workers AIでのオープンモデル追加、モデル名と価格体系の複雑化を指摘する開発者ブログがある。ただし手元にあるのはRSSの短い抜粋のみで、料金・利用上限・提供地域は確認できていない。本記事では「何が発表されたか」と「利用前に原典で確認すべき点」を分けて整理する。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "発表の中心は、用途別にモデルを分ける戦略だ。Hydrogenはコスト効率を重視したエージェント型コーディング・デバッグ向け、Carbonはサイバーセキュリティと長期推論向けとされ、Neonは詳細が抜粋からは読み取れない。Genie 4はGemini APIから720pのインタラクティブワールドやネイティブオーディオを構築できると説明されている。開発者にとっての変化は、単一モデルを呼ぶ使い方から、用途に応じて複数モデルを使い分ける前提へ移りつつある点だ。一方でSimon Willison氏が指摘するように、モデル名と価格体系が増えるほど「どれが自分の用途に最も適切か」の判断コストは上がる。ここは推測で埋めず、各モデルの料金表・レート制限・商用利用条件を原典で突き合わせるべき領域である。",
+      "source_title": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
+      "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "モデル選定の比較表を作る",
+      "prompt_body": "あなたはMLエンジニアです。用途（例：コード生成、長文推論、画像処理）ごとに候補モデルを比較する表を作ってください。列は「用途適性・入出力の制限・料金体系・商用利用可否・要確認事項」。不明なセルは推測で埋めず「原典未確認」と明記し、最後に確認すべき公式ドキュメントの種類を箇条書きにしてください。",
+      "prompt_usecase": "新モデルが増えたときに、社内の利用可否を最短で整理する下書きとして使う。生成結果は必ず公式の料金ページと利用規約で裏取りする。",
+      "prompt_source": "https://simonwillison.net/2026/Nov/18/llm-gemini/"
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "実務では次の順で試すと安全だ。第一にGoogle AI Studioでクレジットの状態を確認し、小さなプロンプトで応答品質とレイテンシを測る。第二に同じタスクをHydrogenとCarbonに投げ、精度とトークン消費を並べて比較する。第三にCloudflare Workers AIで使えるInkling 2 Smallのようなオープンモデルを比較対象に加え、自社データを外部に出せるかという観点で絞り込む。いずれも料金・上限・提供地域は抜粋からは判断できないため、原典の料金表とレート制限を確認する。PoCの段階ではモデル名を設定ファイルに切り出し、差し替え可能にしておくと、価格改定や提供終了の影響を抑えられる。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "今後注視したいのは、モデル名の増加に価格表とドキュメントが追いつくかどうかだ。用途別モデルは性能の最適化と引き換えに、選定・監視・コスト管理の負担を開発者側へ移す。自前の小規模ベンチマークを一つ持っておくことが、発表内容に振り回されないための現実的な備えになる。なお本記事は短い抜粋に基づく速報的な整理であり、数値や条件は必ず原典で確認してほしい。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Claim your Google Cloud Credits in Google AI Studio",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/",
+      "source": "Google Developers",
+      "category": "Tech"
+    },
+    {
+      "title": "Genie 4 is now available on the Gemini API.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
+      "source": "Google Developers",
+      "category": "Tech"
+    },
+    {
+      "title": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
+      "source": "Google Developers",
+      "category": "Tech"
+    },
+    {
+      "title": "Last Week (Month) in AI #347 - Nvidia's spy, Anthropic's $1.4T IPO, AI's blue wave",
+      "url": "https://lastweekin.ai/p/last-week-month-in-ai-347-nvidias",
+      "source": "Last Week in AI",
+      "category": "Research"
+    },
+    {
+      "title": "Gemini 4 Carbon is now available for developers.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/",
+      "source": "Google Developers",
+      "category": "Tech"
+    },
+    {
+      "title": "llm-gemini 0.38",
+      "url": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
+      "source": "Simon Willison",
+      "category": "Prompts"
+    },
+    {
+      "title": "Workers AI - Inkling 2 Small now available on Workers AI",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-11-12-inkling-2-small-workers-ai/",
+      "source": "Cloudflare Workers AI",
+      "category": "ImageVideo"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
