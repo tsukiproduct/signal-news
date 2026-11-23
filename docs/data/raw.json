@@ -1,7 +1,40 @@
 {
-  "fetched_at": "2026-11-23T02:05:47.449967+00:00",
-  "total": 43,
+  "fetched_at": "2026-11-23T14:17:14.983608+00:00",
+  "total": 42,
   "items": [
+    {
+      "id": "dd1199899b51",
+      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+      "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR fi",
+      "date": "2026-11-23T13:10:00+00:00",
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "c1061207c903",
+      "title": "Meta Muse can do your Black Friday shopping at Walmart",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+      "summary": "Walmart will let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. Tomorrow, on Tuesday November 24th, the retail giant will roll out a live implementation of the Agent Gateway it announced",
+      "date": "2026-11-23T11:49:21+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "6c63040381af",
+      "title": "How to build and maintain an agentic evaluation",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "summary": "",
+      "date": "2026-11-23T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
     {
       "id": "6992c4982602",
       "title": "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案 指標は「パープレキシティ」",
@@ -34,17 +67,6 @@
       "lang": "en",
       "category": "Prompts",
       "priority": 1
-    },
-    {
-      "id": "cf3322b3a460",
-      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
-      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
-      "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto",
-      "date": "2026-11-22T17:25:20+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "d2fc1e262b4c",
@@ -289,28 +311,6 @@
       "priority": 1
     },
     {
-      "id": "f0514b9d14d7",
-      "title": "The Download: AI learns to smell and hydropower struggles",
-      "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff",
-      "date": "2026-11-18T13:10:00+00:00",
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "cea875c8cb7c",
-      "title": "This smell startup says its AI nose is as good as a human’s",
-      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-      "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to crea",
-      "date": "2026-11-18T10:20:30+00:00",
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
       "id": "7d6b1aee59d2",
       "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
       "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
@@ -331,17 +331,6 @@
       "lang": "en",
       "category": "Tech",
       "priority": 2
-    },
-    {
-      "id": "6d3f3bd6ff12",
-      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-      "url": "https://huggingface.co/blog/openrouter",
-      "summary": "",
-      "date": "2026-11-16T00:00:00+00:00",
-      "source": "Hugging Face Blog",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1
     },
     {
       "id": "7738788662a7",
