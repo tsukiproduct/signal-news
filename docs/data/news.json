@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-25T04:47:34.078675+00:00",
-  "fetched_at": "2026-11-25T04:43:41.554083+00:00",
-  "total": 37,
+  "updated_at": "2026-11-25T14:05:37.061264+00:00",
+  "fetched_at": "2026-11-25T14:04:04.225304+00:00",
+  "total": 39,
   "curated": true,
   "items": [
     {
@@ -365,18 +365,46 @@
       "translation_status": "machine"
     },
     {
-      "id": "2662a78fe1ec",
-      "title": "GPT-6シリーズが生物学に特化したAIなしでタンパク質を設計できることが判明、実験室での検証にも成功",
-      "url": "https://gigazine.net/news/20261125-openai-gpt-6-protein/",
-      "summary": "OpenAIは2026年11月24日、汎用大規模言語モデル(LLM)のGPT-6シリーズが推論とコーディングだけで新たなタンパク質の立体構造やアミノ酸配列を設計できることを発表しました。さらに、GPT-6.2による設計を基に実際にタンパク質を合成し、意図した標的に結合することを実験で確認しています。続きを読む...",
-      "date": "2026-11-25T03:33:00+00:00",
-      "source": "Gigazine",
+      "id": "4efa556b512f",
+      "title": "The Download: AI swamping open records, and firefighting for permafrost",
+      "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors’ interest in public records. Over th",
+      "date": "2026-11-25T13:10:00+00:00",
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors’ interest in public records. Over th"
+    },
+    {
+      "id": "3a943b328b2e",
+      "title": "メインPCに欲しい32GBメモリ＋1TB SSDを持ち歩く。約1.24kgのAcer製有機ELノートが約2万5000円安い",
+      "url": "https://ascii.jp/elem/000/004/454/4454353/?rss",
+      "summary": "Acerの14型ノートPC「Swift Go 14 AI（SFG14-75-A73Z）」がAmazonで割引対象。過去価格257,100円から10％オフの230,888円で販売中。32GBメモリ、1TB SSD、有機ELディスプレーを搭載しながら、重量は約1.24kg。最大約23.5時間のバッテリー駆動も、外出先で長時間作業する際には心強い。",
+      "date": "2026-11-25T12:10:00+00:00",
+      "source": "ASCII.jp",
       "lang": "ja",
       "category": "Tech",
       "priority": 2,
       "score": 5,
       "reason": "未評価",
-      "summary_ja": "OpenAIは2026年11月24日、汎用大規模言語モデル(LLM)のGPT-6シリーズが推論とコーディングだけで新たなタンパク質の立体構造やアミノ酸配列を設計できることを発表しました。さらに、GPT-6.2による設計を基に実際にタンパク質を合成し、意図した標的に結合することを実験で確認しています。続きを読む..."
+      "summary_ja": "Acerの14型ノートPC「Swift Go 14 AI（SFG14-75-A73Z）」がAmazonで割引対象。過去価格257,100円から10％オフの230,888円で販売中。32GBメモリ、1TB SSD、有機ELディスプレーを搭載しながら、重量は約1.24kg。最大約23.5時間のバッテリー駆動も、外出先で長時間作業する際には心強い。"
+    },
+    {
+      "id": "20ed3c7d1f7f",
+      "title": "AI is straining America’s open records systems",
+      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town ",
+      "date": "2026-11-25T10:00:00+00:00",
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town "
     },
     {
       "id": "a22e6e3e0200",
@@ -391,34 +419,6 @@
       "score": 5,
       "reason": "未評価",
       "summary_ja": "米ボストン大学、米BCGのヘンダーソン研究所、米OpenAIに所属する研究者らがNature Human Behaviourで発表した論文「Generative AI and the temporary upskilling of knowledge workers」は、生成AIによる一時的なスキルアップの効果と限界を調査した研究報告だ。"
-    },
-    {
-      "id": "0d776754f629",
-      "title": "海外版スーパーファミコンをWi-Fiに接続してクラウドセーブや生成AIを利用可能にするアダプターを自作",
-      "url": "https://gigazine.net/news/20261125-snes-wi-fi-super-network-adapter/",
-      "summary": "任天堂が発売した海外版スーパーファミコン「Super Nintendo Entertainment System(SNES)」にWi-Fi接続機能を追加する自作アダプター「Super Network Adapter」を、エンジニアのダニー・ボーランド氏が開発しました。コントローラーポートを利用してインターネットに接続することで、クラウド経由でのセーブデータの同期や、生成AIによるゲーム内キャラクターのセリフの生成を実現します。続きを読む...",
-      "date": "2026-11-25T02:15:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2,
-      "score": 5,
-      "reason": "未評価",
-      "summary_ja": "任天堂が発売した海外版スーパーファミコン「Super Nintendo Entertainment System(SNES)」にWi-Fi接続機能を追加する自作アダプター「Super Network Adapter」を、エンジニアのダニー・ボーランド氏が開発しました。コントローラーポートを利用してインターネットに接続することで、クラウド経由でのセーブデータの同期や、生成AIによるゲーム内キャラクターのセリフの生成を実現します。続きを読む..."
-    },
-    {
-      "id": "10b40042c337",
-      "title": "「Claude」で作ったアプリをMac／Windowsにインストール可能に 全プランでβ提供",
-      "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003431/",
-      "summary": "Anthropicは、AIアシスタント「Claude」で作成したアーティファクトをMac／Windows向けのデスクトップアプリとして導入できる「Install as app」を全プラン向けにβ提供すると発表した。専用ウィンドウで動作し、通知やメニューバー表示、許可に応じたファイル操作にも対応する。",
-      "date": "2026-11-25T01:07:59+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2,
-      "score": 5,
-      "reason": "未評価",
-      "summary_ja": "Anthropicは、AIアシスタント「Claude」で作成したアーティファクトをMac／Windows向けのデスクトップアプリとして導入できる「Install as app」を全プラン向けにβ提供すると発表した。専用ウィンドウで動作し、通知やメニューバー表示、許可に応じたファイル操作にも対応する。"
     },
     {
       "id": "7caad847a589",
@@ -491,42 +491,18 @@
       "summary_ja": "Anthropic’s post-IPO slump could put pressure on AI startup valuations."
     },
     {
-      "id": "281e7b0eb8a2",
-      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-      "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
-      "date": "2026-11-24T18:02:59+00:00",
-      "source": "TechCrunch AI",
+      "id": "c0ca864256d1",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+      "summary": "GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2 Astra was able to autonomously identify the creator",
+      "date": "2026-11-24T16:53:59+00:00",
+      "source": "Simon Willison",
       "lang": "en",
-      "category": "Industry",
+      "category": "Prompts",
       "priority": 1,
       "score": 5,
       "reason": "未評価",
-      "summary_ja": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws."
-    },
-    {
-      "id": "ba625c17c59c",
-      "title": "Raising the stakes for enterprise networks with AI modernization",
-      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
-      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents gene",
-      "date": "2026-11-24T15:15:16+00:00",
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1,
-      "score": 5,
-      "reason": "Relevant infrastructure context but no actionable user-facing change",
-      "summary_ja": "企業がAI導入を急ぐ中、エージェント型AIがネットワーク需要をさらに押し上げていると指摘。",
-      "title_ja": "AIモダナイゼーションで企業ネットワークに負荷増大",
-      "title_en": "Enterprise Networks Strained by AI Modernization",
-      "summary_en": "Agentic AI adds load as enterprises rush to deploy AI, straining networks further.",
-      "useful_for_ja": "インフラ企画・ネットワーク運用担当",
-      "useful_for_en": "infrastructure planners, network ops",
-      "try_next_ja": "自社の帯域・レイテンシ要件を見直し",
-      "try_next_en": "review bandwidth and latency requirements",
-      "caveat_ja": "具体的な製品・価格・クォータの変更なし。抜粋は概況のみ",
-      "caveat_en": "no concrete product, pricing, or quota changes; excerpt is context only",
-      "translation_status": "machine"
+      "summary_ja": "GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2 Astra was able to autonomously identify the creator"
     },
     {
       "id": "22b4aa0dca98",
@@ -553,6 +529,20 @@
       "translation_status": "machine"
     },
     {
+      "id": "2fb78c77ddc3",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "date": "2026-11-24T13:00:00+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets."
+    },
+    {
       "id": "dad9742e3b9b",
       "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
       "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
@@ -575,6 +565,20 @@
       "caveat_ja": "入手情報に提供・地域・制限・影響範囲の記載がないため、出典で確認が必要",
       "caveat_en": "The excerpt does not specify availability, plan, region, or limitation; verify with the source.",
       "translation_status": "machine"
+    },
+    {
+      "id": "57c260d39b61",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "date": "2026-11-24T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning."
     },
     {
       "id": "9b3690cfe6da",
@@ -623,6 +627,20 @@
       "caveat_ja": "批評の具体的内容と出典は抜粋になく、原文で確認が必要",
       "caveat_en": "The critique's details and source are absent from the excerpt",
       "translation_status": "machine"
+    },
+    {
+      "id": "4201990503e1",
+      "title": "Connected intelligence for in-house legal",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+      "date": "2026-11-23T08:00:00+00:00",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1,
+      "score": 5,
+      "reason": "未評価",
+      "summary_ja": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel."
     },
     {
       "id": "a082949f03d8",

@@ -1,17 +1,39 @@
 {
-  "fetched_at": "2026-11-25T04:43:41.554083+00:00",
-  "total": 41,
+  "fetched_at": "2026-11-25T14:04:04.225304+00:00",
+  "total": 39,
   "items": [
     {
-      "id": "2662a78fe1ec",
-      "title": "GPT-6シリーズが生物学に特化したAIなしでタンパク質を設計できることが判明、実験室での検証にも成功",
-      "url": "https://gigazine.net/news/20261125-openai-gpt-6-protein/",
-      "summary": "OpenAIは2026年11月24日、汎用大規模言語モデル(LLM)のGPT-6シリーズが推論とコーディングだけで新たなタンパク質の立体構造やアミノ酸配列を設計できることを発表しました。さらに、GPT-6.2による設計を基に実際にタンパク質を合成し、意図した標的に結合することを実験で確認しています。続きを読む...",
-      "date": "2026-11-25T03:33:00+00:00",
-      "source": "Gigazine",
+      "id": "4efa556b512f",
+      "title": "The Download: AI swamping open records, and firefighting for permafrost",
+      "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors’ interest in public records. Over th",
+      "date": "2026-11-25T13:10:00+00:00",
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
+      "id": "3a943b328b2e",
+      "title": "メインPCに欲しい32GBメモリ＋1TB SSDを持ち歩く。約1.24kgのAcer製有機ELノートが約2万5000円安い",
+      "url": "https://ascii.jp/elem/000/004/454/4454353/?rss",
+      "summary": "Acerの14型ノートPC「Swift Go 14 AI（SFG14-75-A73Z）」がAmazonで割引対象。過去価格257,100円から10％オフの230,888円で販売中。32GBメモリ、1TB SSD、有機ELディスプレーを搭載しながら、重量は約1.24kg。最大約23.5時間のバッテリー駆動も、外出先で長時間作業する際には心強い。",
+      "date": "2026-11-25T12:10:00+00:00",
+      "source": "ASCII.jp",
       "lang": "ja",
       "category": "Tech",
       "priority": 2
+    },
+    {
+      "id": "20ed3c7d1f7f",
+      "title": "AI is straining America’s open records systems",
+      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town ",
+      "date": "2026-11-25T10:00:00+00:00",
+      "source": "MIT Tech Review",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
     },
     {
       "id": "a22e6e3e0200",
@@ -19,28 +41,6 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003421/",
       "summary": "米ボストン大学、米BCGのヘンダーソン研究所、米OpenAIに所属する研究者らがNature Human Behaviourで発表した論文「Generative AI and the temporary upskilling of knowledge workers」は、生成AIによる一時的なスキルアップの効果と限界を調査した研究報告だ。",
       "date": "2026-11-25T03:00:00+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "0d776754f629",
-      "title": "海外版スーパーファミコンをWi-Fiに接続してクラウドセーブや生成AIを利用可能にするアダプターを自作",
-      "url": "https://gigazine.net/news/20261125-snes-wi-fi-super-network-adapter/",
-      "summary": "任天堂が発売した海外版スーパーファミコン「Super Nintendo Entertainment System(SNES)」にWi-Fi接続機能を追加する自作アダプター「Super Network Adapter」を、エンジニアのダニー・ボーランド氏が開発しました。コントローラーポートを利用してインターネットに接続することで、クラウド経由でのセーブデータの同期や、生成AIによるゲーム内キャラクターのセリフの生成を実現します。続きを読む...",
-      "date": "2026-11-25T02:15:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "10b40042c337",
-      "title": "「Claude」で作ったアプリをMac／Windowsにインストール可能に 全プランでβ提供",
-      "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003431/",
-      "summary": "Anthropicは、AIアシスタント「Claude」で作成したアーティファクトをMac／Windows向けのデスクトップアプリとして導入できる「Install as app」を全プラン向けにβ提供すると発表した。専用ウィンドウで動作し、通知やメニューバー表示、許可に応じたファイル操作にも対応する。",
-      "date": "2026-11-25T01:07:59+00:00",
       "source": "ITmedia News",
       "lang": "ja",
       "category": "Tech",
@@ -102,17 +102,6 @@
       "priority": 1
     },
     {
-      "id": "281e7b0eb8a2",
-      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-      "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
-      "date": "2026-11-24T18:02:59+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
-      "priority": 1
-    },
-    {
       "id": "c0ca864256d1",
       "title": "GPT 6.2 Astra Solves a Historical Mystery",
       "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
@@ -121,17 +110,6 @@
       "source": "Simon Willison",
       "lang": "en",
       "category": "Prompts",
-      "priority": 1
-    },
-    {
-      "id": "ba625c17c59c",
-      "title": "Raising the stakes for enterprise networks with AI modernization",
-      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
-      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents gene",
-      "date": "2026-11-24T15:15:16+00:00",
-      "source": "MIT Tech Review",
-      "lang": "en",
-      "category": "Research",
       "priority": 1
     },
     {
