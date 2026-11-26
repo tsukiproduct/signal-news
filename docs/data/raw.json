@@ -1,7 +1,29 @@
 {
-  "fetched_at": "2026-11-26T13:42:17.850850+00:00",
+  "fetched_at": "2026-11-26T19:53:38.643788+00:00",
   "total": 39,
   "items": [
+    {
+      "id": "efcda9ddf1e4",
+      "title": "AI原稿作成のやり方を解説！種類別プロンプト例とおすすめツール6選",
+      "url": "https://ainow.ai/2026/11/27/278565/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e5%258e%259f%25e7%25a8%25bf%25e4%25bd%259c%25e6%2588%2590%25e3%2581%25ae%25e3%2582%2584%25e3%2582%258a%25e6%2596%25b9%25e3%2582%2592%25e8%25a7%25a3%25e8%25aa%25ac%25ef%25bc%2581%25e7%25a8%25ae%25e9%25a1%259e%25e5%2588%25a5%25e3%2583%2597%25e3%2583%25ad%25e3%2583%25b3%25e3%2583%2597%25e3%2583%2588%25e4%25be%258b%25e3%2581%25a8",
+      "summary": "発表資料やプレスリリースの締め切りが重なり、原稿をゼロから書く時間が足りないと感じている方は多いでしょう。ChatGPTに頼んでみたものの、硬い文章しか出てこず書き直した経験がある方もいるのではないでしょうか。 AIで原... The post AI原稿作成のやり方を解説！種類別プロンプト例とおすすめツール6選 first appeared on AI専門ニュースメディア AINOW.",
+      "date": "2026-11-26T16:02:20+00:00",
+      "source": "AINOW",
+      "lang": "ja",
+      "category": "AI",
+      "priority": 1
+    },
+    {
+      "id": "486f14229efa",
+      "title": "Quoting Jack Despain Zhou",
+      "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+      "summary": "Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentation, and I hear Claude. I open my email inbox, and I find pitches and articles from ostensi",
+      "date": "2026-11-26T15:09:31+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
+    },
     {
       "id": "d6d5e4635fe4",
       "title": "The Download: Better bionic hands and AI’s natural-gas boom",
@@ -36,17 +58,6 @@
       "priority": 2
     },
     {
-      "id": "2b77243de9e1",
-      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
-      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
-      "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning t",
-      "date": "2026-11-26T09:54:40+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "af332d34c49f",
       "title": "飲食店の“AI商品画像”は景品表示法違反にならないの？ 弁護士の見解",
       "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003447/",
@@ -56,6 +67,17 @@
       "lang": "ja",
       "category": "Tech",
       "priority": 2
+    },
+    {
+      "id": "29a1a4b37abd",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
+      "summary": "My comment on The New York Times warns photographers not to update Photoshop over AI features — Hacker News.I had a NYT photographer take my picture at my home earlier this year (for a story about Moltbook, oddly enough). At one point I asked if they",
+      "date": "2026-11-26T05:08:46+00:00",
+      "source": "Simon Willison",
+      "lang": "en",
+      "category": "Prompts",
+      "priority": 1
     },
     {
       "id": "0ebd34a778de",
@@ -76,28 +98,6 @@
       "date": "2026-11-26T03:00:00+00:00",
       "source": "ITmedia News",
       "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "9edb08733a04",
-      "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
-      "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
-      "summary": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to the $35 Onn Outdoor Camera Plug-",
-      "date": "2026-11-26T00:04:34+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "6d162717023f",
-      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
-      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
-      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but",
-      "date": "2026-11-25T21:51:26+00:00",
-      "source": "The Verge",
-      "lang": "en",
       "category": "Tech",
       "priority": 2
     },
@@ -176,17 +176,6 @@
       "source": "GitHub AI & ML",
       "lang": "en",
       "category": "Prompts",
-      "priority": 1
-    },
-    {
-      "id": "0cb60670470d",
-      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-      "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
-      "date": "2026-11-25T14:10:18+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
       "priority": 1
     },
     {
@@ -311,6 +300,17 @@
       "priority": 1
     },
     {
+      "id": "03d19f4cdf31",
+      "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
+      "url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks",
+      "summary": "Could the scientific method be emergent?",
+      "date": "2026-11-23T14:11:17+00:00",
+      "source": "Import AI",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
       "id": "4201990503e1",
       "title": "Connected intelligence for in-house legal",
       "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
@@ -410,22 +410,22 @@
       "priority": 2
     },
     {
+      "id": "1d09485af3e8",
+      "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
+      "url": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
+      "summary": "Plus: CucumberVision!",
+      "date": "2026-11-16T14:01:15+00:00",
+      "source": "Import AI",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
       "id": "7738788662a7",
       "title": "Claim your Google Cloud Credits in Google AI Studio",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/",
       "summary": "Claim your Google Cloud Credits in Google AI Studio",
       "date": "2026-11-13T20:30:00+00:00",
-      "source": "Google Developers",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 1
-    },
-    {
-      "id": "b3b68327aa8b",
-      "title": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
-      "summary": "Build faster with Gemini 4 Hydrogen, Google’s new model for cost-efficient agentic coding and debugging. Start building in Google AI Studio today.",
-      "date": "2026-11-12T18:00:00+00:00",
       "source": "Google Developers",
       "lang": "en",
       "category": "Tech",
