@@ -1,7 +1,62 @@
 {
-  "fetched_at": "2026-11-25T20:15:22.956756+00:00",
-  "total": 39,
+  "fetched_at": "2026-11-26T03:52:05.832000+00:00",
+  "total": 40,
   "items": [
+    {
+      "id": "af332d34c49f",
+      "title": "飲食店の“AI商品画像”は景品表示法違反にならないの？ 弁護士の見解",
+      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003447/",
+      "summary": "飲食店のメニューにAIで生成した画像を使用した場合を例に、生成AIによる商品画像と景品表示法の関係について考える。",
+      "date": "2026-11-26T03:00:00+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "01e50bd656f5",
+      "title": "GitHubに「人には見えない隠し文字」 小型AIの操作狙うものも……1億4500万件を調査",
+      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003460/",
+      "summary": "イスラエルのセキュリティ会社Radwareとテクニオン・イスラエル工科大学に所属する研究者らが発表した論文「Who Is Prompt-Injecting Coding Agents? An Empirical Study of Hidden AI-Directed Text on GitHub」は、GitHub上に潜むAI向けの隠しテキストが、誰によってどのような目的で埋め込まれているのかを分析した研究報告だ。",
+      "date": "2026-11-26T03:00:00+00:00",
+      "source": "ITmedia News",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "ad72b38b600b",
+      "title": "GoogleのAIが人間の介入なしに6本の数学論文を生成、素因数分解など数十年停滞していた分野に光",
+      "url": "https://gigazine.net/news/20261126-cogentic-6-research-papers/",
+      "summary": "Googleの研究部門であるGoogle Researchが、6つの数学論文をGitHubに投稿しました。これらの論文は全て、Gemini 4をベースとする数学的発見を行うためのマルチエージェントシステム「Cogentic」が生成しています。続きを読む...",
+      "date": "2026-11-26T02:47:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "9edb08733a04",
+      "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
+      "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
+      "summary": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to the $35 Onn Outdoor Camera Plug-",
+      "date": "2026-11-26T00:04:34+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "6d162717023f",
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but",
+      "date": "2026-11-25T21:51:26+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "Tech",
+      "priority": 2
+    },
     {
       "id": "bac2d3e3f4a6",
       "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
@@ -36,17 +91,6 @@
       "priority": 1
     },
     {
-      "id": "4d16d40e18b4",
-      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
-      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
-      "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data cen",
-      "date": "2026-11-25T17:44:57+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "a07adeabc9e7",
       "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
       "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
@@ -67,17 +111,6 @@
       "lang": "en",
       "category": "Research",
       "priority": 1
-    },
-    {
-      "id": "0cb6d0baeb49",
-      "title": "Nothing offers a full look at its AI earbuds and charging case",
-      "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
-      "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear",
-      "date": "2026-11-25T16:00:59+00:00",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "45abf29e2969",
@@ -133,17 +166,6 @@
       "lang": "en",
       "category": "Research",
       "priority": 1
-    },
-    {
-      "id": "a22e6e3e0200",
-      "title": "AIでドーピングしたコンサルの実力は 使わない人材との能力差、BCG約500人で検証 Nature系列誌",
-      "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003421/",
-      "summary": "米ボストン大学、米BCGのヘンダーソン研究所、米OpenAIに所属する研究者らがNature Human Behaviourで発表した論文「Generative AI and the temporary upskilling of knowledge workers」は、生成AIによる一時的なスキルアップの効果と限界を調査した研究報告だ。",
-      "date": "2026-11-25T03:00:00+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "7caad847a589",
@@ -311,17 +333,6 @@
       "priority": 1
     },
     {
-      "id": "f07b8049770c",
-      "title": "Select Styling Specimens",
-      "url": "https://simonwillison.net/2026/Nov/22/select-styling/",
-      "summary": "Tool: Select Styling Specimens I got frustrated at how HTML <select> boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome: So I had Claude Fable 5.2 build me this page showing all of the ways they can be st",
-      "date": "2026-11-22T19:45:06+00:00",
-      "source": "Simon Willison",
-      "lang": "en",
-      "category": "Prompts",
-      "priority": 1
-    },
-    {
       "id": "4c5d38c629cf",
       "title": "Last Week in AI #348 - IPO->Correction, new GPTs and Geminis, Nvidia’s Fate",
       "url": "https://lastweekin.ai/p/last-week-in-ai-348-ipo-correction",
@@ -366,6 +377,17 @@
       "priority": 1
     },
     {
+      "id": "88e5a492fec0",
+      "title": "Introducing Gemini 4 Neon",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "summary": "",
+      "date": "2026-11-18T21:35:43+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
       "id": "7d6b1aee59d2",
       "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
       "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
@@ -399,34 +421,23 @@
       "priority": 1
     },
     {
+      "id": "454af483986c",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "summary": "",
+      "date": "2026-11-12T18:00:50+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1
+    },
+    {
       "id": "b3b68327aa8b",
       "title": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
       "summary": "Build faster with Gemini 4 Hydrogen, Google’s new model for cost-efficient agentic coding and debugging. Start building in Google AI Studio today.",
       "date": "2026-11-12T18:00:00+00:00",
       "source": "Google Developers",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 1
-    },
-    {
-      "id": "82bd872723be",
-      "title": "Workers AI - EmbeddingGemma 2 now available on Workers AI",
-      "url": "https://developers.cloudflare.com/changelog/post/2026-11-12-embeddinggemma-2-workers-ai/",
-      "summary": "@cf/google/embeddinggemma-2 is now available on Workers AI. EmbeddingGemma 2 is an open multimodal embedding model from Google DeepMind. It maps text (including code), images, video, and audio into a single 768-dimensional vector space, so you can se",
-      "date": "2026-11-12T00:00:00+00:00",
-      "source": "Cloudflare Workers AI",
-      "lang": "en",
-      "category": "Tech",
-      "priority": 1
-    },
-    {
-      "id": "313898fa168d",
-      "title": "Workers AI - Inkling 2 Small now available on Workers AI",
-      "url": "https://developers.cloudflare.com/changelog/post/2026-11-12-inkling-2-small-workers-ai/",
-      "summary": "@cf/thinkingmachines/inkling-2-small is now available on Workers AI. Inkling 2 Small is the second generation of Inkling models from Thinking Machines Lab, and the first frontier open model from a US lab on Workers AI. Inkling 2 Small is more capable",
-      "date": "2026-11-12T00:00:00+00:00",
-      "source": "Cloudflare Workers AI",
       "lang": "en",
       "category": "Tech",
       "priority": 1
