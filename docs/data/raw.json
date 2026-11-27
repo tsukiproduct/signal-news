@@ -1,7 +1,40 @@
 {
-  "fetched_at": "2026-11-26T19:53:38.643788+00:00",
-  "total": 39,
+  "fetched_at": "2026-11-27T03:53:20.197297+00:00",
+  "total": 34,
   "items": [
+    {
+      "id": "b0979242e689",
+      "title": "NVIDIAが画像生成AI「Nemotron-Labs-Image-30B-A3B」を公開、拡散モデルではなく自己回帰モデルを採用しハーネスと組み合わせてGPT-Image-2超えを達成",
+      "url": "https://gigazine.net/news/20261127-nemotron-labs-image-30b-a3b/",
+      "summary": "NVIDIAが画像生成AIモデル「Nemotron-Labs-Image-30B-A3B」をオープンウェイトモデルとして無償公開しました。続きを読む...",
+      "date": "2026-11-27T03:40:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "5520cd4936da",
+      "title": "破産申請したAIチャットサービス「Character.AI」が2100万アカウント超の非公開の会話履歴を競売にかけようとしている",
+      "url": "https://gigazine.net/news/20261127-character-ai-asset-sale/",
+      "summary": "AIチャットサービス「Character.AI」が破産手続きの一環として、アメリカ国内の2100万アカウント超の会話履歴を売却しようとしていることが明らかになりました。売却対象には未成年者の会話履歴も含まれており、アメリカの42人の州司法長官が裁判所に売却計画を認めないよう求めています。続きを読む...",
+      "date": "2026-11-27T02:42:00+00:00",
+      "source": "Gigazine",
+      "lang": "ja",
+      "category": "Tech",
+      "priority": 2
+    },
+    {
+      "id": "4c9ff179b519",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "date": "2026-11-26T20:03:54+00:00",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "category": "Industry",
+      "priority": 1
+    },
     {
       "id": "efcda9ddf1e4",
       "title": "AI原稿作成のやり方を解説！種類別プロンプト例とおすすめツール6選",
@@ -36,39 +69,6 @@
       "priority": 1
     },
     {
-      "id": "099ae0ea01ce",
-      "title": "ニューヨーク・タイムズが写真家に「ユーザーにもわからないAI機能があるからPhotoshopをアップデートするな」と警告",
-      "url": "https://gigazine.net/news/20261126-nyt-warns-not-update-photoshop-ai-features/",
-      "summary": "アメリカの大手日刊紙であるニューヨーク・タイムズが、フリーランスの写真家に対して「ユーザーにもわからない生成AI機能」が搭載されているとして、Photoshop 2027にアップデートしないように警告してることが報じられました。続きを読む...",
-      "date": "2026-11-26T13:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "08bc83203492",
-      "title": "GPT-6.2 Astraが歴史学者もわからなかった「1808年に描かれた北米旅行のスケッチブック」の作者を22分で特定",
-      "url": "https://gigazine.net/news/20261126-gpt-62-astra-solves-a-historical-mystery/",
-      "summary": "OpenAIがリリースしたAIモデル「GPT-6.2 Astra」が、専門の歴史学者でさえわからなかった1808年に描かれたスケッチブックの作者を、わずかな手がかりからたった22分で特定してしまったと報告されました。続きを読む...",
-      "date": "2026-11-26T11:00:00+00:00",
-      "source": "Gigazine",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "af332d34c49f",
-      "title": "飲食店の“AI商品画像”は景品表示法違反にならないの？ 弁護士の見解",
-      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003447/",
-      "summary": "飲食店のメニューにAIで生成した画像を使用した場合を例に、生成AIによる商品画像と景品表示法の関係について考える。",
-      "date": "2026-11-26T07:06:43+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
       "id": "29a1a4b37abd",
       "title": "The New York Times warns photographers not to update Photoshop over AI features",
       "url": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
@@ -78,28 +78,6 @@
       "lang": "en",
       "category": "Prompts",
       "priority": 1
-    },
-    {
-      "id": "0ebd34a778de",
-      "title": "Character.AIのチャット履歴競売に41州とワシントンD.C.が異議 未成年者の約210万アカウント分も対象",
-      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003479/",
-      "summary": "米カリフォルニアやコネチカットなど41州とワシントンD.C.の司法長官は、破産申請した「Character.AI」の資産競売に異議を申し立てた。競売には未成年者の210万以上を含む2100万超のチャット履歴が含まれるが、買い手にデータ保護の義務がなく、プライバシー法に反するとして売却の却下を求めている。",
-      "date": "2026-11-26T04:32:50+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
-    },
-    {
-      "id": "01e50bd656f5",
-      "title": "GitHubに「人には見えない隠し文字」 小型AIの操作狙うものも……1億4500万件を調査",
-      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003460/",
-      "summary": "イスラエルのセキュリティ会社Radwareとテクニオン・イスラエル工科大学に所属する研究者らが発表した論文「Who Is Prompt-Injecting Coding Agents? An Empirical Study of Hidden AI-Directed Text on GitHub」は、GitHub上に潜むAI向けの隠しテキストが、誰によってどのような目的で埋め込まれているのかを分析した研究報告だ。",
-      "date": "2026-11-26T03:00:00+00:00",
-      "source": "ITmedia News",
-      "lang": "ja",
-      "category": "Tech",
-      "priority": 2
     },
     {
       "id": "bac2d3e3f4a6",
@@ -154,17 +132,6 @@
       "source": "MIT Tech Review",
       "lang": "en",
       "category": "Research",
-      "priority": 1
-    },
-    {
-      "id": "45abf29e2969",
-      "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
-      "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
-      "summary": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished buildin",
-      "date": "2026-11-25T15:41:43+00:00",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "category": "Industry",
       "priority": 1
     },
     {
@@ -300,17 +267,6 @@
       "priority": 1
     },
     {
-      "id": "03d19f4cdf31",
-      "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
-      "url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks",
-      "summary": "Could the scientific method be emergent?",
-      "date": "2026-11-23T14:11:17+00:00",
-      "source": "Import AI",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
       "id": "4201990503e1",
       "title": "Connected intelligence for in-house legal",
       "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
@@ -408,17 +364,6 @@
       "lang": "en",
       "category": "Tech",
       "priority": 2
-    },
-    {
-      "id": "1d09485af3e8",
-      "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
-      "url": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
-      "summary": "Plus: CucumberVision!",
-      "date": "2026-11-16T14:01:15+00:00",
-      "source": "Import AI",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
     },
     {
       "id": "7738788662a7",
