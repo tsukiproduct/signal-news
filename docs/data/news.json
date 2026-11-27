@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-27T13:39:57.596041+00:00",
-  "fetched_at": "2026-11-27T13:39:31.555026+00:00",
-  "total": 31,
+  "updated_at": "2026-11-27T19:42:34.706411+00:00",
+  "fetched_at": "2026-11-27T19:42:21.942604+00:00",
+  "total": 32,
   "curated": true,
   "items": [
     {
@@ -722,6 +722,30 @@
       "try_next_en": "Audit your AI supply chain for data handling practices and implement privacy-preserving measures",
       "caveat_ja": "研究結果はすべてのAIシステムとプロバイダーに適用されるものではなく、プライバシーリスクは文脈によって異なります",
       "caveat_en": "The study's findings may not apply to all AI systems and providers; specific privacy risks vary by context",
+      "translation_status": "machine"
+    },
+    {
+      "id": "88e5a492fec0",
+      "title": "Introducing Gemini 4 Neon",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "summary": "",
+      "date": "2026-11-18T21:35:43+00:00",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "category": "Research",
+      "priority": 1,
+      "score": 5,
+      "reason": "Title suggests a major model release but excerpt provides zero concrete details on user-facing changes, pricing, access, or licensing. Scored 5 as relevant context only.",
+      "summary_ja": "Google DeepMindが新モデル「Gemini 4 Neon」を発表。抜粋に詳細なし。ユーザー向け変更（価格・枠・アクセス・ライセンス・機能）の有無は不明。",
+      "title_ja": "Gemini 4 Neonを発表",
+      "title_en": "Introducing Gemini 4 Neon",
+      "summary_en": "Google DeepMind announces new model \"Gemini 4 Neon\". Excerpt lacks details. No confirmation of user-facing changes in pricing, quotas, access, licensing, or capabilities.",
+      "useful_for_ja": "最新モデル動向を追う開発者・リサーチャー",
+      "useful_for_en": "Developers and researchers tracking latest model releases",
+      "try_next_ja": "公式ブログやAPIドキュメントでモデル仕様・アクセス条件・料金を確認する",
+      "try_next_en": "Check official blog and API docs for model specs, access terms, and pricing",
+      "caveat_ja": "抜粋が空のため、ユーザー影響のある変更点は一切不明。ソース元で詳細を確認必要。",
+      "caveat_en": "Excerpt is empty; no user-impact changes known. Must verify details at source.",
       "translation_status": "machine"
     },
     {

@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "2026-11-28_morning-gemini-file-slicing-and-ai-regulation",
+      "date": "2026-11-28",
+      "file_key": "2026-11-28_morning",
+      "title": "Gemini APIのファイル制御とAI規制の現在地",
+      "summary": "Gemini APIのファイルスライシング追加など開発者向け更新と、AI玩具禁止・チャット売却異議という規制の動きを整理する。",
+      "tags": [
+        "Gemini API",
+        "開発者ツール",
+        "AI規制",
+        "プライバシー"
+      ],
+      "slug": "gemini-file-slicing-and-ai-regulation"
+    },
+    {
       "id": "2026-11-21_morning-gemini-4-lineup-developer-model-selection",
       "date": "2026-11-21",
       "file_key": "2026-11-21_morning",
@@ -411,20 +425,7 @@
         "教育"
       ],
       "slug": "ai-academic-tools-models"
-    },
-    {
-      "id": "2026-10-16_morning-ai-service-cost-multimodal",
-      "date": "2026-10-16",
-      "file_key": "2026-10-16_morning",
-      "title": "AIサービスのコスト削減とマルチモーダル拡張",
-      "summary": "モデルコスト大幅削減、音声・動画入力対応、ウェブ検索APIなど、実務で試せるアップデートを整理。",
-      "tags": [
-        "コスト削減",
-        "マルチモーダル",
-        "ウェブ検索"
-      ],
-      "slug": "ai-service-cost-multimodal"
     }
   ],
-  "updated_at": "2026-11-20T18:55:53.465192+00:00"
+  "updated_at": "2026-11-27T19:42:48.587177+00:00"
 }

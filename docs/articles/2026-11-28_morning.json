@@ -1,0 +1,107 @@
+{
+  "id": "2026-11-28_morning-gemini-file-slicing-and-ai-regulation",
+  "file_key": "2026-11-28_morning",
+  "date": "2026-11-28",
+  "generated_at": "2026-11-27T19:42:48.586571+00:00",
+  "title": "Gemini APIのファイル制御とAI規制の現在地",
+  "slug": "gemini-file-slicing-and-ai-regulation",
+  "summary": "Gemini APIのファイルスライシング追加など開発者向け更新と、AI玩具禁止・チャット売却異議という規制の動きを整理する。",
+  "tags": [
+    "Gemini API",
+    "開発者ツール",
+    "AI規制",
+    "プライバシー"
+  ],
+  "sections": [
+    {
+      "type": "overview",
+      "heading": "今日のAI概観",
+      "body": "今回の材料は、開発者向けの地味だが実務に効く更新と、規制・プライバシーをめぐる動きに二分される。GoogleからはAI StudioでのCloudクレジット請求、Gemini APIのファイルスライシング制御、Genie 4のAPI提供が並んだ。一方でニューヨーク州のAIチャット玩具禁止や、Character.AIの私的チャットを含む売却案への州司法長官の異議といった、利用者保護の話題も出ている。以下では、日々の実装判断に直結しやすいAPI更新を中心に、確認すべき条件を添えて整理する。",
+      "_note": "料金・提供地域・上限はRSS抜粋に含まれないため、各原典での確認を前提とする。"
+    },
+    {
+      "type": "deep_dive",
+      "heading": "注目トピック詳説",
+      "body": "Gemini APIに「ファイルスライシング制御」が加わった。要約によれば、ファイル全体ではなく一部だけをモデルに渡せるようになり、Officeファイルのネイティブ対応も追加される。AI StudioとVertex AI上で、エージェントが対象箇所だけを検査できる点が狙いと読める。\n\n何が変わるか。長い資料を丸ごと投入するのではなく、必要な章・シート・範囲に絞って渡せるため、トークン消費とノイズの抑制、根拠箇所の特定しやすさが期待できる。ただし「速くなる」「安くなる」と断定はできない。要約に課金に関する記述が途中で切れており、単価や課金単位は不明だからだ。\n\n誰に関係するか。社内文書や契約書、表計算を扱うRAG・エージェント開発者、Vertex AIで業務システムを組むチームが主な対象になる。\n\n確認条件は、対応ファイル形式、スライス指定の粒度、Office対応の範囲、そして課金体系の4点を原典で押さえること。導入前の検証では、同じ質問を全文投入とスライス指定の両方で投げ、回答の一致度とコスト差を自社データで測るのが現実的だ。",
+      "source_title": "Introducing file slicing controls in the Gemini API",
+      "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/file-slicing-controls/"
+    },
+    {
+      "type": "imagevideo",
+      "heading": "画像・動画生成AIの最前線",
+      "body": "Gemini APIでGenie 4が利用可能になったとの告知。要約では、720pのインタラクティブなワールド、ネイティブオーディオ、リアルタイム制御を構築できるとされている。静的な動画生成ではなく、操作に反応する環境を作る方向の発表であり、ゲーム的なプロトタイプやシミュレーション用途と相性が良さそうだ。ただしRSSの抜粋のみで、生成時間、対応地域、料金、商用利用の可否は判断できない。試す前に原典で利用条件を確認したい。",
+      "source_title": "Genie 4 is now available on the Gemini API.",
+      "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/"
+    },
+    {
+      "type": "prompt_of_day",
+      "heading": "今日のプロンプト",
+      "prompt_title": "改修の安全な一歩を選ぶ",
+      "prompt_body": "あなたはレガシーアプリの改修担当です。以下の構成情報と制約を読み、リスクの低い改修候補を3つ挙げてください。各候補について(1)変更範囲(2)想定される破壊的影響(3)ロールバック手順(4)検証方法を表形式で示し、最後に最初に着手すべき1つを理由付きで推薦してください。不明点は推測せず質問として列挙すること。",
+      "prompt_usecase": "古い業務システムの刷新検討で、いきなり大規模改修に踏み込まず、影響の小さい一歩を選ぶための壁打ちに使う。出力はそのままレビュー資料の下書きになる。",
+      "prompt_source": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/"
+    },
+    {
+      "type": "practical",
+      "heading": "実践：ビジネスへの応用",
+      "body": "実務では「絞って渡す」設計が効く。たとえば社内規程の問い合わせ対応なら、全文を毎回投入せず、見出し単位でスライス指定し、回答に出典箇所を併記させる。これで根拠確認の手間が減り、更新時の差分反映も追いやすくなる。\n\n開発の入り口では、AI Studio上でCloudクレジットを請求できるようになったという告知を活用し、小規模な検証を回す選択肢がある。ただし付与額、対象者、有効期限、対象サービスは要約に含まれていないため、原典で条件を確認したうえで予算申請の根拠にすること。\n\n進め方としては、Copilotエージェントに改修候補の洗い出しと影響範囲の整理をさせ、人間が採否を決める分業が現実的だ。生成された手順をそのまま実行せず、テストとロールバック手順が揃っているかを必ず確認したい。",
+      "_note": "クレジットの付与条件・金額は本記事では断定しない。"
+    },
+    {
+      "type": "weekly_watch",
+      "heading": "今週注目すべきこと",
+      "body": "規制側の動きは無視できない。ニューヨーク州がAIチャット玩具を5年間禁止したという報道、そしてCharacter.AIの売却案に2100万人分の私的チャット（うち未成年210万人分）が含まれるとして州司法長官が異議を唱えているという報道がある。いずれも要約段階の情報であり、法令の正確な範囲や手続きの帰趨は原典で確認が必要だ。\n\n開発者にとっての示唆は明快で、子ども向け・情緒に踏み込む設計では年齢確認とデータ保持方針が導入可否を左右する。個人データを学習や資産移転に使う可能性があるなら、利用規約と削除手段を先に点検しておきたい。",
+      "source_title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "source_url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Claim your Google Cloud Credits in Google AI Studio",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/",
+      "source": "Google Developers",
+      "category": "Tech"
+    },
+    {
+      "title": "Genie 4 is now available on the Gemini API.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
+      "source": "Google Developers",
+      "category": "Tech"
+    },
+    {
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "source": "TechCrunch AI",
+      "category": "Industry"
+    },
+    {
+      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "source": "TechCrunch AI",
+      "category": "Industry"
+    },
+    {
+      "title": "Introducing file slicing controls in the Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/file-slicing-controls/",
+      "source": "Google Developers",
+      "category": "Tech"
+    },
+    {
+      "title": "How to choose the next safe step in application modernization",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+      "source": "GitHub AI & ML",
+      "category": "Prompts"
+    }
+  ],
+  "affiliate": {
+    "label": "AIを学ぶための入門書セレクション",
+    "url": "https://www.amazon.co.jp/s?k=人工知能+機械学習+入門&tag=tsukiproduct-22",
+    "cta": "Amazon で探す →",
+    "disclosure": "※本リンクはアフィリエイトリンクです（PR）"
+  },
+  "legal": {
+    "ai_disclosure": "この記事はAI（OpenRouter経由のオープンソースLLM）が生成したコンテンツを含みます。",
+    "editorial_note": "事実関係は参照元記事をご確認ください。",
+    "copyright_note": "引用部分の著作権は各原著作者に帰属します。"
+  }
+}
