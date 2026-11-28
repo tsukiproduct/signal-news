@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-11-28T03:40:00.870712+00:00",
-  "total": 33,
+  "fetched_at": "2026-11-28T12:49:42.993831+00:00",
+  "total": 31,
   "items": [
     {
       "id": "2d81134d365a",
@@ -234,17 +234,6 @@
       "priority": 1
     },
     {
-      "id": "03d19f4cdf31",
-      "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
-      "url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks",
-      "summary": "Could the scientific method be emergent?",
-      "date": "2026-11-23T14:11:17+00:00",
-      "source": "Import AI",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
-    },
-    {
       "id": "4201990503e1",
       "title": "Connected intelligence for in-house legal",
       "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
@@ -353,17 +342,6 @@
       "lang": "en",
       "category": "Tech",
       "priority": 2
-    },
-    {
-      "id": "1d09485af3e8",
-      "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
-      "url": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
-      "summary": "Plus: CucumberVision!",
-      "date": "2026-11-16T14:01:15+00:00",
-      "source": "Import AI",
-      "lang": "en",
-      "category": "Research",
-      "priority": 1
     }
   ]
 }
